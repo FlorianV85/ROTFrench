@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="Français">
+	<LanguageFile xml_path="FR/ROT-Core_fr.xml" />
+    <LanguageFile xml_path="FR/settlements_fr.xml" />
+	<LanguageFile xml_path="FR/str_french.xml" />
+	<LanguageFile xml_path="FR/comment_strings_fr.xml" />
+    <LanguageFile xml_path="FR/items_fr.xml" />
+    <LanguageFile xml_path="FR/ROT_crafting_pieces_fr.xml" />
+    <LanguageFile xml_path="FR/ROT_cultures_fr.xml" />
+    <LanguageFile xml_path="FR/ROT_heroes_fr.xml" />
+    <LanguageFile xml_path="FR/ROT_module_strings_fr.xml" />
+    <LanguageFile xml_path="FR/ROT_spclans_fr.xml" />
+    <LanguageFile xml_path="FR/ROT_spkingdoms_fr.xml" />
+    <LanguageFile xml_path="FR/ROT_spnpccharacters_fr.xml" />
+    <LanguageFile xml_path="FR/ROT-Troops_FR.xml" />
+</LanguageData>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>       
+        <string id="ROT00272" text="Recrue nordienne" />
+        <string id="ROT00273" text="Soldat nordien" />
+        <string id="ROT00274" text="Homme d'armes nordien" />
+        <string id="ROT00275" text="Sergent nordien" />
+        <string id="ROT00276" text="Colonel nordien" />
+        <string id="ROT00277" text="Éclaireur nordien" />
+        <string id="ROT00278" text="Arché monté nordien" />
+        <string id="ROT00279" text="Cavalier nordien" />
+        <string id="ROT00280" text="Bûcheron nordien" />
+        <string id="ROT00281" text="Pillard nordien" />
+        <string id="ROT00282" text="Tirailleur nordien" />
+        <string id="ROT00283" text="Forestier nordien" />
+        <string id="ROT00284" text="Guerrier de l'hiver du Nord" />
+        <string id="ROT00285" text="Archer nordien" />
+        <string id="ROT00286" text="Champion de l'hiver du Nord" />
+        <string id="ROT00287" text="Jeune noble nordien" />
+        <string id="ROT00288" text="Guerrier noble nordien" />
+        <string id="ROT00289" text="Héros du Nord" />
+        <string id="ROT00290" text="Seigneur de guerre du Nord" />
+        <string id="ROT00291" text="Seigneur de guerre monté du Nord" />
+
+        <string id="ROT00292" text="Recrue dornienne" />
+        <string id="ROT00293" text="Tirailleur dornien" />
+        <string id="ROT00294" text="Tirailleur monté dornien" />
+        <string id="ROT00295" text="Archer dornien" />
+        <string id="ROT00296" text="Archer d'élite dornien" />
+        <string id="ROT00812" text="Maître archer dornien" />
+        <string id="ROT00297" text="Archer monté dornien" />
+        <string id="ROT00298" text="Serpent dornien" />
+        <string id="ROT00299" text="Levée dornienne" />
+        <string id="ROT00300" text="Lancier dornien" />
+        <string id="ROT00301" text="Cavalier dornien" />
+        <string id="ROT00302" text="Cavalier cobra de Dorne" />
+        <string id="ROT00303" text="Fantassin dornien" />
+        <string id="ROT00304" text="Soldat dornien" />
+        <string id="ROT00813" text="Garde du Prince de Dorne" />
+        <string id="ROT00305" text="Jeune dornien" />
+        <string id="ROT00306" text="Glaive de Dorne" />
+        <string id="ROT00307" text="Lancier d'élite dornien" />
+        <string id="ROT00308" text="Maître-lance dornien" />
+        <string id="ROT00309" text="Vipère dornienne" />
+
+        <string id="ROT00310" text="Recrue de Braavos" />
+        <string id="ROT00310" text="Fantassin de Braavos" />
+        <string id="ROT00312" text="Recrue noble de Braavos" />
+        <string id="ROT00313" text="Apprenti spadassin de Braavos" />
+        <string id="ROT00314" text="Spadassin de Braavos" />
+        <string id="ROT00315" text="Spadassin vétéran de Braavos" />
+        <string id="ROT00316" text="Danseur d'eau de Braavos" />
+        <string id="ROT00317" text="Soldat de Braavos" />
+        <string id="ROT00318" text="Maître d'armes de Braavos" />
+        <string id="ROT00319" text="Capitaine de Braavos" />
+        <string id="ROT00320" text="Archer de Braavos" />
+        <string id="ROT00321" text="Éclaireur de Braavos" />
+        <string id="ROT00322" text="Archer entraîné de Braavos" />
+        <string id="ROT00323" text="Archer vétéran de Braavos" />
+        <string id="ROT00324" text="Garde du Seigneur de la Mer de Braavos" />
+        <string id="ROT00325" text="Coureur de Braavos" />
+        <string id="ROT00326" text="Cavalier de Braavos" />
+        <string id="ROT00327" text="Arbalétrier de Braavos" />
+        <string id="ROT00328" text="Arbalétrier en chef de Braavos" />
+
+        <string id="ROT00329" text="Nomade dothraki" />
+        <string id="ROT00330" text="Fantassin dothraki" />
+        <string id="ROT00331" text="Guerrier tribal dothraki" />
+        <string id="ROT00332" text="Fils de noble dothraki" />
+        <string id="ROT00333" text="Chasseur dothraki" />
+        <string id="ROT00334" text="Guerrier dothraki" />
+        <string id="ROT00335" text="Pillard dothraki" />
+        <string id="ROT00336" text="Coureur dothraki" />
+        <string id="ROT00337" text="Hurleur dothraki" />
+        <string id="ROT00338" text="Archer dothraki" />
+        <string id="ROT00339" text="Sauvage dothraki" />
+        <string id="ROT00814" text="Barbare dothraki" />
+        <string id="ROT00340" text="Archer monté dothraki" />
+        <string id="ROT00341" text="Guerrier monté dothraki" />
+        <string id="ROT00342" text="Maraudeur dothraki" />
+        <string id="ROT00343" text="Maître archer dothraki" />
+        <string id="ROT00344" text="Maître archer monté dothraki" />
+        <string id="ROT00345" text="Maître d'herbes dothraki" />
+        <string id="ROT00346" text="Hurleur d'élite dothraki" />
+        <string id="ROT00347" text="Garde du Khal dothraki" />
+
+        <string id="ROT00348" text="Matelot fer-né" />
+        <string id="ROT00349" text="Navigateur fer-né" />
+        <string id="ROT00350" text="Pirate fer-né" />
+        <string id="ROT00351" text="Lancier lourd fer-né" />
+        <string id="ROT00352" text="Maître d'hache fer-né" />
+        <string id="ROT00353" text="Recrue du sel fer-né" />
+        <string id="ROT00354" text="Pilleur fer-né" />
+        <string id="ROT00355" text="Ravageur fer-né" />
+        <string id="ROT00356" text="Saccageur fer-né" />
+        <string id="ROT00357" text="Kraken fer-né" />
+        <string id="ROT00358" text="Rameur fer-né" />
+        <string id="ROT00359" text="Chasseur fer-né" />
+        <string id="ROT00360" text="Archer fer-né" />
+        <string id="ROT00361" text="Tirailleur vétéran fer-né" />
+        <string id="ROT00362" text="Brigand fer-né" />
+        <string id="ROT00363" text="Éclaireur fer-né" />
+        <string id="ROT00815" text="Cavalier fer-né" />
+        <string id="ROT00364" text="Démolisseur fer-né" />
+        <string id="ROT00816" text="Fibustier fer-né" />
+        <string id="ROT00365" text="Lancier fer-né" />
+
+        <string id="ROT00366" text="Recrue ouestienne" />
+        <string id="ROT00367" text="Fantassin ouestien" />
+        <string id="ROT00368" text="Lancier ouestien" />
+        <string id="ROT00369" text="Homme à hache ouestien" />
+        <string id="ROT00816" text="Tirailleur ouestien" />
+        <string id="ROT00370" text="Infanterie ouestienne" />
+        <string id="ROT00371" text="Épéiste ouestien" />
+        <string id="ROT00372" text="Duelliste ouestien" />
+        <string id="ROT00373" text="Éclaireur ouestien" />
+        <string id="ROT00374" text="Cavalier ouestien" />
+        <string id="ROT00375" text="Arbalétrier léger ouestien" />
+        <string id="ROT00376" text="Arbalétrier ouestien" />
+        <string id="ROT00377" text="Arbalétrier entraîné ouestien" />
+        <string id="ROT00378" text="Tireur d'élite ouestien" />
+        <string id="ROT00379" text="Écuyer ouestien" />
+        <string id="ROT00380" text="Vaillant ouestien" />
+        <string id="ROT00381" text="Chevalier ouestien" />
+        <string id="ROT00382" text="Champion des Terres de l'Ouest" />
+        <string id="ROT00383" text="Banneret ouestien" />
+
+        <string id="ROT00384" text="Initié de la Foi militante" />
+        <string id="ROT00385" text="Acolyte de la Foi militante" />
+        <string id="ROT00386" text="Pieux de la Foi militante" />
+
+        <string id="ROT00387" text="Archer milicien dornien" />
+        <string id="ROT00388" text="Archer vétéran milicien dornien" />
+        <string id="ROT00389" text="Lancier milicien dornien" />
+        <string id="ROT00390" text="Lancier vétéran milicien dornien" />
+
+        <string id="ROT00391" text="Archer milicien ouestien" />
+        <string id="ROT00392" text="Archer vétéran milicien ouestien" />
+        <string id="ROT00393" text="Lancier milicien ouestien" />
+        <string id="ROT00394" text="Lancier vétéran milicien ouestien" />
+
+        <string id="ROT00395" text="Archer milicien nordien" />
+        <string id="ROT00396" text="Archer vétéran milicien nordien" />
+        <string id="ROT00397" text="Lancier milicien nordien" />
+        <string id="ROT00398" text="Lancier vétéran milicien nordien" />
+
+        <string id="ROT00399" text="Archer milicien de Braavos" />
+        <string id="ROT00400" text="Archer vétéran milicien de Braavos" />
+        <string id="ROT00401" text="Lancier milicien de Braavos" />
+        <string id="ROT00402" text="Lancier vétéran milicien de Braavos" />
+
+        <string id="ROT00403" text="Archer milicien" />
+        <string id="ROT00404" text="Archer vétéran milicien" />
+        <string id="ROT00405" text="Lancier milicien" />
+        <string id="ROT00406" text="Lancier vétéran milicien" />
+
+        <string id="ROT00407" text="Archer milicien dothraki" />
+        <string id="ROT00408" text="Archer vétéran milicien dothraki" />
+        <string id="ROT00409" text="Lancier milicien dothraki" />
+        <string id="ROT00410" text="Lancier vétéran milicien dothraki" />
+
+        <string id="ROT03051" text="Combattant de la Fraternité" />
+        <string id="ROT03052" text="Chasseur de la Fraternité" />
+        <string id="ROT03053" text="Chevalier de la colline creuse" />
+
+        <string id="ROT03054" text="Tirailleur de la Compagnie Dorée" />
+        <string id="ROT03055" text="Fantassin de la Compagnie Dorée" />
+        <string id="ROT03056" text="Cavalier de la Compagnie Dorée" />
+
+        <string id="ROT03057" text="Arbalétrier des Braves Compaings" />*
+        <string id="ROT03058" text="Guerrier des Braves Compaings" />
+        <string id="ROT03059" text="Mutilateur des Braves Compaings" />
+
+        <string id="ROT03060" text="Homme de tribu sélénite" />
+        <string id="ROT03061" text="Bûcheron sélénite" />
+        <string id="ROT03062" text="Berzerker sélénite" />
+
+        <string id="ROT03063" text="Homme de tribu des Freux" />
+        <string id="ROT03064" text="Chasseur Freux" />
+        <string id="ROT03065" text="Sauvage Freux" />
+
+        <string id="ROT03066" text="Franc-coureur Longues Lances" />
+        <string id="ROT03067" text="Lancier Longues Lances" />
+        <string id="ROT03068" text="Lancier d'élite Longues Lances" />
+
+        <string id="ROT03069" text="Fantassin Erre-au-Vent" />
+        <string id="ROT03070" text="Éclaireur Erre-au-Vent" />
+        <string id="ROT03071" text="Cavalier Erre-au-Vent" />
+
+        <string id="ROT03072" text="Fantassin des Bouquins sauvages" />
+        <string id="ROT03073" text="Archer des Bouquins sauvages" />
+        <string id="ROT03074" text="Cavalier des Bouquins sauvages" />
+
+        <string id="ROT03075" text="Soldat des Vives Bannières" />
+        <string id="ROT03076" text="Archer des Vives Bannières" />
+        <string id="ROT03077" text="Cavalier des Vives Bannières" />
+
+        <string id="ROT03203" text="Fantassin de la harpie" />
+        <string id="ROT03204" text="Archer de la harpie" />
+        <string id="ROT03205" text="Embusqué de la harpie" />
+    </strings>
+</base>

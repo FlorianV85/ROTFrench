@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>       
+        <string id="ROT01585" text="Bandits des montagnes" />
+        <string id="rogdoth" text="Pillard dothraki" />
+        <string id="ROTrobberknights" text="Chevaliers-bandits" />
+        <string id="ROTwights1" text="Spectres" />
+        <string id="ROTkingoutlaw2" text="Bandits du Bois-du-Roi" />
+        <string id="ROTskagosi1" text="Skaggs" />
+        <string id="yitibandit" text="Éxilés de Yi Ti" />
+
+        <string id="ROT01601" text="Tully,Silure" />
+        <string id="ROT01602" text="Veneur" />
+        <string id="ROT01604" text="Nerbosc" />
+        <string id="ROT01605" text="Mouton" />
+        <string id="ROT01610" text="Torth" />
+        <string id="ROT01612" text="Piète" />
+        <string id="ROT01613" text="Cendregué" />
+        <string id="ROT01614" text="Mervault" />
+        <string id="ROT01628" text="Ferboys" />
+        <string id="ROT01630" text="Forrest" />
+        <string id="ROT01645" text="Mormont-Garde de nuit" />
+        <string id="ROT01648" text="Omble" />
+        <string id="ROT01653" text="Puînés" />
+        <string id="ROT01658" text="Corbeaux Tornade" />
+        <string id="ROT01663" text="Harloi" />
+        <string id="ROT01667" text="Fléau-d'Ogres" />
+        <string id="ROT01668" text="Bonfrère" />
+        <string id="ROT01672" text="Mimain" />
+        <string id="ROT01675" text="Corbois" />
+        <string id="ROT01677" text="La Truffe" />
+        <string id="ROT01678" text="Sixpeaux" />
+        <string id="ROT01688" text="Blanchef" />
+        <string id="ROT02054" text="Boucliers Fidèles" />
+        <string id="ROT01591" text="Foi Militante" />
+        <string id="ROT01595" text="Foi Militante" />
+        <string id="nQOf27Rx" text="Un ordre militaire au service du Grand Septon qui applique la foi des Sept par la force des armes." />
+        <string id="ROT01590" text="Fraternité sans bannières" />
+        <string id="ROT01594" text="Fraternité sans bannières" />
+        <string id="ROT03035" text="Un groupe de hors-la-loi qui défendent les gens du peuple des ravages causés par la guerre des seigneurs." />
+        <string id="ROT01592" text="Compagnie Dorée" />
+        <string id="ROT03036" text="L'une des plus habiles compagnies de mercenaires de tout l'Essos. Elle a la réputation de ne jamais briser ses contrats." />
+        <string id="ROT01588" text="Braves Compaings" />
+        <string id="ROT01593" text="Braves Compaings" />
+        <string id="ROT03037" text="Une compagnie de mercenaires originaires d'Essos, réputés pour leur cruauté." />
+        <string id="ROT01589" text="Sélénités" />
+        <string id="ROT03038" text="Tribu des montagnes de la Lune qui réside dans la région aujourd'hui connue sous le nom de Val d'Arryn." />
+        <string id="ROT03039" text="Freux" />
+        <string id="ROT03040" text="Tribu des montagnes de la Lune qui réside dans la région aujourd'hui connue sous le nom de Val d'Arryn." />
+        <string id="ROT03044" text="Erre-au-Vent" />
+        <string id="ROT03045" text="Une compagnie de mercenaires originaires d'Essos qui compterait 1 000 cavaliers et fantassins." />
+        <string id="ROT03046" text="Bouquins sauvages" />
+        <string id="ROT03047" text="Une bande de jeunes guerriers qui parcourent le pays en chantant des chansons chevaleresques." />
+        <string id="ROT03048" text="Vives Bannières" />
+        <string id="ROT03049" text="Une compagnie de merenaires qui opère principalement dans les cités libres d'Essos." />
+        <string id="ROT03207" text="Fils de la harpie" />
+        <string id="ROT03208" text="Groupe secret d'insurgés composé de membres de classe esclavagiste." />
+
+        <string id="ROT02054" text="Forestier" />
+        <string id="ROTorkwood" text="Orquebois" />
+        <string id="ROTblacktyde" text="Noirmarées" />
+        <string id="ROTredfort" text="Rougefort" />
+        <string id="ROTwesterling" text="Ouestrelin" />
+        <string id="ROTsmallwood" text="Petibois" />
+        <string id="ROTestermont" text="Estremont" />
+        <string id="ROTbanefort" text="Fléaufort" />
+        <string id="ROTbeesbury" text="des Essaims" />
+        <string id="ROTblackbar" text="Nègrebar" />
+        <string id="ROToakheart" text="Rouvre" />
+        <string id="ROTblackmont" text="Noirmont" />
+        <string id="ROTduckfield" text="Canardière" />
+        <string id="ROTfrozenshore" text="Grève glacée" />
+        <string id="ROTdrumm" text="Maison Timbal de Vieux Wyk" />
+        <string id="ROTmerlyn" text="Maison Merlyn de Pebbleton" />
+        <string id="ROTfarwynd" text="Maison Vendeloyn" />
+        <string id="ROTsunderly" text="Maison Valleuse de Salfalaise" />
+    </strings>
+</base>

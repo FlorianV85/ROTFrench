@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+        <string id="WBl5hS0e" text="Yohn Royce, dit 'Yohn le Bronzé', est le seigneur de Roches-aux-runes et le dirigeant de la branche aînée de la maison Royce. Lord Royce est un célèbre chevalier qui, durant les tournois, revêt une armure en bronze vieille de milliers d'années et gravée de runes qui, selon ce que l'on dit, ont le pouvoir de protéger son propriétaire de tout danger." />
+
+        <string id="WBl5hS0e" text="Lady Royce de Roches-aux-runes, épouse de Lord Yohn Royce." />
+
+        <string id="WBl5hS0e" text="Ser Robar Royce, dit Robar le Rouge, est un chevalier de la maison Royce et le deuxième fils aîné du seigneur de Roches-aux-runes. Il aspire à devenir garde royal." />
+
+        <string id="WBl5hS0e" text="Ser Andar Royce est un chevalier de la maison Royce, fils aîné et héritier de Yohn Royce, seigneur de Roches-aux-runes." />
+
+        <string id="8SiW73EF" text="L'actuel Lord Suzerain du Conflans. Il est le fils et l'héritier de feu Lord Hoster Tully et est également chevalier du royaume. Edmure était l'écuyer de Brandon Stark avant sa mort. Il est colérique, mais a le coeur à la bonne place. Il est aussi le troisième et le plus jeune des enfants d'Hoster Tully." />
+
+        <string id="niI9dpuu" text="Lady Corbray est la fille d'un marchand et la seconde épouse de Lyonel Corbray, seigneur de Cordial et dirigeant de la maison Corbray. Petyr Baelish, ancien douanier du port de Goëville, a négocié un mariage entre la fille du marchand et Lord Lyonel Corbray de Cordial après le décès de sa première épouse." />
+
+        <string id="niI9dpuu" text="Mace Tyrell est le seigneur de Hautjardin, Lord Suzerain du Mander, Défenseur des Marches, Grand Maréchal du Bief, Gouverneur du Sud et dirigeant de la maison Tyrell. Mace est devenu seigneur de Hautjardin lorsque son père, Lord Luthor Tyrell, s'est jeté du haut d'une falaise alors qu'il chassait au faucon." />
+
+        <string id="xL95EfpQ" text="Seigneur de Accalmie et frère de feu le roi Robert Baratheon." />
+
+        <string id="pl86rbh9" text="Aussi connu sous le nom de Bryen l'Orange, Bryen est devenu le dirigeant de sa maison après que son père, sa mère, son frère et toutes ses soeurs ont succombé à une terrible pneunomie en l'an 289 A.C. Le seul parent vivant de Byren est son demi-frère bâtard, Ser Rolland Storm. Il a rejoint la Garde Arc-en-Ciel du roi Renly." /> 
+
+        <string id="s2Wbx6bg" text="Enfant unique de Stannis Baratheon. Elle a été atteinte de la grisécaille lorsqu'elle était nourisson, mais elle a été guérie. Son visage en porte les stigmates." /> 
+
+        <string id="pl86rbh9" text="Monford Velaryon est le Sire des Marées, maître de Lamarck et le dirigeant de la maison Velaryon. Aurana Waters, dit le Bâtard de Lamarck, est son demi-frère bâtard. Il a un jeune fils et hértier, Monterys Velaryon." /> 
+
+        <string id="uX0dbuLa" text="Mère des Dragons qui désire ardemment récupérer le trône de son père à Port-Réal." /> 
+
+        <string id="ZwavTRcF" text="Un sang-coureur dothraki qui est resté fidèle à Danaerys après la mort de Khal Drogo." /> 
+
+        <string id="6lZGNChB" text="Rickard Karstark est le seigneur de Karhold et le dirigeant de la maison Karstark. Il a trois fils, Harrion, Eddard et Torrhen, et une fille, Alys. C'est un guerrier féroce, un homme sévère et vevanchard." /> 
+
+        <string id="L90aSR5J" text="Le Prince de Dorne." /> 
+
+        <string id="uX0dbuLa" text="Le prince Tommen Baratheon est connu dans les Sept Royaumes comme le plus jeune enfant du roi Robert de la maison Baratheon, premier du nom, et de la reine Cersei Lannister. Membre de la maison Baratheon de Port-Réal, il a pour frères et soeur le prince Joffrey et la princesse Myrcella. Tommen, contrairement à Joffrey, est un garçon au grand coeur qui fait toujours de son mieux. Tommen a le coeur tendre et n'est pas aussi obstiné que son frère. Beaucoup pensent qu'il serait un bien meilleur roi que Joffrey." /> 
+
+        <string id="pl86rbh9" text="La princesse Myrcella Baratheon est connu dans les Sept Royaumes comme le deuxième enfant du roi Robert Baratheon et de la reine Cersei Lannister. Membre de la maison Baratheon de Port-Réal, elle a pour frères les princes Joffrey et Tommen. Myrcella a des boucles dorées, des yeux émeraude et des lèvres charnues. Son oncle, Tyrion Lannister, dit d'elle qu'elle a toute la beauté de sa mère Cersei, mais pas du caractère. Myrcella est délicate, belle et courtoise. Pour son âge, elle fait preuve de courage, d'une forte volonté et d'une grande intelligence." /> 
+
+        <string id="8SiW73EF" text="Il s'est proclamé roi du Nord après l'exécution de son père à Port-Réal." /> 
+
+        <string id="HjGYftkH" text="Le Lord-commandant de la Garde de Nuit." /> 
+
+        <string id="5939sUCg" text="Howland Reed est le seigneur de Fort-Griseaux et le dirigeant de la maison Reed, qui occupe les Paludiers de la région du Neck. Il a eu deux enfants, Meera et Jojen, avec sa femme Jyana. Il était un ami proche de feu Lord Eddard Stark de Winterfell." /> 
+
+        <string id="xL95EfpQ" text="Paxter Redwyne est le seigneur de La Treille et le dirigeant de la maison Edwyne. Il est marié à sa cousine Mina Tyrell, la soeur de son seigneur lige, Mace Tyrell ; il est donc deux fois le neveu de la Reine des Épines, Olenna Redwyne. Paxter et Mina ont deux fils, ser Horas et ser Hobber, ainsi qu'une fille, Desmera." /> 
+
+        <string id="FbmWZdbg" text="Desmera Redwyne appartient à la maison Redwyne et est la fille et le plus jeune enfant de Lord Paxter Redwyne et Mina Tyrell. Desmera est connue pour ses tâches de rousseur. Lord Randyll Tarly espérait que son fils et héritier, Samwell, deviendrait le page de Lord Paxter à La Treille et qu'il serait financé à Desmera en temps voulu." /> 
+
+        <string id="SeQ5dM4H" text="Godric Borrell est le seigneur de Dolcesoeur, bouclier de Sortonne, maître du château de Brisants, gardien de la Lanterne des Nuits et le dirigeant de la maison Borrell, au service de son seigneur le Lord Sunderland. Bien que Godric ait la sombre réputation d'être un seigneur-bandit, il respecte toujours les anciennes lois de l'hospitalité." /> 
+
+        <string id="vzR5CfuX" text="Mathis Rowan est le seigneur de Boisdoré et le dirigeant de la maison Rowan. Il est marié à Lady Bethany Redwyne. Leur union a donné trois filles." /> 
+
+        <string id="FbmWZdbg" text="Lady Bethany Redwyne est l'épouse de Lord Mathis Rowan. Lord Hoster Tully avait l'intention de demander la main de Bethany pour son frère ser Brynden, mais ce dernier a obstinément refusé de se marier." /> 
+
+        <string id="04xAg0yN" text="Horton Rougefort est le seigneur de Rougefort et le dirigeant de la maison Rougefort. Il s'est marié à quatre reprises et a quatre fils : ser Jasper, ser Creighton, ser Jon et Mychel." /> 
+
+        <string id="uX0dbuLa" text="Gyles Rosby est le seigneur de Rosby et le dirigeant de la maison Rosby. Il est connu comme un homme malade." /> 
+    </strings>
+</base>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+        <string id="ROT00099" text="Lame valyrienne 1" />
+
+        <string id="ROT00100" text="Garde valyrienne 1" />
+
+        <string id="ROT00101" text="Poignée valyrienne 1" />
+
+        <string id="ROT00102" text="Pommeau valyrien 1" />
+
+        <string id="ROT00103" text="Lame nordienne" />
+
+        <string id="ROT00104" text="Garde nordienne" />
+
+        <string id="ROT00105" text="Poignée nordienne" />
+
+        <string id="ROT00106" text="Pommeau nordien" />
+
+        <string id="ROT00106" text="Pommeau nordien" />
+
+        <string id="ROT00107" text="Lame de poignard des Stark" />
+
+        <string id="ROT00108" text="Garde de poignard des Stark" />
+
+        <string id="ROT00109" text="Poignée de poignard des Stark" />
+
+        <string id="ROT00110" text="Pommeau de poignard des Stark" />
+
+        <string id="ROT00111" text="Lame des Lannister" />
+
+        <string id="ROT00112" text="Garde des Lannister" />
+
+        <string id="ROT00113" text="Poignée des Lannister" />
+
+        <string id="ROT00114" text="Pommeau des Lannister" />
+
+        <string id="ROT00115" text="Tête de lance des Immaculés" />
+
+        <string id="ROT00116" text="Garde de la lance des Immaculés" />
+
+        <string id="ROT00117" text="Manche de la lance des Immaculés" />
+
+        <string id="ROT00118" text="Crosse de la lance des Immaculés" />
+
+        <string id="ROT00119" text="Lame de Grand-Griffe" />
+
+        <string id="ROT00120" text="Garde de Grand-Griffe" />
+
+        <string id="ROT00121" text="Poignée de Grand-Griffe" />
+
+        <string id="ROT00122" text="Pommeau de Grand-Griffe" />
+
+        <string id="ROT00119" text="Lame de Féale" />
+
+        <string id="ROT00120" text="Garde de Féale" />
+
+        <string id="ROT00121" text="Poignée de Féale" />
+
+        <string id="ROTdgaxeblade" text="Lame de hache en verredragon" />
+
+        <string id="ROTdgaxehandle" text="Manche de hache en verredragon" />
+
+        <string id="ROTmountainblade" text="Lame de la Montagne" />
+
+        <string id="ROTmountainguard" text="Garde de la Montagne" />
+
+        <string id="ROTmountaingrip" text="Poignée de la Montagne" />
+
+        <string id="ROTmountainpommel" text="Pommeau de la Montagne" />
+
+        <string id="ROTforlornblade" text="Lame de Dame Affliction" />
+
+        <string id="ROTforlornguard" text="Garde de Dame Affliction" />
+
+        <string id="ROTforlornhandle" text="Manche de Dame Affliction" />
+
+        <string id="ROTforlornpommel" text="Pommeau de Dame Affliction" />
+
+        <string id="ROTnfblade" text="Lame de Crépuscule" />
+
+        <string id="ROTnfguard" text="Garde de Crépuscule" />
+
+        <string id="ROTnfhandle" text="Manche de Crépuscule" />
+
+        <string id="ROTnfpommel" text="Pommeau de Crépuscule" />
+
+        <string id="ROTtridenthead" text="Tête du Trident" />
+
+        <string id="ROTtridentguard" text="Garde du Trident" />
+
+        <string id="ROTtridenthandle" text="Manche de lance du Trident" />
+
+        <string id="ROTarakhhandle" text="Poignée de l'Arakh" />
+
+        <string id="ROTdawnblade" text="Lame de Aube" />
+
+        <string id="ROTdawnguard" text="Garde de Aube" />
+
+        <string id="ROTdawnhandle" text="Manche de Aube" />
+
+        <string id="ROTdawnpommel" text="Pommeau de Aube" />
+
+        <string id="ROTbolsphead" text="Tête de lance des Bolton" />
+
+        <string id="ROTbolshaft" text="Manche de lance des Bolton" />
+    </strings>
+</base>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>       
+        <string id="ROTKingdomVale" text="Le Val" />
+        <string id="ROTKingdomRulerVale" text="Gouverneur de l'Est" />
+        <string id="ROTKingdomDescriptionVale" text="Le Val d'Arryn, ou simplement Val, est située dans l'est de Westeros. C'est le territoire de la maison Arryn dont la demeure sont Les Eyrié, une forteresse batît au sommet d'une haute montagne. Le Val est une région montagneuse et hostile qui abrite de nombreuses vallées fertiles et riches en minéraux. Les habitants du Val ont la réputation d'être extrêmement indépendants et isolationnistes, préférant conserver leur mode de vie et vivre entre eux. Aussi, ils sont reconnus pour leurs compétences de combat en montagne et leurs spécialisation dans l'usage des piques et des armes longues. Le Val est traditionnellement gouverné par la maison Arryn, qui a su maintenir son emprise sur la région en mêlant à la fois la puissance militaire et les alliances et mariages politiques." />
+
+        <string id="ROTKingdomReach" text="Le Bief" />
+        <string id="ROTKingdomDescriptionReach" text="Le Bief est une région fertile du sud de Westeros, connue pour ses récoltes abondantes et ses riches vignobles. Il compte plusieurs maisons influentes, notamment la maison Tyrell dont la résidence est Hautjardin. Le Bief a une longue tradition de chevalerie et de courtoisie, ses chevaliers étant considérés comme parmi les meilleurs des Sept Royaumes. La région est gouvernée par la maison Tyrell depuis des siècles, devenant l'une des plus riches et des plus influentes maisons de Westeros. Les Tyrell ont maintenu leur pouvoir par la puissance militaire, les alliances politiques et une diplomatie habile. Au cours de ces dernières années, le Bief est devenu un enjeu important pour les différentes factions qui se disputent le Trône de Fer, et la mainmise de la maison Tyrell dans la région a été remise en question." />
+
+        <string id="ROTKingdomTargaryen" text="Maison Targaryen" />
+        <string id="ROTKingdomDescriptionTargaryen" text="Autrefois souveraine des Sept Royaumes, la maison Targaryen a été fondée par Aegon le Conquérant qui a envahi avec succès Westeros avec ses dragons. Leur règne a été marqué par une série de conquêtes et de rébellions, jusqu'à ce que leur dynastie soit renversée par la rébellion de Robert. Aujourd'hui, les Targaryens en exil cherchent à récupérer leur trône perdu en rassemblant des alliés et des partisans au-delà de la Mer du Détroit." />
+
+        <string id="ROTKingdomIronIslands" text="Îles de Fer" />
+        <string id="ROTKingdomRulerIronIslands" text="Roi du Sel" />
+        <string id="ROTKingdomShortNameIronIslands" text="Fer-nés" />
+
+        <string id="ROTKingdomRulerDorne" text="Prince de Dorne" />
+
+        <string id="ROTKingdomWesterlands" text="Terres de l'Ouest" />
+        <string id="ROTKingdomRulerWesterlands" text="Gouverneur de l'Ouest" />
+
+        <string id="ROTKingdomNorth" text="Le Nord" />
+        <string id="ROTKingdomShortNameNorth" text="Nord" />
+        <string id="ROTKingdomRulerNorth" text="Roi du Nord" />
+
+        <string id="ROTKingdomDothraki" text="Horde Dothraki" />
+        
+        <!-- <string id="PjO7oY16" text="Peuple libre" /> -->
+        <string id="ROT01021" text="Peuple libre" />
+        <string id="ROT01022" text="Peuple libre" />
+        <string id="ROT01023" text="Roi d'au-delà du Mur" />
+
+        <string id="ROT01025" text="Garde de nuit" />
+        <string id="ROT01026" text="Garde de nuit" />
+        <string id="ROT01027" text="Garde de nuit" />
+        <string id="ROT01028" text="Lord-commandant" />
+
+        <string id="ROT01031" text="Peyredragon" />
+        <string id="ROT01030" text="Peyredragon" />
+        <string id="ROT01032" text="Peyredragon" />
+        <string id="ROT01033" text="Roi" />
+
+        <string id="ROT01035" text="Conflans" />
+        <string id="ROT01036" text="Conflans" />
+        <string id="ROT01037" text="Conflans" />
+        <string id="ROT01038" text="Seigneur du Conflans" />
+        
+        <string id="ROT01041" text="Terres de l'Orage" />
+        <string id="ROT01040" text="Terres de l'Orage" />
+        <string id="qaDIU0XC" text="Terres de l'Orage" />
+        <string id="ROT01042" text="Roi" />
+
+        <string id="ROT01047" text="Triarque" />
+
+        <string id="ROT01052" text="Seigneur de la Mer" />
+
+        <string id="ROT01062" text="Magistrat" />
+
+        <string id="ROT01067" text="Grand prêtre" />
+
+        <string id="ROT01072" text="Roi" />
+
+        <string id="ROT01077" text="Magistrat" />
+
+        <string id="ROT01082" text="Magistrat" />
+
+        <string id="ROT01087" text="Magistrat" />
+
+        <string id="ROTsarnor" text="Sarnor" />
+        <string id="ROThighking" text="Haut-roi" />
+        <string id="ROT01093" text="L'ancien Royaume de Sarnor, autrefois puissant et prospère, n'est plus que l'ombre de lui-même après une série de guerres et d'invasions dévastatrices. Son peuple, les Sarnores, est une population robuste et fière qui a réussi à conserver sa culture et ses traditions malgré épreuves qu'elle a traversée. Dirigés par un Haut-Roi, les familles et nobles clans de Sarnor collaborent ensemble pour restaurer l'ancienne gloire de leur royaume et défendre leurs terres contre les menaces intérieures et extérieures. Alors qsue les Sarnores reconstituent leurs forces, leur influence dans le Monde connu ne cesse de croître et leur capacité à devenir une véritable puissance ne doit pas être sous-estimée." />
+
+        <string id="ROTaegon" text="Maison Targaryen, Aegon" />
+        <string id="ROTaegon1" text="Maison Targaryen, Aegon" />
+        <string id="ROTaegon2" text="Maison Targaryen, Aegon" />
+        <string id="ROTking" text="Roi" />
+        <string id="ROT01093" text=" Tout le monde pensait que la Maison Targaryen, autrefois grande maison souveraine des Sept Royaumes, s'est éteinte après la guerre pour le Trône de Fer qui a vu la mort du Roi Fou et de ses enfants. Mais des rumeurs circulant dans tout le royaume qu'un mystérieux prince Targaryen rassemble ses soutiens et ses alliés de l'autre côté de la mer du Détroit. Certains disent qu'il s'agit d'un véritable dragon, né du sel et de la fumée, destiné à régner par le feu et le sang. D'autres murmurent qu'il s'agit d'un simple prétendant, d'un imposteur rusé cherchant à exploiter le chaos qui règne dans le royaume dans son propre intérêt. Mais une chose est sûre : ce Targaryen, cet Aegon, est en route. Et il ne reculera devant rien pour revendiquer son titre de Roi légitime de Westeros." />
+
+    </strings>
+</base>

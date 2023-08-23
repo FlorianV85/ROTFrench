@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+    <!-- 
+        Fixed version for non-english
+        Version modifiée pour corriger les problèmes rencontrées lors des traductions.
+    -->
+
+  <!-- COMMENTS ARE REMOVED FROM HERE AND PLACED IN COMMENT_ON_ACTION STRINGS -->
+	
+
+	<string id="str_liege_title.empire" text="{=ROTStrLiegeTittleBraavos}Sealord of Braavos">
+		<tags>
+			<tag tag_name="EmpireTag" />
+		</tags>
+	</string>
+	<string id="str_liege_title_female.empire" text="{=ROTStrLiegeTittleFBraavos}Sealord of Braavos">
+		<tags>
+			<tag tag_name="EmpireTag" />
+		</tags>
+	</string>
+	<string id="str_liege_title.sturgia" text="{=ROTStrLiegeTitleIronborn}King of Salt and Rock">
+		<tags>
+			<tag tag_name="SturgianTag" />
+		</tags>
+	</string>
+	<string id="str_liege_title_female.sturgia" text="{=ROTStrLiegeTitleFIronborn}Queen of Salt and Rock">
+		<tags>
+			<tag tag_name="SturgianTag" />
+		</tags>
+	</string>
+	<string id="str_liege_title.aserai" text="{=ROTStrLiegeTitleDorne}Prince of Dorne">
+		<tags>
+			<tag tag_name="AseraiTag" />
+		</tags>
+	</string>
+	<string id="str_liege_title_female.aserai" text="{=ROTStrLiegeTitleFDorne}Princess of Dorne">
+		<tags>
+			<tag tag_name="AseraiTag" />
+		</tags>
+	</string>
+	<string id="str_liege_title.battania" text="{=ROTStrLiegeTitleNorth}King in the North">
+		<tags>
+			<tag tag_name="BattanianTag" />
+		</tags>
+	</string>
+	<string id="str_liege_title_female.battania" text="{=ROTStrLiegeTitleFNorth}Queen in the North">
+		<tags>
+			<tag tag_name="BattanianTag" />
+		</tags>
+	</string>
+	<string id="str_liege_title.vlandia" text="{=ROTStrLiegeTitleWesterlands}Warden of the West">
+		<tags>
+			<tag tag_name="VlandianTag" />
+		</tags>
+	</string>
+	<string id="str_liege_title_female.vlandia" text="{=ROTStrLiegeTitleFWesterlands}Warden of the West">
+		<tags>
+			<tag tag_name="VlandianTag" />
+		</tags>
+	</string>
+	<string id="str_liege_title.khuzait" text="{=ROTStrLiegeTitleDothraki}Khal of the Dothraki Horde">
+		<tags>
+			<tag tag_name="KhuzaitTag" />
+		</tags>
+	</string>
+	<string id="str_liege_title_female.khuzait" text="{=ROTStrLiegeTitleFDothraki}Khalesi of the Dothraki Horde">
+		<tags>
+			<tag tag_name="KhuzaitTag" />
+		</tags>
+	</string>
+
+	
+	<string id="str_comment_noble_introduces_self_and_clan.empire" text="{=ROTCommentNoble001}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. Our family has served Braavos for generations.">
+		<tags>
+			<tag tag_name="EmpireTag" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.empire_honor" text="{=ROTCommentNoble002}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. Our family has stood since the founding of the great city of Braavos.">
+		<tags>
+			<tag tag_name="EmpireTag" />
+			<tag tag_name="HonorTag" weight="1" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.empire_mercy" text="{=ROTCommentNoble003}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. Though one should not be too proud of one's lineage, I am glad to say that we have always taken seriously our duty to protect the common folk of Braavos.">
+		<tags>
+			<tag tag_name="EmpireTag" />
+			<tag tag_name="MercyTag" weight="1" />
+		</tags>
+	</string>
+	<!-- Maybe not curt or ironic. Add separate ironic? -->
+	<string id="str_comment_noble_introduces_self_and_clan.empire_boasting" text="{=ROTCommentNoble004}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}, one of the most illustrious families in the annals of the Braavos.">
+		<tags>
+			<tag tag_name="EmpireTag" />
+			<tag tag_name="UncharitableTag" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.empire_boasting_cruel" text="{=ROTCommentNoble005}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}, one of the most illustrious families in the annals of Braavos. The barbarians we have slain, and the glory we have won, is second to none.">
+		<tags>
+			<tag tag_name="EmpireTag" />
+			<tag tag_name="UncharitableTag" />
+			<tag tag_name="CruelTag" weight="1" />
+		</tags>
+	</string>
+	
+	<string id="str_comment_noble_introduces_self_and_clan.sturgia" text="{=ROTCommentNoble006}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, we hail from the Iron Islands since ancient times.">
+		<tags>
+			<tag tag_name="SturgianTag" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.sturgia_boasting" text="{=ROTCommentNoble007}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, a name you will have heard many times in the sagas of the Ironborn.">
+		<tags>
+			<tag tag_name="SturgianTag" />
+			<tag tag_name="UncharitableTag" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.sturgia_boasting_2" text="{=ROTCommentNoble008}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. We are of salt and rock, none like you on the mainland.">
+		<tags>
+			<tag tag_name="SturgianTag" />
+			<tag tag_name="HonorTag" weight="1" />
+		</tags>
+	</string>
+	
+	<string id="str_comment_noble_introduces_self_and_clan.battania" text="{=ROTCommentNoble009}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, one of the ancient lineages of the North.">
+		<tags>
+			<tag tag_name="BattanianTag" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.battania_boasting" text="{=ROTCommentNoble010}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. The fame of our family is second to none in the songs of the North.">
+		<tags>
+			<tag tag_name="BattanianTag" />
+			<tag tag_name="UncharitableTag" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.battania_boasting_harsh" text="{=ROTCommentNoble011}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. No harder family in all of the North.">
+		<tags>
+			<tag tag_name="BattanianTag" />
+			<tag tag_name="CruelTag" weight="1" />
+			<tag tag_name="UncharitableTag" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.battania_boasting_ironic" text="{=ROTCommentNoble012}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. The blood of the First Men run through our veins, of course thats what they say in the Iron Islands and north of the Wall also.">
+		<tags>
+			<tag tag_name="BattanianTag" />
+			<tag tag_name="PersonaIronicTag" weight="1" />
+			<tag tag_name="UncharitableTag" />
+		</tags>
+	</string>
+	
+	<string id="str_comment_noble_introduces_self_and_clan.vlandia" text="{=ROTCommentNoble013}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. Our family has served the Warden of the West for generations.">
+		<tags>
+			<tag tag_name="VlandianTag" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.vlandia" text="{=ROTCommentNoble014}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. We hold our lands in fief to {LIEGE_TITLE}, and we honor our oaths of fealty.">
+		<tags>
+			<tag tag_name="VlandianTag" />
+			<tag tag_name="HonorTag" weight="1" />
+			<tag tag_name="PersonaEarnestTag" weight="+1" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.vlandia_boasting" text="{=ROTCommentNoble015}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, one of the most illustrious families in the annals of the Westerlands.">
+		<tags>
+			<tag tag_name="VlandianTag" />
+			<tag tag_name="UncharitableTag" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.vlandia_boasting_ironic" text="{=ROTCommentNoble016}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. We serve the lord of Casterly Rock. I pass by the ruins of Castamere often as a reminder of my place.">
+		<tags>
+			<tag tag_name="VlandianTag" />
+			<tag tag_name="PersonaIronicTag" weight="+1" />
+			<tag tag_name="CruelTag" weight="1" />
+		</tags>
+	</string>
+	
+	<!--string id="str_comment_noble_introduces_self_obscure_ironic.aserai" text="{=OV2ogdoW}I am {CONVERSATION_CHARACTER.LINK}, an emir of {LIEGE_TITLE}. My lineage is not so famous - but when my deeds are done it will be my name, not that of some ancient forefather who died centuries ago, that my descendants will remember.">
+    <tags>
+  	<tag tag_name="AseraiTag" />
+  	<tag tag_name="PersonaIronicTag" weight="+1" />
+  	<tag tag_name="AmoralTag" weight="+1" />
+    </tags>
+  </string-->
+	<string id="str_comment_noble_introduces_self_and_clan.aserai" text="{=ROTCommentNoble017}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, a noble house of Dorne.">
+		<tags>
+			<tag tag_name="AseraiTag" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.aserai_boasting" text="{=ROTCommentNoble018}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, the most ancient and noble of the Dornish.">
+		<tags>
+			<tag tag_name="AseraiTag" />
+			<tag tag_name="UncharitableTag" />
+		</tags>
+	</string>
+	
+	<string id="str_comment_noble_introduces_self_and_clan.khuzait_boasting" text="{=ROTCommentNoble019}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. We follow the great Khal for glory and plunder.">
+		<tags>
+			<tag tag_name="UncharitableTag" />
+			<tag tag_name="KhuzaitTag" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.khuzait" text="{=ROTCommentNoble020}I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. We will fight with the Khal until we reach the Nightlands.">
+		<tags>
+			<tag tag_name="KhuzaitTag" />
+		</tags>
+	</string>
+	
+</strings>

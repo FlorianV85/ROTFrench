@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>        
+        <string id="ROT00240" text="Peuple libre" />
+
+        <string id="ROT00242" text="Garde de Nuit" />
+
+        <string id="ROT01855" text="Prédeaux" />
+        <string id="ROT01856" text="Sombre" />
+        <string id="ROT01857" text="Belmore" />
+        <string id="ROT01858" text="Pryor" />
+        <string id="ROT01859" text="Talllett" />
+        <string id="ROT01860" text="Moore" />
+        <string id="ROT01861" text="Lychester" />
+        <string id="ROT01862" text="Whent" />
+        <string id="ROT01863" text="Ambrose" />
+        <string id="ROT01864" text="Kellington" />
+        <string id="ROT01778" text="Thorne" />
+
+        <string id="ROT00244" text="Le Val" />
+
+        <string id="ROT00246" text="Le Conflans" />
+
+        <string id="ROT00248" text="Peyredragon" />
+
+        <string id="ROT00250" text="Terres de l'Orage" />
+
+        <string id="ROT00252" text="Le Bief" />
+
+        <string id="ROT00256" text="Maisons libres" />
+
+        <string id="ROT00257" text="Coalition de maisons qui ne sont loyales envers personne d'autre qu'elles-mêmes." />
+
+        <string id="ROT00258" text="Terres de la Couronne" />
+
+        <string id="ROT00260" text="Braavos" />
+
+        <string id="ROT00262" text="Dorne" />
+
+        <string id="ROT00264" text="Îles de Fer" />
+
+        <string id="ROT00265" text="Terres de l'Ouest" />
+
+        <string id="ROT01701" text="Fallières" />
+        <string id="ROT01707" text="Aubépin" />
+        <string id="ROT01710" text="Geneste" />
+
+        <string id="ROT00267" text="Nord" />
+
+        <string id="ROT01779" text="Carène" />
+        <string id="ROT01780" text="Boisfrêne" />
+        <string id="ROT01781" text="Souche" />
+        <string id="ROT01783" text="Cardon" />
+
+        <string id="sYFaoW7G" text="Nord" />
+
+        <string id="brokemen" text="Déserteurs" />
+        <string id="mOa9CX13" text="Bandits des montagnes" />
+        <string id="sAbjtZbB" text="Bandits des forêts" />
+        <string id="kkUQObZn" text="Bandits du désert" />
+        <string id="e6csp4ha" text="Bandits des steppes" />
+
+        <string id="ROT03100" text="Vives Bannières" />
+
+        <string id="ROTsarnori" text="Tagaez Fen" />
+        <string id="ROTsarnoridescription" text="Les habitants de Sarnor étaient souvent appelés les Hommes Grands et habitaient la région autour de la rivière Sarne jusqu'à ce qu'ils soient pratiquement anéantis par les Dothrakis." />
+
+        <string id="ROTrobberknights" text="Chevaliers voleurs" />
+
+        <string id="ROTgiant" text="Giant Whisperers" />
+
+        <string id="ROTwights" text="Spectres" />
+
+        <string id="ROTvalyrian" text="Valyrien" />
+
+        <string id="ROTvolantine" text="Volantains" />
+
+        <string id="ROTqohorik" text="Quohoriens" />
+
+        <string id="ROTmyrish" text="Myrien" />
+
+        <string id="ROTlyseni" text="Lysien" />
+
+        <string id="ROTkingoutlaw" text="Bandits du Bois-du-Roi" />
+
+        <string id="ROTskagosi" text="Skaggs" />
+    </strings>
+</base>

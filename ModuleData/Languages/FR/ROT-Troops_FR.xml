@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>     
+        <string id="ROT00817" text="Homme de clan du Peuple libre" />
+        <string id="ROT00818" text="Guerrier du Peuple libre" />
+        <string id="ROT00819" text="Bûcheron du Peuple libre" />
+        <string id="ROT00977" text="Bouclier du Peuple libre" />
+        <string id="ROT00978" text="Givre du Peuple libre" />
+        <string id="ROT00820" text="Berzerker du Peuple libre" />
+        <string id="ROT00821" text="Sauvageon-berzerker du Peuple libre" />
+        <string id="ROT00822" text="Lancier du Peuple libre" />
+        <string id="ROT00823" text="Cavalier du Peuple libre" />
+        <string id="ROT00824" text="Tirailleur du Peuple libre" />
+        <string id="ROT00825" text="Archer du Peuple libre" />
+        <string id="ROT00826" text="Tireur d'élite du Peuple libre" />
+        <!-- <string id="ROT00827" text="Oeil-de-faucon du Peuple libre" /> -->
+        <!-- <string id="ROT00827" text="Fils de Thenn du Peuple libre" /> -->
+        <string id="ROT00828" text="Thenn du Peuple libre" />
+        <string id="ROT00829" text="Guerrier Thenn du Peuple libre" />
+        <string id="ROT00830" text="Cannibale Thenn du Peuple libre" />
+        <string id="ROTimpaler" text="Empaleur Thenn du Peuple libre" />
+        <string id="ROT00831" text="Géant" />
+
+        <string id="ROT00832" text="Recrue de la Garde de Nuit" />
+        <string id="ROT00833" text="Recrue patrouilleur de la Garde de Nuit" />
+        <string id="ROT00834" text="Soldat de la Garde de Nuit" />
+        <string id="ROT00835" text="Frère-bouclier de la Garde de Nuit" />
+        <string id="ROT00836" text="Défenseur de la Garde de Nuit" />
+        <string id="ROT00837" text="Veilleur de la Garde de Nuit" />
+        <string id="ROT00838" text="Cavalier de la Garde de Nuit" />
+        <string id="ROT00839" text="Arbalétrier de la Garde de Nuit" />
+        <string id="ROT00840" text="Arbalétrier d'élite de la Garde de Nuit" />
+        <string id="ROT00998" text="Maître arbalétrier de la Garde de Nuit" />
+        <string id="ROT00841" text="Patrouilleur de la Garde de Nuit" />
+        <string id="ROT00842" text="Patrouilleur d'élite de la Garde de Nuit" />
+        <string id="ROT00843" text="Patrouilleur vétéran de la Garde de Nuit" />
+        <string id="ROT00844" text="Protecteur du Royaume de la Garde de Nuit" />
+
+        <string id="ROT00845" text="Recrue du Val" />
+        <string id="ROT00846" text="Apprenti écuyer du Val" />
+        <string id="ROT00847" text="Fantassin du Val" />
+        <string id="ROT00848" text="Soldat du Val" />
+        <string id="ROT00999" text="Homme d'armes du Val" />
+        <string id="ROT01000" text="Garde de maison du Val" />
+        <string id="ROT00849" text="Coureur du Val" />
+        <string id="ROT00850" text="Lancier du Val" />
+        <string id="ROT00851" text="Lancier d'élite du Val" />
+        <string id="ROT00852" text="Vougier du Val" />
+        <string id="ROT00853" text="Vougier d'élite du Val" />
+        <string id="ROT00854" text="Tirailleur du Val" />
+        <string id="ROT00855" text="Archer du Val" />
+        <string id="ROT01001" text="Archer d'élite du Val" />
+        <string id="ROT01002" text="Maître archer du Val" />
+        <string id="ROT00856" text="Écuyer du Val" />
+        <string id="ROT00857" text="Cavalier du Val" />
+        <string id="ROT00858" text="Cavalier d'élite du Val" />
+        <string id="ROT00859" text="Chevalier du Val" />
+
+        <string id="ROT00860" text="Recrue riverain" />
+        <string id="ROT00861" text="Fils de seigneur du Conflans" />
+        <string id="ROT00862" text="Fantassin riverain" />
+        <string id="ROT00863" text="Soldat riverain" />
+        <string id="ROT01003" text="Homme d'armes riverain" />
+        <string id="ROT01004" text="Garde de maison du Conflans" />
+        <string id="ROT00864" text="Homme à hache du Conflans" />
+        <string id="ROT00865" text="Cavalier riverain" />
+        <string id="ROT00866" text="Cavalerie du Conflans" />
+        <string id="ROT00867" text="Tirailleur riverain" />
+        <string id="ROT00868" text="Archer riverain" />
+        <string id="ROT00869" text="Archer d'élite riverain" />
+        <string id="ROT00870" text="Garde riverain" />
+        <string id="ROT00872" text="Garde monté riverain" />
+        <string id="ROT00873" text="Épéiste riverain" />
+        <string id="ROT00874" text="Épéiste d'élite riverain" />
+        <string id="ROT00875" text="Maître d'armes riverain" />
+        <string id="ROT00876" text="Amiral du Conflans" />
+        <string id="ROTtulfoot" text="Fantassin de la maison Tully" />
+        <string id="ROTtulsol" text="Soldat de la maison Tully" />
+        <string id="ROTtularm" text="Homme d'armes de la maison Tully" />
+        <string id="ROTrivguard" text="Garde de maison de seigneur riverain" />
+        <string id="ROTtularch" text="Archer de la maison Tully" />
+        <string id="ROTtullong" text="Archer long de la maison Tully" />
+
+        <string id="ROT00878" text="Recrue de Peyredragon" />
+        <string id="ROT00879" text="Fils de noble de Peyredragon" />
+        <string id="ROT00880" text="Fantassin de Peyredragon" />
+        <string id="ROT00881" text="Soldat de Peyredragon" />
+        <string id="ROT00995" text="Homme d'armes de Peyredragon" />
+        <string id="ROT00996" text="Garde de maison de Peyredragon" />
+        <string id="ROT00882" text="Hallebardier de Peyredragon" />
+        <string id="ROT00883" text="Hallebardier d'élite de Peyredragon" />
+        <string id="ROT00884" text="Coureur de Peyredragon" />
+        <string id="ROT00885" text="Cavalier de Peyredragon" />
+        <string id="ROT00886" text="Tirailleur de Peyredragon" />
+        <string id="ROT00887" text="Archer de Peyredragon" />
+        <string id="ROT00997" text="Archer d'élite de Peyredragon" />
+        <string id="ROT00888" text="Écuyer de Peyredragon" />
+        <string id="ROT00889" text="Chevalier de Peyredragon" />
+        <string id="ROT00890" text="Chevalier de choc de Peyredragon" />
+        <string id="ROT00891" text="Troupe de la Reine" />
+
+        <string id="ROT00892" text="Recrue orageoise" />
+        <string id="ROT00893" text="Fils de noble orageois" />
+        <string id="ROT00894" text="Milicien orageois" />
+        <string id="ROT00895" text="Homme d'armes orageois" />
+        <string id="ROT00896" text="Masse orageois" />
+        <string id="ROT00897" text="Masse d'élite orageois" />
+        <string id="ROT00898" text="Lancier orageois" />
+        <string id="ROT01005" text="Garde de maison orageois" />
+        <string id="ROT00899" text="Cavalier orageois" />
+        <string id="ROT00900" text="Tirailleur orageois" />
+        <string id="ROT00901" text="Archer orageois" />
+        <string id="ROT00902" text="Archer d'élite orageois" />
+        <string id="ROT01005" text="Maître archer orageois" />
+        <string id="ROT00903" text="Arbalétrier orageois" />
+        <string id="ROT00904" text="Arbalétrier lourd orageois" />
+        <string id="ROT00905" text="Écuyer orageois" />
+        <string id="ROT00906" text="Chevalier orageois" />
+        <string id="ROT00907" text="Chevalier Fell orageois" />
+        <string id="ROT00908" text="Chevalier du tonnerre orageois" />
+        <string id="ROTbaratheonfootman" text="Fantassin de la maison Baratheon" />
+        <string id="barbow" text="Tirailleur de la maison Baratheon" />
+        <string id="bararch" text="Archer de la maison Baratheon" />
+        <string id="barlongbow" text="Archer long de la maison Baratheon" />
+        <string id="ROTbaratheonsoldier" text="Soldat de la maison Baratheon" />
+        <string id="ROTbaratheonhammer" text="Marteleur de la maison Baratheon" />
+        <string id="ROTbaratheonhouseguard" text="Garde de la maison Baratheon" />
+
+        <string id="ROT00909" text="Recrue du Bief" />
+        <string id="ROT00910" text="Fils de noble du Bief" />
+        <string id="ROT00911" text="Troupier du Bief" />
+        <string id="ROT00912" text="Soldat du Bief" />
+        <string id="ROT00913" text="Homme d'armes du Bief" />
+        <string id="ROT01006" text="Garde de maison du Bief" />
+        <string id="ROT01007" text="Homme à hache du Bief" />
+        <!-- <string id="ROT00914" text="Coureur du Bief" /> -->
+        <!-- <string id="ROT00914" text="Chevalier du Bief" /> -->
+        <string id="ROT00915" text="Tirailleur du Bief" />
+        <string id="ROT00916" text="Archer du Bief" />
+        <string id="ROT00917" text="Archer d'élite du Bief" />
+        <string id="ROT00918" text="Maître archer du Bief" />
+        <string id="ROT00919" text="Vougier du Bief" />
+        <string id="ROT00920" text="Chevalier archer du Bief" />
+        <string id="ROT00921" text="Champion du Bief" />
+        <string id="ROT00922" text="Chevalier des Fleurs du Bief" />
+        <string id="ROTtyrellfootman" text="Fantassin de la maison Tyrell" />
+        <string id="ROTtyrellsoldier" text="Soldat de la maison Tyrell" />
+        <string id="ROTtyrellmanatarms" text="Homme d'armes de la maison Tyrell" />
+        <string id="ROTtyrellhouseguard" text="Garde de la maison Tyrell" />
+        <string id="ROTtyrellknight" text="Chevalier de la maison Tyrell" />
+        <string id="ROTtyrelllongbowman" text="Archer long de la maison Tyrell" />
+        <string id="highlevy" text="Troupier de la maison Hightower" />
+        <string id="highsoldier" text="Soldat de la maison Hightower" />
+        <string id="highguard" text="Garde de la maison Hightower" />
+        <string id="guardianold" text="Gardien de Villevieille" />
+
+        <string id="ROT00923" text="Recrue ghiscari" />
+        <string id="ROT00924" text="Ancien esclave ghiscari" />
+        <string id="ROT00925" text="Fantassin ghiscari" />
+        <string id="ROT00926" text="Guerrier ghiscari" />
+        <string id="ROT00927" text="Piquier ghiscari" />
+        <string id="ROT00928" text="Piquier d'élite ghiscari" />
+        <string id="ROT00929" text="Soldat ghiscari" />
+        <string id="ROT00930" text="Cavalier ghiscari" />
+        <string id="ROT00931" text="Cavalier entraîné ghiscari" />
+        <string id="ROT00932" text="Garde de la Reine ghiscari" />
+        <string id="ROT00933" text="Tirailleur ghiscari" />
+        <string id="ROT00934" text="Archer ghiscari" />
+        <string id="ROT00935" text="Archer d'élite ghiscari" />
+        <string id="ROT00936" text="Manticore ghiscari" />
+        <string id="ROT00937" text="Archer monté ghiscari" />
+        <string id="ROT00938" text="Apprenti légionnaire ghiscari" />
+        <string id="ROT00939" text="Légionnaire ghiscari" />
+        <string id="ROT00940" text="Légionnaire d'élite ghiscari" />
+        <string id="ROT00941" text="Légionnaire de l'ancienne Ghis" />
+
+        <string id="ROT00942" text="Recrue des Maisons Libres" />
+        <string id="ROT00943" text="Troupier des Maisons Libres" />
+
+        <string id="ROT00944" text="Brute Karstark" />
+        <string id="ROT00945" text="Lancier Karstark" />
+        <string id="ROT00946" text="Loyaliste Karstark" />
+        <string id="ROT00953" text="Cavalier Karstark" />
+        <string id="ROT00954" text="Cavalier de choc Karstark" />
+        <string id="ROT00944" text="Coupe-jarret Frey" />
+        <string id="ROT00945" text="Homme d'armes Frey" />
+        <string id="ROT00946" text="Garde des Jumeaux" />
+        <string id="ROT00947" text="Tirailleur des Maisons Libres" />
+        <string id="ROT00948" text="Archer Bolton" />
+        <string id="ROT00949" text="Archer d'élite Bolton" />
+        <string id="ROT00950" text="Arbalétrier Frey" />
+        <string id="ROT00951" text="Tireur d'élite Frey" />
+        <string id="ROT00952" text="Assassin Frey" />
+        <string id="ROT00953" text="Fantassin Bolton" />
+        <string id="ROT00945" text="Vétéran Bolton" />
+        <string id="ROT00946" text="Garde noir de Fort-Terreur" />
+        <string id="ROT00954" text="Cavalier Bolton" />
+        <string id="ROT00955" text="Cavalier entraîné Bolton" />
+        <string id="ROT00956" text="Fils de noble des Maisons Libres" />
+
+        <string id="ROT00957" text="Recrue couronnoise" />
+        <string id="ROT00958" text="Fils de noble couronnois" />
+        <string id="ROT00959" text="Troupier couronnois" />
+        <string id="ROT00960" text="Manteau d'or" />
+        <string id="ROT00961" text="Maître manteau d'or" />
+        <string id="ROT00962" text="Coureur manteau d'or" />
+        <string id="ROT00963" text="Capitaine manteau d'or" />
+        <string id="ROT00964" text="Tirailleur couronnois" />
+        <string id="ROT00965" text="Archer manteau d'or" />
+        <string id="ROT00966" text="Archer d'élite manteau d'or" />
+        <string id="ROT00967" text="Tireur d'élite manteau d'or" />
+        <string id="ROT00968" text="Écuyer couronnois" />
+        <string id="ROT00969" text="Initié de la Garde Royale" />
+        <string id="ROT00970" text="Champion de la Garde Royale" />
+        <string id="ROT00971" text="Capitaine de la Garde Royale" />
+
+        <string id="ROT00972" text="Milicien des Maisons libres" />
+        <string id="ROT00973" text="Épéiste Bolton" />
+        <string id="ROT00974" text="Tortionnaire Bolton" />
+        <string id="ROT00975" text="Écorcheur Bolton" />
+
+        <string id="ROT00976" text="Officier manteau d'or" />
+
+        <string id="ROT01009" text="Troupier Stark" />
+        <string id="ROT01011" text="Tirailleur Stark" />
+        <string id="ROT01012" text="Archer long Stark" />
+        <string id="ROT01013" text="Archer long vétéran Stark" />
+        <string id="ROT01014" text="Fantassin Stark" />
+        <string id="ROT01015" text="Soldat Stark" />
+        <string id="ROT01016" text="Garde de maison Stark" />
+        <string id="ROT01017" text="Cavalier Stark" />
+        <string id="ROT01018" text="Cavalier entraîné Stark" />
+        <string id="ROT01019" text="Écuyer de Blancport" />
+        <string id="ROT01020" text="Chevalier de Blancport" />
+        <string id="ROT01095" text="Chevalier élite de Blancport" />
+        <string id="ROT01096" text="Chevalier-commandant de Blancport" />
+        <string id="ROTwhpikeman" text="Chevalier lancier de Blancport" />
+
+        <string id="ROT01097" text="Troupier Lannister" />
+        <string id="ROT01098" text="Tirailleur Lannister" />
+        <string id="ROT01099" text="Archer Lannister" />
+        <string id="ROT01100" text="Archer long Lannister" />
+        <string id="ROT01101" text="Fantassin Lannister" />
+        <string id="ROT01102" text="Homme d'armes Lannister" />
+        <string id="ROT01103" text="Garde de maison Lannister" />
+        <string id="ROT01104" text="Cavalier Lannister" />
+        <string id="ROT01105" text="Chevalier Lannister" />
+
+        <string id="ROT03000" text="Troupier de la maison Martell" />
+        <string id="ROT03001" text="Homme d'armes de la maison Martell" />
+        <string id="ROT03002" text="Garde de la maison Martell" />
+        <string id="ROT03003" text="Sentinelle des Jardins Aquatiques" />
+
+        <string id="ROT03004" text="Fantassin de la maison Greyjoy" />
+        <string id="ROT03005" text="Soldat de la maison Greyjoy" />
+        <string id="ROT03006" text="Garde de la maison Greyjoy" />
+        <string id="ROT03007" text="Danseur du doigt de la maison Greyjoy" />
+
+        <string id="ROTsarnorirecruit" text="Recrue sarnore" />
+        <string id="ROTsarnorinoblesson" text="Fils de noble sarnore" />
+        <string id="ROTsarnorifootman" text="Fantassin sarnore" />
+        <string id="ROTsarnoriwarrior" text="Guerrier sarnore" />
+        <string id="ROTsarnorispearman" text="Lancier sarnore" />
+        <string id="ROTsarnoriglaivemen" text="Glaive sarnore" />
+        <string id="ROTsarnorimasterspearman" text="Maître lancier sarnore" />
+        <string id="ROTsarnorihorseman" text="Cavalier sarnore" />
+        <string id="ROTsarnoricalvary" text="Cavalier entraîné sarnore" />
+        <string id="ROT00932" text="Gardien du Haut-roi sarnore" />
+        <string id="ROTsarnoribowman" text="Tirailleur sarnore" />
+        <string id="ROTsarnoriarcher" text="Archer sarnore" />
+        <string id="ROTsarnorielitearcher" text="Archer élite sarnore" />
+        <string id="ROTsarnorilongbowman" text="Archer long sarnore" />
+
+        <string id="ROTarrynsoldier" text="Soldat de la maison Arryn" />
+        <string id="arrynbow" text="Tirailleur de la maison Arryn" />
+        <string id="arrynarch" text="Archer de la maison Arryn" />
+        <string id="arrynmast" text="Maître archer de la maison Arryn" />
+        <string id="ROTarrynhorseman" text="Cavalier de la maison Arryn" />
+        <string id="ROTarrynknight" text="Chevalier de la maison Arryn" />
+        <string id="ROTarrynhouseguard" text="Garde de la maison Arryn" />
+
+        <string id="roycefoot" text="Fantassin de la maison Royce" />
+        <string id="roycesol" text="Soldat de la maison Royce" />
+        <string id="roycewar" text="Guerrier de la maison Royce" />
+        <string id="royceelwar" text="Guerrier élite de la maison Royce" />
+        <string id="royceheroine" text="Héroïne de la maison Royce" />
+
+        <string id="ROTsarnorijavelinier" text="Javelinier sarnore" />
+        <string id="ROTsarnorielitejavelinier" text="Javelinier élite sarnore" />
+        <string id="ROTsarnorimasterjavelinier" text="Maître javelinier sarnore" />
+        <string id="ROT00932" text="Araignée sarnore" />
+
+        <string id="ROTrobberscout" text="Éclaireur hors-la-loi" />
+        <string id="ROTrobberhorseman" text="Cavalier hors-la-loi" />
+        <string id="ROTrobberknight" text="Chevalier-brigand" />
+        <string id="ROTrobberknightboss" text="Chef des chevaliers-brigands" />
+
+        <string id="ROTnorvoshirecruit" text="Recrue norvoshi" />
+        <string id="ROTsarnorinoblesson" text="Initié norvoshi" />
+        <string id="ROTnorvosfootman" text="Fantassin norvoshi" />
+        <string id="ROTnorvossoldier" text="Soldat norvoshi" />
+        <string id="ROTnorvosspearman" text="Lancier norvoshi" />
+        <string id="ROTnorvosaxeman" text="Homme à hache norvoshi" />
+        <string id="ROTnorvosmasteraxeman" text="Maître d'hache norvoshi" />
+        <string id="ROTnorvoshorseman" text="Cavalier norvoshi" />
+        <string id="ROTnorvoscalvary" text="Cavalier entraîné norvoshi" />
+        <string id="ROTnorvoscalvary" text="Cavalier entraîné norvoshi" />
+        <string id="ROTnorvospriestguard" text="Prêtre-garde norvoshi" />
+        <string id="ROTnorvosbowman" text="Tirailleur norvoshi" />
+        <string id="ROTnorvosarcher" text="Archer norvoshi" />
+        <string id="ROTnorvoselitearcher" text="Archer élite norvoshi" />
+        <string id="ROTnorvosmasterarcher" text="Maître archer norvoshi" />
+        <string id="ROTnorvosacolyte" text="Acolyte norvoshi" />
+        <string id="ROTnorvosbeardedpriest" text="Prêtre à barbe norvoshi" />
+        <string id="ROTdevutbeardedpriest" text="Prêtre à barbe zélé norvoshi" />
+        <string id="ROTgrandpriest" text="Grand prêtre à barbe norvoshi" />
+
+        <string id="ROTcasterlyguard" text="Garde de Castral Roc" />
+        <string id="ROTcasterlysoldier" text="Soldat de Castral Roc" />
+        <string id="ROTcasterlymarshal" text="Maréchal de Castral Roc" />
+        <string id="ROT00379" text="Écuyer de Castral Roc" />
+        <string id="ROT00382" text="Champion de Castral Roc" />
+        <string id="ROTcasterlyguardian" text="Gardien du Roc" />
+        <string id="ROTcasterlypikeman" text="Maître piquier de Castral Roc" />
+        <string id="ROT003756" text="Arbalétrier de Castral Roc" />
+        <string id="ROT003777" text="Arbalétrier vétéran de Castral Roc" />
+        <string id="ROT98745" text="Maître arbalétrier de Castral Roc" />
+
+        <string id="ROT00280" text="Bûcheron de la maison Mormont" />
+        <string id="ROThuntress" text="Chasseuse de la maison Mormont" />
+        <string id="ROTelitehuntress" text="Chasseuse élite de la maison Mormont" />
+        <string id="ROTelitemountedhuntress" text="Chasseuse élite montée de la maison Mormont" />
+
+        <string id="ROTyronlevy" text="Troupier de la maison Ferboys" />
+        <string id="ROTyronman" text="Homme d'armes de la maison Ferboys" />
+        <string id="ROTyronguard" text="Garde de la maison Ferboys" />
+        <string id="ROTboneway" text="Gardien des Osseux" />
+
+        <string id="ROT01103" text="Officier Lannister" />
+
+        <string id="ROT00923" text="Recrue valyrienne" />
+        <string id="ROT00924" text="Fils de noble valyrien" />
+        <string id="ROTtarglevy" text="Troupier valyrien" />
+        <string id="ROTtargbowman" text="Tirailleur valyrien" />
+        <string id="ROTtargarcher" text="Archer valyrien" />
+        <string id="ROTtargmasterarcher" text="Maître archer valyrien" />
+        <string id="ROTtargsoldier" text="Soldat valyrien" />
+        <string id="ROTtargmanatarms" text="Homme d'armes valyrien" />
+        <string id="ROTvalscout" text="Éclaireur valyrien" />
+        <string id="ROTtargdragonknight" text="Cavalier entraîné valyrien" />
+        <string id="ROTtargpikeman" text="Lancier élite valyrien" />
+        <string id="ROTvalcaptain" text="Capitaine valyrien" />
+        <string id="ROTvalsquire" text="Écuyer valyrien" />
+        <string id="ROTvalknight" text="Chevalier valyrien" />
+        <!-- <string id="ROTvaldragknight" text="Chevalier-Dragon valyrien" /> -->
+        <!--<string id="ROTvaldragknight" text="Sire-Dragon protecteur valyrien" /> -->
+        <string id="ROTtargsquire" text="Écuyer de la maison Targaryen" />
+        <string id="ROTtargknight" text="Chevalier de la maison Targaryen" />
+        <string id="ROTqueensguard" text="Garde de la Reine de la maison Targaryen" />
+        <string id="ROTvaldragknight" text="Capitaine de la Garde de la Reine" />
+
+        <string id="ROTvolantinerecruit" text="Recrue volontaine" />
+        <string id="ROTvolantinenoble" text="Jeune noble volantain" />
+        <string id="ROT01878" text="Fantassin volantain" />
+        <string id="ROT01879" text="Soldat volantain" />
+        <string id="ROT01880" text="Guerrier volantain" />
+        <string id="ROT01881" text="Guerrier élite volantain" />
+        <string id="ROT01883" text="Cavalier volantain" />
+        <string id="ROT01884" text="Tirailleur volantain" />
+        <string id="ROT01885" text="Archer volantain" />
+        <string id="ROT01886" text="Maître archer volantain" />
+        <string id="ROTtigerinit" text="Tigre initié" />
+        <string id="ROTtigerelite" text="Tigre" />
+        <string id="ROTtigermast" text="Tigre élite" />
+        <string id="ROTtrigaurd" text="Protecteur de triarque" />
+
+        <string id="ROTqohorikrecruit" text="Recrue qohorienne" />
+        <string id="ROTqohoriknoble" text="Jeune noble qohorien" />
+        <string id="qohfoot" text="Fantassin qohorien" />
+        <string id="qohbow" text="Tirailleur qohorien" />
+        <string id="qohsol" text="Soldat qohorien" />
+        <string id="qohrid" text="Coureur qohorien" />
+        <string id="qoharch" text="Archer qohorien" />
+        <string id="qohspear" text="Lancier qohorien" />
+        <string id="qohspear2" text="Lancier élite qohorien" />
+        <string id="qohsword" text="Épéiste qohorien" />
+        <!-- <string id="qohspear2" text="Falxman qohorien" /> -->
+        <string id="qohelarch" text="Archer élite qohorien" />
+        <string id="qohorse" text="Cavalier qohorien" />
+        <string id="qohlan" text="Lanceur qohorien" />
+        <string id="w6YwFaG7" text="Initié Chèvre Noire" />
+        <string id="goatwar" text="Guerrier Chèvre Noire" />
+        <!-- <string id="goatwar" text="Dévoué Chèvre Noire" /> -->
+        <!-- <string id="goatwar" text="Sacrificateur Chèvre Noire" /> -->
+
+        <string id="ROTloarthirecruit" text="Recrue lorathi" />
+        <string id="ROTlorathinoble" text="Jeune noble lorathi" />
+        <string id="lorfoot" text="Fantassin lorathi" />
+        <string id="lorsol" text="Soldat lorathi" />
+        <string id="lorarch" text="Archer lorathi" />
+        <string id="lorspear" text="Homme d'armes lorathi" />
+        <string id="lormace" text="Homme à masse lorathi" />
+        <string id="lor_axe" text="Homme à hache lorathi" />
+        <string id="lorelarch" text="Archer élite lorathi" />
+        <string id="lorhorse" text="Cavalier lorathi" />
+        <string id="lorlan" text="Cavalier entraîné lorathi" />
+        <string id="lorsqui" text="Écuyer lorathi" />
+        <string id="lorknight" text="Chevalier lorathi" />
+        <!-- <string id="lorpike" text="Maître piquier lorathi" /> -->
+        <!-- <string id="lorpike" text="Chevalier du Dédale lorathi" /> -->
+
+        <string id="ROTpentrecruit" text="Recrue pentoshi" />
+        <string id="ROTpentnoble" text="Jeune noble pentoshi" />
+        <string id="penfoot" text="Fantassin pentoshi" />
+        <string id="pensol" text="Soldat pentoshi" />
+        <string id="penarch" text="Archer pentoshi" />
+        <string id="penspear" text="Homme d'armes pentoshi" />
+        <string id="penspearman" text="Lancier pentoshi" />
+        <string id="penelarch" text="Archer élite pentoshi" />
+        <string id="penhorse" text="Cavalier pentoshi" />
+        <string id="penlan" text="Cavalier entraîné pentoshi" />
+        <string id="penmarch" text="Archer monté pentoshi" />
+        <string id="pensqui" text="Piquier pentoshi" />
+        <string id="penknight" text="Piquier de guerre pentoshi" />
+        <string id="penlance" text="Lanceur pentoshi" />
+        <string id="magguard" text="Garde élite du Magistrat" />
+
+        <string id="ROTmyrrecruit" text="Recrue myrienne" />
+        <string id="ROTmyrnoble" text="Jeune noble myrien" />
+        <string id="myrfoot" text="Fantassin myrien" />
+        <string id="myrsol" text="Soldat myrien" />
+        <string id="myrbow" text="Tirailleur myrien" />
+        <string id="myrarch" text="Archer myrien" />
+        <string id="myrwar" text="Guerrier myrien" />
+        <string id="myraxe" text="Homme à hache myrien" />
+        <string id="myrelarch" text="Archer élite myrien" />
+        <string id="myrhorse" text="Cavalier myrien" />
+        <string id="myrlan" text="Cavalier entraîné myrien" />
+        <string id="myrcross" text="Arbalétrier myrien" />
+        <string id="myrecross" text="Arbalétrier élite myrien" />
+        <!-- <string id="myrmcross" text="Maître arbalétrier myrien" /> -->
+        <string id="myrart" text="Artisan de guerre myrien" />
+
+        <string id="ROTtyrrecruit" text="Recrue tyroshi" />
+        <string id="ROTtyrnoble" text="Jeune noble tyroshi" />
+        <string id="tyrfoot" text="Fantassin tyroshi" />
+        <string id="tyrsol" text="Soldat tyroshi" />
+        <string id="tyrbow" text="Tirailleur tyroshi" />
+        <string id="tyrarch" text="Archer tyroshi" />
+        <string id="tyraxe" text="Homme à hache tyroshi" />
+        <string id="tyrcorsair" text="Renégat tyroshi" />
+        <string id="tyrelarch" text="Archer élite tyroshi" />
+        <string id="tyrhorse" text="Cavalier tyroshi" />
+        <string id="tyrlan" text="Cavalier entraîné tyroshi" />
+        <string id="tyrboats" text="Bosco tyroshi" />
+        <string id="tyrquart" text="Quartier-maître tyroshi" />
+        <!-- <string id="myrmcross" text="Premier officier tyroshi" /> -->
+        <string id="magguard" text="Corsaire tyroshi" />
+
+        <string id="ROTlysrecruit" text="Recrue lysienne" />
+        <string id="ROTlysnoble" text="Jeune noble lysien" />
+        <string id="lysfoot" text="Fantassin lysien" />
+        <string id="lyssol" text="Soldat lysien" />
+        <string id="lysbow" text="Tirailleur lysien" />
+        <string id="lysarch" text="Archer lysien" />
+        <string id="lyswar" text="Guerrier lysien" />
+        <string id="lysspear" text="Lancier lysien" />
+        <string id="lysglaive" text="Glaive lysienne" />
+        <string id="lyselarch" text="Archer élite lysien" />
+        <string id="lyshorse" text="Cavalier lysien" />
+        <string id="lyslan" text="Cavalier entraîné lysien" />
+        <string id="lysaxeap" text="Apprenti hacheur lysien" />
+        <string id="lysaxe" text="Homme à hache lysien" />
+        <string id="myrmcross" text="Exécuteur lysien" />
+        <string id="lysenforcer" text="Homme de main lysien" />
+
+        <string id="ROTcwcross" text="Arbalétrier du Guet de Port-Réal" />
+        <string id="ROTcwvetcross" text="Arbalétrier vétéran du Guet de Port-Réal" />
+        <string id="ROTcwspear" text="Lancier du Guet de Port-Réal" />
+        <string id="ROTcwvetspear" text="Lancier vétéran du Guet de Port-Réal" />
+
+        <string id="ROTkingthief" text="Voleur du Bois-du-Roi" />
+        <string id="ROTkingbandit" text="Bandit du Bois-du-Roi" />
+        <string id="ROTkingbrig" text="Brigand du Bois-du-Roi" />
+        <string id="ROTkingboss" text="Chef du Bois-du-Roi" />
+
+        <string id="ROTskagclansman" text="Homme de clan skaggs" />
+        <string id="ROTskagraider" text="Bandit skaggs" />
+        <string id="ROTskagplunderer" text="Pillard skaggs" />
+        <string id="ROTskagchief" text="Chef skaggs" />
+
+        <string id="unsullied" text="Immaculé" />
+
+        <string id="yiticriminal" text="Criminel de Yi Ti" />
+        <string id="yitiexile" text="Exilé de Yi Ti" />
+        <string id="yitiexnob" text="Noble exilé de Yi Ti" />
+        <string id="yitiroyal" text="Royauté exilée de Yi Ti" />
+    </strings>
+</base>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>    
+        <string id="ROTMENUINTOTHEREALM" text="Vers le Royaume" />
+        
+        <string id="ROTFsFmcwuMP" text="Les modules suivants ont déjà été intégrés à Realm of Thrones et doivent être désactivés : {INTEGRATED}\r\n\r\n" />
+        <string id="ROT57acSEVpx" text="Les modules suivants sont incompatibles avec Realm of Thrones et doivent être désactivés : {BANNED}\r\n\r\n" />
+        <string id="ROTSdbsHQKG0" text="Vous devriez fermer Bannerlord maintenant pour éviter les problèmes de compatibilité." />
+        <string id="ROTU9Tp6fp0Q" text="Mod incompatible détecté." />
+        <string id="rotcode1" text="Vous vous préparez à entrer dans un monde sinistre, un royaume aux multiples couronnes ! Voilà votre personnage. Continuez si vous êtes prêt, ou revenez en arrière pour faire des changements." />
+        <string id="ROTcode2" text="Vos parents étaient de petits agriculteurs possédant juste assez de terres pour se nourrir et générer du profit. Les gens comme eux étaient les piliers de l'économie rurale, ainsi que du système fiscal." />
+        <string id="ROTcode3" text="Vos parents étaient parmi ces nombreux migrants pauvres vivant dans les bidonvilles qui se développaient à l'extérieur des murs des villes. Ils gagnaient de l'argent en remplissant des petits boulots par ci par là. Parfois, ils travaillent pour les gangs criminels de l'Empire, et vous avez découvert assez tôt le côté obscur de la vie." />
+        <string id="ROTcode4" text="Serviteurs d'un seigneur" />
+        <string id="ROTcode5" text="Pillards fer-nés" />
+        <string id="ROTcode6" text="Votre père vivait une vie de gloire et de pillage sur les mers." />
+        <string id="ROTcode7" text="Vos parents étaients marchands et vivaient à Lordsport." />
+        <string id="ROTcode8" text="Vos parents n'avaient que faire de l'autorité de la couronne. Ils gagnaient leur vie dans les bois, brûlant les champs qu'ils cultivaient pendant un an ou deux avant de passer à autre chose. Ils chassaient et piègeaient des renards, des lièvres, des hermines et bien d'autres animaux à fourrure." />
+        <string id="ROTcode9" text="Serviteurs de la maison Martell" />
+        <string id="ROTcode10" text="Gardes de ville" />
+        <string id="ROTcode11" text="Votre père servait la maison Martell." />
+        <string id="ROTcode12" text="Votre père gardait les portes de Bourg-Cabanes." />
+        <string id="ROTcode13" text="Votre famille cultivait les terres au bord du fleuve la Sang-Vert et s'occupait des vergers de palmiers qui produisaient les fameuses dattes du désert. Votre père était membre de la troupe de fantassins de sa tribu et combattait avec ses camarades sous la bannière de l'émir." />
+        <string id="ROTcode14" text="Votre famille appartenaient à un clan de nomades, sillonnant les terres désertiques à travers les lits d'oueds et les puits pour nourrir les troupeaux de chèvres et de chameaux dans les broussailles de Dorne." />
+        <string id="ROTcode15" text="Votre père travaillait pour un seigneur dans la ville de Le Voi." />
+        <string id="ROTcode16" text="Membres de la garde personnelle d'un seigneur" />
+        <string id="ROTcode17" text="Hommes d'un clan des montagnes" />
+        <string id="ROTcode18" text="Votre père était un homme de confiance de la garde personnelle d'un seigneur." />
+        <string id="ROTcode19" text="Votre père était un mestre qui se rendait à Villevieille pour recevoir sa chaîne." />
+        <string id="ROTcode20" text="Vos parents étaient membres d'un clan des montagnes au fin fond des montagnes du Nord." />
+        <string id="ROTcode21" text="Mestres" />
+        <string id="ROTcode22" text="Votre famille était forgeron, un métier respecté dans le Nord. Ils frabriquaient de tout, que ce soit des bijoux ou encore des épées longues bien équilibrées dont les nobles étaient fières." />
+        <string id="ROTcode23" text="Votre père était un barde qui voyageait de salle en salle pour gagner sa vie en chantant les louanges d'un seigneur du Nord et en se moquant de ses ennemis ; puis en se rendant dans la salle de son ennemi et vice-versa. Il vous a appris que les mots intelligement prononcés pouvaient vous épargner une vie de labeur dans les champs, à condition de garder votre tête." />
+        <string id="ROTcode24" text="Sang-coureur" />
+        <string id="ROTcode25" text="Votre père chevauchait aux côtés du Khal et de son Khalasar." />
+        <string id="ROTcode26" text="Votre famille est issue d'une lignée de marchands qui ont conclu une paix avec les dothrakis en leur offrant des présents." />
+        <string id="ROTcode27" text="Votre famille est issue des tribus de la Mer Herbeuse." />
+        <string id="ROTcode28" text="Votre famille a cultivé l'une des petites parcelles de terre arable des steppes pendant des générations. À l'arrivée des Dothrakis, ils ont cessé de payer des impôts à leur seigneur et de fournir des conscrits à son armée, pour se mettre au service du khal." />
+        <string id="ROTcode29" text="Votre famille était la gardienne des traditions sacrées des tribus de la Mer Herbeuse, canalisant les esprits de la nature et les esprits des ancêtres. Ils soignaient les malades et transmettaient la sagesse, résolvant les conflits et délivrant divers conseils." />
+    </strings>
+</base>

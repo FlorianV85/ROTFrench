@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+        <string id="desrounsey" text="Roussin Dornien{@Plural}roussins dornien{\@}" />
+        
+        <string id="norpal" text="Palefroi du Nord{@Plural}palefrois du nord{\@}" />
+
+        <string id="andpal" text="Palefroi d'Andalos{@Plural}palefrois d'andalos{\@}" />
+
+        <string id="dothpal" text="Palefroi Dothraki{@Plural}palefrois dothraki{\@}" />
+
+        <string id="norgar" text="Garron du Nord{@Plural}garrons du nord{\@}" />
+
+        <string id="westrous" text="Roussin de l'Ouest{@Plural}roussins de l'ouest{\@}" />
+
+        <string id="sandsteed" text="Cheval des sables{@Plural}chevaux des sables{\@}" />
+
+        <string id="norcours" text="Coursier du Nord{@Plural}Coursiers du nord{\@}" />
+        
+        <string id="esscharg" text="Chargeur d'Essos{@Plural}Chargeurs d'Essos{\@}" />
+
+        <string id="dothcours" text="Coursier Dothraki{@Plural}Coursiers dothraki{\@}" />
+
+        <string id="mountgarron" text="Garron des montagnes" />
+        
+        <string id="westcours" text="Coursier de l'Ouest{@Plural}Coursiers de l'Ouest{\@}" />
+
+        <string id="thorsand" text="Cheval pur-sang des sables{@Plural}chevaux pur-sang des sables{\@}" />
+
+        <string id="nordest" text="Destrier du Nord{@Plural}Destriers du Nord{\@}" />
+
+        <string id="essthor" text="Chargeur pur-sang d'Essos{@Plural}Chargeurs pur-sang d'Essos{\@}" />
+
+        <string id="grasssteed" text="Cheval de Mer Herbeuse{@Plural}chevaux de mer herbeuse{\@}" />
+
+        <string id="mountdest" text="Destrier des montagnes{@Plural}destriers des montagnes{\@}" />
+
+        <string id="westdest" text="Destrier de l'Ouest{@Plural}destriers de l'ouest{\@}" />
+
+        <string id="b56X0QOh" text="Pur-sang Rhyonar{@Plural}Pur-sang Rhyonar{\@}" />
+
+        <string id="anddest" text="Destrier d'Andalos{@Plural}Destriers d'Andalos{\@}" />
+
+        <string id="khalsteed" text="Cheval du Khal{@Plural}Chevaux du Khal{\@}" />
+
+        <string id="icegarron" text="Garron de Sang-de-Glace{@Plural}garrons de sang-de-glace{\@}" />
+
+        <string id="kingsdest" text="Destrier du Roi{@Plural}Destriers du Roi{\@}" />
+
+        <string id="K4uryqOO" text="Destrier pur-sang du Nord{@Plural}Destriers pur-sang du Nord{\@}" />
+    </strings>
+</base>

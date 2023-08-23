@@ -1,0 +1,63 @@
+<Module>
+	<Name value = "Realm of Thrones - Traduction Français"/>
+	<Id value = "ROTFrench"/>
+	<Version value = "v1.0.0"/>
+	<ModuleType value="Community"/>
+	<Official value="false"/>
+	<DefaultModule value="false" />
+    	<SingleplayerModule value="true" />
+    	<MultiplayerModule value="false" />
+	<DependedModules>
+		<DependedModule Id="Bannerlord.Harmony" />
+		<DependedModule Id="Native" DependentVersion="v1.1.0" Optional="false"/>
+    	<DependedModule Id="SandBoxCore" DependentVersion="v1.1.0" Optional="false"/>
+    	<DependedModule Id="Sandbox" DependentVersion="v1.1.0" Optional="false"/>
+		<DependedModule Id="ROT-Core" Optional="false" DependentVersion="v1.1.5.0"/>
+		<DependedModule Id="ROT-Content" Optional="false" DependentVersion="v1.1.5.0"/>
+		<DependedModule Id="ROT_Map" Optional="false" DependentVersion="v1.1.5.0"/>
+	</DependedModules>
+	<SubModules>
+         <SubModule>
+             <Name value="ROTFrench"/>
+             <DLLName value="ROTFrench.dll"/>
+             <SubModuleClassType value="ROTFrench.SubModule"/>
+             <Tags>
+                 <Tag key="DedicatedServerType" value="none" />
+                 <Tag key="IsNoRenderModeElement" value="false" />
+             </Tags>
+         </SubModule>
+	</SubModules>
+
+	<Xmls>
+		<XmlNode>
+			<XmlName id="GameText" path="comment_strings"/>
+		</XmlNode>
+
+
+		<XmlNode>
+			<XmlName id="GameText" path="module_strings"/>
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="GameText" path="ROT_module_strings"/>
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="Kingdoms" path="spkingdoms"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="GameText" path="comment_strings"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+	</Xmls>
+</Module>

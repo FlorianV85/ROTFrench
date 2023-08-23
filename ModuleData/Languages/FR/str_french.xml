@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>
+		<string id="ROTBTU48M66x" text="Mécanismes de guerre personnalisés" />
+		<string id="ROTkkUMBKlmi" text="Guerres forcées et IA personnalisée autour de l'histoire de GOT" />
+		<string id="ROTdSeV3Pjt1" text="Les rois protègent la Garde de nuit" />
+		<string id="ROTvm4bYU9LW" text="Les rois de Westeros déclareront à guerre à quiconque déclarera la guerre à la Garde de Nuit." />
+		<string id="ROTETF75TkfJ" text="La Garde de Nuit ne fait pas la guerre" />
+		<string id="ROTvBYixOxnF" text="La Garde de Nuit peut déclarer la guerre uniquement au Peuple Libre." />
+		<string id="ROT6BucvJqsr" text="Le Peuple libre ne fait pas la guerre" />
+		<string id="ROT4o5f2BhSw" text="Le Peuple libre peut déclarer la guerre uniquement à la Garde de Nuit." />
+		<string id="ROTL6krz0TLm" text="Destruction du Royaume" />
+		<string id="ROTZwURNIdBr" text="Active l'intégration de la destruction du Royaume." />
+		<string id="ROTOuXtWPOj1" text="Délai de destruction" />
+		<string id="ROTavc2zXJbP" text="Définir le nombre de jours nécessaires avant la destruction d'un royaume lorsque les conditions sont remplies." />
+		<string id="ROT8W1Uj78kl" text="Relation pour qu'un seigneur rejoigne gratuitement" />
+		<string id="ROTwcGcT2r7x" text="Fixez le nombre de relation nécessaire pour qu'un seigneur rejoigne votre royaume gratuitement." />
+		<string id="ROTs5IWYBIis" text="Relation pour qu'un seigneur ne rejoigne jamais" />
+		<string id="ROTBP2ZwuXGD" text="Fixez le nombre de relation nécessaire pour qu'un seigneur ne veuille jamais rejoindre votre royaume." />
+		<string id="ROTlSih9JUey" text="Or de base par relation perdue" />
+		<string id="ROT8CxXMHqo1" text="Définit l'or de base pour le cacul de la quantité d'or nécessaire pour qu'un seigneur vous rejoigne." />
+		<string id="ROTrPHm9XDkN" text="Les vassaux doivent disparaître" />
+		<string id="ROTEWnoIqKfS" text="La condition préalable à la destruction du royaume est le départ des vassaux. Les clans mercenaires ne sont pas inclus." />
+		<string id="ROT9u8IimYXg" text="Duels" />
+		<string id="ROT1jyk8iuCR" text="Faire des duels avec d'autres seigneurs et dames." />
+		<string id="ROTN98ykeXsg" text="Différence de niveau de clan autorisée" />
+		<string id="ROTAeInh6vkO" text="Différence maximale entre le niveau de votre clan et celui du seigneur que vous souhaitez affronter en duel." />
+		<string id="ROToWFdjGG5a" text="Corbeaux" />
+		<string id="ROTj2GWRKTVV" text="Active l'envoi de corbeaux à d'autres seigneurs et dames. Vous pouvez désactiver cette fonctionnalité si vous avez un mod avec une fonctionnalité similaire, comme par exemple Telepathy ou Diplomacy." />
+		<string id="ROT2zv6doHP3" text="Activer les accidents de corbeaux" />
+		<string id="ROTtiK1FpYjD" text="Ajoute un faible risque que vos corbeaux rencontrent des problèmes. Plus le vol est long, plus il y a un risque élevé d'accident." />
+		<string id="ROTHPHghclbb" text="Restreindre l'envoi de corbeaux" />
+		<string id="ROTshjqBQgXe" text="Si activé, vous ne pourrez envoyer un corbeau qu'à des personnes que vous avez déjà rencontrées ou que vous êtes censé connaître. Si désactivé, vous pourrez envoyer des corbeaux à n'importe qui, même si vous ne les avez jamais rencontrés." />
+		<string id="ROTwwykmcQmJ" text="Durée du vol en jours" />
+		<string id="ROTP5gepUrvp" text="Durée maximum (en jours) que le corbeau met pour atteindre son destinataire. Influence directement la vitesse de vol du corbeau." />
+		<string id="ROTryRvN4Uej" text="Coût en or du corbeau" />
+		<string id="ROTNawHyXbfN" text="Coût en or pour envoyer un corbeau à un personnage." />
+		<string id="ROTiOgwolEuZ" text="Corbeau tué" />
+		<string id="ROTxAKV7GkLM" text="Votre corbeau a été tué par un {PREDATOR} alors qu'il essayait d'atteindre {HERO NAME} !" />
+		<string id="ROTtCLKLd68M" text="Faucon" />
+		<string id="ROTc1jT8mQTe" text="Hibou" />
+		<string id="ROTn8A8Tg2im" text="Pas assez d'or !" />
+		<string id="ROT1UkczAjm5" text="Envoyer un corbeau" />
+		<string id="ROTo0N1nddSS" text="Le corbeau ne comprend pas ou n'aime pas du tout votre blague. Il refuse d'accomplir votre tâche." />
+		<string id="ROTVNtmLw74m" text="Vous ne connaissez pas assez {HERO_NAME} pour lui envoyer un corbeau." />
+		<string id="ROTWc5KogzAs" text="Le corbeau ne pourra pas atteindre son destinataire." />
+		<string id="ROTUtNlCsIKz" text="Corbeau envoyé" />
+		<string id="ROT072uKra5r" text="Corbeau arrivé" />
+		<string id="ROTLehC7v2QP" text="Annuler le corbeau" />
+		<string id="ROTQpICWciQB" text="Le corbeau en provenance de {FACTION1_NAME} est arrivé à {ADDRESSEE_TEXT}." />
+		<string id="ROTbptfYHJck" text="{HERO_NAME}{?HAS_FACTION} de {FACTION2_NAME}{?}{\\?}" />
+		<string id="ROTG9ekYcYHX" text="Le corbeau en provenance de {FACTION1_NAME} devrait arriver à {ADDRESSEE_TEXT} d'ici {TRAVEL_TIME} jours." />
+		<string id="ROTEU45sRU3b" text="{HERO_NAME} est mort. " />
+		<string id="ROT9A0pMzsEh" text="{HERO_NAME} est emprisonné {?IS_MOBILE}par{?}à{\\?} {DETENTION_PLACE}. " />
+		<string id="ROTM1TivfCVp" text="{HERO_NAME} est en fuite et ne veut pas être localisé. " />
+		<string id="ROTSIgyhra3g" text="{HERO_NAME} vient d'être libéré, mais n'est pas encore prêt à recevoir des corbeaux. " />
+		<string id="ROTPJQO9YORl" text="{HERO_NAME} voyage incognito. " />
+		<string id="ROTzMAI940YS" text="{HERO_NAME} n'est pas assez expérimenté pour recevoir des messages par corbeau. " />
+		<string id="ROTzRvmeqYQk" text="Un corbeau a déjà été envoyé à {HERO_NAME}. " />
+		<string id="ROT9czgf18Dl" text="La Garde de Nuit respecte tous les rois et n'est sous les ordres d'aucun d'entre eux." />
+		<string id="ROTNx526ZOsI" text="Le Peuple libre ne s'engage pas dans une guerre ouverte." />
+		<string id="ROTgMNXWqstl" text="Votre souverain n'acceptera pas la paix." />
+		<string id="ROT8A1gV873Y" text="Votre guerre avec la Garde de Nuit rend la paix impossible." />
+		<string id="ROTGqMMHfJpF" text="Votre équipement m'appartient désormais." />
+		<string id="ROTu5HAJjOFG" text="Vous allez le regretter !" />
+		<string id="ROTQlRDILQWL" text="Vous avez pris {WEAPON} de {HERO}" />
+		<string id="ROTxHQ3EmPlL" text="Votre dragon se battra pour moi maintenant." />
+		<string id="ROTH6lNdWMkj" text="VOUS LE PAIEREZ DANS LE FEU ET LE SANG !" />
+		<string id="ROTSvyr1lKCr" text="Guet de Port-Réal" />
+		<string id="ROTEAMRg7gAG" text="Commercer avec Essos" />
+		<string id="SSYugueEyHyf" text="Éviter la famine" />
+		<string id="ROTycr1RVfhk" text="Paramètres généraux" />
+		<string id="ROTcyLAwyN7V" text="Guerres statiques" />
+		<string id="ROTK8m7If1To" text="Guerres forcées entre certains royaumes" />
+		<string id="ROT9Y8C5ijAI" text="Activer ou désactiver cette guerre" />
+		<string id="ROTGugpjBejh" text="Activer ou désactiver cette guerre ; commence le jour 25" />
+		<string id="ROTc6zqDfzFv" text="Activer ou désactiver cette guerre ; commence le jour 50" />
+		<string id="ROTon8kMVfJs" text="Activer ou désactiver cette guerre ; commence le jour 60" />
+		<string id="ROTxVT29TWDD" text="Terres de l'Orage contre le Bief" />
+		<string id="ROToYKxpQc3j" text="Terres de l'Orage contre les Terres de l'Ouest" />
+		<string id="ROTByL0jXt1D" text="Les Îles de Fer contre le Bief" />
+		<string id="ROT0dZ93ZzIE" text="Peyredragon contre le Bief" />
+		<string id="ROTFL1n8uU79" text="Peyredragon contre les Terres de l'Orage" />
+		<string id="ROT8j1z86WOE" text="La Garde de Nuit contre le Peuple libre" />
+		<string id="ROT9jleKXoYZ" text="Le Nord contre les Terres de l'Orage" />
+		<string id="ROTsVDpCjaAt" text="Peyredragon contre les Terres de l'Ouest" />
+		<string id="ROTmyD8H8h5l" text="Le Conflans contre les Terres de l'Ouest" />
+		<string id="ROTj1HUGrcUC" text="Les Boltons contre les Terres de l'Ouest" />
+		<string id="ROTbPRjsaFOa" text="Le Bief contre le Conflans" />
+		<string id="ROTxp4C7g8wh" text="Le Bief contre le Nord" />
+		<string id="ROTat5gNZrhy" text="Le Bief contre les Boltons" />
+		<string id="ROT83wHz8jxt" text="Parties IA personnalisées" />
+		<string id="ROTrNe2igWhe" text="Personnalise l'IA pour l'adapter à l'univers de GOT" />
+		<string id="ROT9Y8C5ijAI" text="Activer ou désactiver l'IA personnalisée" />
+		<string id="ROThlAqDFa1o" text="Garde de Nuit" />
+		<string id="ROTTlDXMlMOC" text="Peuple libre" />
+		<string id="ROT2laSwGDz1" text="Nombre max de spectres qui apparaissent" />
+		<string id="ROThzVrSNdib" text="Suppression des royaumes" />
+		<string id="ROTdS4HF7wMA" text="Définir si les royaumes doivent être complètement supprimés de l'encyclopédie." />
+
+		<string id="ROTPfVSY6qQM" text="Dégats inflgés par les dragons" />
+		<string id="ROTdxCqGXtOz" text="Ajuster les dégats de feu et de charge des dragons. Notez que les dégats ne correspondent pas toujours au montant." />
+		<string id="ROTaxT3nU6wz" text="Dégats létaux des dragons" />
+		<string id="ROTRHXZeuj8B" text="Pourcentage de chances que les dégats infligés par les dragons soient mortels." />
+
+		<string id="ROTE13TgrCfl" text="Tir ami" />
+		<string id="ROTwGuyQ9Pue" text="Tir ami. Littéralement." />
+
+		<string id="ROT51ixQtk6T" text="Santé des dragons" />
+		<string id="ROTI0dBoT6AN" text="Nombre maximum de points de vie des dragons. Si cette option est modifiée au cours d'un combat, elle prendra effet dès la prochaine bataille." />
+	</strings>
+</base>
