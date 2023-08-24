@@ -1,7 +1,7 @@
 <Module>
-	<Name value = "Realm of Thrones - Traduction Français"/>
+	<Name value = "Realm of Thrones - Patch FR"/>
 	<Id value = "ROTFrench"/>
-	<Version value = "v1.0.0"/>
+	<Version value = "v0.0.1"/>
 	<ModuleType value="Community"/>
 	<Official value="false"/>
 	<DefaultModule value="false" />
@@ -49,6 +49,22 @@
 				<GameType value = "CampaignStoryMode"/>
 				<GameType value = "CustomGame"/>
 				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="GameText" path="wanderer_strings"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		
+		<XmlNode>
+			<XmlName id="GameText" path="ROT_wanderer_strings"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
 			</IncludedGameTypes>
 		</XmlNode>
 

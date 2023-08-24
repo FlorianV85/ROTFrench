@@ -105,7 +105,7 @@
         <string id="ROTFactionNobleNameWithTitleDothraki" text="{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
         <string id="ROTFactionRulerNameWithTitleIronborn" text="{?RULER.GENDER}Reine{?}Roi{\?} {RULER.NAME}" />
         <string id="ROTFactionNobleNameWithTitleIronborn" text="{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
-        <string id="ROTFactionRulerNameWithTitleFreefolk" text="{?RULER.GENDER}Reine{?}Roi Beyond the Wall{\?} {RULER.NAME}" />
+        <string id="ROTFactionRulerNameWithTitleFreefolk" text="{?RULER.GENDER}Reine{?}Roi d'au-delà du Mur{\?} {RULER.NAME}" />
         <string id="ROT01919" text="{?RULER.GENDER}Reine{?}Lord-commandant{\?} {RULER.NAME}" />
         <string id="ROT01921" text="{?RULER.GENDER}Gouverneur de l'Est{?}Gouverneur de l'Est{\?} {RULER.NAME}" />
         <string id="ROT01922" text="{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />

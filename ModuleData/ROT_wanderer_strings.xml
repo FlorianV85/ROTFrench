@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  <strings>
+    
+    <!-- 
+        Fixed version for non-english
+        Version modifiée pour corriger les problèmes rencontrées lors des traductions.
+    -->
+	  
+
+	  <string id="prebackstory.spc_wanderer_sturgia_0" text="{=ROTwandererstr001}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_0" text="{=ROTwandererstr002}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_0" text="{=ROTwandererstr003}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_0" text="{=ROTwandererstr004}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_0" text="{=ROTwandererstr005}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_0" text="{=ROTwandererstr006}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_0" text="{=ROTwandererstr007}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_sturgia_1" text="{=ROTwandererstr008}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_1" text="{=ROTwandererstr009}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_1" text="{=ROTwandererstr010}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_1" text="{=ROTwandererstr011}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_1" text="{=ROTwandererstr012}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_1" text="{=ROTwandererstr013}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_1" text="{=ROTwandererstr014}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_sturgia_2" text="{=ROTwandererstr015}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_2" text="{=ROTwandererstr016}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_2" text="{=ROTwandererstr017}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_2" text="{=ROTwandererstr018}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_2" text="{=ROTwandererstr019}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_2" text="{=ROTwandererstr020}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_2" text="{=ROTwandererstr021}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_battania_6" text="{=ROTwandererstr022}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_battania_6" text="{=ROTwandererstr023}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_battania_6" text="{=ROTwandererstr024}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_battania_6" text="{=ROTwandererstr025}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_battania_6" text="{=ROTwandererstr026}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_battania_6" text="{=ROTwandererstr027}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_battania_6" text="{=ROTwandererstr028}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_vlandia_4" text="{=ROTwandererstr029}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_vlandia_4" text="{=ROTwandererstr030}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_vlandia_4" text="{=ROTwandererstr031}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_vlandia_4" text="{=ROTwandererstr032}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_vlandia_4" text="{=ROTwandererstr033}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_vlandia_4" text="{=ROTwandererstr034}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_vlandia_4" text="{=ROTwandererstr035}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_vlandia_5" text="{=ROTwandererstr036}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_vlandia_5" text="{=ROTwandererstr037}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_vlandia_5" text="{=ROTwandererstr038}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_vlandia_5" text="{=ROTwandererstr039}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_vlandia_5" text="{=ROTwandererstr040}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_vlandia_5" text="{=ROTwandererstr041}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_vlandia_5" text="{=ROTwandererstr042}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_vlandia_6" text="{=ROTwandererstr043}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_vlandia_6" text="{=ROTwandererstr044}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_vlandia_6" text="{=ROTwandererstr045}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_vlandia_6" text="{=ROTwandererstr046}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_vlandia_6" text="{=ROTwandererstr047}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_vlandia_6" text="{=ROTwandererstr048}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_vlandia_6" text="{=ROTwandererstr049}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_sturgia_9" text="{=ROTwandererstr050}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_9" text="{=ROTwandererstr051}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_9" text="{=ROTwandererstr052}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_9" text="{=ROTwandererstr053}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_9" text="{=ROTwandererstr054}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_9" text="{=ROTwandererstr055}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_9" text="{=ROTwandererstr056}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_sturgia_10" text="{=ROTwandererstr057}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_10" text="{=ROTwandererstr058}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_10" text="{=ROTwandererstr059}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_10" text="{=ROTwandererstr060}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_10" text="{=ROTwandererstr061}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_10" text="{=ROTwandererstr062}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_10" text="{=ROTwandererstr063}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_empire_7" text="{=ROTwandererstr064}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_empire_7" text="{=ROTwandererstr065}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_empire_7" text="{=ROTwandererstr066}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_empire_7" text="{=ROTwandererstr067}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_empire_7" text="{=ROTwandererstr068}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_empire_7" text="{=ROTwandererstr069}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_empire_7" text="{=ROTwandererstr070}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_empire_8" text="{=ROTwandererstr071}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_empire_8" text="{=ROTwandererstr072}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_empire_8" text="{=ROTwandererstr073}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_empire_8" text="{=ROTwandererstr074}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_empire_8" text="{=ROTwandererstr075}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_empire_8" text="{=ROTwandererstr076}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_empire_8" text="{=ROTwandererstr077}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_sturgia_7" text="{=ROTwandererstr078}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_7" text="{=ROTwandererstr079}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_7" text="{=ROTwandererstr080}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_7" text="{=ROTwandererstr081}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_7" text="{=ROTwandererstr082}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_7" text="{=ROTwandererstr083}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_7" text="{=ROTwandererstr084}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_vlandia_9" text="{=ROTwandererstr085}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_vlandia_9" text="{=ROTwandererstr086}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_vlandia_9" text="{=ROTwandererstr087}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_vlandia_9" text="{=ROTwandererstr088}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_vlandia_9" text="{=ROTwandererstr089}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_vlandia_9" text="{=ROTwandererstr090}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_vlandia_9" text="{=ROTwandererstr091}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_aserai_0" text="{=ROTwandererstr092}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_aserai_0" text="{=ROTwandererstr093}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_aserai_0" text="{=ROTwandererstr094}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_aserai_0" text="{=ROTwandererstr095}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_aserai_0" text="{=ROTwandererstr096}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_aserai_0" text="{=ROTwandererstr097}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_aserai_0" text="{=ROTwandererstr098}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_aserai_1" text="{=ROTwandererstr099}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_aserai_1" text="{=ROTwandererstr100}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_aserai_1" text="{=ROTwandererstr101}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_aserai_1" text="{=ROTwandererstr102}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_aserai_1" text="{=ROTwandererstr103}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_aserai_1" text="{=ROTwandererstr104}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_aserai_1" text="{=ROTwandererstr105}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_sturgia_3" text="{=ROTwandererstr106}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_3" text="{=ROTwandererstr107}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_3" text="{=ROTwandererstr108}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_3" text="{=ROTwandererstr109}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_3" text="{=ROTwandererstr110}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_3" text="{=ROTwandererstr111}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_3" text="{=ROTwandererstr112}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_sturgia_4" text="{=ROTwandererstr113}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_sturgia_4" text="{=ROTwandererstr114}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_sturgia_4" text="{=ROTwandererstr115}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_sturgia_4" text="{=ROTwandererstr116}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_sturgia_4" text="{=ROTwandererstr117}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_sturgia_4" text="{=ROTwandererstr118}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_sturgia_4" text="{=ROTwandererstr119}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_battania_0" text="{=ROTwandererstr120}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_battania_0" text="{=ROTwandererstr121}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_battania_0" text="{=ROTwandererstr122}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_battania_0" text="{=ROTwandererstr123}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_battania_0" text="{=ROTwandererstr124}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_battania_0" text="{=ROTwandererstr125}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_battania_0" text="{=ROTwandererstr126}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_battania_1" text="{=ROTwandererstr127}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_battania_1" text="{=ROTwandererstr128}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_battania_1" text="{=ROTwandererstr129}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_battania_1" text="{=ROTwandererstr130}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_battania_1" text="{=ROTwandererstr131}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_battania_1" text="{=ROTwandererstr132}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_battania_1" text="{=ROTwandererstr133}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_khuzait_0" text="{=ROTwandererstr134}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_khuzait_0" text="{=ROTwandererstr135}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_khuzait_0" text="{=ROTwandererstr136}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_khuzait_0" text="{=ROTwandererstr137}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_khuzait_0" text="{=ROTwandererstr138}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_khuzait_0" text="{=ROTwandererstr139}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_khuzait_0" text="{=ROTwandererstr140}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_khuzait_1" text="{=ROTwandererstr141}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_khuzait_1" text="{=ROTwandererstr142}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_khuzait_1" text="{=ROTwandererstr143}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_khuzait_1" text="{=ROTwandererstr144}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_khuzait_1" text="{=ROTwandererstr145}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_khuzait_1" text="{=ROTwandererstr146}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_khuzait_1" text="{=ROTwandererstr147}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_empire_0" text="{=ROTwandererstr148}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_empire_0" text="{=ROTwandererstr149}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_empire_0" text="{=ROTwandererstr150}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_empire_0" text="{=ROTwandererstr151}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_empire_0" text="{=ROTwandererstr152}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_empire_0" text="{=ROTwandererstr153}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_empire_0" text="{=ROTwandererstr154}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_empire_1" text="{=ROTwandererstr155}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_empire_1" text="{=ROTwandererstr156}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_empire_1" text="{=ROTwandererstr157}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_empire_1" text="{=ROTwandererstr158}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_empire_1" text="{=ROTwandererstr159}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_empire_1" text="{=ROTwandererstr160}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_empire_1" text="{=ROTwandererstr161}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_empire_2" text="{=ROTwandererstr162}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_empire_2" text="{=ROTwandererstr163}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_empire_2" text="{=ROTwandererstr164}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_empire_2" text="{=ROTwandererstr165}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_empire_2" text="{=ROTwandererstr166}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_empire_2" text="{=ROTwandererstr167}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_empire_2" text="{=ROTwandererstr168}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_khuzait_4" text="{=ROTwandererstr169}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_khuzait_4" text="{=ROTwandererstr170}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_khuzait_4" text="{=ROTwandererstr171}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_khuzait_4" text="{=ROTwandererstr172}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_khuzait_4" text="{=ROTwandererstr173}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_khuzait_4" text="{=ROTwandererstr174}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_khuzait_4" text="{=ROTwandererstr175}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_khuzait_7" text="{=ROTwandererstr176}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_khuzait_7" text="{=ROTwandererstr177}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_khuzait_7" text="{=ROTwandererstr178}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_khuzait_7" text="{=ROTwandererstr179}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_khuzait_7" text="{=ROTwandererstr180}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_khuzait_7" text="{=ROTwandererstr181}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_khuzait_7" text="{=ROTwandererstr182}Not trying to be the hero, that's your story. "/>
+
+	  <string id="prebackstory.spc_wanderer_khuzait_8" text="{=ROTwandererstr183}My name don't matter"/>
+	  <string id="backstory_a.spc_wanderer_khuzait_8" text="{=ROTwandererstr184}You got the money, I'll do the job"/>
+	  <string id="backstory_b.spc_wanderer_khuzait_8" text="{=ROTwandererstr185}It's a grim world out there, I'll do what I have to do."/>
+	  <string id="backstory_c.spc_wanderer_khuzait_8" text="{=ROTwandererstr186}Patch your wounds, manage your house, even sell your wares."/>
+	  <string id="response_2.spc_wanderer_khuzait_8" text="{=ROTwandererstr187}Alright, I just need your sword"/>
+	  <string id="response_1.spc_wanderer_khuzait_8" text="{=ROTwandererstr188}Aren't you a pleasure to talk to."/>
+	  <string id="backstory_d.spc_wanderer_khuzait_8" text="{=ROTwandererstr189}Not trying to be the hero, that's your story. "/>
+
+	  
+	
+
+  </strings>

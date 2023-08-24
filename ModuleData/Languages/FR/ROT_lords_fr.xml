@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>   
+        <string id="ROT00414" text="Yohn Royce le Bronzé" />
+        <string id="ROT00418" text="Lady Vance de Atranta" />
+        <string id="ROT00422" text="Joyeuse Erongué" />
+        <string id="ROT00427" text="Aela Veneur" />
+        <string id="ROT00428" text="Eustace Veneur" />
+        <string id="ROT00438" text="Colen d'Etanverts" />
+        <string id="ROT00440" text="Andrew Estremont" />
+        <string id="ROT00441" text="Mélisandre" />
+        <string id="ROT00447" text="Walton Jarret d'Acier" />
+        <string id="ROT00456" text="Belwas le Fort" />
+        <string id="ROT00474" text="Walder Frey le Noir" />
+        <string id="ROT00476" text="Ver Gris" />
+        <string id="ROT00484" text="Lady Corbray de Cordial" />
+        <string id="ROT00487" text="Brynden 'le Silure' Tully" />
+        <string id="ROT00490" text="Utherydes Van" />
+        <string id="ROT00491" text="Gilbois Veneur" />
+        <string id="ROT00493" text="Lady Mallister de Salvemer" />
+        <string id="ROT00495" text="Éon Veneur" />
+        <string id="ROT00497" text="Lady Buckler des Bronzes" />
+        <string id="ROT00500" text="Selwyn Torth" />
+        <string id="ROT00501" text="Agnus Torth" />
+        <string id="ROT00510" text="Phillip Piète" />
+        <string id="ROT00511" text="Eric Cendregué" />
+        <string id="ROT00514" text="Robb Cendregué" />
+        <string id="ROT00534" text="Hoster Nerbosc" />
+        <string id="ROT00535" text="Gina Nerbosc" />
+        <string id="ROT00547" text="Tytos Nerbosc" />
+        <string id="ROT00548" text="Lady Nerbosc de Corneilla" />
+        <string id="ROT00549" text="Brynden Nerbosc" />
+        <string id="ROT00550" text="Bethany Nerbosc" />
+        <string id="ROT00551" text="William Mouton" />
+        <string id="ROT00552" text="Myles Mouton" />
+        <string id="ROT00553" text="Eleanor Mouton" />
+        <string id="ROT00554" text="Davos Mervault" />
+        <string id="ROT00555" text="Marya Mervault" />
+        <string id="ROT00556" text="Sladhor Saan" />
+        <string id="ROT00563" text="Alannys Harloi" />
+        <string id="ROT00565" text="Lynx-de-fumée" />
+        <string id="ROT00567" text="Rodrik Harloi" />
+        <string id="ROT00571" text="Le Chassieux" />
+        <string id="ROT00572" text="Harras Harloi" />
+        <string id="ROT00575" text="Échalas Ryk" />
+        <string id="ROT00576" text="Gwynesse Harloi" />
+        <string id="ROT00577" text="Hotho Harloi" />
+        <string id="ROT00588" text="Saule Œil-de-sorcière" />
+        <string id="ROT00589" text="Myrte" />
+        <string id="ROT00590" text="Escurel" />
+        <string id="ROT00591" text="Toregg le Grand" />
+        <string id="ROT00594" text="Magnar Styr" />
+        <string id="ROT00599" text="Tormund Fléau-d'Ogres" />
+        <string id="ROT00600" text="Frenya l'Ourse" />
+        <string id="ROT00601" text="Gormond Bonfrère" />
+        <string id="ROT00602" text="Gysella Bonfrère" />
+        <string id="ROT00603" text="Greydon Bonfrère" />
+        <string id="ROT00606" text="Seigneur des Os" />
+        <string id="ROT00611" text="Morna Masque-Blanc" />
+        <string id="ROT00615" text="Rat Noir" />
+        <string id="ROT00635" text="Franklyn Poulet" />
+        <string id="ROT00636" text="Jayne Poulet" />
+        <string id="ROT00640" text="Anders Ferboys" />
+        <string id="ROT00641" text="Gwyneth Ferboys" />
+        <string id="ROT00648" text="Dagos Forrest" />
+        <string id="ROT00649" text="Lady Forrest" />
+        <string id="ROT00650" text="Juli Forrest" />
+        <string id="ROT00651" text="Gina Forrest" />
+        <string id="ROT00655" text="Cletus Ferboys" />
+        <string id="ROT00655" text="Mors Forrest" />
+        <string id="ROT00675" text="Lady Saffron de Goëville" />
+        <string id="ROT00688" text="Jeyne Fossovoie" />
+        <string id="ROT00693" text="Addam Marpheux" />
+        <string id="ROT00694" text="Jennilyn Marpheux" />
+        <string id="ROT00728" text="Evelyn Tourbier" />
+        <string id="ROT00735" text="Fara Noyrevase" />
+        <string id="ROT00745" text="Jon Omble" />
+        <string id="ROT00746" text="Lady Omble" />
+        <string id="ROT00747" text="Jayne Omble" />
+        <string id="ROT00753" text="P'tit-Jon Omble" />
+        <string id="ROT00754" text="Eddison Tallett" />
+        <string id="ROT00807" text="Osney Potaunoir" />
+        <string id="ROT00810" text="Chauve-souris Rouge" />
+        <string id="ROT01500" text="Qhorin Mimain" />
+        <string id="ROT01510" text="Halys Corbois" />
+        <string id="ROT01511" text="Daryn Corbois" />
+        <string id="ROT01512" text="Donella Corbois" />
+        <string id="ROT01517" text="Harma la Truffe" />
+        <string id="ROT01518" text="Ours des neiges" />
+        <string id="ROT01521" text="Varamyr Sixpeaux" />
+        <string id="ROT01522" text="Karsi la piqueuse" />
+        <string id="ROT001548" text="Harbois Fell" />
+        <string id="ROT01554" text="Robert Blanchef" />
+        <string id="ROT01555" text="Addam Blanchef" />
+        <string id="ROT01556" text="Veronica Blanchef" />
+        <string id="ROT01557" text="Tonya Blanchef" />
+        <string id="ROT02051" text="Symon Dos-zébré" />
+        <string id="azCSz9QH" text="de la Foi Militante" />
+        <string id="QGcgQDqK" text="de la Fraternité" />
+        <string id="7hrmlfxh" text="de la Légion" />
+        <string id="eobXmmLg" text="de la Compagnie" />
+        <string id="KkStFl12" text="des Peaux-de-Loup" />
+        <string id="jKAhAoVb" text="du Peuple de la Forêt" />
+        <string id="mcbREzPt" text="des Gardiens" />
+        <string id="ROT01510" text="Gregor Forestier" />
+        <!-- <string id="ROT01511" text="Rodrik Forestier" /> -->
+        <!-- <string id="ROT01511" text="Asher Forestier" /> -->
+        <string id="ROT01512" text="Mira Forestier" />
+        <string id="ROTendrewtarth" text="Endrew Torth" />
+        <string id="ROTtorvi" text="Torvi la piqueuse" />
+        <string id="ROTharwoodstout" text="Harbois Stout" />
+        <string id="ROTalynorkwood" text="Alyn Orquebois" />
+        <string id="ROTeuniceorkwood" text="Eunice Orquebois" />
+        <string id="ROTalfredorkwood" text="Alfred Orquebois" />
+        <string id="ROTellieorkwood" text="Ellie Orquebois" />
+        <string id="ROTfranorkwood" text="Fran Orquebois" />
+        <string id="ROTbaelorblacktyde" text="Baelor Noirmarées" />
+        <string id="ROTsharonblacktyde" text="Sharon Noirmarées" />
+        <string id="ROTberonblacktyde" text="Beron Noirmarées" />
+        <string id="ROTbethanyblacktyde" text="Bethany Noirmarées" />
+        <string id="ROTbrookeblacktyde" text="Brooke Noirmarées" />
+        <string id="ROTbrandiblacktyde" text="Brandi Noirmarées" />
+        <string id="ROThortonredfort" text="Horton Rougefort" />
+        <string id="ROTlauraredfort" text="Laura Rougefort" />
+        <string id="ROTjasperredfort" text="Jasper Rougefort" />
+        <string id="ROTlindsayredfort" text="Lindsay Rougefort" />
+        <string id="ROTkatredfort" text="Kat Rougefort" />
+        <string id="ROTrenaeredfort" text="Renae Rougefort" />
+        <string id="ROTroycecoldwater" text="Royce Froideseaux" />
+        <string id="ROTfrancoldwater" text="Fran Froideseaux" />
+        <string id="ROTbencoldwater" text="Ben Froideseaux" />
+        <string id="ROTgailecoldwater" text="Gaile Froideseaux" />
+        <string id="ROTcarycoldwater" text="Cary Froideseaux" />
+        <string id="ROTedmundwaxley" text="Edmund Cirley" />
+        <string id="ROTsuewaxley" text="Sue Cirley" />
+        <string id="ROTedwardwaxley" text="Edward Cirley" />
+        <string id="ROToliviawaxley" text="Olivia Cirley" />
+        <string id="ROTpenelopewaxley" text="Penelope Cirley" />
+        <string id="ROTgawenwesterling" text="Gawen Ouestrelin" />
+        <string id="ROTkarenwesterling" text="Lady Sibylle Lépicier" />
+        <string id="ROTjeynewesterling" text="Jeyne Ouestrelin" />
+        <string id="ROTgabrielwesterling" text="Gabriel Ouestrelin" />
+        <string id="ROTjodywesterling" text="Jody Ouestrelin" />
+        <string id="ROTtheomarsmallwood" text="Theomar Petibois" />
+        <string id="ROTcarellensmallwood" text="Carellen Petibois" />
+        <string id="ROTlanasmallwood" text="Lana Petibois" />
+        <string id="ROTamberlysmallwood" text="Amberly Petibois" />
+        <string id="ROTkatrinasmallwood" text="Katrina Petibois" />
+        <string id="ROTeldonestermont" text="Eldon Estremont" />
+        <string id="ROTaemonestermont" text="Aemon Estremont" />
+        <string id="ROTvictoriaerrol" text="Arella Estremont" />
+        <string id="ROTheathererrol" text="Abigail Estremont" />
+        <string id="ROTquentenbanefort" text="Quenten Fléaufort" />
+        <string id="ROTemilybanefort" text="Emily Fléaufort" />
+        <string id="ROTthomasbanefort" text="Thomas Fléaufort" />
+        <string id="ROTnicolebanefort" text="Nicole Fléaufort" />
+        <string id="ROTcandacebanefort" text="Candace Fléaufort" />
+        <string id="ROTwarrynbeesbury" text="Warryn des Essaims" />
+        <string id="ROTcasandrabeesbury" text="Casandra des Essaims" />
+        <string id="ROThughbeesbury" text="Hugh des Essaims" />
+        <string id="ROTalysbeesbury" text="Alys des Essaims" />
+        <string id="ROTbeonybeesbury" text="Beony des Essaims" />
+        <string id="ROTmitchelblackbar" text="Mitchel Nègrebar" />
+        <string id="ROTthelmablackbar" text="Thelma Nègrebar" />
+        <string id="ROTjasonblackbar" text="Jason Nègrebar" />
+        <string id="ROTamandablackbar" text="Amanda Nègrebar" />
+        <string id="ROTaryanablackbar" text="Aryana Nègrebar" />
+        <string id="ROTarwynoakheart" text="Arwyn du Rouvre" />
+        <string id="ROTarysoakheart" text="Arys du Rouvre" />
+        <string id="ROTeveoakheart" text="Eve du Rouvre" />
+        <string id="ROTmeshaoakheart" text="Mesha du Rouvre" />
+        <string id="ROT00631" text="Larra Noirmont" />
+        <string id="ROTjynessablackmont" text="Jynessa Noirmont" />
+        <string id="ROTperrosblackmont" text="Perros Noirmont" />
+        <string id="ROTmariablackmont" text="Maria Noirmont" />
+        <string id="ROTrollyduck" text="Rolly Canardière" />
+        <string id="ROTmarqmandrake" text="Marq Mandragore" />
+        <string id="ROTgreatwalrus" text="Grand Morse" />
+        <string id="ROTdevynsealskinner" text="Devyn Écorchephoque" />
+        <string id="ROTahnamoonsinger" text="Ahna Chantelune" />
+        <string id="ROTmuktuk" text="Muktuk le Petit Morse" />
+        <string id="ROTtonraq" text="Tonraq Écorchephoque" />
+        <string id="ROTpinga" text="Pinga Écorchephoque" />
+        <string id="ROTbrandonnorrey" text="Brandon le Norroit" />
+        <string id="ROTbrandonnorreyjr" text="Brandon le Jeune" />
+        <string id="ROTowennorrey" text="Owen Norroit" />
+        <string id="ROTladynorrey" text="Lady Norroit" />
+        <string id="ROTarranorrey" text="Arra Norroit" />
+        <string id="ROTmarnanorrey" text="Marna Norroit" />
+        <string id="ROTdunstandrumm" text="Dunstan Timbal" />
+        <string id="ROTdenysdrumm" text="Denys Timbal" />
+        <string id="ROTdonneldrumm" text="Donnel Timbal" />
+        <string id="ROTandrikunsmiling" text="Andrik l'Insouriant" />
+        <string id="ROTladydrumm" text="Lady Timbal de Vieux Wyk" />
+        <string id="ROTdenisedrumm" text="Denise Timbal" />
+        <string id="ROTdagonadrumm" text="Dagona Timbal" />
+        <string id="ROTregnadrumm" text="Regna Timbal" />
+        <string id="ROTladymerlyn" text="Lady Merlyn de Pebbleton" />
+        <string id="ROTgylbertfarwynd" text="Gylbert Vendeloyn" />
+        <string id="ROTgylesfarwynd" text="Gyles Vendeloyn" />
+        <string id="ROTygonfarwynd" text="Ygon Vendeloyn" />
+        <string id="ROTyohnfarwynd" text="Yohn Vendeloyn" />
+        <string id="ROTladyfarwynd" text="Lady Vendeloyn de Lumière Isolée" />
+        <string id="ROTgyllafarwynd" text="Gylla Vendeloyn" />
+        <string id="ROTynafarwynd" text="Yna Vendeloyn" />
+        <string id="ROTtristonfarwynd" text="Triston Vendeloyn" />
+        <string id="ROTwexsunderly" text="Wex Valleuse" />
+        <string id="ROTsylassunderly" text="Sylas Valleuse" />
+        <string id="ROTshierasunderly" text="Shiera Valleuse" />
+        <string id="ROTladysunderly" text="Lady Valleuse de Salfalaise" />
+        <string id="ROTdonnorsaltcliffe" text="Donnor Salfalaise" />
+    </strings>
+</base>

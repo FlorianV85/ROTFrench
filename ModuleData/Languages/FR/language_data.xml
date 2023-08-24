@@ -13,4 +13,6 @@
     <LanguageFile xml_path="FR/ROT_spkingdoms_fr.xml" />
     <LanguageFile xml_path="FR/ROT_spnpccharacters_fr.xml" />
     <LanguageFile xml_path="FR/ROT-Troops_FR.xml" />
+    <LanguageFile xml_path="FR/ROT_wanderer_strings_fr.xml" />
+    <LanguageFile xml_path="FR/ROT_lords_fr.xml" />
 </LanguageData>

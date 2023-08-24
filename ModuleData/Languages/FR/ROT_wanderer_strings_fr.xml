@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>    
+        <string id="ROTwandererstr001" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr002" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr003" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr004" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr005" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr006" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr007" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr008" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr009" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr010" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr011" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr012" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr013" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr014" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr015" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr016" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr017" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr018" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr019" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr020" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr021" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr022" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr023" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr024" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr025" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr026" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr027" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr028" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr029" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr030" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr031" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr032" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr033" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr034" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr035" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr036" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr037" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr038" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr039" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr040" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr041" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr042" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr043" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr044" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr045" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr046" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr047" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr048" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr049" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr050" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr051" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr052" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr053" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr054" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr055" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr056" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr057" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr058" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr059" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr060" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr061" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr062" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr063" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr064" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr065" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr066" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr067" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr068" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr069" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr070" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr071" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr072" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr073" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr074" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr075" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr076" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr077" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr078" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr079" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr080" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr081" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr082" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr083" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr084" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr085" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr086" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr087" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr088" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr089" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr090" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr091" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr092" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr093" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr094" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr095" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr096" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr097" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr098" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr099" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr100" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr101" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr102" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr103" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr104" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr105" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr106" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr107" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr108" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr109" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr110" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr111" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr112" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr113" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr114" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr115" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr116" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr117" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr118" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr119" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr120" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr121" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr122" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr123" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr124" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr125" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr126" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr127" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr128" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr129" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr130" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr131" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr132" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr133" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr134" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr135" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr136" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr137" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr138" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr139" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr140" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr141" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr142" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr143" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr144" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr145" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr146" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr147" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr148" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr149" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr150" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr151" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr152" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr153" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr154" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr155" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr156" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr157" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr158" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr159" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr160" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr161" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr162" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr163" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr164" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr165" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr166" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr167" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr168" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr169" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr170" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr171" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr172" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr173" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr174" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr175" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr176" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr177" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr178" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr179" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr180" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr181" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr182" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+        <string id="ROTwandererstr183" text="Mon nom n'a pas d'importance"/>
+        <string id="ROTwandererstr184" text="Vous avez l'argent, je me charge du travail"/>
+        <string id="ROTwandererstr185" text="Le monde est dur, je ferai ce que j'ai à faire."/>
+        <string id="ROTwandererstr186" text="Pansez vos plaies, dirigez votre maison, vendez même vos marchandises."/>
+        <string id="ROTwandererstr187" text="Très bien, j'ai seulement besoin de votre épée"/>
+        <string id="ROTwandererstr188" text="C'est un plaisir de parler avec vous."/>
+        <string id="ROTwandererstr189" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
+
+    </strings>
+</base>

@@ -1181,5 +1181,42 @@
 
         <string id="ROT01276" text="Baie du Fer-né" />
 
+        <string id="oldwyk" text="Vieux Wyk" />
+
+        <string id="tentowers" text="Dix-Tours" />
+
+        <string id="saltcliffe" text="Salfalaise" />
+
+        <string id="lasthearth" text="Âtre-lès-Confins" />
+
+        <string id="frozenshore" text="Grève glacée" />
+        
+        <string id="longlake" text="Lonlac" />
+
+        <string id="greycliffs" text="Falaises grises" />
+
+        <string id="karforest" text="Karforêt" />
+
+        <string id="ROT03111" text="La Métairie" />
+
+        <string id="ROT01469" text="Tête-de-mouton" />
+
+        <string id="ROT03130" text="Repos du razzieur" />
+
+        <string id="sunderly" text="Valleuse" />
+
+        <string id="myre" text="Myrès" />
+
+        <string id="greygarden" text="Grisjardin" />
+
+        <string id="stonetree" text="Les Arbres-de-Pierre" />
+
+        <string id="hardstone" text="Monts Durgranit" />
+
+        <string id="naggacradle" text="Berceau de Nagga" />
+
+        <string id="stonehouse" text="Maisonpierre" />
+
+        <string id="ROT01137" text="Salins" />
     </strings>
 </base>

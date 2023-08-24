@@ -29,11 +29,11 @@
         <string id="ROT00293" text="Tirailleur dornien" />
         <string id="ROT00294" text="Tirailleur monté dornien" />
         <string id="ROT00295" text="Archer dornien" />
-        <string id="ROT00296" text="Archer d'élite dornien" />
+        <string id="ROT00296" text="Archer élite dornien" />
         <string id="ROT00812" text="Maître archer dornien" />
         <string id="ROT00297" text="Archer monté dornien" />
         <string id="ROT00298" text="Serpent dornien" />
-        <string id="ROT00299" text="Levée dornienne" />
+        <string id="ROT00299" text="Troupier dornien" />
         <string id="ROT00300" text="Lancier dornien" />
         <string id="ROT00301" text="Cavalier dornien" />
         <string id="ROT00302" text="Cavalier cobra de Dorne" />
@@ -42,7 +42,7 @@
         <string id="ROT00813" text="Garde du Prince de Dorne" />
         <string id="ROT00305" text="Jeune dornien" />
         <string id="ROT00306" text="Glaive de Dorne" />
-        <string id="ROT00307" text="Lancier d'élite dornien" />
+        <string id="ROT00307" text="Lancier élite dornien" />
         <string id="ROT00308" text="Maître-lance dornien" />
         <string id="ROT00309" text="Vipère dornienne" />
 
@@ -84,7 +84,7 @@
         <string id="ROT00343" text="Maître archer dothraki" />
         <string id="ROT00344" text="Maître archer monté dothraki" />
         <string id="ROT00345" text="Maître d'herbes dothraki" />
-        <string id="ROT00346" text="Hurleur d'élite dothraki" />
+        <string id="ROT00346" text="Hurleur élite dothraki" />
         <string id="ROT00347" text="Garde du Khal dothraki" />
 
         <string id="ROT00348" text="Matelot fer-né" />
@@ -121,7 +121,7 @@
         <string id="ROT00375" text="Arbalétrier léger ouestien" />
         <string id="ROT00376" text="Arbalétrier ouestien" />
         <string id="ROT00377" text="Arbalétrier entraîné ouestien" />
-        <string id="ROT00378" text="Tireur d'élite ouestien" />
+        <string id="ROT00378" text="Tireur élite ouestien" />
         <string id="ROT00379" text="Écuyer ouestien" />
         <string id="ROT00380" text="Vaillant ouestien" />
         <string id="ROT00381" text="Chevalier ouestien" />
@@ -184,7 +184,7 @@
 
         <string id="ROT03066" text="Franc-coureur Longues Lances" />
         <string id="ROT03067" text="Lancier Longues Lances" />
-        <string id="ROT03068" text="Lancier d'élite Longues Lances" />
+        <string id="ROT03068" text="Lancier élite Longues Lances" />
 
         <string id="ROT03069" text="Fantassin Erre-au-Vent" />
         <string id="ROT03070" text="Éclaireur Erre-au-Vent" />
