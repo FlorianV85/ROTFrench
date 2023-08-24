@@ -20,34 +20,10 @@
 
 
 	<ItemGroup>
-		<Reference Include="$(GameFolder)\bin\Win64_Shipping_Client\System.*.dll">
-			<HintPath>%(Identity)</HintPath>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="$(GameFolder)\bin\Win64_Shipping_Client\TaleWorlds.*.dll" Exclude="$(GameFolder)\bin\Win64_Shipping_Client\TaleWorlds.Native.dll">
-			<HintPath>%(Identity)</HintPath>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="$(GameFolder)\bin\Win64_Shipping_Client\Steamworks.*.dll">
-			<HintPath>%(Identity)</HintPath>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="$(GameFolder)\Modules\Native\bin\Win64_Shipping_Client\*.dll">
-			<HintPath>%(Identity)</HintPath>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="$(GameFolder)\Modules\SandBox\bin\Win64_Shipping_Client\*.dll">
-			<HintPath>%(Identity)</HintPath>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="$(GameFolder)\Modules\SandBoxCore\bin\Win64_Shipping_Client\*.dll">
-			<HintPath>%(Identity)</HintPath>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="$(GameFolder)\Modules\StoryMode\bin\Win64_Shipping_Client\*.dll">
-			<HintPath>%(Identity)</HintPath>
-			<Private>False</Private>
-		</Reference>
+		<PackageReference Include="Bannerlord.ReferenceAssemblies.Core" Version="1.1.5.21456" />
+		<PackageReference Include="Bannerlord.ReferenceAssemblies.Native" Version="1.1.5.21456" />
+		<PackageReference Include="Bannerlord.ReferenceAssemblies.SandBox" Version="1.1.5.21456" />
+		<PackageReference Include="Bannerlord.ReferenceAssemblies.StoryMode" Version="1.1.5.21456" />
 		<PackageReference Include="Lib.Harmony" Version="2.2.2" />
 		<Reference Include="./deps/ROT.dll">
 			<HintPath>%(Identity)</HintPath>
