@@ -49,7 +49,7 @@
 			<Private>False</Private>
 		</Reference>
 		<PackageReference Include="Lib.Harmony" Version="2.2.2" />
-		<Reference Include="$(GameFolder)\Modules\ROT-Core\bin\Win64_Shipping_Client\ROT.dll">
+		<Reference Include="./deps/ROT.dll">
 			<HintPath>%(Identity)</HintPath>
 			<Private>False</Private>
 		</Reference>
