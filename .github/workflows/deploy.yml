@@ -5,6 +5,9 @@ jobs:
   build:
     name: Build
     runs-on: windows-latest
+    outputs:
+      mod_version: ${{ steps.changelog.outputs.mod_version }}
+      mod_description: ${{ steps.changelog.outputs.mod_description }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -14,34 +17,48 @@ jobs:
         with:
           dotnet-version: 6.0.x
 
-      - name: Install dependencies
-        run: dotnet restore
-        working-directory: src
+      - name: Build Diplomacy Module
+        run: |
+          $impl = $PWD.Path + '/bannerlord-implementations';
+          $path = $PWD.Path + '/bannerlord';
+          $final = $path + '/Modules/ROTFrench/bin/Win64_Shipping_Client/';
+          $proj = 'src/ROTFrench.csproj';
+          $pdll = $path + '/Modules/ROTFrench/bin/Win64_Shipping_Client/ROTFrench*.dll';
+          $ppdb = $path + '/Modules/ROTFrench/bin/Win64_Shipping_Client/ROTFrench*.pdb';
+          # The folders are required to be created before executing the script
+          New-Item -ItemType directory -Force -Path $impl;
+          New-Item -ItemType directory -Force -Path $path;
+          [string[]]$gameversions = Get-Content -Path supported-game-versions.txt;
+          # Process all implementations
+          For ($i = 0; $i -le $gameversions.Length - 1; $i++)
+          {
+              $gameversion = $gameversions[$i];
+              $version = $gameversion.substring(1);
+              $constgameversion = $gameversion.replace(".", "");
+              echo "::group::Build for $gameversion"
+              echo "Start building for gameversion = $gameversion"
+              dotnet clean $proj --configuration Release;
+              dotnet build $proj --configuration Release -p:OverrideGameVersion=$gameversion -p:GameFolder="$path" -p:ConstGameVersionWithPrefix="$constgameversion";
+              # Copy Implementations to the Implementations folder
+              Copy-Item $pdll $impl/;
+              Copy-Item $ppdb $impl/;
+              echo "::endgroup::"
+          }
+          # Copy Implementations to the Module
+          Copy-Item $impl/* $final;
+          # Delete Implementations folder
+          Remove-Item -Recurse $impl;
+        shell: pwsh
 
-      - name: Build module
-        run: | 
-          $modulesDataPath = '../ModuleData';
-          $subModuleXMLPath = '../SubModule.xml';
-          $dllPath = $PWD.Path + '/bin/Release/net472/ROTFrench.dll';
-          $pdbPath = $PWD.Path + '/bin/Release/net472/ROTFrench.pdb';
-          $path = './build/ROTFrench/';
-          dotnet build --configuration Release
-          mkdir $path/bin/Win64_Shipping_Client/;
-          mkdir $path/ModuleData/;
-          Copy-Item $dllPath $path/bin/Win64_Shipping_Client/ROTFrench.dll;
-          Copy-Item $dpdbPath $path/bin/Win64_Shipping_Client/ROTFrench.pdb;
-          Copy-Item $modulesDataPath/* $path/ModuleData;
-          Copy-Item $subModuleXMLPath $path/SubModule.xml;
-        working-directory: src
-
-      - name: Extract version
-        id: version
-        run:  |
+      - name: Install and Run ChangelogParser
+        id: changelog
+        run: |
           dotnet tool install -g Bannerlord.ChangelogParser
           vers="$(bannerlord_changelog_parser latestversion -f "$PWD/changelog.txt")"
           echo "::set-output name=mod_version::$vers"
           desc="$(bannerlord_changelog_parser fulldescription -f "$PWD/changelog.txt")"
           desc="${desc//'%'/'%25'}"
+          desc="${desc//$'"'/'%22'}"
           desc="${desc//$'\n'/'%0A'}"
           desc="${desc//$'\r'/'%0D'}"
           echo "::set-output name=mod_description::$desc"
