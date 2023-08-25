@@ -18,8 +18,8 @@ jobs:
           dotnet-version: 6.0.x
 
       - name: Install dependencies
-          run: dotnet restore
-          working-directory: src
+        run: dotnet restore
+        working-directory: src
 
       - name: Build module
         run: | 
