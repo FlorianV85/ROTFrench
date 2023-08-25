@@ -24,12 +24,13 @@ jobs:
           $subModuleXMLPath = '../SubModule.xml';
           $dllPath = $PWD.Path + '/bin/Release/net472/ROTFrench.dll';
           $pdbPath = $PWD.Path + '/bin/Release/net472/ROTFrench.pdb';
-          $path = $PWD.Path + '/build/ROTFrench';
+          $path = './build/ROTFrench';
           dotnet build --configuration Release
+          mkdir $path;
           Copy-Item $dllPath $path/bin/Win64_Shipping_Client/;
           Copy-Item $dpdbPath $path/bin/Win64_Shipping_Client/;
-          Copy-Item $modulesDataPath/* $path/ModuleData
-          Copy-Item $subModuleXMLPath $path/SubModule.xml
+          Copy-Item $modulesDataPath/* $path/ModuleData;
+          Copy-Item $subModuleXMLPath $path/SubModule.xml;
         working-directory: src
 
       - name: Extract version
