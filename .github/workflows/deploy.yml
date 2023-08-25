@@ -26,7 +26,7 @@ jobs:
           $pdbPath = $PWD.Path + '/bin/Release/net472/ROTFrench.pdb';
           $path = './build/ROTFrench/';
           dotnet build --configuration Release
-          mkdir $path;
+          mkdir $path/bin/Win64_Shipping_Client/;
           Copy-Item $dllPath $path/bin/Win64_Shipping_Client/;
           Copy-Item $dpdbPath $path/bin/Win64_Shipping_Client/;
           Copy-Item $modulesDataPath/* $path/ModuleData;
