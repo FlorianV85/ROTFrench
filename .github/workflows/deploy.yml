@@ -19,7 +19,6 @@ jobs:
 
       - name: Install dependencies
           run: dotnet restore
-        with:
           working-directory: src
 
       - name: Build module
@@ -34,8 +33,7 @@ jobs:
           Copy-Item $dpdbPath $path/bin/Win64_Shipping_Client/;
           Copy-Item $modulesDataPath/* $path/ModuleData
           Copy-Item $subModuleXMLPath $path/SubModule.xml
-        with:
-          working-directory: src
+        working-directory: src
 
       - name: Extract version
         id: version
