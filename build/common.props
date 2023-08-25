@@ -1,0 +1,55 @@
+<Project>
+
+    <!--Module Version-->
+    <PropertyGroup>
+        <Version>0.0.1</Version>
+        <GameVersion>1.1.5</GameVersion>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <TargetFramework>net472</TargetFramework>
+        <Platforms>x64</Platforms>
+        <LangVersion>9.0</LangVersion>
+        <Nullable>enable</Nullable>
+        <ModuleId>ROTFrench</ModuleId>
+        <ModuleName>$(ModuleId)</ModuleName>
+        <DisplayName>Realm of Thrones - Patch FR</DisplayName>
+        <RootNamespace>$(ModuleId)</RootNamespace>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <Authors>Florian85V</Authors>
+        <Product>Diplomacy Library mod for Bannerlord</Product>
+        <Description>Patch français pour le mod Realm of Thrones </Description>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <IsMinimal>true</IsMinimal>
+        <IsMinimal Condition="$(Configuration.Contains('Minimal'))">true</IsMinimal>
+        <IsStable>false</IsStable>
+        <IsStable Condition="$(Configuration.Contains('Stable'))">true</IsStable>
+        <IsBeta>false</IsBeta>
+        <IsBeta Condition="$(Configuration.Contains('Beta'))">true</IsBeta>
+    </PropertyGroup>
+
+	<!-- Game Folder(s) -->
+	<PropertyGroup>
+		<!--Bannerlord's Root Folder. Leave empty if you want it to be tried to be autoresolved.-->
+		<GameFolder Condition="$(IsStable)">$(BANNERLORD_STABLE_DIR)</GameFolder>
+		<GameFolder Condition="$(IsBeta)">$(BANNERLORD_BETA_DIR)</GameFolder>
+		<GameFolder Condition="$(GameFolder) == ''">$(BANNERLORD_GAME_DIR)</GameFolder>
+	</PropertyGroup>
+
+	<PropertyGroup>
+        <GameFolder>E:\JEUX\Mount &amp; Blade II Bannerlord</GameFolder>
+    </PropertyGroup>
+
+    <!--CI Builds-->
+    <ItemGroup>
+        <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+    </ItemGroup>
+
+</Project>

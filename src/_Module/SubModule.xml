@@ -1,12 +1,15 @@
-<Module>
-	<Name value = "Realm of Thrones - Patch FR"/>
-	<Id value = "ROTFrench"/>
-	<Version value = "v0.0.1"/>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Module xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/SubModule.xsd" >
+	<Name value = "$displayname$"/>
+	<Id value = "$modulename$"/>
+	<Version value = "v$version$"/>
 	<ModuleType value="Community"/>
 	<Official value="false"/>
 	<DefaultModule value="false" />
-    	<SingleplayerModule value="true" />
-    	<MultiplayerModule value="false" />
+    <SingleplayerModule value="true" />
+    <MultiplayerModule value="false" />
+	<Url value="https://www.nexusmods.com/mountandblade2bannerlord/mods/5848" />
 	<DependedModules>
 		<DependedModule Id="Bannerlord.Harmony" />
 		<DependedModule Id="Native" DependentVersion="v1.1.0" Optional="false"/>

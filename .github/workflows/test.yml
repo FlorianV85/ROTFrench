@@ -7,25 +7,49 @@ on:
   push:
     branches: [ "main" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "main", "wip" ]
 
 jobs:
   build:
-
+    name: Test build
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: src
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout
+      uses: actions/checkout@v3
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: 6.0.x
-    - name: Install dependencies
-      run: dotnet restore
-    - name: Build
-      run: dotnet build --no-restore
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
+    - name: Build Diplomacy Module for testing
+      run: |
+        $impl = $PWD.Path + '/bannerlord-implementations';
+        $path = $PWD.Path + '/bannerlord';
+        $final = $path + '/Modules/ROTFrench/bin/Win64_Shipping_Client/';
+        $proj = 'src/ROTFrench.csproj';
+        $pdll = $path + '/Modules/ROTFrench/bin/Win64_Shipping_Client/ROTFrench*.dll';
+        $ppdb = $path + '/Modules/ROTFrench/bin/Win64_Shipping_Client/ROTFrench*.pdb';
+        # The folders are required to be created before executing the script
+        New-Item -ItemType directory -Force -Path $impl;
+        New-Item -ItemType directory -Force -Path $path;
+        [string[]]$gameversions = Get-Content -Path supported-game-versions.txt;
+        # Process all implementations
+        For ($i = 0; $i -le $gameversions.Length - 1; $i++)
+        {
+            $gameversion = $gameversions[$i];
+            $version = $gameversion.substring(1);
+            $constgameversion = $gameversion.replace(".", "");
+            echo "::group::Build for $gameversion"
+            echo "Start building for gameversion = $gameversion"
+            dotnet clean $proj --configuration Release;
+            dotnet build $proj --configuration Release -p:OverrideGameVersion=$gameversion -p:GameFolder="$path" -p:ConstGameVersionWithPrefix="$constgameversion";
+            # Copy Implementations to the Implementations folder
+            Copy-Item $pdll $impl/;
+            Copy-Item $ppdb $impl/;
+            echo "::endgroup::"
+        }
+        # Copy Implementations to the Module
+        Copy-Item $impl/* $final;
+        # Delete Implementations folder
+        Remove-Item -Recurse $impl;
+      shell: pwsh
