@@ -62,3 +62,8 @@ jobs:
           desc="${desc//$'\n'/'%0A'}"
           desc="${desc//$'\r'/'%0D'}"
           echo "name={mod_description}::$desc" >> $GITHUB_OUTPUT
+      - name: Upload bannerlord folder
+        uses: actions/upload-artifact@v3
+        with:
+          name: ROTFrench
+          path: ./bannerlord/
