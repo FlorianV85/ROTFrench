@@ -27,8 +27,9 @@ jobs:
           $path = './build/ROTFrench/';
           dotnet build --configuration Release
           mkdir $path/bin/Win64_Shipping_Client/;
-          Copy-Item $dllPath $path/bin/Win64_Shipping_Client/;
-          Copy-Item $dpdbPath $path/bin/Win64_Shipping_Client/;
+          mkdir $path/ModuleData/;
+          Copy-Item $dllPath $path/bin/Win64_Shipping_Client/ROTFrench.dll;
+          Copy-Item $dpdbPath $path/bin/Win64_Shipping_Client/ROTFrench.pdb;
           Copy-Item $modulesDataPath/* $path/ModuleData;
           Copy-Item $subModuleXMLPath $path/SubModule.xml;
         working-directory: src
