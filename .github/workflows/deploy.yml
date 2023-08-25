@@ -4,7 +4,7 @@ on: workflow_dispatch
 jobs:
   build:
     name: Build
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     outputs:
       mod_version: ${{ steps.changelog.outputs.mod_version }}
       mod_description: ${{ steps.changelog.outputs.mod_description }}
