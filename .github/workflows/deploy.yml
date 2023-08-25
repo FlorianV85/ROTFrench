@@ -20,10 +20,10 @@ jobs:
 
       - name: Build module
         run: | 
-          $modulesDataPath = $PWD.Path + '/ModuleData';
-          $subModuleXMLPath = $PWD.Path + '/SubModule.xml';
-          $dllPath = $PWD.Path + '/bin/Debug/net472/ROTFrench.dll';
-          $pdbPath = $PWD.Path + '/bin/Debug/net472/ROTFrench.pdb';
+          $modulesDataPath = '../ModuleData';
+          $subModuleXMLPath = '../SubModule.xml';
+          $dllPath = $PWD.Path + '/bin/Release/net472/ROTFrench.dll';
+          $pdbPath = $PWD.Path + '/bin/Release/net472/ROTFrench.pdb';
           $path = $PWD.Path + '/build/ROTFrench';
           dotnet build --configuration Release
           Copy-Item $dllPath $path/bin/Win64_Shipping_Client/;
