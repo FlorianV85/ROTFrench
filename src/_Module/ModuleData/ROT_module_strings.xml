@@ -1086,8 +1086,8 @@
 	  <string id="response_1.spc_wanderer_khuzait_8" text="Aren't you a pleasure to talk to."/>
 	  <string id="backstory_d.spc_wanderer_khuzait_8" text="Not trying to be the hero, that's your story. "/>
 
-	  <string id="str_clan_finance_current_gold" text="{=stags}Stags" />
-	  <string id="str_gold" text="{=stags1}Stags" />
+	  <string id="str_clan_finance_current_gold" text="{=ROTstags}Stags" />
+	  <string id="str_gold" text="{=ROTstags1}Stags" />
 
 	  <string id="str_political_philosophy_lord_1_14_for_lord_1_14" text="{=danyconvo}I am the rightful ruler of Westeros and I will reclaim the throne my ancestors built." />
 

@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Game Versions: v1.1.5
+* Patch FR pour ROT 4.1.2 et +
+* Ajout du préprocesseur natif dans les noms de factions, des villes et des titres pour améliorer les prépositions et articles dans le journal de combat
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Game Versions: v1.1.5
 * Patch FR pour ROT 4.1.2 et +. Version en test, n'hésitez pas à signaler tout problème.

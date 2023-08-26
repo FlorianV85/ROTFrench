@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData id="Français">
+<LanguageData id="Français" name="Français" subtitle_extension="fr" supported_iso="fr,fra,fr-fr,fr-be,fr-ca,fr-ch" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.FrenchTextProcessor" under_development="false">
 	<LanguageFile xml_path="FR/ROT-Core_fr.xml" />
     <LanguageFile xml_path="FR/settlements_fr.xml" />
 	<LanguageFile xml_path="FR/str_french.xml" />
@@ -15,4 +15,5 @@
     <LanguageFile xml_path="FR/ROT-Troops_FR.xml" />
     <LanguageFile xml_path="FR/ROT_wanderer_strings_fr.xml" />
     <LanguageFile xml_path="FR/ROT_lords_fr.xml" />
+    <LanguageFile xml_path="FR/ROT_town_traders_fr.xml" />
 </LanguageData>

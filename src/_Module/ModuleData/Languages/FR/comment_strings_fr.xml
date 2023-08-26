@@ -4,29 +4,29 @@
         <tag language="Français" />
     </tags>
     <strings>
-        <string id="ROTStrLiegeTittleBraavos" text="Seigneur de la Mer de Braavos" />
+        <string id="ROTStrLiegeTittleBraavos" text="{.M}{.S}Seigneur de la Mer de Braavos" />
 
-        <string id="ROTStrLiegeTittleFBraavos" text="Seigneur de la Mer de Braavos" />
+        <string id="ROTStrLiegeTittleFBraavos" text="{.M}{.S}Seigneur de la Mer de Braavos" />
 
-        <string id="ROTStrLiegeTitleIronborn" text="Roi du Sel et du Roc" />
+        <string id="ROTStrLiegeTitleIronborn" text="{.M}{.S}Roi du Sel et du Roc" />
 
-        <string id="ROTStrLiegeTitleFIronborn" text="Reine du Sel et du Roc" />
+        <string id="ROTStrLiegeTitleFIronborn" text="{.F}{.S}Reine du Sel et du Roc" />
 
-        <string id="ROTStrLiegeTitleDorne" text="Prince de Dorne" />
+        <string id="ROTStrLiegeTitleDorne" text="{.M}{.S}Prince de Dorne" />
 
-        <string id="ROTStrLiegeTitleFDorne" text="Princesse de Dorne" />
+        <string id="ROTStrLiegeTitleFDorne" text="{.F}{.S}Princesse de Dorne" />
 
-        <string id="ROTStrLiegeTitleNorth" text="Roi du Nord" />
+        <string id="ROTStrLiegeTitleNorth" text="{.M}{.S}Roi du Nord" />
 
-        <string id="ROTStrLiegeTitleFNorth" text="Reine du Nord" />
+        <string id="ROTStrLiegeTitleFNorth" text="{.F}{.S}Reine du Nord" />
 
-        <string id="ROTStrLiegeTitleWesterlands" text="Gouverneur de l'Ouest" />
+        <string id="ROTStrLiegeTitleWesterlands" text="{.M}{.S}Gouverneur de l'Ouest" />
 
-        <string id="ROTStrLiegeTitleFWesterlands" text="Gouverneur de l'Ouest" />
+        <string id="ROTStrLiegeTitleFWesterlands" text="{.M}{.S}Gouverneur de l'Ouest" />
 
-        <string id="ROTStrLiegeTitleDothraki" text="Khal de la Horde Dothraki" />
+        <string id="ROTStrLiegeTitleDothraki" text="{.M}{.S}Khal de la Horde Dothraki" />
 
-        <string id="ROTStrLiegeTitleFDothraki" text="Khaleesi de la Horde Dothraki" />
+        <string id="ROTStrLiegeTitleFDothraki" text="{.F}{.S}Khaleesi de la Horde Dothraki" />
 
         <string id="ROTCommentNoble001" text="Je suis {CONVERSATION_CHARACTER.LINK}, de la maison {CLAN_NAME}. Notre famille sert Braavos depuis des générations." />
 

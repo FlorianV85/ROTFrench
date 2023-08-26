@@ -4,1219 +4,1219 @@
         <tag language="Français" />
     </tags>
     <strings>
-        <string id="ROT01106" text="Harrenhal" />
+        <string id="ROT01106" text="{.M}{.S}Harrenhal" />
 
         <!-- ? -->
-        <string id="ROT01107" text="Cog Water" />
+        <string id="ROT01107" text="{.M}{.S}Cog Water" />
 
-        <string id="ROT01108" text="Porte Sanglante" />
-
-        <!-- ? -->
-        <string id="ROT01109" text="Durlston" />
-
-        <string id="ROT01110" text="Roches-aux-runes" />
+        <string id="ROT01108" text="{.F}{.S}Porte Sanglante" />
 
         <!-- ? -->
-        <string id="ROT01111" text="Fingermarket" />
+        <string id="ROT01109" text="{.M}{.S}Durlston" />
 
-        <string id="ROT01112" text="Longarc" />
+        <string id="ROT01110" text="{.M}{.S}Roches-aux-runes" />
 
         <!-- ? -->
-        <string id="ROT01113" text="Merling's Cliff" />
+        <string id="ROT01111" text="{.M}{.S}Fingermarket" />
+
+        <string id="ROT01112" text="{.M}{.S}Longarc" />
+
+        <!-- ? -->
+        <string id="ROT01113" text="{.M}{.S}Merling's Cliff" />
 
         <string id="ROT01114" text="La Glandée" />
 
-        <string id="ROT01115" text="Les Cataractes" />
+        <string id="ROT01115" text="{.M}Les Cataractes" />
 
-        <string id="ROT01116" text="Salvemer" />
+        <string id="ROT01116" text="{.M}{.S}Salvemer" />
 
-        <string id="ROT01117" text="Nutten" />
+        <string id="ROT01117" text="{.M}{.S}Nutten" />
 
-        <string id="ROT01118" text="Corneilla" />
+        <string id="ROT01118" text="{.M}{.S}Corneilla" />
 
-        <string id="ROT01119" text="Warbourg" />
+        <string id="ROT01119" text="{.M}{.S}Warbourg" />
 
-        <string id="ROT01120" text="La Culbute" />
+        <string id="ROT01120" text="{.F}La Culbute" />
 
-        <string id="ROT01122" text="Haye-Pierre" />
+        <string id="ROT01122" text="{.M}{.S}Haye-Pierre" />
 
-        <string id="ROT01123" text="Moulin-Gerboise" />
+        <string id="ROT01123" text="{.M}{.S}Moulin-Gerboise" />
 
-        <string id="ROT01124" text="L'Auberge de l'Homme à genoux" />
+        <string id="ROT01124" text="{.F}L'Auberge de l'Homme à genoux" />
 
-        <string id="ROT01125" text="Le Fenil" />
-
-        <!-- ? -->
-        <string id="ROT01126" text="Stormwind" />
-
+        <string id="ROT01125" text="{.M}Le Fenil" />
 
         <!-- ? -->
-        <string id="ROT01127" text="Haybale" />
+        <string id="ROT01126" text="{.M}{.S}Stormwind" />
 
-        <string id="ROT01128" text="Les Eyrié" />
-
-        <string id="ROT01129" text="Rivière creuse" />
 
         <!-- ? -->
-        <string id="ROT01130" text="Stoneyhead" />
+        <string id="ROT01127" text="{.M}{.S}Haybale" />
+
+        <string id="ROT01128" text="{.M}{.P}Eyrié" />
+
+        <string id="ROT01129" text="{.F}{.S}Rivière creuse" />
 
         <!-- ? -->
-        <string id="ROT01131" text="Monton" />
+        <string id="ROT01130" text="{.M}{.S}Stoneyhead" />
 
         <!-- ? -->
-        <string id="ROT01132" text="Bronzestone" />
-
-        <string id="ROT01133" text="Goëville" />
-
-        <string id="ROT01134" text="Baie des Crabes" />
+        <string id="ROT01131" text="{.M}{.S}Monton" />
 
         <!-- ? -->
-        <string id="ROT01135" text="Gull Point" />
+        <string id="ROT01132" text="{.M}{.S}Bronzestone" />
 
-        <string id="ROT01136" text="Lake Town" />
+        <string id="ROT01133" text="{.M}{.S}Goëville" />
 
-        <string id="ROT01137" text="Saltpans" />
+        <string id="ROT01134" text="{.F}{.S}Baie des Crabes" />
 
-        <string id="ROT01138" text="Auberge de la Croisée des chemins" />
+        <!-- ? -->
+        <string id="ROT01135" text="{.M}{.S}Gull Point" />
 
-        <string id="ROT01139" text="Ville-Harren" />
+        <string id="ROT01136" text="{.M}{.S}Lake Town" />
 
-        <string id="ROT01140" text="Pont de la Flèche-tirée" />
+        <string id="ROT01137" text="{.M}{.S}Saltpans" />
 
-        <string id="ROT01141" text="Pentos" />
+        <string id="ROT01138" text="{.M}{.S}Auberge de la Croisée des chemins" />
 
-        <string id="ROT01142" text="Sorcefangier" />
+        <string id="ROT01139" text="{.M}{.S}Ville-Harren" />
 
-        <string id="ROT01143" text="Alatys" />
+        <string id="ROT01140" text="{.M}{.S}Pont de la Flèche-tirée" />
 
-        <string id="ROT01144" text="Gorge Ombreuse" />
+        <string id="ROT01141" text="{.M}{.S}Pentos" />
 
-        <string id="ROT01145" text="Hetania" />
+        <string id="ROT01142" text="{.M}{.S}Sorcefangier" />
 
-        <string id="ROT01146" text="Braavos" />
+        <string id="ROT01143" text="{.M}{.S}Alatys" />
 
-        <string id="ROT01147" text="Vealos" />
+        <string id="ROT01144" text="{.M}{.S}Gorge Ombreuse" />
 
-        <string id="ROT01148" text="Orthra" />
+        <string id="ROT01145" text="{.M}{.S}Hetania" />
 
-        <string id="ROT01149" text="Newkeep" />
+        <string id="ROT01146" text="{.M}{.S}Braavos" />
 
-        <string id="ROT01150" text="Samatha" />
+        <string id="ROT01147" text="{.M}{.S}Vealos" />
 
-        <string id="ROT01151" text="Lorath" />
+        <string id="ROT01148" text="{.M}{.S}Orthra" />
 
-        <string id="ROT01152" text="Avasinton" />
+        <string id="ROT01149" text="{.M}{.S}Newkeep" />
 
-        <string id="ROT01153" text="Boreagora" />
+        <string id="ROT01150" text="{.M}{.S}Samatha" />
 
-        <string id="ROT01154" text="Pont-l'Amer" />
+        <string id="ROT01151" text="{.M}{.S}Lorath" />
 
-        <string id="ROT01155" text="Champ d'Herberouge" />
+        <string id="ROT01152" text="{.M}{.S}Avasinton" />
 
-        <string id="ROT01156" text="Repos-des-Freux" />
+        <string id="ROT01153" text="{.M}{.S}Boreagora" />
 
-        <string id="ROT01157" text="Charmouth" />
+        <string id="ROT01154" text="{.M}{.S}Pont-l'Amer" />
 
-        <string id="ROT01158" text="Bellevierge" />
+        <string id="ROT01155" text="{.M}{.S}Champ d'Herberouge" />
+
+        <string id="ROT01156" text="{.M}{.S}Repos-des-Freux" />
+
+        <string id="ROT01157" text="{.M}{.S}Charmouth" />
+
+        <string id="ROT01158" text="{.M}{.S}Bellevierge" />
 
         <string id="ROT01159" text="Les Bronzes" />
 
-        <string id="ROT01160" text="Col-du-veneur" />
+        <string id="ROT01160" text="{.M}{.S}Col-du-veneur" />
 
-        <string id="ROT01161" text="Vertepierre" />
+        <string id="ROT01161" text="{.M}{.S}Vertepierre" />
 
-        <string id="ROT01162" text="Greenview" />
+        <string id="ROT01162" text="{.M}{.S}Greenview" />
 
-        <string id="ROT01163" text="Danse-des-Pierres" />
+        <string id="ROT01163" text="{.M}{.S}Danse-des-Pierres" />
         
         <string id="ROT01164" text="Les Parchemins" />
 
-        <string id="ROT01165" text="Bois-Coupant" />
+        <string id="ROT01165" text="{.M}{.S}Bois-Coupant" />
 
         <string id="ROT01166" text="La Griffonnière" />
 
-        <string id="ROT01167" text="Crête-du-coq" />
+        <string id="ROT01167" text="{.M}{.S}Crête-du-coq" />
 
         <string id="ROT01168" text="Les Éteules" />
 
-        <string id="ROT01169" text="Passe-du-Prince" />
+        <string id="ROT01169" text="{.M}{.S}Passe-du-Prince" />
 
-        <string id="ROT01170" text="Marche de Dorne" />
+        <string id="ROT01170" text="{.M}{.S}Marche de Dorne" />
 
-        <string id="ROT01171" text="Pointe-Vive" />
+        <string id="ROT01171" text="{.M}{.S}Pointe-Vive" />
 
-        <string id="ROT01172" text="Pointe-de-la-Baie" />
+        <string id="ROT01172" text="{.M}{.S}Pointe-de-la-Baie" />
 
-        <string id="ROT01173" text="Peyredragon" />
+        <string id="ROT01173" text="{.M}{.S}Peyredragon" />
 
-        <string id="ROT01174" text="Driftshore" />
+        <string id="ROT01174" text="{.M}{.S}Driftshore" />
 
-        <string id="ROT01175" text="Narrowview" />
+        <string id="ROT01175" text="{.M}{.S}Narrowview" />
 
-        <string id="ROT01176" text="Grandview" />
+        <string id="ROT01176" text="{.M}{.S}Grandview" />
 
-        <string id="ROT01177" text="Ville-en-Pleurs" />
+        <string id="ROT01177" text="{.M}{.S}Ville-en-Pleurs" />
 
-        <string id="ROT01178" text="Courbe de Wend" />
+        <string id="ROT01178" text="{.M}{.S}Courbe de Wend" />
 
-        <string id="ROT01179" text="L'Antre du Lion" />
+        <string id="ROT01179" text="{.M}{.S}L'Antre du Lion" />
 
-        <string id="ROT01180" text="Bourgfaon" />
+        <string id="ROT01180" text="{.M}{.S}Bourgfaon" />
 
-        <string id="ROT01181" text="Bois-la-Pluie" />
+        <string id="ROT01181" text="{.M}{.S}Bois-la-Pluie" />
 
-        <string id="ROT01182" text="Accalmie" />
+        <string id="ROT01182" text="{.M}{.S}Accalmie" />
 
-        <string id="ROT01183" text="Vertvillage" />
+        <string id="ROT01183" text="{.M}{.S}Vertvillage" />
 
-        <string id="ROT01184" text="Naufrageurs" />
+        <string id="ROT01184" text="{.M}{.S}Naufrageurs" />
 
-        <string id="ROT01185" text="Broad Arch" />
+        <string id="ROT01185" text="{.M}{.S}Broad Arch" />
 
-        <string id="ROT01186" text="Port-Réal" />
+        <string id="ROT01186" text="{.M}{.S}Port-Réal" />
 
-        <string id="ROT01187" text="Coiffetruie" />
+        <string id="ROT01187" text="{.M}{.S}Coiffetruie" />
 
         <string id="ROT01188" text="La Tonnelle" />
 
-        <string id="ROT01189" text="Bourgfoyer" />
+        <string id="ROT01189" text="{.M}{.S}Bourgfoyer" />
 
-        <string id="ROT01190" text="Bridlewood" />
+        <string id="ROT01190" text="{.M}{.S}Bridlewood" />
 
-        <string id="ROT01191" text="Sombreval" />
+        <string id="ROT01191" text="{.M}{.S}Sombreval" />
 
-        <string id="ROT01192" text="Mallery" />
+        <string id="ROT01192" text="{.M}{.S}Mallery" />
 
-        <string id="ROT01193" text="Langward" />
+        <string id="ROT01193" text="{.M}{.S}Langward" />
 
-        <string id="ROT01194" text="Viergétang" />
+        <string id="ROT01194" text="{.M}{.S}Viergétang" />
 
-        <string id="ROT01195" text="Pointevierge" />
+        <string id="ROT01195" text="{.M}{.S}Pointevierge" />
 
-        <string id="ROT01196" text="Bec de Massey" />
+        <string id="ROT01196" text="{.M}{.S}Bec de Massey" />
 
-        <string id="ROT01197" text="Cuivrecloche" />
+        <string id="ROT01197" text="{.M}{.S}Cuivrecloche" />
 
-        <string id="ROT01198" text="Paillefroment" />
+        <string id="ROT01198" text="{.M}{.S}Paillefroment" />
 
-        <string id="ROT01199" text="Ghoyan Drohe" />
+        <string id="ROT01199" text="{.M}{.S}Ghoyan Drohe" />
 
-        <string id="ROT01200" text="Odrysa" />
+        <string id="ROT01200" text="{.M}{.S}Odrysa" />
 
-        <string id="ROT01201" text="Ny Sar" />
+        <string id="ROT01201" text="{.M}{.S}Ny Sar" />
 
-        <string id="ROT01202" text="Corenia" />
+        <string id="ROT01202" text="{.M}{.S}Corenia" />
 
-        <string id="ROT01203" text="Metachia" />
+        <string id="ROT01203" text="{.M}{.S}Metachia" />
 
-        <string id="ROT01204" text="Ar Noy" />
+        <string id="ROT01204" text="{.M}{.S}Ar Noy" />
 
-        <string id="ROT01205" text="Melion" />
+        <string id="ROT01205" text="{.M}{.S}Melion" />
 
-        <string id="ROT01206" text="Sagolina" />
+        <string id="ROT01206" text="{.M}{.S}Sagolina" />
 
-        <string id="ROT01207" text="Bosquebrume" />
+        <string id="ROT01207" text="{.M}{.S}Bosquebrume" />
 
-        <string id="ROT01208" text="Baie du Destructeur" />
+        <string id="ROT01208" text="{.F}{.S}Baie du Destructeur" />
 
-        <string id="ROT01209" text="Garde Rouge" />
+        <string id="ROT01209" text="{.M}{.S}Garde Rouge" />
 
-        <string id="ROT01210" text="Champmoisson" />
+        <string id="ROT01210" text="{.M}{.S}Champmoisson" />
 
-        <string id="ROT01211" text="Halle-aux-grains" />
+        <string id="ROT01211" text="{.F}{.S}Halle-aux-grains" />
 
-        <string id="ROT01212" text="Iksa Keria" />
+        <string id="ROT01212" text="{.M}{.S}Iksa Keria" />
 
-        <string id="ROT01213" text="Sestadaim" />
+        <string id="ROT01213" text="{.M}{.S}Sestadaim" />
 
-        <string id="ROT01214" text="Châteautranchant" />
+        <string id="ROT01214" text="{.M}{.S}Châteautranchant" />
 
-        <string id="ROT01215" text="Jogurys" />
+        <string id="ROT01215" text="{.M}{.S}Jogurys" />
 
-        <string id="ROT01216" text="Mielbois" />
+        <string id="ROT01216" text="{.M}{.S}Mielbois" />
 
-        <string id="ROT01217" text="Raisinbois" />
+        <string id="ROT01217" text="{.M}{.S}Raisinbois" />
 
-        <string id="ROT01218" text="Norvos" />
+        <string id="ROT01218" text="{.M}{.S}Norvos" />
 
-        <string id="ROT01219" text="Caira" />
+        <string id="ROT01219" text="{.M}{.S}Caira" />
 
-        <string id="ROT01220" text="Polisia" />
+        <string id="ROT01220" text="{.M}{.S}Polisia" />
 
-        <string id="ROT01221" text="Tegresos" />
+        <string id="ROT01221" text="{.M}{.S}Tegresos" />
 
-        <string id="ROT01222" text="Erebulos" />
+        <string id="ROT01222" text="{.M}{.S}Erebulos" />
 
-        <string id="ROT01223" text="Volantis" />
+        <string id="ROT01223" text="{.M}{.S}Volantis" />
 
-        <string id="ROT01224" text="Farmstead" />
+        <string id="ROT01224" text="{.M}{.S}Farmstead" />
 
-        <string id="ROT01225" text="Gorcorys" />
+        <string id="ROT01225" text="{.M}{.S}Gorcorys" />
 
-        <string id="ROT01226" text="Avalyps" />
+        <string id="ROT01226" text="{.M}{.S}Avalyps" />
 
-        <string id="ROT01227" text="Alision" />
+        <string id="ROT01227" text="{.M}{.S}Alision" />
 
-        <string id="ROT01228" text="Volon Therys" />
+        <string id="ROT01228" text="{.M}{.S}Volon Therys" />
 
-        <string id="ROT01229" text="Canoros" />
+        <string id="ROT01229" text="{.M}{.S}Canoros" />
 
-        <string id="ROT01230" text="Tevea" />
+        <string id="ROT01230" text="{.M}{.S}Tevea" />
 
-        <string id="ROT01231" text="Zestea" />
+        <string id="ROT01231" text="{.M}{.S}Zestea" />
 
-        <string id="ROT01232" text="Valysar" />
+        <string id="ROT01232" text="{.M}{.S}Valysar" />
 
-        <string id="ROT01233" text="Sagora" />
+        <string id="ROT01233" text="{.M}{.S}Sagora" />
 
-        <string id="ROT01234" text="Rubriant" />
+        <string id="ROT01234" text="{.M}{.S}Rubriant" />
 
-        <string id="ROT01235" text="Canterion" />
+        <string id="ROT01235" text="{.M}{.S}Canterion" />
 
-        <string id="ROT01236" text="Selhorys" />
+        <string id="ROT01236" text="{.M}{.S}Selhorys" />
 
-        <string id="ROT01237" text="Lanthas" />
+        <string id="ROT01237" text="{.M}{.S}Lanthas" />
 
-        <string id="ROT01238" text="Lartusys" />
+        <string id="ROT01238" text="{.M}{.S}Lartusys" />
 
-        <string id="ROT01239" text="Parasemnos" />
+        <string id="ROT01239" text="{.M}{.S}Parasemnos" />
 
-        <string id="ROT01240" text="Qohor" />
+        <string id="ROT01240" text="{.M}{.S}Qohor" />
 
-        <string id="ROT01241" text="Saldannis" />
+        <string id="ROT01241" text="{.M}{.S}Saldannis" />
 
-        <string id="ROT01242" text="Spotia" />
+        <string id="ROT01242" text="{.M}{.S}Spotia" />
 
-        <string id="ROT01243" text="Amycon" />
+        <string id="ROT01243" text="{.M}{.S}Amycon" />
 
-        <string id="ROT01244" text="Chutebourg" />
+        <string id="ROT01244" text="{.M}{.S}Chutebourg" />
 
-        <string id="ROT01245" text="Herbeval" />
+        <string id="ROT01245" text="{.M}{.S}Herbeval" />
 
-        <string id="ROT01246" text="Roseraies" />
+        <string id="ROT01246" text="{.M}{.S}Roseraies" />
 
-        <string id="ROT01247" text="Eunalica" />
+        <string id="ROT01247" text="{.M}{.S}Eunalica" />
 
         <string id="ROT01248" text="La Brûlée-Froideseaux" />
 
-        <string id="ROT01249" text="Gull Point" />
+        <string id="ROT01249" text="{.M}{.S}Gull Point" />
 
-        <string id="ROT01250" text="Forchant" />
+        <string id="ROT01250" text="{.M}{.S}Forchant" />
 
-        <string id="ROT01251" text="Driftwood" />
+        <string id="ROT01251" text="{.M}{.S}Driftwood" />
 
-        <string id="ROT01252" text="Cormartel" />
+        <string id="ROT01252" text="{.M}{.S}Cormartel" />
 
-        <string id="ROT01253" text="Fouillade" />
+        <string id="ROT01253" text="{.M}{.S}Fouillade" />
 
-        <string id="ROT01254" text="Cornebourg" />
+        <string id="ROT01254" text="{.M}{.S}Cornebourg" />
 
-        <string id="ROT01255" text="Lumière Isolée" />
+        <string id="ROT01255" text="{.M}{.S}Lumière Isolée" />
 
-        <string id="ROT01256" text="Bourgkraken" />
+        <string id="ROT01256" text="{.M}{.S}Bourgkraken" />
 
-        <string id="ROT01257" text="Sealskin Point" />
+        <string id="ROT01257" text="{.M}{.S}Sealskin Point" />
 
-        <string id="ROT01258" text="Manoir de Craster" />
+        <string id="ROT01258" text="{.M}{.S}Manoir de Craster" />
 
         <string id="ROT01259" text="Le Col Museux" />
 
-        <string id="ROT01260" text="L'Arbre blanc" />
+        <string id="ROT01260" text="{.M}{.S}L'Arbre blanc" />
 
-        <string id="ROT01261" text="Poing des Premiers Hommes" />
+        <string id="ROT01261" text="{.M}{.S}Poing des Premiers Hommes" />
 
-        <string id="ROT01262" text="Laiteuse" />
+        <string id="ROT01262" text="{.F}{.S}Laiteuse" />
 
-        <string id="ROT01263" text="Repayre Patybulayre" />
+        <string id="ROT01263" text="{.M}{.S}Repayre Patybulayre" />
 
-        <string id="ROT01264" text="Combebrune" />
+        <string id="ROT01264" text="{.M}{.S}Combebrune" />
 
-        <string id="ROT01265" text="Quart-Torrhen" />
+        <string id="ROT01265" text="{.M}{.S}Quart-Torrhen" />
 
-        <string id="ROTlakepoint" text="Pointe-du-lac" />
+        <string id="ROTlakepoint" text="{.M}{.S}Pointe-du-lac" />
 
-        <string id="ROT01267" text="Sortonne" />
+        <string id="ROT01267" text="{.F}{.S}Sortonne" />
 
-        <string id="ROT01268" text="Petitesoeur" />
+        <string id="ROT01268" text="{.F}{.S}Petitesoeur" />
 
-        <string id="ROT01269" text="Hill Hall" />
+        <string id="ROT01269" text="{.M}{.S}Hill Hall" />
 
-        <string id="ROT01270" text="Dolcesoeur" />
+        <string id="ROT01270" text="{.F}{.S}Dolcesoeur" />
 
-        <string id="ROT01271" text="Lordsport" />
+        <string id="ROT01271" text="{.M}{.S}Lordsport" />
 
-        <string id="ROT01272" text="Volmark" />
+        <string id="ROT01272" text="{.M}{.S}Volmark" />
 
-        <string id="ROT01273" text="Salrivage" />
+        <string id="ROT01273" text="{.M}{.S}Salrivage" />
 
-        <string id="ROT01274" text="Halte-aux-corbeaux" />
+        <string id="ROT01274" text="{.F}{.S}Halte-aux-corbeaux" />
 
-        <string id="ROT01275" text="Pyke" />
+        <string id="ROT01275" text="{.M}{.S}Pyke" />
 
-        <string id="ROT01276" text="Shatterstone" />
+        <string id="ROT01276" text="{.M}{.S}Shatterstone" />
 
-        <string id="ROT01277" text="Delvin" />
+        <string id="ROT01277" text="{.M}{.S}Delvin" />
 
-        <string id="ROT01278" text="Camp de Crocgivre" />
+        <string id="ROT01278" text="{.M}{.S}Camp de Crocgivre" />
 
         <string id="ROT01279" text="La Chaussée du Géant" />
 
-        <string id="ROT01280" text="Cavalié" />
+        <string id="ROT01280" text="{.M}{.S}Cavalié" />
 
-        <string id="ROT01281" text="Cramoisi" />
+        <string id="ROT01281" text="{.M}{.S}Cramoisi" />
 
-        <string id="ROT01282" text="Épois" />
+        <string id="ROT01282" text="{.M}{.S}Épois" />
 
-        <string id="ROT01283" text="Carène" />
+        <string id="ROT01283" text="{.M}{.S}Carène" />
 
-        <string id="ROT01284" text="Marée Haute" />
+        <string id="ROT01284" text="{.F}{.S}Marée Haute" />
 
-        <string id="ROT01285" text="Port-d'Épice" />
+        <string id="ROT01285" text="{.M}{.S}Port-d'Épice" />
 
-        <string id="ROT01286" text="Grotte-aux-Ours" />
+        <string id="ROT01286" text="{.F}{.S}Grotte-aux-Ours" />
 
-        <string id="ROT01287" text="Thenn" />
+        <string id="ROT01287" text="{.M}{.S}Thenn" />
 
-        <string id="ROT01288" text="Vallée des Thenn" />
+        <string id="ROT01288" text="{.F}{.S}Vallée des Thenn" />
 
-        <string id="ROT01289" text="Crowgrave" />
+        <string id="ROT01289" text="{.M}{.S}Crowgrave" />
 
-        <string id="ROT01290" text="Grotte givrée" />
+        <string id="ROT01290" text="{.F}{.S}Grotte givrée" />
 
-        <string id="ROT01291" text="Durlieu" />
+        <string id="ROT01291" text="{.M}{.S}Durlieu" />
 
-        <string id="ROT01292" text="Falaise de Glace" />
+        <string id="ROT01292" text="{.F}{.S}Falaise de Glace" />
 
-        <string id="ROT01293" text="Storrold" />
+        <string id="ROT01293" text="{.M}{.S}Storrold" />
 
         <string id="ROT01294" text="La Crique de Lyme" />
 
-        <string id="ROT01295" text="Denfert" />
+        <string id="ROT01295" text="{.M}{.S}Denfert" />
 
-        <string id="ROT01296" text="Franrivage" />
+        <string id="ROT01296" text="{.M}{.S}Franrivage" />
 
-        <string id="ROT01297" text="Alnor" />
+        <string id="ROT01297" text="{.M}{.S}Alnor" />
 
-        <string id="ROT01298" text="Sahel" />
+        <string id="ROT01298" text="{.M}{.S}Sahel" />
 
-        <string id="ROT01299" text="Asmait" />
+        <string id="ROT01299" text="{.M}{.S}Asmait" />
 
-        <string id="ROT01300" text="Ferboys" />
+        <string id="ROT01300" text="{.M}{.S}Ferboys" />
 
-        <string id="ROT01301" text="Fléau" />
+        <string id="ROT01301" text="{.M}{.S}Fléau" />
 
-        <string id="ROT01302" text="Falaises Rouges" />
+        <string id="ROT01302" text="{.M}{.S}Falaises Rouges" />
 
         <string id="ROT01303" text="La Tombe-du-Roy" />
 
         <string id="ROT01304" text="Les Osseux" />
 
-        <string id="ROT01305" text="Sabrecaux" />
+        <string id="ROT01305" text="{.M}{.S}Sabrecaux" />
 
-        <string id="ROT01306" text="L'Arbre des Couronnes" />
+        <string id="ROT01306" text="{.M}{.S}L'Arbre des Couronnes" />
 
-        <string id="ROT01307" text="Jamayeh" />
+        <string id="ROT01307" text="{.M}{.S}Jamayeh" />
 
-        <string id="ROT01308" text="Borash" />
+        <string id="ROT01308" text="{.M}{.S}Borash" />
 
-        <string id="ROT01309" text="Shibal Zumr" />
+        <string id="ROT01309" text="{.M}{.S}Shibal Zumr" />
 
-        <string id="ROT01310" text="Wyl" />
+        <string id="ROT01310" text="{.M}{.S}Wyl" />
 
-        <string id="ROT01311" text="Perche-Vautour" />
+        <string id="ROT01311" text="{.M}{.S}Perche-Vautour" />
 
-        <string id="ROT01312" text="Col Rouge" />
+        <string id="ROT01312" text="{.M}{.S}Col Rouge" />
 
-        <string id="ROT01313" text="Chroyane" />
+        <string id="ROT01313" text="{.M}{.S}Chroyane" />
 
-        <string id="ROT01314" text="Tamnuh" />
+        <string id="ROT01314" text="{.M}{.S}Tamnuh" />
 
-        <string id="ROT01315" text="Sar Mell" />
+        <string id="ROT01315" text="{.M}{.S}Sar Mell" />
 
-        <string id="ROT01316" text="Barihal" />
+        <string id="ROT01316" text="{.M}{.S}Barihal" />
 
-        <string id="ROT01317" text="Lancehélion" />
+        <string id="ROT01317" text="{.M}{.S}Lancehélion" />
 
-        <string id="ROT01318" text="Bois-moucheté" />
+        <string id="ROT01318" text="{.M}{.S}Bois-moucheté" />
 
-        <string id="ROT01319" text="Rocheplate" />
+        <string id="ROT01319" text="{.M}{.S}Rocheplate" />
 
-        <string id="ROT01320" text="Rochesec" />
+        <string id="ROT01320" text="{.M}{.S}Rochesec" />
 
         <string id="ROT01321" text="Les Jardins Aquatiques" />
 
-        <string id="ROT01322" text="Astapor" />
+        <string id="ROT01322" text="{.M}{.S}Astapor" />
 
-        <string id="ROT01323" text="Lamesa" />
+        <string id="ROT01323" text="{.M}{.S}Lamesa" />
 
-        <string id="ROT01324" text="Abu Khih" />
+        <string id="ROT01324" text="{.M}{.S}Abu Khih" />
 
-        <string id="ROT01325" text="Hoqqa" />
+        <string id="ROT01325" text="{.M}{.S}Hoqqa" />
 
-        <string id="ROT01326" text="Yunkai" />
+        <string id="ROT01326" text="{.M}{.S}Yunkai" />
 
-        <string id="ROT01327" text="Abba" />
+        <string id="ROT01327" text="{.M}{.S}Abba" />
 
-        <string id="ROT01328" text="Hunab" />
+        <string id="ROT01328" text="{.M}{.S}Hunab" />
 
-        <string id="ROT01329" text="Bir Seif" />
+        <string id="ROT01329" text="{.M}{.S}Bir Seif" />
 
-        <string id="ROT01330" text="Lys" />
+        <string id="ROT01330" text="{.M}{.S}Lys" />
 
-        <string id="ROT01331" text="Qablab" />
+        <string id="ROT01331" text="{.M}{.S}Qablab" />
 
-        <string id="ROT01332" text="Mussum" />
+        <string id="ROT01332" text="{.M}{.S}Mussum" />
 
-        <string id="ROT01333" text="Kuqa" />
+        <string id="ROT01333" text="{.M}{.S}Kuqa" />
 
-        <string id="ROT01334" text="Doqa" />
+        <string id="ROT01334" text="{.M}{.S}Doqa" />
 
-        <string id="ROT01335" text="Tyrosh" />
+        <string id="ROT01335" text="{.M}{.S}Tyrosh" />
 
-        <string id="ROT01336" text="Mahloul" />
+        <string id="ROT01336" text="{.M}{.S}Mahloul" />
 
-        <string id="ROT01337" text="Liwas" />
+        <string id="ROT01337" text="{.M}{.S}Liwas" />
 
-        <string id="ROT01338" text="Waltas" />
+        <string id="ROT01338" text="{.M}{.S}Waltas" />
 
-        <string id="ROT01339" text="Vaith" />
+        <string id="ROT01339" text="{.M}{.S}Vaith" />
 
-        <string id="ROT01340" text="Sang-vert" />
+        <string id="ROT01340" text="{.M}{.S}Sang-vert" />
 
-        <string id="ROT01341" text="Baie salée" />
+        <string id="ROT01341" text="{.F}{.S}Baie salée" />
 
         <string id="ROT01342" text="La Grâcedieu" />
 
-        <string id="ROT01343" text="Dunes Rouges" />
+        <string id="ROT01343" text="{.M}{.S}Dunes Rouges" />
 
-        <string id="ROT01344" text="Bourg-Cabanes" />
+        <string id="ROT01344" text="{.M}{.S}Bourg-Cabanes" />
 
-        <string id="ROT01345" text="Wadar" />
+        <string id="ROT01345" text="{.M}{.S}Wadar" />
 
-        <string id="ROT01346" text="Salrivage" />
+        <string id="ROT01346" text="{.M}{.S}Salrivage" />
 
-        <string id="ROT01347" text="Roche Panachée" />
+        <string id="ROT01347" text="{.M}{.S}Roche Panachée" />
 
-        <string id="ROT01348" text="Boycitre" />
+        <string id="ROT01348" text="{.M}{.S}Boycitre" />
 
-        <string id="ROT01349" text="Myr" />
+        <string id="ROT01349" text="{.M}{.S}Myr" />
 
-        <string id="ROT01350" text="Ezbet Nahul" />
+        <string id="ROT01350" text="{.M}{.S}Ezbet Nahul" />
 
-        <string id="ROT01351" text="Abghan" />
+        <string id="ROT01351" text="{.M}{.S}Abghan" />
 
-        <string id="ROT01352" text="Corcolline" />
+        <string id="ROT01352" text="{.M}{.S}Corcolline" />
 
-        <string id="ROT01353" text="Petrebourg" />
+        <string id="ROT01353" text="{.M}{.S}Petrebourg" />
 
-        <string id="ROT01354" text="Noircouronne" />
+        <string id="ROT01354" text="{.M}{.S}Noircouronne" />
 
-        <string id="ROT01355" text="Soleilcouchant" />
+        <string id="ROT01355" text="{.M}{.S}Soleilcouchant" />
 
-        <string id="ROT01356" text="Ouestrive" />
+        <string id="ROT01356" text="{.M}{.S}Ouestrive" />
 
-        <string id="ROT01357" text="Crakehall" />
+        <string id="ROT01357" text="{.M}{.S}Crakehall" />
 
-        <string id="ROT01358" text="Bois-du-Soleil-Couchant" />
+        <string id="ROT01358" text="{.M}{.S}Bois-du-Soleil-Couchant" />
 
-        <string id="ROT01359" text="Donjon de Clegane" />
+        <string id="ROT01359" text="{.M}{.S}Donjon de Clegane" />
 
-        <string id="ROT01360" text="Chienbourg" />
+        <string id="ROT01360" text="{.M}{.S}Chienbourg" />
 
-        <string id="ROT01361" text="Castral Roc" />
+        <string id="ROT01361" text="{.M}{.S}Castral Roc" />
 
-        <string id="ROT01362" text="Hauteroche" />
+        <string id="ROT01362" text="{.M}{.S}Hauteroche" />
 
-        <string id="ROT01363" text="Rockford" />
+        <string id="ROT01363" text="{.M}{.S}Rockford" />
 
         <string id="ROT01364" text="La Dent d'Or" />
 
-        <string id="ROT01365" text="Croixboeuf" />
+        <string id="ROT01365" text="{.M}{.S}Croixboeuf" />
 
-        <string id="ROT01366" text="Trounonnain" />
+        <string id="ROT01366" text="{.M}{.S}Trounonnain" />
 
-        <string id="ROT01367" text="Solfoyer" />
+        <string id="ROT01367" text="{.M}{.S}Solfoyer" />
 
-        <string id="ROT01368" text="Tournesol" />
+        <string id="ROT01368" text="{.M}{.S}Tournesol" />
 
-        <string id="ROT01369" text="Boisdoré" />
+        <string id="ROT01369" text="{.M}{.S}Boisdoré" />
 
-        <string id="ROT01370" text="Appleton" />
+        <string id="ROT01370" text="{.M}{.S}Appleton" />
 
-        <string id="ROT01371" text="Cendregué" />
+        <string id="ROT01371" text="{.M}{.S}Cendregué" />
 
-        <string id="ROT01372" text="Cidre" />
+        <string id="ROT01372" text="{.M}{.S}Cidre" />
 
-        <string id="ROT01373" text="Longuetable" />
+        <string id="ROT01373" text="{.M}{.S}Longuetable" />
 
-        <string id="ROT01374" text="Solmine" />
+        <string id="ROT01374" text="{.M}{.S}Solmine" />
 
-        <string id="ROT01375" text="Vivesaigues" />
+        <string id="ROT01375" text="{.M}{.S}Vivesaigues" />
 
-        <string id="ROT01376" text="Anse-Sombrecul" />
+        <string id="ROT01376" text="{.M}{.S}Anse-Sombrecul" />
 
-        <string id="ROT01377" text="Willow Wood" />
+        <string id="ROT01377" text="{.M}{.S}Willow Wood" />
 
-        <string id="ROT01378" text="Forlane" />
+        <string id="ROT01378" text="{.M}{.S}Forlane" />
 
-        <string id="ROT01379" text="Marche du Nord" />
+        <string id="ROT01379" text="{.M}{.S}Marche du Nord" />
 
-        <string id="ROT01380" text="Pierremoûtier" />
+        <string id="ROT01380" text="{.M}{.S}Pierremoûtier" />
 
-        <string id="ROT01381" text="Rougelac" />
+        <string id="ROT01381" text="{.M}{.S}Rougelac" />
 
-        <string id="ROT01382" text="Blanchépine" />
+        <string id="ROT01382" text="{.M}{.S}Blanchépine" />
 
-        <string id="ROT01383" text="L'Arbre-sous" />
+        <string id="ROT01383" text="{.M}{.S}L'Arbre-sous" />
 
-        <string id="ROT01384" text="Pont l'Ald" />
+        <string id="ROT01384" text="{.M}{.S}Pont l'Ald" />
 
-        <string id="ROT01385" text="Hautjardin" />
+        <string id="ROT01385" text="{.M}{.S}Hautjardin" />
 
-        <string id="ROT01386" text="Manderbank" />
+        <string id="ROT01386" text="{.M}{.S}Manderbank" />
 
-        <string id="ROT01387" text="Boisblanc" />
+        <string id="ROT01387" text="{.M}{.S}Boisblanc" />
 
-        <string id="ROT01388" text="Arbrebaies" />
+        <string id="ROT01388" text="{.M}{.S}Arbrebaies" />
 
-        <string id="ROT01389" text="Villevieille" />
+        <string id="ROT01389" text="{.M}{.S}Villevieille" />
 
-        <string id="ROT01390" text="Murmure" />
+        <string id="ROT01390" text="{.M}{.S}Murmure" />
 
-        <string id="ROT01391" text="Honeybank" />
+        <string id="ROT01391" text="{.M}{.S}Honeybank" />
 
-        <string id="ROT01392" text="Baie de Redwyne" />
+        <string id="ROT01392" text="{.F}{.S}Baie de Redwyne" />
 
-        <string id="ROT01393" text="Beehive" />
+        <string id="ROT01393" text="{.M}{.S}Beehive" />
 
         <string id="ROT01394" text="La Treille" />
 
-        <string id="ROT01395" text="Ramsport" />
+        <string id="ROT01395" text="{.M}{.S}Ramsport" />
 
-        <string id="ROT01396" text="Boisraisin" />
+        <string id="ROT01396" text="{.M}{.S}Boisraisin" />
 
-        <string id="ROT01397" text="Kayce" />
+        <string id="ROT01397" text="{.M}{.S}Kayce" />
 
-        <string id="ROT01398" text="Bellevue" />
+        <string id="ROT01398" text="{.M}{.S}Bellevue" />
 
-        <string id="ROT01399" text="Fils-de-Putain" />
+        <string id="ROT01399" text="{.M}{.S}Fils-de-Putain" />
 
-        <string id="ROT01400" text="Feux-de-Joie" />
+        <string id="ROT01400" text="{.M}{.S}Feux-de-Joie" />
 
-        <string id="ROT01401" text="Port-Lannis" />
+        <string id="ROT01401" text="{.M}{.S}Port-Lannis" />
 
-        <string id="ROT01402" text="Lonely Slo" />
+        <string id="ROT01402" text="{.M}{.S}Lonely Slo" />
 
-        <string id="ROT01403" text="Repos-de-l'Océan" />
+        <string id="ROT01403" text="{.M}{.S}Repos-de-l'Océan" />
 
-        <string id="ROT01404" text="Moat Cailin" />
+        <string id="ROT01404" text="{.M}{.S}Moat Cailin" />
 
-        <string id="ROT01405" text="Brume-au-loin" />
+        <string id="ROT01405" text="{.M}{.S}Brume-au-loin" />
 
-        <string id="ROT01406" text="Fort-Griseaux" />
+        <string id="ROT01406" text="{.M}{.S}Fort-Griseaux" />
 
-        <string id="ROT01407" text="Fèvrebourg" />
+        <string id="ROT01407" text="{.M}{.S}Fèvrebourg" />
 
-        <string id="ROT01408" text="Grismarais" />
+        <string id="ROT01408" text="{.M}{.S}Grismarais" />
 
-        <string id="ROT01409" text="Donjon Mormont" />
+        <string id="ROT01409" text="{.M}{.S}Donjon Mormont" />
 
-        <string id="ROT01410" text="Mines-aux-Ours" />
+        <string id="ROT01410" text="{.M}{.S}Mines-aux-Ours" />
 
-        <string id="ROT01411" text="Pouce-Flint" />
+        <string id="ROT01411" text="{.M}{.S}Pouce-Flint" />
 
-        <string id="ROT01412" text="Falaises de Flint" />
+        <string id="ROT01412" text="{.M}{.S}Falaises de Flint" />
 
-        <string id="ROT01413" text="Coviso" />
+        <string id="ROT01413" text="{.M}{.S}Coviso" />
 
-        <string id="ROT01414" text="Quozo" />
+        <string id="ROT01414" text="{.M}{.S}Quozo" />
 
-        <string id="ROT01415" text="Tybro" />
+        <string id="ROT01415" text="{.M}{.S}Tybro" />
 
-        <string id="ROT01416" text="Donjon Norroit" />
+        <string id="ROT01416" text="{.M}{.S}Donjon Norroit" />
 
-        <string id="ROT01417" text="Chute-de-Neige" />
+        <string id="ROT01417" text="{.M}{.S}Chute-de-Neige" />
 
-        <string id="ROT01418" text="Wolfsend" />
+        <string id="ROT01418" text="{.M}{.S}Wolfsend" />
 
-        <string id="ROT01419" text="Tour Ombreuse" />
+        <string id="ROT01419" text="{.M}{.S}Tour Ombreuse" />
 
-        <string id="ROT01420" text="Ornstead" />
+        <string id="ROT01420" text="{.M}{.S}Ornstead" />
 
-        <string id="ROT01421" text="Fort-Levant" />
+        <string id="ROT01421" text="{.M}{.S}Fort-Levant" />
 
-        <string id="ROT01422" text="Sheepstow" />
+        <string id="ROT01422" text="{.M}{.S}Sheepstow" />
 
-        <string id="ROT01423" text="Beaumarché" />
+        <string id="ROT01423" text="{.M}{.S}Beaumarché" />
 
-        <string id="ROT01424" text="Followfork" />
+        <string id="ROT01424" text="{.M}{.S}Followfork" />
 
-        <string id="ROT01425" text="Tomballuve" />
+        <string id="ROT01425" text="{.M}{.S}Tomballuve" />
 
-        <string id="ROT01426" text="Plan-d'Agne" />
+        <string id="ROT01426" text="{.M}{.S}Plan-d'Agne" />
 
-        <string id="ROT01427" text="Monger's Hog" />
+        <string id="ROT01427" text="{.M}{.S}Monger's Hog" />
 
-        <string id="ROT01428" text="Winterfell" />
+        <string id="ROT01428" text="{.M}{.S}Winterfell" />
 
-        <string id="ROT01429" text="Tour Éparse" />
+        <string id="ROT01429" text="{.M}{.S}Tour Éparse" />
 
         <string id="ROT01430" text="Le Gland" />
 
-        <string id="ROT01431" text="Rivière Blanche" />
+        <string id="ROT01431" text="{.M}{.S}Rivière Blanche" />
 
-        <string id="ROT01432" text="Vieux-Chêne" />
+        <string id="ROT01432" text="{.M}{.S}Vieux-Chêne" />
 
-        <string id="ROT01433" text="Cap Kraken" />
+        <string id="ROT01433" text="{.M}{.S}Cap Kraken" />
 
-        <string id="ROT01434" text="Blancport" />
+        <string id="ROT01434" text="{.M}{.S}Blancport" />
 
-        <string id="ROT01435" text="Lisière grise" />
+        <string id="ROT01435" text="{.M}{.S}Lisière grise" />
 
-        <string id="ROT01436" text="Blanchedague" />
+        <string id="ROT01436" text="{.M}{.S}Blanchedague" />
 
-        <string id="ROT01437" text="Brèchesaigue" />
+        <string id="ROT01437" text="{.M}{.S}Brèchesaigue" />
 
-        <string id="ROT01438" text="Bear Village" />
+        <string id="ROT01438" text="{.M}{.S}Bear Village" />
 
-        <string id="ROT01439" text="Tertre-bourg" />
+        <string id="ROT01439" text="{.M}{.S}Tertre-bourg" />
 
-        <string id="ROT01440" text="Pierrivage" />
+        <string id="ROT01440" text="{.M}{.S}Pierrivage" />
 
-        <string id="ROT01441" text="Fjord de Piquesel" />
+        <string id="ROT01441" text="{.M}{.S}Fjord de Piquesel" />
 
-        <string id="ROT01442" text="Crête d'or" />
+        <string id="ROT01442" text="{.M}{.S}Crête d'or" />
 
-        <string id="ROT01443" text="Écuries des Tertres" />
+        <string id="ROT01443" text="{.M}{.S}Écuries des Tertres" />
 
-        <string id="ROT01444" text="Hogton" />
+        <string id="ROT01444" text="{.M}{.S}Hogton" />
 
-        <string id="ROT01445" text="Châteaunoir" />
+        <string id="ROT01445" text="{.M}{.S}Châteaunoir" />
 
-        <string id="ROT01446" text="Tête-de-la-Reine" />
+        <string id="ROT01446" text="{.M}{.S}Tête-de-la-Reine" />
 
         <string id="ROT01447" text="La Mole" />
 
-        <string id="ROT01448" text="Reine-Couronne" />
+        <string id="ROT01448" text="{.M}{.S}Reine-Couronne" />
 
         <string id="ROT01449" text="La Flaque" />
 
-        <string id="ROT01450" text="Oros" />
+        <string id="ROT01450" text="{.M}{.S}Oros" />
 
-        <string id="ROT01451" text="Usek" />
+        <string id="ROT01451" text="{.M}{.S}Usek" />
 
-        <string id="ROT01452" text="Esme" />
+        <string id="ROT01452" text="{.M}{.S}Esme" />
 
-        <string id="ROT01453" text="Hesh" />
+        <string id="ROT01453" text="{.M}{.S}Hesh" />
 
-        <string id="ROT01454" text="Akiser" />
+        <string id="ROT01454" text="{.M}{.S}Akiser" />
 
-        <string id="ROT01455" text="Vaes Athjikhari" />
+        <string id="ROT01455" text="{.M}{.S}Vaes Athjikhari" />
 
-        <string id="ROT01456" text="Hakkun" />
+        <string id="ROT01456" text="{.M}{.S}Hakkun" />
 
-        <string id="ROT01457" text="Vaes Leisi" />
+        <string id="ROT01457" text="{.M}{.S}Vaes Leisi" />
 
-        <string id="ROT01458" text="Tepes" />
+        <string id="ROT01458" text="{.M}{.S}Tepes" />
 
-        <string id="ROT01459" text="Mardosh" />
+        <string id="ROT01459" text="{.M}{.S}Mardosh" />
 
-        <string id="ROT01460" text="Khimli" />
+        <string id="ROT01460" text="{.M}{.S}Khimli" />
 
-        <string id="ROT01461" text="Castelpluie" />
+        <string id="ROT01461" text="{.M}{.S}Castelpluie" />
 
-        <string id="ROT01462" text="Amberly" />
+        <string id="ROT01462" text="{.M}{.S}Amberly" />
 
-        <string id="ROT01463" text="Far's End" />
+        <string id="ROT01463" text="{.M}{.S}Far's End" />
 
-        <string id="ROT01464" text="Vaes Efe" />
+        <string id="ROT01464" text="{.M}{.S}Vaes Efe" />
 
-        <string id="ROT01465" text="Simira" />
+        <string id="ROT01465" text="{.M}{.S}Simira" />
 
-        <string id="ROT01466" text="Cerwyn" />
+        <string id="ROT01466" text="{.M}{.S}Cerwyn" />
 
-        <string id="ROT01467" text="Fièvre" />
+        <string id="ROT01467" text="{.M}{.S}Fièvre" />
 
-        <string id="ROT01468" text="Corbois" />
+        <string id="ROT01468" text="{.M}{.S}Corbois" />
 
-        <string id="ROT01469" text="Sheep's Head" />
+        <string id="ROT01469" text="{.M}{.S}Sheep's Head" />
 
-        <string id="ROT01470" text="Larmoyante" />
+        <string id="ROT01470" text="{.M}{.S}Larmoyante" />
 
-        <string id="ROT01471" text="Meereen" />
+        <string id="ROT01471" text="{.M}{.S}Meereen" />
 
-        <string id="ROT01472" text="Fisnar" />
+        <string id="ROT01472" text="{.M}{.S}Fisnar" />
 
-        <string id="ROT01473" text="Ulaan" />
+        <string id="ROT01473" text="{.M}{.S}Ulaan" />
 
-        <string id="ROT01474" text="Kuruluk" />
+        <string id="ROT01474" text="{.M}{.S}Kuruluk" />
 
-        <string id="ROT01475" text="Asalig" />
+        <string id="ROT01475" text="{.M}{.S}Asalig" />
 
-        <string id="ROT01476" text="Mantarys" />
+        <string id="ROT01476" text="{.M}{.S}Mantarys" />
 
-        <string id="ROT01477" text="Karakalat" />
+        <string id="ROT01477" text="{.M}{.S}Karakalat" />
 
-        <string id="ROT01478" text="Tismil" />
+        <string id="ROT01478" text="{.M}{.S}Tismil" />
 
-        <string id="ROT01479" text="Certown" />
+        <string id="ROT01479" text="{.M}{.S}Certown" />
 
-        <string id="ROT01480" text="Kiraz" />
+        <string id="ROT01480" text="{.M}{.S}Kiraz" />
 
-        <string id="ROT01481" text="Vaes Dothrak" />
+        <string id="ROT01481" text="{.M}{.S}Vaes Dothrak" />
 
-        <string id="ROT01482" text="Shapeshte" />
+        <string id="ROT01482" text="{.M}{.S}Shapeshte" />
 
-        <string id="ROT01483" text="Hanekhy" />
+        <string id="ROT01483" text="{.M}{.S}Hanekhy" />
 
-        <string id="ROT01484" text="Mazen" />
+        <string id="ROT01484" text="{.M}{.S}Mazen" />
 
-        <string id="ROT01485" text="Vaes Diaf" />
+        <string id="ROT01485" text="{.M}{.S}Vaes Diaf" />
 
-        <string id="ROT01486" text="Omrotok" />
+        <string id="ROT01486" text="{.M}{.S}Omrotok" />
 
-        <string id="ROT01487" text="Ransam" />
+        <string id="ROT01487" text="{.M}{.S}Ransam" />
 
-        <string id="ROT01488" text="Mivanjan" />
+        <string id="ROT01488" text="{.M}{.S}Mivanjan" />
 
-        <string id="ROT01489" text="Urunjan" />
+        <string id="ROT01489" text="{.M}{.S}Urunjan" />
 
-        <string id="ROT01490" text="Kyth" />
+        <string id="ROT01490" text="{.M}{.S}Kyth" />
 
-        <string id="ROT01491" text="Kamshar" />
+        <string id="ROT01491" text="{.M}{.S}Kamshar" />
 
-        <string id="ROT01492" text="Okhutan" />
+        <string id="ROT01492" text="{.M}{.S}Okhutan" />
 
-        <string id="ROT01493" text="Ispantar" />
+        <string id="ROT01493" text="{.M}{.S}Ispantar" />
 
-        <string id="ROT01494" text="Pabastan" />
+        <string id="ROT01494" text="{.M}{.S}Pabastan" />
 
-        <string id="ROT01495" text="Saath" />
+        <string id="ROT01495" text="{.M}{.S}Saath" />
 
-        <string id="ROT01496" text="Karahan" />
+        <string id="ROT01496" text="{.M}{.S}Karahan" />
 
-        <string id="ROT01497" text="Nutyuk" />
+        <string id="ROT01497" text="{.M}{.S}Nutyuk" />
 
-        <string id="ROT01498" text="Danara" />
+        <string id="ROT01498" text="{.M}{.S}Danara" />
 
-        <string id="ROT01499" text="Kohi Ajik" />
+        <string id="ROT01499" text="{.M}{.S}Kohi Ajik" />
 
-        <string id="ROT03102" text="Fort-Terreur" />
+        <string id="ROT03102" text="{.M}{.S}Fort-Terreur" />
 
-        <string id="ROT03103" text="Terreurbourg" />
+        <string id="ROT03103" text="{.M}{.S}Terreurbourg" />
 
-        <string id="ROT03104" text="Ultime" />
+        <string id="ROT03104" text="{.M}{.S}Ultime" />
 
-        <string id="ROT03105" text="Pinestraw" />
+        <string id="ROT03105" text="{.M}{.S}Pinestraw" />
 
-        <string id="ROT03106" text="Blanchefourche" />
+        <string id="ROT03106" text="{.M}{.S}Blanchefourche" />
 
-        <string id="ROT03107" text="White Shore" />
+        <string id="ROT03107" text="{.M}{.S}White Shore" />
 
-        <string id="ROT03108" text="Ghostcreek" />
+        <string id="ROT03108" text="{.M}{.S}Ghostcreek" />
 
-        <string id="ROT03109" text="Frostbank" />
+        <string id="ROT03109" text="{.M}{.S}Frostbank" />
 
-        <string id="ROT03110" text="Motte-la-Forêt" />
+        <string id="ROT03110" text="{.M}{.S}Motte-la-Forêt" />
 
-        <string id="ROT03111" text="Crofter's Village" />
+        <string id="ROT03111" text="{.M}{.S}Crofter's Village" />
 
-        <string id="ROT03112" text="Pinebluff" />
+        <string id="ROT03112" text="{.M}{.S}Pinebluff" />
 
-        <string id="ROT03113" text="Bois-aux-Loups" />
+        <string id="ROT03113" text="{.M}{.S}Bois-aux-Loups" />
 
         <string id="ROT03114" text="Les Jumeaux" />
 
-        <string id="ROT03115" text="Trident" />
+        <string id="ROT03115" text="{.M}{.S}Trident" />
 
-        <string id="ROT03116" text="Ombre de la Montagne" />
+        <string id="ROT03116" text="{.M}{.S}Ombre de la Montagne" />
 
-        <string id="ROT03117" text="Harborview" />
+        <string id="ROT03117" text="{.M}{.S}Harborview" />
 
-        <string id="ROT03118" text="Herpivoie" />
+        <string id="ROT03118" text="{.M}{.S}Herpivoie" />
 
-        <string id="ROT03119" text="Croix des Ormes" />
+        <string id="ROT03119" text="{.M}{.S}Croix des Ormes" />
 
-        <string id="ROT03120" text="Courberive" />
+        <string id="ROT03120" text="{.M}{.S}Courberive" />
 
-        <string id="ROT03121" text="Gué des Rubis" />
+        <string id="ROT03121" text="{.M}{.S}Gué des Rubis" />
 
-        <string id="ROT03122" text="Donjon Celtigar" />
+        <string id="ROT03122" text="{.M}{.S}Donjon Celtigar" />
 
-        <string id="ROT03123" text="Claquepinces" />
+        <string id="ROT03123" text="{.M}{.S}Claquepinces" />
 
-        <string id="ROT03124" text="Chuchotebourg" />
+        <string id="ROT03124" text="{.M}{.S}Chuchotebourg" />
 
-        <string id="ROT03125" text="Cordial" />
+        <string id="ROT03125" text="{.M}{.S}Cordial" />
 
-        <string id="ROT03126" text="Coeurville" />
+        <string id="ROT03126" text="{.M}{.S}Coeurville" />
 
-        <string id="ROT03127" text="Baelishbourg" />
+        <string id="ROT03127" text="{.M}{.S}Baelishbourg" />
 
-        <string id="ROT03128" text="Finger Market" />
+        <string id="ROT03128" text="{.M}{.S}Finger Market" />
 
-        <string id="ROT03129" text="Noirmarées" />
+        <string id="ROT03129" text="{.M}{.S}Noirmarées" />
 
-        <string id="ROT03130" text="Reaver Rest" />
+        <string id="ROT03130" text="{.M}{.S}Reaver Rest" />
 
-        <string id="ROT03131" text="Noirefalaise" />
+        <string id="ROT03131" text="{.M}{.S}Noirefalaise" />
 
-        <string id="ROT03132" text="Kenning" />
+        <string id="ROT03132" text="{.M}{.S}Kenning" />
 
         <string id="ROT03133" text="La Vesprée" />
 
-        <string id="ROT03134" text="Torth" />
+        <string id="ROT03134" text="{.M}{.S}Torth" />
 
-        <string id="ROT03135" text="Morne" />
+        <string id="ROT03135" text="{.M}{.S}Morne" />
 
-        <string id="ROT03136" text="Salroche" />
+        <string id="ROT03136" text="{.M}{.S}Salroche" />
 
         <string id="ROT03137" text="Les Météores" />
 
-        <string id="ROT03138" text="Torrentine" />
+        <string id="ROT03138" text="{.M}{.S}Torrentine" />
 
-        <string id="ROT03139" text="Torn Red" />
+        <string id="ROT03139" text="{.M}{.S}Torn Red" />
 
-        <string id="ROT03140" text="Rougemines" />
+        <string id="ROT03140" text="{.M}{.S}Rougemines" />
 
-        <string id="ROT03141" text="Bleufurque" />
+        <string id="ROT03141" text="{.M}{.S}Bleufurque" />
 
-        <string id="ROT03142" text="Crabcove" />
+        <string id="ROT03142" text="{.M}{.S}Crabcove" />
 
-        <string id="ROT03143" text="Hard's Own" />
+        <string id="ROT03143" text="{.M}{.S}Hard's Own" />
 
-        <string id="ROT03144" text="Plage du Soleil Couchant" />
+        <string id="ROT03144" text="{.M}{.S}Plage du Soleil Couchant" />
 
-        <string id="ROT03145" text="Villemine" />
+        <string id="ROT03145" text="{.M}{.S}Villemine" />
 
-        <string id="ROT03146" text="Mandermouth" />
+        <string id="ROT03146" text="{.M}{.S}Mandermouth" />
 
-        <string id="ROT03147" text="Coquelle" />
+        <string id="ROT03147" text="{.M}{.S}Coquelle" />
 
-        <string id="ROT03148" text="Brûlebleue" />
+        <string id="ROT03148" text="{.M}{.S}Brûlebleue" />
 
-        <string id="ROT03149" text="Hautesterres" />
+        <string id="ROT03149" text="{.M}{.S}Hautesterres" />
 
-        <string id="ROT03150" text="Redwine Straight" />
+        <string id="ROT03150" text="{.M}{.S}Redwine Straight" />
 
-        <string id="ROT03151" text="Windy Pass" />
+        <string id="ROT03151" text="{.M}{.S}Windy Pass" />
 
-        <string id="ROT03152" text="Copperstone" />
+        <string id="ROT03152" text="{.M}{.S}Copperstone" />
 
-        <string id="ROT03153" text="Marlin" />
+        <string id="ROT03153" text="{.M}{.S}Marlin" />
 
-        <string id="ROT03154" text="Baie noire" />
+        <string id="ROT03154" text="{.F}{.S}Baie noire" />
 
-        <string id="ROT03155" text="Vieux-Pont-de-Pierre" />
+        <string id="ROT03155" text="{.M}{.S}Vieux-Pont-de-Pierre" />
 
-        <string id="ROT03156" text="Gué de la Veuve" />
+        <string id="ROT03156" text="{.M}{.S}Gué de la Veuve" />
 
-        <string id="ROT03157" text="Stonecreek" />
+        <string id="ROT03157" text="{.M}{.S}Stonecreek" />
 
-        <string id="ROT03158" text="Telima" />
+        <string id="ROT03158" text="{.M}{.S}Telima" />
 
-        <string id="ROT03159" text="Lysia" />
+        <string id="ROT03159" text="{.M}{.S}Lysia" />
 
-        <string id="ROT03160" text="Morosh" />
+        <string id="ROT03160" text="{.M}{.S}Morosh" />
 
-        <string id="ROT03161" text="Mejhah" />
+        <string id="ROT03161" text="{.M}{.S}Mejhah" />
 
-        <string id="ROT03162" text="Kamash" />
+        <string id="ROT03162" text="{.M}{.S}Kamash" />
 
-        <string id="ROT03163" text="Vers-le-bourg" />
+        <string id="ROT03163" text="{.M}{.S}Vers-le-bourg" />
 
-        <string id="ROT03164" text="Rhyon" />
+        <string id="ROT03164" text="{.M}{.S}Rhyon" />
 
-        <string id="ROT03165" text="Myriam" />
+        <string id="ROT03165" text="{.M}{.S}Myriam" />
 
-        <string id="ROT03166" text="Vyrios" />
+        <string id="ROT03166" text="{.M}{.S}Vyrios" />
 
-        <string id="ROT03167" text="Qhoyne-le-bourg" />
+        <string id="ROT03167" text="{.M}{.S}Qhoyne-le-bourg" />
 
-        <string id="ROT03168" text="Qhorwood" />
+        <string id="ROT03168" text="{.M}{.S}Qhorwood" />
 
-        <string id="ROT03169" text="Mhysa Faer" />
+        <string id="ROT03169" text="{.M}{.S}Mhysa Faer" />
 
-        <string id="ROT03170" text="Lanthar" />
+        <string id="ROT03170" text="{.M}{.S}Lanthar" />
 
-        <string id="ROT03171" text="Lasco" />
+        <string id="ROT03171" text="{.M}{.S}Lasco" />
 
-        <string id="ROT03172" text="Paras" />
+        <string id="ROT03172" text="{.M}{.S}Paras" />
 
-        <string id="ROT03173" text="Aquos Dhaen" />
+        <string id="ROT03173" text="{.M}{.S}Aquos Dhaen" />
 
-        <string id="ROT03174" text="Abar" />
+        <string id="ROT03174" text="{.M}{.S}Abar" />
 
-        <string id="ROT03175" text="Hoqar" />
+        <string id="ROT03175" text="{.M}{.S}Hoqar" />
 
-        <string id="ROT03176" text="Aqui" />
+        <string id="ROT03176" text="{.M}{.S}Aqui" />
 
-        <string id="ROT03177" text="Myrth" />
+        <string id="ROT03177" text="{.M}{.S}Myrth" />
 
-        <string id="ROT03178" text="Karatha" />
+        <string id="ROT03178" text="{.M}{.S}Karatha" />
 
-        <string id="ROT03179" text="Tasko" />
+        <string id="ROT03179" text="{.M}{.S}Tasko" />
 
-        <string id="ROT03180" text="Sasio" />
+        <string id="ROT03180" text="{.M}{.S}Sasio" />
 
-        <string id="ROT03181" text="Bolozo" />
+        <string id="ROT03181" text="{.M}{.S}Bolozo" />
 
-        <string id="ROT03182" text="Polozi" />
+        <string id="ROT03182" text="{.M}{.S}Polozi" />
 
-        <string id="ROT03183" text="Eskyro" />
+        <string id="ROT03183" text="{.M}{.S}Eskyro" />
 
-        <string id="ROT03184" text="Galino" />
+        <string id="ROT03184" text="{.M}{.S}Galino" />
 
-        <string id="ROT03185" text="Rhyos" />
+        <string id="ROT03185" text="{.M}{.S}Rhyos" />
 
-        <string id="ROT03186" text="Galos" />
+        <string id="ROT03186" text="{.M}{.S}Galos" />
 
-        <string id="ROT03187" text="Theria" />
+        <string id="ROT03187" text="{.M}{.S}Theria" />
 
-        <string id="ROT03188" text="Brasso" />
+        <string id="ROT03188" text="{.M}{.S}Brasso" />
 
-        <string id="ROT03189" text="Tolero Aeksio" />
+        <string id="ROT03189" text="{.M}{.S}Tolero Aeksio" />
 
-        <string id="ROT03190" text="Irksa" />
+        <string id="ROT03190" text="{.M}{.S}Irksa" />
 
-        <string id="ROT03191" text="Temia" />
+        <string id="ROT03191" text="{.M}{.S}Temia" />
 
-        <string id="ROT03192" text="Torys" />
+        <string id="ROT03192" text="{.M}{.S}Torys" />
 
-        <string id="ROT03193" text="Menetragos" />
+        <string id="ROT03193" text="{.M}{.S}Menetragos" />
 
-        <string id="ROT03194" text="Natar" />
+        <string id="ROT03194" text="{.M}{.S}Natar" />
 
-        <string id="ROT03195" text="Sapyr" />
+        <string id="ROT03195" text="{.M}{.S}Sapyr" />
 
-        <string id="ROT03196" text="Sapyr" />
+        <string id="ROT03196" text="{.M}{.S}Sapyr" />
 
-        <string id="ROT03197" text="Draconys" />
+        <string id="ROT03197" text="{.M}{.S}Draconys" />
 
-        <string id="ROT03198" text="Dragar" />
+        <string id="ROT03198" text="{.M}{.S}Dragar" />
 
-        <string id="ROT03199" text="Tybul" />
+        <string id="ROT03199" text="{.M}{.S}Tybul" />
 
-        <string id="ROT03200" text="Catrys" />
+        <string id="ROT03200" text="{.M}{.S}Catrys" />
 
-        <string id="ROT01145" text="Potyra" />
+        <string id="ROT01145" text="{.M}{.S}Potyra" />
 
-        <string id="ROT01145" text="Tia" />
+        <string id="ROT01145" text="{.M}{.S}Tia" />
 
-        <string id="ROT01413" text="Mont-de-fer" />
+        <string id="ROT01413" text="{.M}{.S}Mont-de-fer" />
 
-        <string id="ROT01414" text="Bois-au-loup" />
+        <string id="ROT01414" text="{.M}{.S}Bois-au-loup" />
 
-        <string id="ROT01415" text="Lisière de la Forêt" />
+        <string id="ROT01415" text="{.M}{.S}Lisière de la Forêt" />
 
-        <string id="ROT01409" text="Hautpoint" />
+        <string id="ROT01409" text="{.M}{.S}Hautpoint" />
 
-        <string id="ROT01410" text="Roc-argent" />
+        <string id="ROT01410" text="{.M}{.S}Roc-argent" />
 
-        <string id="ROT01410" text="White Ranch" />
+        <string id="ROT01410" text="{.M}{.S}White Ranch" />
 
         <string id="ROT01404" text="La Veuve" />
 
-        <string id="ROT01410" text="Veuvebourg" />
+        <string id="ROT01410" text="{.M}{.S}Veuvebourg" />
 
-        <string id="ROT01410" text="Sheepshore" />
+        <string id="ROT01410" text="{.M}{.S}Sheepshore" />
 
-        <string id="ROT01265" text="Porte-Béline" />
+        <string id="ROT01265" text="{.M}{.S}Porte-Béline" />
 
-        <string id="ROT01266" text="Fingerview" />
+        <string id="ROT01266" text="{.M}{.S}Fingerview" />
 
-        <string id="ROT01280" text="Plainebrisée" />
+        <string id="ROT01280" text="{.M}{.S}Plainebrisée" />
 
-        <string id="ROT01252" text="Châteauvieux" />
+        <string id="ROT01252" text="{.M}{.S}Châteauvieux" />
 
-        <string id="ROT01253" text="Fer-à-cheval" />
+        <string id="ROT01253" text="{.M}{.S}Fer-à-cheval" />
 
-        <string id="ROT01254" text="Sheepshead" />
+        <string id="ROT01254" text="{.M}{.S}Sheepshead" />
 
-        <string id="ROT01255" text="Goldgrass" />
+        <string id="ROT01255" text="{.M}{.S}Goldgrass" />
 
-        <string id="ROT01256" text="Plaine Gelée" />
+        <string id="ROT01256" text="{.M}{.S}Plaine Gelée" />
 
-        <string id="ROT01257" text="Tertre" />
+        <string id="ROT01257" text="{.M}{.S}Tertre" />
 
-        <string id="ROTnightfort" text="Fort-Nox" />
+        <string id="ROTnightfort" text="{.M}{.S}Fort-Nox" />
 
-        <string id="ROTnorthcliff" text="Falaise Nord" />
+        <string id="ROTnorthcliff" text="{.M}{.S}Falaise Nord" />
 
-        <string id="ROTsnowwood" text="Bois neigeux" />
+        <string id="ROTsnowwood" text="{.M}{.S}Bois neigeux" />
 
-        <string id="ROThornfoot" text="Pieds Cornés" />
+        <string id="ROThornfoot" text="{.M}{.S}Pieds Cornés" />
 
-        <string id="ROTantler" text="Village Épois" />
+        <string id="ROTantler" text="{.M}{.S}Village Épois" />
 
-        <string id="ROT01274" text="Hauntwood" />
+        <string id="ROT01274" text="{.M}{.S}Hauntwood" />
 
         <string id="ROTrills" text="Les Rus" />
 
-        <string id="ROThilldale" text="Hilldale" />
+        <string id="ROThilldale" text="{.M}{.S}Hilldale" />
 
-        <string id="ROTpiratecove" text="Crique des pirates" />
+        <string id="ROTpiratecove" text="{.M}{.S}Crique des pirates" />
 
-        <string id="ROTredfort" text="Rougefort" />
+        <string id="ROTredfort" text="{.M}{.S}Rougefort" />
 
-        <string id="ROTredvillage" text="Rougebourg" />
+        <string id="ROTredvillage" text="{.M}{.S}Rougebourg" />
 
-        <string id="ROThorsevalley" text="Vallée des chevaux" />
+        <string id="ROThorsevalley" text="{.M}{.S}Vallée des chevaux" />
 
-        <string id="ROTwickenden" text="Combemèche" />
+        <string id="ROTwickenden" text="{.M}{.S}Combemèche" />
 
-        <string id="ROTcrabbeach" text="Plage aux crabes" />
+        <string id="ROTcrabbeach" text="{.M}{.S}Plage aux crabes" />
 
-        <string id="ROTbeehive" text="Beehive" />
+        <string id="ROTbeehive" text="{.M}{.S}Beehive" />
 
-        <string id="ROTmoonranch" text="Moon Ranch" />
+        <string id="ROTmoonranch" text="{.M}{.S}Moon Ranch" />
 
-        <string id="ROTwayfarer" text="Bel Accueil" />
+        <string id="ROTwayfarer" text="{.M}{.S}Bel Accueil" />
 
-        <string id="ROTmummer" text="Gué-Cabot" />
+        <string id="ROTmummer" text="{.M}{.S}Gué-Cabot" />
 
-        <string id="ROTmummer" text="Redclay" />
+        <string id="ROTmummer" text="{.M}{.S}Redclay" />
 
-        <string id="ROTorkwood" text="Orquebois" />
+        <string id="ROTorkwood" text="{.M}{.S}Orquebois" />
 
-        <string id="ROTorkmont" text="Orkmont" />
+        <string id="ROTorkmont" text="{.M}{.S}Orkmont" />
 
-        <string id="ROTorkbay" text="Orkbay" />
+        <string id="ROTorkbay" text="{.M}{.S}Orkbay" />
 
-        <string id="ROTcrag" text="Falaise" />
+        <string id="ROTcrag" text="{.M}{.S}Falaise" />
 
-        <string id="ROTpendric" text="Pendric" />
+        <string id="ROTpendric" text="{.M}{.S}Pendric" />
 
-        <string id="ROTpendricmines" text="Pendricmont" />
+        <string id="ROTpendricmines" text="{.M}{.S}Pendricmont" />
 
-        <string id="ROThornvale" text="Corval" />
+        <string id="ROThornvale" text="{.M}{.S}Corval" />
 
-        <string id="ROTwestern" text="Collines de l'Ouest" />
+        <string id="ROTwestern" text="{.M}{.S}Collines de l'Ouest" />
 
-        <string id="ROTredhorn" text="Cor Rouge" />
+        <string id="ROTredhorn" text="{.M}{.S}Cor Rouge" />
 
-        <string id="ROTrosby" text="Rosby" />
+        <string id="ROTrosby" text="{.M}{.S}Rosby" />
 
-        <string id="ROThayford" text="Fengué" />
+        <string id="ROThayford" text="{.M}{.S}Fengué" />
 
-        <string id="ROTtravelers" text="Repos du voyageur" />
+        <string id="ROTtravelers" text="{.M}{.S}Repos du voyageur" />
 
-        <string id="ROTdarry" text="Darry" />
+        <string id="ROTdarry" text="{.M}{.S}Darry" />
 
-        <string id="ROTbriarwhite" text="Blanchépine" />
+        <string id="ROTbriarwhite" text="{.M}{.S}Blanchépine" />
 
-        <string id="ROTcrownstables" text="Écuries de la Couronne" />
+        <string id="ROTcrownstables" text="{.M}{.S}Écuries de la Couronne" />
 
-        <string id="ROTfellwood" text="Felbois" />
+        <string id="ROTfellwood" text="{.M}{.S}Felbois" />
 
-        <string id="ROTwendbridge" text="Pont de la Wend" />
+        <string id="ROTwendbridge" text="{.M}{.S}Pont de la Wend" />
 
-        <string id="ROTkingsmtn" text="Mont-Réal" />
+        <string id="ROTkingsmtn" text="{.M}{.S}Mont-Réal" />
 
-        <string id="ROTcapewrath" text="Cap de l'Ire" />
+        <string id="ROTcapewrath" text="{.M}{.S}Cap de l'Ire" />
 
-        <string id="ROTmistedge" text="Mistedge" />
+        <string id="ROTmistedge" text="{.M}{.S}Mistedge" />
 
-        <string id="ROTwrathvillage" text="Wrathbourg" />
+        <string id="ROTwrathvillage" text="{.M}{.S}Wrathbourg" />
 
-        <string id="ROTblackhaven" text="Havrenoir" />
+        <string id="ROTblackhaven" text="{.M}{.S}Havrenoir" />
 
-        <string id="ROTsummer" text="Été" />
+        <string id="ROTsummer" text="{.M}{.S}Été" />
 
-        <string id="ROTslayne" text="Camarde" />
+        <string id="ROTslayne" text="{.M}{.S}Camarde" />
 
-        <string id="ROTbanefort" text="Fléaufort" />
+        <string id="ROTbanefort" text="{.M}{.S}Fléaufort" />
 
-        <string id="ROTbanevillage" text="Fléaubourg" />
+        <string id="ROTbanevillage" text="{.M}{.S}Fléaubourg" />
 
-        <string id="ROTironbay" text="Baie d'Argent" />
+        <string id="ROTironbay" text="{.F}{.S}Baie d'Argent" />
 
-        <string id="ROTsilverhill" text="Montargent" />
+        <string id="ROTsilverhill" text="{.M}{.S}Montargent" />
 
-        <string id="ROTtradingpost" text="Comptoir d'échange" />
+        <string id="ROTtradingpost" text="{.M}{.S}Comptoir d'échange" />
 
-        <string id="ROTstablehill" text="Stablehill" />
+        <string id="ROTstablehill" text="{.M}{.S}Stablehill" />
 
-        <string id="ROToldoak" text="Vieux Rouvre" />
+        <string id="ROToldoak" text="{.M}{.S}Vieux Rouvre" />
 
-        <string id="ROTcobblecove" text="Toits-de-lauzes" />
+        <string id="ROTcobblecove" text="{.M}{.S}Toits-de-lauzes" />
 
-        <string id="ROTbrandybottom" text="Fond-de-Gnôle" />
+        <string id="ROTbrandybottom" text="{.M}{.S}Fond-de-Gnôle" />
 
-        <string id="ROTbandallon" text="Bandallon" />
+        <string id="ROTbandallon" text="{.M}{.S}Bandallon" />
 
-        <string id="ROTshieldview" text="Shieldview" />
+        <string id="ROTshieldview" text="{.M}{.S}Shieldview" />
 
-        <string id="ROThoneypath" text="Honeypath" />
+        <string id="ROThoneypath" text="{.M}{.S}Honeypath" />
 
-        <string id="ROT01295" text="Noirmont" />
+        <string id="ROT01295" text="{.M}{.S}Noirmont" />
 
-        <string id="ROTtorentinepass" text="Col Torrentine" />
+        <string id="ROTtorentinepass" text="{.M}{.S}Col Torrentine" />
 
-        <string id="ROTdune" text="Dune" />
+        <string id="ROTdune" text="{.M}{.S}Dune" />
 
         <string id="ROTthetor" text="La Tor" />
 
-        <string id="ROTghosthill" text="Spectremont" />
+        <string id="ROTghosthill" text="{.M}{.S}Spectremont" />
 
-        <string id="ROTbrokenarm" text="Bras Cassé" />
+        <string id="ROTbrokenarm" text="{.M}{.S}Bras Cassé" />
 
         <string id="ROTsandstone" text="Le Grès" />
 
-        <string id="ROTsouthshore" text="Côte Sud" />
+        <string id="ROTsouthshore" text="{.M}{.S}Côte Sud" />
 
-        <string id="ROTlorn" text="Nonretour" />
+        <string id="ROTlorn" text="{.M}{.S}Nonretour" />
 
-        <string id="ROTslavepit" text="Fosses à esclaves" />
+        <string id="ROTslavepit" text="{.M}{.S}Fosses à esclaves" />
 
-        <string id="ROTlongsigh" text="Long Soupir" />
+        <string id="ROTlongsigh" text="{.M}{.S}Long Soupir" />
 
-        <string id="ROTgreygallows" text="Grises Potences" />
+        <string id="ROTgreygallows" text="{.M}{.S}Grises Potences" />
 
-        <string id="ROTbloodstone" text="Peyresang" />
+        <string id="ROTbloodstone" text="{.M}{.S}Peyresang" />
 
         <string id="ROTskulls" text="Les Crânes" />
 
-        <string id="ROTcoldbreeze" text="Brise Froide" />
+        <string id="ROTcoldbreeze" text="{.M}{.S}Brise Froide" />
 
-        <string id="ROT01276" text="Baie du Fer-né" />
+        <string id="ROT01276" text="{.F}{.S}Baie du Fer-né" />
 
-        <string id="oldwyk" text="Vieux Wyk" />
+        <string id="oldwyk" text="{.M}{.S}Vieux Wyk" />
 
-        <string id="tentowers" text="Dix-Tours" />
+        <string id="tentowers" text="{.M}{.S}Dix-Tours" />
 
-        <string id="saltcliffe" text="Salfalaise" />
+        <string id="saltcliffe" text="{.M}{.S}Salfalaise" />
 
-        <string id="lasthearth" text="Âtre-lès-Confins" />
+        <string id="lasthearth" text="{.M}{.S}Âtre-lès-Confins" />
 
-        <string id="frozenshore" text="Grève glacée" />
+        <string id="frozenshore" text="{.M}{.S}Grève glacée" />
         
-        <string id="longlake" text="Lonlac" />
+        <string id="longlake" text="{.M}{.S}Lonlac" />
 
-        <string id="greycliffs" text="Falaises grises" />
+        <string id="greycliffs" text="{.M}{.S}Falaises grises" />
 
-        <string id="karforest" text="Karforêt" />
+        <string id="karforest" text="{.M}{.S}Karforêt" />
 
         <string id="ROT03111" text="La Métairie" />
 
-        <string id="ROT01469" text="Tête-de-mouton" />
+        <string id="ROT01469" text="{.M}{.S}Tête-de-mouton" />
 
-        <string id="ROT03130" text="Repos du razzieur" />
+        <string id="ROT03130" text="{.M}{.S}Repos du razzieur" />
 
-        <string id="sunderly" text="Valleuse" />
+        <string id="sunderly" text="{.M}{.S}Valleuse" />
 
-        <string id="myre" text="Myrès" />
+        <string id="myre" text="{.M}{.S}Myrès" />
 
-        <string id="greygarden" text="Grisjardin" />
+        <string id="greygarden" text="{.M}{.S}Grisjardin" />
 
         <string id="stonetree" text="Les Arbres-de-Pierre" />
 
-        <string id="hardstone" text="Monts Durgranit" />
+        <string id="hardstone" text="{.M}{.S}Monts Durgranit" />
 
-        <string id="naggacradle" text="Berceau de Nagga" />
+        <string id="naggacradle" text="{.M}{.S}Berceau de Nagga" />
 
-        <string id="stonehouse" text="Maisonpierre" />
+        <string id="stonehouse" text="{.M}{.S}Maisonpierre" />
 
-        <string id="ROT01137" text="Salins" />
+        <string id="ROT01137" text="{.M}{.S}Salins" />
     </strings>
 </base>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>    
+        <string id="ROT11KAY6cty" text="Parler au mestre Pycelle"/>
+        <string id="ROTsed73GMaL" text="Parler à Sa Bonté Thorzak"/>
+    </strings>
+</base>

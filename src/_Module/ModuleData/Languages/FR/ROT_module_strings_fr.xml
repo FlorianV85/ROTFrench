@@ -4,12 +4,12 @@
         <tag language="Français" />
     </tags>
     <strings>    
-        <string id="ROTFormalNameWesterlands" text="Terres de l'Ouest" />
-        <string id="ROTFormalNameNorth" text="Nord" />
-        <string id="ROTFormalNameDothraki" text="Klahasar Dothraki" />
-        <string id="ROTFormalNameIronIslands" text="Îles de Fer" />
-        <string id="ROTFormalNameDorne" text="Dorne" />
-        <string id="ROTFormalNameBraavos" text="Braavos" />
+        <string id="ROTFormalNameWesterlands" text="{.F}{.P}Terres de l'Ouest" />
+        <string id="ROTFormalNameNorth" text="{.M}{.S}Nord" />
+        <string id="ROTFormalNameDothraki" text="{.M}{.S}Klahasar Dothraki" />
+        <string id="ROTFormalNameIronIslands" text="{.F}{.P}Îles de Fer" />
+        <string id="ROTFormalNameDorne" text="{.M}{.S}Dorne" />
+        <string id="ROTFormalNameBraavos" text="{.M}{.S}Braavos" />
 
         <string id="ROTFormalNameCultureWesterlands" text="les Ouestiens" />
         <string id="ROTFormalNameCultureNorth" text="les Nordiens" />
@@ -25,12 +25,12 @@
         <string id="ROTAdjectiveCultureIronIslands" text="Fer-né" />
         <string id="ROTAdjectiveCultureDorne" text="Braavien" />
 
-        <string id="ROTAdjectiveCultureDothraki" text="Dothraki" />
-        <string id="ROTAdjectiveCultureDorne" text="Dorne" />
-        <string id="ROTAdjectiveCultureNorth" text="Nord" />
-        <string id="ROTAdjectiveCultureWesterlands" text="Terres d l'Ouest" />
-        <string id="ROTAdjectiveCultureIronIslands" text="Fer-né" />
-        <string id="ROTAdjectiveCultureBraavos" text="Braavos" />
+        <string id="ROTAdjectiveCultureDothraki" text="{.M}{.S}Dothraki" />
+        <string id="ROTAdjectiveCultureDorne" text="{.M}{.S}Dorne" />
+        <string id="ROTAdjectiveCultureNorth" text="{.M}{.S}Nord" />
+        <string id="ROTAdjectiveCultureWesterlands" text="{.F}{.P}Terres de l'Ouest" />
+        <string id="ROTAdjectiveCultureIronIslands" text="{.M}{.S}Fer-né" />
+        <string id="ROTAdjectiveCultureBraavos" text="{.M}{.S}Braavos" />
 
         <string id="ROTDescriptionWesterlands" text="Les habitants de cette région sont orginaires de la région la plus riche de Westeros, grâce à l'or et l'argent extraits en abondance des collines et des rochers." />
         <string id="ROTDescriptionNorth" text="Descendants des Premiers hommes qui étaient gouvernés par les Rois du Nord avant la conquête d'Aegon, les nordiens sont un peuple robuste." />
@@ -64,9 +64,9 @@
         <string id="ROTCultureRichNameIronIslands" text="Fer-né" />
         <string id="ROTCultureRichNameDorne" text="Dornien" /> 
         <string id="ROTCultureRichNameBraavos" text="Braavien" /> 
-        <string id="ROT01908" text="Peuple libre" />
-        <string id="ROT01909" text="Garde de Nuit" />
-        <string id="ROT01910" text="Maisons libres" />
+        <string id="ROT01908" text="{.M}{.S}Peuple libre" />
+        <string id="ROT01909" text="{.F}{.S}Garde de Nuit" />
+        <string id="ROT01910" text="{.F}{.P}Maisons libres" />
         <string id="ROT01911" text="Homme du Val" />
         <string id="ROT01912" text="Riverain" />
         <string id="ROT01913" text="Peyredragon" />
@@ -267,169 +267,169 @@
         <string id="ROTtyroshi8" text="{?RULER.GENDER}Archonte{?} Archonte{\?} {RULER.NAME}" />
         <string id="ROTlyseni8" text="{?RULER.GENDER}Magistrat{?} Magistrat{\?} {RULER.NAME}" />
 
-        <string id="ROTAdjectiveFactionDothraki" text="Khalasar Dothraki" />
-        <string id="ROTAdjectiveFactionDorne" text="Dorne" />
-        <string id="ROTAdjectiveFactionNorth" text="Nord" />
-        <string id="ROTAdjectiveFactionWesterlands" text="Terres de l'Ouest" />
-        <string id="ROTAdjectiveFactionIronIslands" text="Îles de Fer" />
-        <string id="ROT01986" text="Val" />
-        <string id="ROT01987" text="Bief" />
-        <string id="ROT01988" text="Peuple libre" />
-        <string id="ROT01989" text="Volantis" />
-        <string id="ROT01990" text="Conflans" />
-        <string id="ROT01991" text="Peyredragon" />
-        <string id="ROT01992" text="Terres de l'Orage" />
-        <string id="ROT01993" text="Targaryen" />
-        <string id="ROT01994" text="Garde de Nuit" />
-        <string id="ROT01995" text="Maisons libres" />
-        <string id="ROT01996" text="Terres de la Couronne" />
-        <string id="ROTsarnor10" text="Sarnor" />
-        <string id="ROTnorvos10" text="Norvos" />
-        <string id="ROTvalyrian10" text="Ancienne Valyria" />
-        <string id="ROTvolantine10" text="Volantis" />
-        <string id="ROTqohorik10" text="Qohor" />
-        <string id="ROTlorathi10" text="Lorath" />
-        <string id="ROTpentoshi10" text="Pentos" />
-        <string id="ROTmyrish10" text="Myr" />
-        <string id="ROTtyroshi10" text="Tyrosh" />
-        <string id="ROTlyseni10" text="Lys" />
+        <string id="ROTAdjectiveFactionDothraki" text="{.M}{.S}Khalasar Dothraki" />
+        <string id="ROTAdjectiveFactionDorne" text="{.M}{.S}Dorne" />
+        <string id="ROTAdjectiveFactionNorth" text="{.M}{.S}Nord" />
+        <string id="ROTAdjectiveFactionWesterlands" text="{.F}{.P}Terres de l'Ouest" />
+        <string id="ROTAdjectiveFactionIronIslands" text="{.F}{.P}Îles de Fer" />
+        <string id="ROT01986" text="{.M}{.S}Val" />
+        <string id="ROT01987" text="{.M}{.S}Bief" />
+        <string id="ROT01988" text="{.M}{.S}Peuple libre" />
+        <string id="ROT01989" text="{.M}{.S}Volantis" />
+        <string id="ROT01990" text="{.M}{.S}Conflans" />
+        <string id="ROT01991" text="{.M}Peyredragon" />
+        <string id="ROT01992" text="{.F}{.P}Terres de l'Orage" />
+        <string id="ROT01993" text="{.M}{.S}Targaryen" />
+        <string id="ROT01994" text="{.F}{.S}Garde de Nuit" />
+        <string id="ROT01995" text="{.F}{.P}Maisons libres" />
+        <string id="ROT01996" text="{.F}{.P}Terres de la Couronne" />
+        <string id="ROTsarnor10" text="{.M}{.S}Sarnor" />
+        <string id="ROTnorvos10" text="{.M}{.S}Norvos" />
+        <string id="ROTvalyrian10" text="{.F}{.S}Ancienne Valyria" />
+        <string id="ROTvolantine10" text="{.M}{.S}Volantis" />
+        <string id="ROTqohorik10" text="{.M}{.S}Qohor" />
+        <string id="ROTlorathi10" text="{.M}{.S}Lorath" />
+        <string id="ROTpentoshi10" text="{.M}{.S}Pentos" />
+        <string id="ROTmyrish10" text="{.M}{.S}Myr" />
+        <string id="ROTtyroshi10" text="{.M}{.S}Tyrosh" />
+        <string id="ROTlyseni10" text="{.M}{.S}Lys" />
 
-        <string id="ROTShortTermFactionDothraki" text="Dothraki" />
-        <string id="ROTShortTermFactionDorne" text="Dorne" />
-        <string id="ROTShortTermFactionNorth" text="Nord" />
-        <string id="ROTShortTermFactionWesterlands" text="Terres de l'Ouest" />
-        <string id="ROTShortTermFactionIronIslands" text="Fer-né" />
-        <string id="ROT01997" text="Val" />
-        <string id="ROT01998" text="Bief" />
-        <string id="ROT01999" text="Targaryen" />
-        <string id="ROT02000" text="Peuple libre" />
-        <string id="ROT02001" text="Garde de Nuit" />
-        <string id="ROT02002" text="Conflans" />
-        <string id="ROT02003" text="Peyredragon" />
-        <string id="ROT02004" text="Terres de l'Orage" />
-        <string id="ROT02005" text="Volantis" />
-        <string id="ROT02006" text="Maisons libres" />
-        <string id="ROT02007" text="Terres de la Couronne" />
-        <string id="ROTsarnor11" text="Sarnor" />
-        <string id="ROTnorvos11" text="Norvos" />
-        <string id="ROTvalyrian11" text="Ancienne Valyria" />
-        <string id="ROTvolantine11" text="Volantis" />
-        <string id="ROTqohorik11" text="Qohor" />
-        <string id="ROTlorathi11" text="Lorath" />
-        <string id="ROTpentoshi11" text="Pentos" />
-        <string id="ROTmyrish11" text="Myr" />
-        <string id="ROTtyroshi11" text="Tyrosh" />
-        <string id="ROTlyseni11" text="Lys" />
+        <string id="ROTShortTermFactionDothraki" text="{.M}{.S}Dothraki" />
+        <string id="ROTShortTermFactionDorne" text="{.M}{.S}Dorne" />
+        <string id="ROTShortTermFactionNorth" text="{.M}{.S}Nord" />
+        <string id="ROTShortTermFactionWesterlands" text="{.F}{.P}Terres de l'Ouest" />
+        <string id="ROTShortTermFactionIronIslands" text="{.M}{.S}Fer-né" />
+        <string id="ROT01997" text="{.M}{.S}Val" />
+        <string id="ROT01998" text="{.M}{.S}Bief" />
+        <string id="ROT01999" text="{.M}{.S}Targaryen" />
+        <string id="ROT02000" text="{.M}{.S}Peuple libre" />
+        <string id="ROT02001" text="{.F}{.S}Garde de Nuit" />
+        <string id="ROT02002" text="{.M}{.S}Conflans" />
+        <string id="ROT02003" text="{.M}Peyredragon" />
+        <string id="ROT02004" text="{.F}{.P}Terres de l'Orage" />
+        <string id="ROT02005" text="{.M}{.S}Volantis" />
+        <string id="ROT02006" text="{.F}{.P}Maisons libres" />
+        <string id="ROT02007" text="{.F}{.P}Terres de la Couronne" />
+        <string id="ROTsarnor11" text="{.M}{.S}Sarnor" />
+        <string id="ROTnorvos11" text="{.M}{.S}Norvos" />
+        <string id="ROTvalyrian11" text="{.F}{.S}Ancienne Valyria" />
+        <string id="ROTvolantine11" text="{.M}{.S}Volantis" />
+        <string id="ROTqohorik11" text="{.M}{.S}Qohor" />
+        <string id="ROTlorathi11" text="{.M}{.S}Lorath" />
+        <string id="ROTpentoshi11" text="{.M}{.S}Pentos" />
+        <string id="ROTmyrish11" text="{.M}{.S}Myr" />
+        <string id="ROTtyroshi11" text="{.M}{.S}Tyrosh" />
+        <string id="ROTlyseni11" text="{.M}{.S}Lys" />
 
-        <string id="ROTFormalNameCultureWesterlands" text="Terres de l'Ouest" />
-        <string id="ROTFormalNameCultureNorth" text="Nord" />
-        <string id="ROTFormalNameCultureDothraki" text="Khalasar Dothraki" />
-        <string id="ROTFormalNameCultureIronIslands" text="Îles de Fer" />
-        <string id="ROTFormalNameCultureDorne" text="Dorne" />
-        <string id="ROT02008" text="Peuple libre" />
-        <string id="ROT02009" text="Volantis" />
-        <string id="ROT02010" text="Garde de Nuit" />
-        <string id="ROT02011" text="Val" />
-        <string id="ROT02012" text="Conflans" />
-        <string id="ROT02013" text="Peyredragon" />
-        <string id="ROT02014" text="Terres de l'Orage" />
-        <string id="ROT02015" text="Bief" />
-        <string id="ROT02016" text="Braavos" />
-        <string id="ROT02017" text="Maisons libres" />
-        <string id="ROT02018" text="Terres de la Couronne" />
-        <string id="ROTsarnor12" text="Sarnor" />
-        <string id="ROTnorvos12" text="Norvos" />
-        <string id="ROTvalyrian12" text="Ancienne Valyria" />
-        <string id="ROTvolantine12" text="Volantis" />
-        <string id="ROTqohorik12" text="Qohor" />
-        <string id="ROTlorathi12" text="Lorath" />
-        <string id="ROTpentoshi12" text="Pentos" />
-        <string id="ROTmyrish12" text="Myr" />
-        <string id="ROTtyroshi12" text="Tyrosh" />
-        <string id="ROTlyseni12" text="Lys" />
+        <string id="ROTFormalNameCultureWesterlands" text="{.F}{.P}Terres de l'Ouest" />
+        <string id="ROTFormalNameCultureNorth" text="{.M}{.S}Nord" />
+        <string id="ROTFormalNameCultureDothraki" text="{.M}{.S}Khalasar Dothraki" />
+        <string id="ROTFormalNameCultureIronIslands" text="{.F}{.P}Îles de Fer" />
+        <string id="ROTFormalNameCultureDorne" text="{.M}{.S}Dorne" />
+        <string id="ROT02008" text="{.M}{.S}Peuple libre" />
+        <string id="ROT02009" text="{.M}{.S}Volantis" />
+        <string id="ROT02010" text="{.F}{.S}Garde de Nuit" />
+        <string id="ROT02011" text="{.M}{.S}Val" />
+        <string id="ROT02012" text="{.M}{.S}Conflans" />
+        <string id="ROT02013" text="{.M}Peyredragon" />
+        <string id="ROT02014" text="{.F}{.P}Terres de l'Orage" />
+        <string id="ROT02015" text="{.M}{.S}Bief" />
+        <string id="ROT02016" text="{.M}{.S}Braavos" />
+        <string id="ROT02017" text="{.F}{.P}Maisons libres" />
+        <string id="ROT02018" text="{.F}{.P}Terres de la Couronne" />
+        <string id="ROTsarnor12" text="{.M}{.S}Sarnor" />
+        <string id="ROTnorvos12" text="{.M}{.S}Norvos" />
+        <string id="ROTvalyrian12" text="{.F}{.S}Ancienne Valyria" />
+        <string id="ROTvolantine12" text="{.M}{.S}Volantis" />
+        <string id="ROTqohorik12" text="{.M}{.S}Qohor" />
+        <string id="ROTlorathi12" text="{.M}{.S}Lorath" />
+        <string id="ROTpentoshi12" text="{.M}{.S}Pentos" />
+        <string id="ROTmyrish12" text="{.M}{.S}Myr" />
+        <string id="ROTtyroshi12" text="{.M}{.S}Tyrosh" />
+        <string id="ROTlyseni12" text="{.M}{.S}Lys" />
 
-        <string id="ROTNeutralTermCultureDothraki" text="Dothraki" />
-        <string id="ROTNeutralTermCultureDorne" text="Dorne" />
-        <string id="ROTNeutralTermCultureNorth" text="Nord" />
-        <string id="ROTNeutralTermCultureWesterlands" text="Terres de l'Ouest" />
-        <string id="ROTNeutralTermCultureIronIslands" text="Fer-né" />
-        <string id="ROTNeutralTermCultureEssos" text="Essos" />
-        <string id="ROT02019" text="Sauvageons" />
-        <string id="ROT02020" text="Garde de Nuit" />
-        <string id="ROT02021" text="Val" />
-        <string id="ROT02022" text="Conflans" />
-        <string id="ROT02023" text="Peyredragon" />
-        <string id="ROT02024" text="Terres de l'Orage" />
-        <string id="ROT02025" text="Bief" />
-        <string id="ROT02026" text="Maisons libres" />
-        <string id="ROT02027" text="Terres de la Couronne" />
-        <string id="ROTsarnor13" text="Sarnor" />
-        <string id="ROTnorvos13" text="Norvos" />
-        <string id="ROTvalyrian13" text="Ancienne Valyria" />
-        <string id="ROTvolantine13" text="Volantis" />
-        <string id="ROTqohorik13" text="Qohor" />
-        <string id="ROTlorathi13" text="Lorath" />
-        <string id="ROTpentoshi13" text="Pentos" />
-        <string id="ROTmyrish13" text="Myr" />
-        <string id="ROTtyroshi13" text="Tyrosh" />
-        <string id="ROTlyseni13" text="Lys" />
+        <string id="ROTNeutralTermCultureDothraki" text="{.M}{.S}Dothraki" />
+        <string id="ROTNeutralTermCultureDorne" text="{.M}{.S}Dorne" />
+        <string id="ROTNeutralTermCultureNorth" text="{.M}{.S}Nord" />
+        <string id="ROTNeutralTermCultureWesterlands" text="{.F}{.P}Terres de l'Ouest" />
+        <string id="ROTNeutralTermCultureIronIslands" text="{.M}{.S}Fer-né" />
+        <string id="ROTNeutralTermCultureEssos" text="{.M}{.S}Essos" />
+        <string id="ROT02019" text="{.M}{.P}Sauvageons" />
+        <string id="ROT02020" text="{.F}{.S}Garde de Nuit" />
+        <string id="ROT02021" text="{.M}{.S}Val" />
+        <string id="ROT02022" text="{.M}{.S}Conflans" />
+        <string id="ROT02023" text="{.M}Peyredragon" />
+        <string id="ROT02024" text="{.F}{.P}Terres de l'Orage" />
+        <string id="ROT02025" text="{.M}{.S}Bief" />
+        <string id="ROT02026" text="{.F}{.P}Maisons libres" />
+        <string id="ROT02027" text="{.F}{.P}Terres de la Couronne" />
+        <string id="ROTsarnor13" text="{.M}{.S}Sarnor" />
+        <string id="ROTnorvos13" text="{.M}{.S}Norvos" />
+        <string id="ROTvalyrian13" text="{.F}{.S}Ancienne Valyria" />
+        <string id="ROTvolantine13" text="{.M}{.S}Volantis" />
+        <string id="ROTqohorik13" text="{.M}{.S}Qohor" />
+        <string id="ROTlorathi13" text="{.M}{.S}Lorath" />
+        <string id="ROTpentoshi13" text="{.M}{.S}Pentos" />
+        <string id="ROTmyrish13" text="{.M}{.S}Myr" />
+        <string id="ROTtyroshi13" text="{.M}{.S}Tyrosh" />
+        <string id="ROTlyseni13" text="{.M}{.S}Lys" />
 
-        <string id="dorne10" text="Dorne" />
-        <string id="north10" text="Nord" />
-        <string id="bravos10" text="Braavos" />
-        <string id="iron10" text="Îles de Fer" />
-        <string id="west10" text="Terres de l'Ouest" />
-        <string id="doth10" text="Dothraki" />
-        <string id="ROT02028" text="Peuple libre" />
-        <string id="ROT02029" text="Garde de Nuit" />
-        <string id="ROT02030" text="Maisons libres" />
-        <string id="ROT02031" text="Val" />
-        <string id="ROT02032" text="Conflans" />
-        <string id="ROT02033" text="Peyredragon" />
-        <string id="ROT02034" text="Terres de l'Orage" />
-        <string id="ROT02035" text="Bief" />
-        <string id="ROT02036" text="Ghiscari" />
-        <string id="ROT02037" text="Terres de la Couronne" />
-        <string id="ROTsarnor14" text="Sarnor" />
-        <string id="ROTnorvos14" text="Norvos" />
-        <string id="ROTvalyrian14" text="Ancienne Valyria" />
-        <string id="ROTvolantine14" text="Volantis" />
-        <string id="ROTqohorik14" text="Qohor" />
-        <string id="ROTlorathi14" text="Lorath" />
-        <string id="ROTpentoshi14" text="Pentos" />
-        <string id="ROTmyrish14" text="Myr" />
-        <string id="ROTtyroshi14" text="Tyrosh" />
-        <string id="ROTlyseni14" text="Lys" />
+        <string id="dorne10" text="{.M}{.S}Dorne" />
+        <string id="north10" text="{.M}{.S}Nord" />
+        <string id="bravos10" text="{.M}{.S}Braavos" />
+        <string id="iron10" text="{.F}{.P}Îles de Fer" />
+        <string id="west10" text="{.F}{.P}Terres de l'Ouest" />
+        <string id="doth10" text="{.M}{.S}Dothraki" />
+        <string id="ROT02028" text="{.M}{.S}Peuple libre" />
+        <string id="ROT02029" text="{.F}{.S}Garde de Nuit" />
+        <string id="ROT02030" text="{.F}{.P}Maisons libres" />
+        <string id="ROT02031" text="{.M}{.S}Val" />
+        <string id="ROT02032" text="{.M}{.S}Conflans" />
+        <string id="ROT02033" text="{.M}Peyredragon" />
+        <string id="ROT02034" text="{.F}{.P}Terres de l'Orage" />
+        <string id="ROT02035" text="{.M}{.S}Bief" />
+        <string id="ROT02036" text="{.M}{.S}Ghiscari" />
+        <string id="ROT02037" text="{.F}{.P}Terres de la Couronne" />
+        <string id="ROTsarnor14" text="{.M}{.S}Sarnor" />
+        <string id="ROTnorvos14" text="{.M}{.S}Norvos" />
+        <string id="ROTvalyrian14" text="{.F}{.S}Ancienne Valyria" />
+        <string id="ROTvolantine14" text="{.M}{.S}Volantis" />
+        <string id="ROTqohorik14" text="{.M}{.S}Qohor" />
+        <string id="ROTlorathi14" text="{.M}{.S}Lorath" />
+        <string id="ROTpentoshi14" text="{.M}{.S}Pentos" />
+        <string id="ROTmyrish14" text="{.M}{.S}Myr" />
+        <string id="ROTtyroshi14" text="{.M}{.S}Tyrosh" />
+        <string id="ROTlyseni14" text="{.M}{.S}Lys" />
 
-        <string id="north11" text="Nord" />
-        <string id="dorne11" text="Dorne" />
-        <string id="west11" text="Terres de l'Ouest" />
-        <string id="braavos11" text="Braavos" />
-        <string id="iron11" text="Îles de Fer" />
-        <string id="doth11" text="Dothraki" />
-        <string id="ROT02038" text="Sauvageon" />
-        <string id="ROT02039" text="Garde de Nuit" />
-        <string id="ROT02040" text="Maisons libres" />
-        <string id="ROT02041" text="Hommes du Val" />
-        <string id="ROT02042" text="Riverains" />
-        <string id="ROT02043" text="Peyredragon" />
-        <string id="ROT02044" text="Orageois" />
-        <string id="ROT02045" text="Hommes du Bief" />
-        <string id="ROT02046" text="Ghiscari" />
-        <string id="ROT02047" text="Couronnois" />
-        <string id="ROTsarnor15" text="Sarnores" />
-        <string id="ROTnorvos15" text="Norvoshi" />
-        <string id="ROTvalyrian15" text="Valyrien" />
-        <string id="ROTvolantine15" text="Volotain" />
-        <string id="ROTqohorik15" text="Qohorien" />
-        <string id="ROTlorathi15" text="Lorathi" />
-        <string id="ROTpentoshi15" text="Pentoshi" />
-        <string id="ROTmyrish15" text="Myrien" />
-        <string id="ROTtyroshi15" text="Tyroshi" />
-        <string id="ROTlyseni15" text="Lysien" />
+        <string id="north11" text="{.M}{.S}Nord" />
+        <string id="dorne11" text="{.M}{.S}Dorne" />
+        <string id="west11" text="{.F}{.P}Terres de l'Ouest" />
+        <string id="braavos11" text="{.M}{.S}Braavos" />
+        <string id="iron11" text="{.F}{.P}Îles de Fer" />
+        <string id="doth11" text="{.M}{.S}Dothraki" />
+        <string id="ROT02038" text="{.M}{.S}Sauvageon" />
+        <string id="ROT02039" text="{.F}{.S}Garde de Nuit" />
+        <string id="ROT02040" text="{.F}{.P}Maisons libres" />
+        <string id="ROT02041" text="{.M}{.S}Hommes du Val" />
+        <string id="ROT02042" text="{.M}{.P}Riverains" />
+        <string id="ROT02043" text="{.M}Peyredragon" />
+        <string id="ROT02044" text="{.M}{.P}Orageois" />
+        <string id="ROT02045" text="{.M}{.P}Hommes du Bief" />
+        <string id="ROT02046" text="{.M}{.S}Ghiscari" />
+        <string id="ROT02047" text="{.M}{.P}Couronnois" />
+        <string id="ROTsarnor15" text="{.M}{.P}Sarnores" />
+        <string id="ROTnorvos15" text="{.M}{.S}Norvoshi" />
+        <string id="ROTvalyrian15" text="{.M}{.S}Valyrien" />
+        <string id="ROTvolantine15" text="{.M}{.S}Volotain" />
+        <string id="ROTqohorik15" text="{.M}{.S}Qohorien" />
+        <string id="ROTlorathi15" text="{.M}{.S}Lorathi" />
+        <string id="ROTpentoshi15" text="{.M}{.S}Pentoshi" />
+        <string id="ROTmyrish15" text="{.M}{.S}Myrien" />
+        <string id="ROTtyroshi15" text="{.M}{.S}Tyroshi" />
+        <string id="ROTlyseni15" text="{.M}{.S}Lysien" />
 
-        <string id="stags" text="Cerfs" />
-        <string id="stags1" text="Cerfs" />
+        <string id="ROTstags" text="Cerfs" />
+        <string id="ROTstags1" text="Cerfs" />
 
         <string id="danyconvo" text="Je suis la souveraine légitime de Westeros et je reprendrai le trône que mes ancêtres ont érigé." />
 
