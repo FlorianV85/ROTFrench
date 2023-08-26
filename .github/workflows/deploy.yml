@@ -76,3 +76,17 @@ jobs:
         mod_version: ${{ needs.build.outputs.mod_version }}
         mod_description: ${{ needs.build.outputs.mod_description }}
         artifact_name: ROTFrench
+
+  publish-on-nexusmods:
+      needs: ["build"]
+      uses: BUTR/workflows/.github/workflows/release-nexusmods.yml@master
+      with:
+        nexusmods_game_id: mountandblade2bannerlord
+        nexusmods_mod_id: 5848
+        mod_filename: Realm of Thrones - Patch FR
+        mod_version: ${{ needs.build.outputs.mod_version }}
+        mod_description: ${{ needs.build.outputs.mod_description }}
+        artifact_name: ROTFrench
+      secrets:
+        NEXUSMODS_APIKEY: ${{ secrets.NEXUSMODS_APIKEY }}
+        NEXUSMODS_COOKIES: ${{ secrets.NEXUSMODS_COOKIES }}      
