@@ -498,5 +498,10 @@
         <string id="yitiexile" text="Exilé de Yi Ti" />
         <string id="yitiexnob" text="Noble exilé de Yi Ti" />
         <string id="yitiroyal" text="Royauté exilée de Yi Ti" />
+
+        <string id="ROTNightKing" text="Roi de la Nuit" />
+        <string id="ROTWightTroop" text="Spectre" />
+        <string id="ROTFearsomeWight" text="Spectre redoutable" />
+        <string id="ROTFerociousWight" text="Spectre féroce" />
     </strings>
 </base>
