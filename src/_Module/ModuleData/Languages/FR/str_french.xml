@@ -50,15 +50,15 @@
 		<string id="ROTUtNlCsIKz" text="Corbeau envoyé" />
 		<string id="ROT072uKra5r" text="Corbeau arrivé" />
 		<string id="ROTLehC7v2QP" text="Annuler le corbeau" />
-		<string id="ROTQpICWciQB" text="Le corbeau en provenance de {FACTION1_NAME} est arrivé à {ADDRESSEE_TEXT}." />
-		<string id="ROTbptfYHJck" text="{HERO_NAME}{?HAS_FACTION} de {FACTION2_NAME}{?}{\\?}" />
-		<string id="ROTG9ekYcYHX" text="Le corbeau en provenance de {FACTION1_NAME} devrait arriver à {ADDRESSEE_TEXT} d'ici {TRAVEL_TIME} jours." />
-		<string id="ROTEU45sRU3b" text="{HERO_NAME} est mort. " />
-		<string id="ROT9A0pMzsEh" text="{HERO_NAME} est emprisonné {?IS_MOBILE}par{?}à{\\?} {DETENTION_PLACE}. " />
-		<string id="ROTM1TivfCVp" text="{HERO_NAME} est en fuite et ne veut pas être localisé. " />
-		<string id="ROTSIgyhra3g" text="{HERO_NAME} vient d'être libéré, mais n'est pas encore prêt à recevoir des corbeaux. " />
+		<string id="ROTQpICWciQB" text="Le corbeau {.dl}{FACTION1_NAME} est arrivé à {ADDRESSEE_TEXT}." />
+		<string id="ROTbptfYHJck" text="{HERO_NAME}{?HAS_FACTION} {.dl}{FACTION2_NAME}{?}{\\?}" />
+		<string id="ROTG9ekYcYHX" text="Le corbeau {.dl}{FACTION1_NAME} devrait arriver à {ADDRESSEE_TEXT} d'ici {TRAVEL_TIME} jours." />
+		<string id="ROTEU45sRU3b" text="{HERO_NAME} est {?IS_FEMALE}morte{?}mort{\\?}. " />
+		<string id="ROT9A0pMzsEh" text="{HERO_NAME} est {?IS_FEMALE}emprisonnée{?}emprisonné{\\?} {?IS_MOBILE}par{?}à{\\?} {DETENTION_PLACE}. " />
+		<string id="ROTM1TivfCVp" text="{HERO_NAME} est en fuite et ne veut pas être {?IS_FEMALE}localisée{?}localisé{\\?}. " />
+		<string id="ROTSIgyhra3g" text="{HERO_NAME} vient d'être {?IS_FEMALE}libérée{?}libéré{\\?}, mais n'est pas encore {?IS_FEMALE}prête{?}prêt{\\?} à recevoir des corbeaux. " />
 		<string id="ROTPJQO9YORl" text="{HERO_NAME} voyage incognito. " />
-		<string id="ROTzMAI940YS" text="{HERO_NAME} n'est pas assez expérimenté pour recevoir des messages par corbeau. " />
+		<string id="ROTzMAI940YS" text="{HERO_NAME} n'est pas assez {?IS_FEMALE}expérimentée{?}expérimenté{\\?} pour recevoir des messages par corbeau. " />
 		<string id="ROTzRvmeqYQk" text="Un corbeau a déjà été envoyé à {HERO_NAME}. " />
 		<string id="ROT9czgf18Dl" text="La Garde de Nuit respecte tous les rois et n'est sous les ordres d'aucun d'entre eux." />
 		<string id="ROTNx526ZOsI" text="Le Peuple libre ne s'engage pas dans une guerre ouverte." />
