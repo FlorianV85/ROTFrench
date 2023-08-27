@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>     
+        <string id="ROT00001" text="Bottes Lannister" />
+        <string id="ROT00002" text="Armure Lannister" />
+        <string id="ROT00003" text="Casque Lannister" />
+        <string id="ROT00004" text="Casque de milicien nordien" />
+        <string id="ROT00005" text="Armure de milicien nordien" />
+        <string id="ROT00006" text="Bottes de milicien nordien" />
+        <string id="ROT00008" text="Casque Stark" />
+        <!-- <string id="ROT00009" text="Armure d'Immaculé élite" /> -->
+        <!-- <string id="ROT00009" text="Armure des Immaculés" /> -->
+        <!-- <string id="ROT00010" text="Casque des Immaculés" /> -->
+        <!-- <string id="ROT00010" text="Casque de piquier Immaculé" /> -->
+        <string id="ROT00011" text="Bottes des Immaculés" />
+        <string id="ROT00012" text="Brassards ouestiens" />
+        <string id="ROT00013" text="Bouclier Stark" />
+        <string id="ROT00014" text="Casque de Peyredragon" />
+        <string id="ROT00018" text="Armure de mercenaire" />
+        <string id="ROT00020" text="Bottes de la Garde de Nuit" />
+        <string id="ROT00022" text="Armure de la Garde de Nuit" />
+        <string id="ROT00024" text="Casque lourd nordien" />
+        <string id="ROT00027" text="Armure Bolton" />
+        <string id="ROT00028" text="Armure Karstark" />
+        <string id="ROT00028" text="Armure de seigneur Karstark" />
+        <string id="ROT00029" text="Casque Bolton" />
+        <string id="ROT00030" text="Chevelure de Danaerys" />
+        <string id="ROT00031" text="Robe de Danaerys" />
+        <string id="ROT00032" text="Bottes de Danaerys" />
+        <string id="ROT00034" text="Vêtement du Peuple libre" />
+        <string id="ROT00035" text="Armure en fourrure du Peuple libre" />
+        <string id="ygrtarmr" text="Armure en fourrure d'Ygritte" />
+        <string id="ROT00040" text="Armure de spectre 1" />
+        <string id="ROT00041" text="Armure de spectre 2" />
+        <string id="ROT00042" text="Armure de spectre 3" />
+        <string id="ROT00043" text="Casque nordien 2" />
+        <string id="ROT00044" text="Épaulières nordiennes" />
+        <string id="ROT00046" text="Épée en acier valyrien 1" />
+        <string id="ROT00047" text="Épée nordienne" />
+        <string id="ROT00048" text="Dague Stark" />
+        <string id="ROT00049" text="Épée Lannister" />
+        <string id="ROT00050" text="Lance des Immaculés" />
+        <string id="ROT00051" text="Bouclier des Immaculés" />
+        <string id="ROT00051" text="Bouclier de piquier Immaculé" />
+        <string id="ROT00051" text="Cape Lannister" />
+        <string id="ROT00053" text="Manteau de la Garde de Nuit" />
+        <string id="ROT00054" text="Gorgerin nordien" />
+        <string id="ROT00056" text="Grand-Griffe" />
+        <string id="ROT00057" text="Armure de femme nordienne" />
+        <string id="ROT00059" text="Glace" />
+        <string id="ROT00061" text="Cape du Bief" />
+        <string id="ROT00062" text="Cape orageoise" />
+        <string id="ROT00064" text="Gantelets du Peuple libre" />
+        <string id="ROT00068" text="Armure de maison Tyrell" />
+        <string id="ROT00069" text="Casque d'Arthur Dayne" />
+        <string id="ROT00070" text="Épaulières nordiennes" />
+        <string id="ROT00071" text="Armure d'Arthur Dayne" />
+        <string id="ROT00072" text="Bottes de Garde Royal" />
+        <string id="ROT00073" text="Armure de Garde Royal" />
+        <string id="ROT00074" text="Casque de Garde Royal" />
+        <string id="ROTkggloves" text="Gantelets de Garde Royal" />
+        <string id="ROTkgbracers" text="Brassards de Garde Royal" />
+    </strings>
+</base>
