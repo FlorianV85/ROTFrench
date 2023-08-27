@@ -34,39 +34,39 @@
 
         <string id="ROTCommentNoble003" text="Je suis {CONVERSATION_CHARACTER.LINK}, de la maison {CLAN_NAME}. Bien qu'il ne faille pas être trop fier de sa lignée, nous avons toujours pris au sérieux notre responsabilité de protecteur des habitants de Braavos." />
 
-        <string id="ROTCommentNoble004" text="Je suis {CONVERSATION_CHARACTER.LINK}, de la maison {CLAN_NAME}, l'une des familles les plus célèbres de Braavos." />
+        <string id="ROTCommentNoble004" text="Je suis {CONVERSATION_CHARACTER.LINK}, de la maison {CLAN_NAME}. Ma famille est l'une des plus célèbres de Braavos." />
 
-        <string id="ROTCommentNoble005" text="Je suis {CONVERSATION_CHARACTER.LINK}, de la maison {CLAN_NAME}, l'une des familles les plus célèbres de Braavos. Les barbares que nous avons terrassés et les honneurs que nous avons remportés n'ont pas d'égal." />
+        <string id="ROTCommentNoble005" text="Je suis {CONVERSATION_CHARACTER.LINK}, de la maison {CLAN_NAME}. Ma famille est l'une des plus célèbres de Braavos. Les barbares que nous avons terrassés et les honneurs que nous avons remportés n'ont pas d'égal." />
 
-        <string id="ROTCommentNoble006" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}. Nous venons des Îles de Fer et ce depuis des temps très anciens." />
+        <string id="ROTCommentNoble006" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}. Nous venons des Îles de Fer et ce depuis des temps très anciens." />
 
-        <string id="ROTCommentNoble007" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}, un nom que vous avez déjà entendu à maintes reprises dans les histoires des Fer-nés." />
+        <string id="ROTCommentNoble007" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}. Vous avez certainement déjà entendu à maintes reprises ce nom dans les histoires Fer-nés." />
 
-        <string id="ROTCommentNoble008" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}. Nous sommes de Sel et de Roc, pas comme vous les continentaux." />
+        <string id="ROTCommentNoble008" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}. Nous sommes de Sel et de Roc, pas comme vous les continentaux." />
 
-        <string id="ROTCommentNoble009" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}, l'une des plus anciennes lignées du Nord." />
+        <string id="ROTCommentNoble009" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}. Ma famille est l'une des plus anciennes lignées du Nord." />
 
-        <string id="ROTCommentNoble010" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}. La renommée de notre famille ne se dément pas dans les chansons du Nord." />
+        <string id="ROTCommentNoble010" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}. La renommée de notre famille ne se dément pas dans les chansons du Nord." />
 
-        <string id="ROTCommentNoble011" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}. Il n'y a pas de famille plus coriace que nous dans tout le Nord." />
+        <string id="ROTCommentNoble011" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}. Il n'y a pas plus coriace que ma famille dans tout le Nord." />
 
-        <string id="ROTCommentNoble012" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}. Le sang des Premiers Hommes coule dans nos veines. Bien sûr, c'est ce que l'on dit aussi dans les Îles de Fer et au nord du Mur." />
+        <string id="ROTCommentNoble012" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}. Le sang des Premiers Hommes coule dans nos veines. Bien sûr, c'est ce que l'on dit aussi dans les Îles de Fer et au nord du Mur." />
 
-        <string id="ROTCommentNoble013" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}. Notre famille est au service du Gouverneur de l'Ouest depuis des générations." />
+        <string id="ROTCommentNoble013" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}. Notre famille est au service du Gouverneur de l'Ouest depuis des générations." />
 
-        <string id="ROTCommentNoble014" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}. Nous occupons nos terres en fief de {LIEGE_TITLE}, et nous honorons nos serments de fidélité." />
+        <string id="ROTCommentNoble014" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}. Nous détenons des terres sur le domaine {.dl}{LIEGE_TITLE}, et honorons nos serments d&apos;allégeance." />
 
-        <string id="ROTCommentNoble015" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}, l'une des plus illustres familles des Terres de l'Ouest." />
+        <string id="ROTCommentNoble015" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}. Ma famille est l'une des plus illustres des Terres de l'Ouest." />
 
-        <string id="ROTCommentNoble016" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}. Nous servons le seigneur de Castral Roc. Je passe régulièrement devant les ruines de Castamere pour me rappeler la place que j'occupe." />
+        <string id="ROTCommentNoble016" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}. Nous servons le seigneur de Castral Roc. Je passe régulièrement devant les ruines de Castamere pour me rappeler la place que j'occupe." />
 
-        <string id="ROTCommentNoble017" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}, une noble maison de Dorne." />
+        <string id="ROTCommentNoble017" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}, une noble maison de Dorne." />
 
-        <string id="ROTCommentNoble018" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}, la plus ancienne et plus noble famille dornienne." />
+        <string id="ROTCommentNoble018" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}. Ma famille est la plus ancienne et la plus noble de l'histoire dornienne." />
 
-        <string id="ROTCommentNoble019" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}. Nous suivons le grand Khal pour la gloire et le pillage." />
+        <string id="ROTCommentNoble019" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}. Nous suivons le grand Khal pour la gloire et le pillage." />
 
-        <string id="ROTCommentNoble020" text="Je suis {CONVERSATION_CHARACTER.LINK}, de {CLAN_NAME}. Nous nous battrons aux côtés du Khal jusqu'à ce que nous atteignions les Contrées nocturnes." />
+        <string id="ROTCommentNoble020" text="Je suis {CONVERSATION_CHARACTER.LINK}, {.dl}{CLAN_NAME}. Nous nous battrons aux côtés du Khal jusqu'à ce que nous atteignions les Contrées nocturnes." />
 
     </strings>
 </base>
