@@ -11,9 +11,13 @@ namespace ROTFrench
     {
         protected override void OnSubModuleLoad()
         {
-            AccessTools.Field(typeof(Module), "_splashScreenPlayed").SetValue((object)Module.CurrentModule, (object)true);
-            Traverse.Create((object)Module.CurrentModule).Field<List<InitialStateOption>>("_initialStateOptions").Value.RemoveAll((Predicate<InitialStateOption>)(i => i.Name.Contains("Campaign") || i.Name.Contains("SandBox") || i.Name.Contains("Custom Battle")));
-            Module.CurrentModule.AddInitialStateOption(new InitialStateOption("Into the Realm", new TextObject("{=ROTMENUINTOTHEREALM}Into the Realm", (Dictionary<string, object>)null), 3, (Action)(() => MBGameManager.StartNewGame((MBGameManager)new RealmOfThronesGameModeManager())), (Func<(bool, TextObject)>)(() => (Module.CurrentModule.IsOnlyCoreContentEnabled, (TextObject)null))));
+            base.OnSubModuleLoad();
+            AccessTools.Field(typeof(Module), "_splashScreenPlayed").SetValue(Module.CurrentModule, true);
+            Traverse.Create(Module.CurrentModule).Field<List<InitialStateOption>>("_initialStateOptions").Value.RemoveAll((InitialStateOption i) => i.Name.Contains("Campaign") || i.Name.Contains("SandBox") || i.Name.Contains("Custom Battle"));
+            Module.CurrentModule.AddInitialStateOption(new InitialStateOption("Into the Realm", new TextObject("{=ROTMENUINTOTHEREALM}Into the Realm"), 3, delegate
+            {
+                MBGameManager.StartNewGame(new RealmOfThronesGameModeManager());
+            }, () => (Module.CurrentModule.IsOnlyCoreContentEnabled, null)));
         }
     }
 }
