@@ -58,10 +58,209 @@
         <string id="ROT00069" text="Casque d'Arthur Dayne" />
         <string id="ROT00070" text="Épaulières nordiennes" />
         <string id="ROT00071" text="Armure d'Arthur Dayne" />
+
         <string id="ROT00072" text="Bottes de Garde Royal" />
         <string id="ROT00073" text="Armure de Garde Royal" />
         <string id="ROT00074" text="Casque de Garde Royal" />
         <string id="ROTkggloves" text="Gantelets de Garde Royal" />
         <string id="ROTkgbracers" text="Brassards de Garde Royal" />
+        <string id="ROTkgbracergloves" text="Brassards avec gants de Garde Royal" />
+        <!-- <string id="ROTkgpauldrons" text="Épaulières de Garde Royal" /> -->
+        <!-- <string id="ROTkgpauldrons" text="Épaulières avec cape de Garde Royal" /> -->
+        <string id="slvkin1" text="Bottes de Garde Royal 2" /> 
+        <string id="slvkin2" text="Armure de Garde Royal 2" /> 
+        <string id="slvkin3" text="Casque de Garde Royal 2" /> 
+        <string id="slvkin4" text="Épaulières avec cape de Garde Royal 2" /> 
+        <string id="slvkin5" text="Brassards Garde Royal 2" /> 
+        <string id="slvkin6" text="Épaulières de Garde Royal 2" /> 
+
+        <!-- <string id="ROT00078" text="Casque de Manteau d'or" /> -->
+        <!-- <string id="ROT00078" text="Cotte de mailles de Manteau d'or" /> -->
+
+        <string id="ROT00079" text="Casque orageois" /> 
+        <string id="ROT00081" text="Cotte de mailles orageoise" /> 
+
+        <string id="ROT00082" text="Casque du Bief" /> 
+        <string id="ROT00085" text="Cotte de mailles Bolton" /> 
+        <string id="ROT00086" text="Armure riveraine" /> 
+        <string id="ROT00087" text="Épaulières Tully" /> 
+
+        <string id="ROT00088" text="Épaulières riveraines" /> 
+        <string id="ROT00089" text="Épaulières riveraines 2" /> 
+        <string id="ROT00090" text="Coiffe riveraine" /> 
+        <string id="ROT00091" text="Bottes riveraines" /> 
+        <string id="ROT00093" text="Épaulières du Silure" /> 
+        <string id="ROT00094" text="Armure noble riveraine" /> 
+        <string id="ROT00095" text="Armure du Silure" /> 
+
+        <string id="ROT00096" text="Casque avec lanière de Peyredragon" /> 
+        <string id="ROT00097" text="Gorgerin de Jon Snow" /> 
+        <string id="ROT00098" text="Bottes de Jon Snow" /> 
+
+        <string id="ROT00979" text="Armure ouestienne" /> 
+        <string id="ROT00980" text="Gorgerin ouestien" /> 
+        <string id="ROT00981" text="Bouclier Lannister" /> 
+
+        <string id="ROT00982" text="Bouclier Targaryen" /> 
+        <string id="ROT00983" text="Petit bouclier" /> 
+        <string id="ROT00984" text="Petit bouclier 2" /> 
+        <string id="ROT00985" text="Bouclier Targaryen 3" /> 
+        <string id="ROT00986" text="Bouclier Targaryen 2" /> 
+
+        <string id="ROT00987" text="Casque Stark 2" /> 
+        <string id="ROT00988" text="Casque Stark 3" /> 
+        <string id="ROT00989" text="Armure nordienne 1" /> 
+        <string id="ROT00990" text="Armure Stark 2" /> 
+        <string id="ROT00991" text="Armure nordienne 2" /> 
+        <string id="ROT00992" text="Armure Stark 4" /> 
+        <string id="ROT00993" text="Bottes Stark 1" /> 
+        <string id="ROT00994" text="Bottes Stark 2" /> 
+
+        <string id="ROT01865" text="Cape de Stannis" /> 
+        <string id="ROT01866" text="Bottes de Peyredragon" /> 
+        <string id="ROT01867" text="Armure de Peyredragon" /> 
+        <string id="ROT01868" text="Armure de Stannis" /> 
+
+        <string id="ROT01870" text="Masse" />
+        <string id="ROT01871" text="Marteau de Robert Baratheon" />
+        <string id="ROT01874" text="Armure de Jon Snow" />
+        <string id="ROT01875" text="Armure de la maison Hughes" />
+        <string id="ROT01876" text="Canons d'avant-bras de Jon Snow" />
+        <string id="ROT01877" text="Canons d'avant-bras de la maison Hughes" />
+        <string id="ROT03008" text="Bottes Bolton" />
+        <string id="ROT03009" text="Bottes d'Arthur Dayne" />
+
+        <string id="ROT03011" text="Armure fer-né" />
+        <string id="ROT03012" text="Armure Greyjoy" />
+        <string id="ROT03013" text="Bottes fer-nés" />
+        <string id="ROT03014" text="Casque fer-né" />
+        <string id="ROT03015" text="Épaulières fer-nés" />
+
+        <string id="ROT03016" text="Turban dornien" />
+        <string id="ROT03017" text="Armure dornienne" />
+
+        <string id="ROT03018" text="Féale" />
+        <string id="ROT03019" text="{.F}{.S}Arakh" />
+        <string id="ROT03020" text="Bouclier Greyjoy" />
+        <string id="ROT03022" text="Armure des Marcheurs blancs" />
+        <string id="ROT03023" text="Bottes des Marcheurs blancs" />
+        <string id="ROT03024" text="Brassards des Marcheurs blancs" />
+        <string id="nkhands" text="Brassards de Marcheur blanc" />
+        <string id="ROT03025" text="Lame du Roi de la Nuit" />
+
+        <string id="ROT03026" text="Bottes dothrakis" />
+        <string id="ROT03027" text="Armure dothraki" />
+        <string id="ROT03028" text="Épaulières dothrakis" />
+        <string id="ROT03029" text="Brassards dothrakis" />
+
+        <string id="ROT03031" text="Bottes Thenn" />
+        <string id="ROT03032" text="Épaulières en bronze Thenn" />
+
+        <!-- <string id="ROT03012" text="Armure sarnore" /> -->
+        <!-- <string id="ROT03012" text="Armure de bélier" /> -->
+        <string id="ROT03014" text="Casque à cornes" />
+        <!-- <string id="ROT03031" text="Bottes de bélier" /> -->
+        <!-- <string id="ROT03031" text="Sandales sarnores" /> -->
+
+        <string id="ROT03012" text="Armure du Limier" />
+        <string id="ROT03031" text="Bottes du Limier" />
+
+        <string id="ROT00031" text="Robe de Mélisandre" />
+
+        <string id="ROT03034" text="Habit de géant" />
+        <string id="ROT03031" text="Bottes de géant" />
+        <string id="ROT01871" text="Massue de géant" />
+
+        <string id="ROTvaleknight" text="Armures de plates 2" />
+        <!-- <string id="ROTvaleknighthelmet" text="Barbute du Val" /> -->
+        <string id="ROTvalepauldrons" text="Épaulières de plates 2" />
+
+        <string id="ROTreachsoldierarmor" text="Armure de soldat du Bief" />
+        <string id="ROTreachpauldrons" text="Épaulières du Bief" />
+        <!-- <string id="ROTvaleknighthelmet" text="Casque du Bief 2" /> -->
+
+        <string id="ROTcerseicrown" text="Couronne de Cersei" />
+        <string id="ROTcerseidress" text="Robe de Cersei" />
+
+        <string id="ROTsansadress" text="Robe de Sansa" />
+        <string id="ROTsansafur" text="Fourrure de Sansa" />
+
+        <string id="ROTmargaerydress" text="Robe de Margaery" />
+
+        <string id="ROTstormshoulders" text="Épaulières orageoises" />
+        <string id="ROTstormshoulders2" text="Épaulières orageoises 2" />
+        <string id="ROTstormgorget" text="Gorgerin orageois" />
+        <string id="ROTstormgorget2" text="Gorgerin orageois 2" />
+        <string id="ROTstormlandsarmor" text="Armure orageoise" />
+
+        <string id="ROTdgaxe" text="Hache en verredragon" />
+
+        <string id="ROTdshalberd" text="Hallebarde de Peyredragon" />
+        <string id="ROTdsehalberd" text="Hallebarde élite de Peyredragon" />
+
+        <string id="ROTtyrionclothes" text="Vêtements de Tyrion" />
+        <string id="ROTjaimeboots" text="Bottes de Tyrion" />
+
+        <string id="ROTvarysclothes" text="Vêtements de Varys" />
+        <string id="ROTvarysshoes" text="Chaussures de Varys" />
+
+        <string id="ROTbaelishclothes" text="Vêtements de Baelish" />
+        <string id="ROTbaelishboots" text="Bottes de Baelish" />
+
+        <string id="ROTdornesword" text="Épée dornienne" />
+        <string id="ROTdornesword2" text="Épée dornienne 2" />
+
+        <string id="ROTstarkplateboots" text="Bottes de plates Stark" />
+        <string id="ROTgregorsword" text="Épée de Gregor Clegane" />
+        <string id="ROTbaratheongambeson" text="Gambison Baratheon" />
+        <string id="ROTstormlandsgambeson" text="Gambison orageois" />
+        <string id="ROTstarkgambeson" text="Gambison Stark" />
+        <string id="ROTbaratheon_helmet" text="Casque Baratheon" />
+        <string id="ROTbaratheon_helmet_with_mail" text="Casque avec mailles Baratheon" />
+        <string id="ROTnorthgambeson" text="Gambison nordien" />
+        <string id="ROTlannistergambeson" text="Gambison Lannister" />
+        <string id="ROTwestgambeson" text="Gambison ouestien" />
+        <string id="ROTvalegambeson" text="Gambison du Val" />
+        <string id="ROTreachgambeson" text="Gambison du Bief" />
+        <string id="ROTtarlygambeson" text="Gambison Tarly" />
+        <string id="ROTdragonstonegambeson" text="Gambison de Peyredragon" />
+        <string id="ROTriverlandsgambeson" text="Gambison riverain" />
+        <string id="ROTbaratheonhelmet3" text="Casque baratheon 3" />
+        <string id="ROTvalsteel2" text="Épée en acier valyrien 2" />
+        <string id="ROTladyforlorn" text="Dame Affliction" />
+
+        <string id="ROTvalsteel3" text="Épée en acier valyrien 3" />
+        <string id="ROTvalsteel4" text="Épée en acier valyrien 4" />
+        <string id="ROTvalsteel5" text="Épée en acier valyrien 5" />
+        <string id="ROTvalsteel6" text="Épée en acier valyrien 6" />
+        <string id="ROTvalsteel7" text="Épée en acier valyrien 7" />
+        <string id="ROTvalsteel7" text="Épée en acier valyrien 8" />
+
+        <string id="ROTtyrellshield" text="Bouclier Tyrell" />
+        <string id="ROTtyrellhelmet" text="Casque Tyrell" />
+        <string id="ROTmacehelmet" text="Casque de Mace Tyrell" />
+
+        <string id="ROTnorvosarmor" text="Armure norvoshi" />
+        <string id="ROTnorvoshelmet" text="Casque norvoshi" />
+
+        <string id="ROTnorvoshelmet" text="Brassards Tyrell" />
+        <string id="ROTnightfall" text="Crépuscule" />
+        <string id="ROTtrident" text="Trident" />
+
+        <string id="bluearmor" text="Armure bleue" />
+        <string id="bluebracers" text="Brassards bleu" />
+        <string id="blueshoulders" text="Épaulières bleues" />
+
+        <string id="ROTmacearmor" text="Armure de Mace Tyrell" />
+        <string id="ROTwestshoulders" text="Épaulières ouestiennes" />
+        <string id="ROTmacebracers" text="Brassards de Mace Tyrell" />
+        <string id="ROTwidowswail" text="Dent-de-Lion" />
+
+        <string id="ROTtargarmor" text="Armure de soldat valyrien" />
+        <string id="ROTtargbracers" text="Brassards de soldat valyrien" />
+        <string id="ROTtargshoulders" text="Épaulières de soldat valyrien" />
+        <string id="ROTtarggorget" text="Gorgerin de soldat valyrien" />
+        <string id="ROTtarghelmet" text="Casque de soldat valyrien" />
+        <string id="ROTtargboots" text="Bottes valyriennes" />
     </strings>
 </base>
