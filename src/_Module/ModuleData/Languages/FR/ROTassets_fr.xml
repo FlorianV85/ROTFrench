@@ -262,5 +262,133 @@
         <string id="ROTtarggorget" text="Gorgerin de soldat valyrien" />
         <string id="ROTtarghelmet" text="Casque de soldat valyrien" />
         <string id="ROTtargboots" text="Bottes valyriennes" />
+
+        <string id="ROTmanderlyarmor" text="Armure de la Maison Manderly" />
+        <string id="ROTmanderlyhelmet" text="Casque de la Maison Manderly" />
+        <string id="ROTcasterlyarmor" text="Armure de Castral Roc" />
+        <string id="ROTcasterlyarmor2" text="Armure de Castral Roc 2" />
+        <string id="ROTcasterlyhoulders" text="Épaulières de Castral Roc" />
+        <string id="ROTcasterlyhoulders2" text="Épaulières de Castral Roc 2" />
+        <string id="ROTmanderlybracers" text="Brassards de la Maison Manderly" />
+        <string id="ROTcasterlybracers" text="Brassards de Castral Roc" />
+        <string id="ROTcasterlybracers2" text="Brassards de Castral Roc 2" />
+        <string id="ROTcasterlyboots" text="Bottes de Castral Roc" />
+        <string id="ROTcasterlyboots2" text="Bottes de Castral Roc 2" />
+
+        <string id="ROTdawn" text="Aube" />
+        <string id="ROTnobledefault" text="Défaut noble" /> <!-- ? -->
+        <string id="ROTcasterlyhelmet" text="Casque de Castral Roc" />
+        <!-- <string id="ROTcasterlyhelmet" text="Casque de Castral Roc 2" /> -->
+        <string id="ROTlightbringer" text="Illumination" />
+        <string id="ROTmormonthelm" text="Casque Mormont" />
+        <string id="ROTdorneplate" text="Armure de plates dornienne" />
+        <string id="ROTmartellplate" text="Armure de plates de la Maison Martell" />
+        <string id="ROTyronwoodplate" text="Armure de plates de la Maison Ferboys" />
+
+        <string id="ROTdornehelmet" text="Casque de plates dornien" />
+        <string id="ROTdornebracers" text="Brassards dorniens" />
+        <string id="ROTdorneshoulders" text="Épaulières dorniennes" />
+        <!-- <string id="ROTdorneshoulders" text="Épaulières dorniennes 2" /> -->
+        <string id="ROTmartellsword" text="Épée de la Maison Martell" />
+
+        <string id="ROTyronwoodsword" text="Épée de la Maison Ferboys" />
+        <string id="ROTkopeshsword" text="Khopesh" />
+
+        <string id="ROTriverlandsgambeson" text="Armure d'archer ouestien" />
+        <!-- <string id="ROTarchergorget" text="Gorgerin d'archer Lannister" /> -->
+        <!-- <string id="ROTarchergorget" text="Casque d'archer ouestien" /> -->
+
+        <string id="ROTarcherboots" text="Bottes d'archer" />
+        <string id="ROTarchgorget" text="Gorgerin d'archer" />
+
+        <!-- <string id="ROT00003" text="Casque ouvert Lannister" /> -->
+        <string id="ROT00003" text="Casque léger Lannister" />
+        <string id="ROT00092" text="Gants Lannister" />
+        <!-- <string id="ROTarchgorget" text="Épaulières noble Lannister" /> -->
+        <!-- <string id="ROT00979" text="Armure de noble Lannister" /> -->
+        <string id="ROT00979" text="Armure de soldat Lannister" />
+        <!-- <string id="ROT00979" text="Armure d'éclaireur Lannister" /> -->
+        <!-- <string id="ROT00979" text="Armure légère Lannister" /> -->
+        <!-- <string id="ROT00979" text="Armure d'officier Lannister" /> -->
+        <!-- <string id="ROTarchgorget" text="Épaulières d'officier Lannister" /> -->
+        <string id="ROTarchgorget" text="Épaulières Lannister" />
+        <!-- <string id="ROTarchgorget" text="Épaulières de Maison Lannister" /> -->
+        <!-- <string id="ROTarchgorget" text="Gorgerin Lannister" /> -->
+        <!-- <string id="ROTarchgorget" text="Épaulières lourdes ouestiennes" /> -->
+        <string id="ROT00092" text="Gants en plates Lannister" />
+        <!-- <string id="ROTdornebracers" text="Brassards Lannister" /> -->
+        <!-- <string id="ROT00003" text="Casque léger Castral" /> -->
+        <!-- <string id="ROT00003" text="Casque léger Castral 2" /> -->
+
+        <string id="ROTboltonshield" text="Bouclier Bolton" />
+        <string id="ROTkarstarkgorget" text="Gorgerin Karstark" />
+
+        <string id="ROTtargarmor2" text="Armure de seigneur valyrien" />
+        <string id="ROTtarggauntlets" text="Gants en plates valyrien" />
+        <string id="ROTtarglordpauldrons" text="Épaulières de seigneur valyrien" />
+        <string id="ROTtarglordhelm" text="Casque de seigneur valyrien" />
+        <string id="ROTarcherboots" text="Bottes en plates valyrien" />
+
+        <string id="ROTspikedsallet" text="Salade de piquier" /> <!-- ? -->
+        <string id="ROTmormontshield" text="Bouclier Mormont" /> 
+        <string id="ROTbanditgarb" text="Vêtements de bandit" /> 
+        <string id="ROTtullycoif" text="Cape de bandit" /> 
+        <string id="ROTbanditshoes" text="Chaussures de bandit" /> 
+        <string id="ROTlanpaulcape" text="Épaulières avec cape de noble Lannister" /> 
+        <string id="ROTww2sword" text="Pleurs-de-Veuve" /> 
+        <string id="ROTjaimesword" text="Épée de Jaime Lannister" /> 
+        <string id="ROTbascinet" text="Bascinet ouvert" /> 
+
+        <string id="ROTtarglordgorget" text="Gorgerin valyrien" /> 
+        <string id="ROTvalyrianhelm" text="Casque valyrien" /> 
+
+        <string id="ROTwestymil" text="Armure de milicien ouestien" /> 
+        <string id="ROTgoldarmor" text="Armure de Manteau d'or" /> 
+        <string id="ROTvalyrianhelm" text="Casque de Manteau d'or" /> 
+        <string id="ROTgoldpaul" text="Épaulières de Manteau d'or" /> 
+        <string id="ROTgoldboots" text="Bottes de Manteau d'or" /> 
+        <string id="ROTgoldbracers" text="Brassards de Manteau d'or" /> 
+        <string id="ROTgoldcloak" text="Manteau d'or" /> 
+
+        <string id="ROTbarcloak" text="Armure Baratheon" /> 
+        <string id="ROTvalplate" text="Armure de plates valyrienne" /> 
+        <string id="ROTgoldpaulcape" text="Épaulières avec cape de Manteau d'or" /> 
+
+        <string id="ROTgianthead" text="Tête de Géant" /> 
+        <string id="ROTharpy" text="Masque de la Harpie" /> 
+        <string id="ROTnkhead" text="Tête du Roi de la Nuit" /> 
+        <string id="ROTgianthead2" text="Tête de Géant 2" /> 
+        <string id="ROTgianthead3" text="Tête de Géant 3" /> 
+
+        <string id="ROTwhead1" text="Tête de Spectre 1" /> 
+        <string id="ROTwhead2" text="Tête de Spectre 2" /> 
+        <string id="ROTwhead3" text="Tête de Spectre 3" /> 
+        <string id="ROTwhead4" text="Tête de Spectre 4" /> 
+
+        <string id="ROTbraavplate" text="Armure de plates braavienne" /> 
+        <string id="ROTbraavpaul" text="Épaulières braaviennes" /> 
+        <string id="ROTbraavhelm" text="Casque braavien" /> 
+        <string id="ROTbraavgauntlets" text="Gants de plates braavien" /> 
+
+        <string id="ROTvalsurcoat" text="Surcot valyrien" /> 
+        <string id="ROTvalpaul" text="Épaulières valyriennes" /> 
+        <string id="ROTarcherboots" text="Bottes en plates valyriennes 2" /> 
+        <string id="ROTtargplate" text="Armure en plates targaryenne" /> 
+
+        <string id="ROTbraavcur" text="Cuirasse braavienne" /> 
+
+        <string id="ROTbraavcur" text="Armure lourde volantain" /> 
+        <string id="ROTvolpaul" text="Épaulières volantain" /> 
+        <string id="ROTvolhelm" text="Casque volantain" /> 
+        <string id="ROTvollighthelm" text="Casque léger volantain" /> 
+        <string id="ROTbraavgauntlets" text="Brassards volantain" /> 
+        <string id="ROTvalsurcoat" text="Tunique lourde volantain" /> 
+        <string id="ROTvollightarmor" text="Armure légère volantain" /> 
+        <string id="voltunic" text="Tunique volantain" />
+
+        <string id="ROTunsulgloves" text="Gants des Immaculés" />
+        <string id="ROThughesgloves" text="Gants de la Maison Hughes" />
+        <string id="ROTtarggloves" text="Gants avec brassards valyrien" />
+        <string id="spikemace" text="Masse à pointes" />
     </strings>
 </base>
