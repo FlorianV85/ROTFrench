@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Game Versions: v1.1.5
+* Patch FR pour ROT 4.1.2 et +
+* Ajout de la traduction des troupes des spectres
+* Ajout de la traduction d'environ 200 objets sur 532
+* Divers améliorations mineures
+---------------------------------------------------------------------------------------------------
 Version: 0.0.2
 Game Versions: v1.1.5
 * Patch FR pour ROT 4.1.2 et +
