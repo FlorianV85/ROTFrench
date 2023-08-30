@@ -452,6 +452,102 @@
         <string id="ROTwanderer3_006" text="Putain de merde. Il est où votre problème ?"/>
         <string id="ROTwanderer3_007" text="Je trancherai un homme de la gorge à la hanche sans perdre une seule seconde de sommeil. Mais ne vous mettez pas en travers de mon chemin quand je retrouverai mon cher frère."/>
 
+        <string id="ROTwanderer4_001" text="Uniquement si vous avez une bourse bien remplie."/>
+        <string id="ROTwanderer4_002" text="Je vends mon épée, mon seul talent à part celui de mettre mon nez à deux centimètres de profondeur dans celui-là."/>
+        <string id="ROTwanderer4_003" text="Je m'appelle Bronn, et bien que je sois maintenant chevalier, je peux encore être votre homme si vous y mettez le prix."/>
+        <string id="ROTwanderer4_004" text="Si vous le voulez bien, je vais aller respirer le parfum des roses."/>
+        <string id="ROTwanderer4_005" text="Je comprends, qui recommandez-vous ?"/>
+        <string id="ROTwanderer4_006" text="Allez mon gars, je croyais que tu voulais parler affaires."/>
+        <string id="ROTwanderer4_007" text="Engagez-moi, le travail sera fait sans poser de questions, sauf une : combien ?"/>
+
+        <string id="ROTwanderer5_001" text="Bonjour monsieur, ne vous occupez pas de moi. Je ne fais que passer en me rendant à Châteaunoir."/>
+        <string id="ROTwanderer5_002" text="J'étais autrefois l'héritier de la maison Tarly, mais mon père m'a chassé et m'en a jugé indigne."/>
+        <string id="ROTwanderer5_003" text="Peut-être a t-il raison. Je le mérite peut-être. Je n'ai jamais été le courageux guerrier qu'il voulait que je sois."/>
+        <string id="ROTwanderer5_004" text="Je ne suis qu'un lâche grassouillet, le nez plongé dans les livres au lieu d'accomplir ce qu'un jeune seigneur devrait faire."/>
+        <string id="ROTwanderer5_005" text="Ne sois pas si dure avec toi-même. Un père comme celui-là n'est pas un vrai père."/>
+        <string id="ROTwanderer5_006" text="Dans ce dangereux pays, les lâches sont des proies faciles."/>
+        <string id="ROTwanderer5_007" text="Puis-je me joindre à votre caravane ? Les livres que j'ai lus m'ont appris quelques notions sur lutte contre les infections. "/>
+
+        <string id="ROTwanderer6_001" text="Je suis Podrick Payne."/>
+        <string id="ROTwanderer6_002" text="Ne jugez pas ma maison. Mon cousin, le bourreau du roi, me fait aussi peur."/>
+        <string id="ROTwanderer6_003" text="Je ne suis pas encore un grand guerrier, mais j'ai tué un Garde Royal sur le champs de bataille."/>
+        <string id="ROTwanderer6_004" text="Je peux cuisiner, faire le ménage et vous aider avec votre armure."/>
+        <string id="ROTwanderer6_005" text="J'ai déjà une femme." />
+        <string id="ROTwanderer6_006" text="Vous voullez regretter de m'avoir à tes côtés. Je m'en assurerai."/>
+        <string id="ROTwanderer6_007" text="Il faut bien commencer quelque part."/>
+
+        <string id="ROTwanderer7_001" text="Juste un apprenti forgeron de Culpucier."/>
+        <string id="ROTwanderer7_002" text="Je m'appelle Gendry. Je ne sais pas si je suis un Hill, un Rivers ou un Storm, mais sans aucun doute un bâtard."/>
+        <string id="ROTwanderer7_004" text="Chaque groupe de guerriers a besoin de quelqu'un pour déboseler et aiguiser les épées. Si mon marteau de forgeron peut vous être utile."/>
+        <string id="ROTwanderer7_005" text="N'importe qui voudrait sortir de ce trou à rats et dirait n'importe quoi pour le faire."/>
+        <string id="ROTwanderer7_006" text="Il ne fait aucun doute que vous pourriez pulvériser quelque chose."/>
+        <string id="backstory_c.ROTwanderer7" text="J'ai acquis la force et l'endurance d'un boeuf en martelant de l'acier de l'aube au crépuscule."/>
+        <string id="ROTwanderer7_008" text="Je n'ai jamais mis les pieds sur les champs de bataille, mais mettez-moi un marteau de guerre dans les mains et vous verrez ce qu'il se passera."/>
+
+        <string id="ROTwanderer8_001" text="Pourquoi ces gros yeux ? N'avez-vous jamais vu de nain ?"/>
+        <string id="ROTwanderer8_002" text="Je suis Tyrion de la maison Lannister."/>
+        <string id="ROTwanderer7_003" text="J'ai sauvé tout Port-Réal lors de la bataille de la Néra et qu'ais-je reçu comme remerciement ? Une rétrogradation et un trou à la place du nez."/>
+        <string id="ROTwanderer8_004" text="Je bois et j'en sais plus que jamais aujourd'hui. Slurp !"/>
+        <string id="ROTwanderer8_005" text="J'ai besoin d'une nouvelle armure. Vous pouvez me chier quelques dragons d'or."/>
+        <string id="ROTwanderer8_006" text="Je n'ai pas besoin d'un lutin qui va avaler toute ma bière."/>
+        <string id="ROTwanderer8_007" text="Vous semblez être un homme intelligent, vous trouverez une solution. Maintenant, si vous voulez bien m'excuser."/>
+
+        <string id="ROTwanderer9_001" text="Mon père est Selwyn de La Vesprée"/>
+        <string id="ROTwanderer9_002" text="Je suis Brienne de la maison Torth."/>
+        <string id="ROTwanderer9_003" text="L'honneur, le devoir et la loyauté sont des valeurs essentielles pour un chevalier. "/>
+        <string id="ROTwanderer9_004" text="Bien que je ne sois pas chevalier, je vis selon ces principes."/>
+        <string id="ROTwanderer9_005" text="Quelle bête de femme vous êtes !"/>
+        <string id="ROTwanderer9_006" text="Les gens comme vous sont difficiles à trouver, je vous félicite."/>
+        <string id="ROTwanderer9_007" text="Si vous voulez de moi, mon épée est à vous jusqu'à mon dernier souffle."/>
+
+        <string id="ROTwanderer10_001" text="Cet homme n'a pas de nom."/>
+        <string id="ROTwanderer10_002" text="Pour vos besoins, vous pouvez m'appeler Jaquin Hagar. "/>
+        <string id="ROTwanderer10_003" text="Cet homme n'est pas ici par hasard. Cette rencontre est voulue par le dieu Multiface."/>
+        <string id="ROTwanderer10_004" text="Au service du dieu Multiface."/>
+        <string id="ROTwanderer10_005" text="Pour être à la fois visible et invisible, cet homme doit agir."/>
+        <string id="ROTwanderer10_006" text="Mystérieux. J'ai besoin d'en savoir plus."/>
+        <string id="ROTwanderer10_007" text="YVous êtes un drôle de personnage."/>
+
+        <string id="ROTwanderer11_001" text="Je m'appelle Mya Stone."/>
+        <string id="ROTwanderer11_002" text="Je suis une fille simple."/>
+        <string id="ROTwanderer11_003" text="J'ai déjà conduit des voyageurs vers et depuis les Eyrié."/>
+        <string id="ROTwanderer11_004" text="À travers les montagnes les plus hautes et les plus escarpées de tout Westeros, avec rien d'autre que mon âne."/>
+        <string id="ROTwanderer11_005" text="Une fille avec de bonnes capacités de repérage devrait être utile."/>
+        <string id="ROTwanderer11_006" text="Je pourrais être votre éclaireur ou peut-être diriger une caravane. J'aimerais beaucoup parcourir le monde avec vous."/>
+        <string id="ROTwanderer11_007" text="Une fille comme toi se ferait avaler toute crue dans ce monde."/>
+
+        <string id="ROTwanderer12_001" text="Je suis Qyburn."/>
+        <string id="ROTwanderer12_002" text="Je suis formé aux arts de la médecine."/>
+        <string id="ROTwanderer12_003" text="Mais j'ai perdu ma chaîne, car ma curiosité m'a amené à faire des recherches médicales, disons, peu orthodoxe."/>
+        <string id="ROTwanderer12_004" text="Mes compétences demeures. La capacité de guérir les maladies, de prolonger la vie et, bien sûr, d'autres choses que vous pourriez trouver utiles."/>
+        <string id="ROTwanderer12_005" text="Empêchez mes soldats de mourir et vous serez un de mes amis."/>
+        <string id="ROTwanderer12_006" text="Je frémis en pensant aux atrocités que vous avez dû commettre."/>
+        <string id="ROTwanderer12_007" text="Garder vos hommes en vie et exploiter tout leur potentiel, par tous les moyens nécessaires, est mon objectif le plus strict, cher monsieur."/>
+
+        <string id="ROTwanderer13_001" text="Je suis Syrio Forel."/>
+        <string id="ROTwanderer13_002" text="J'ai été la première épée de Braavos."/>
+        <string id="ROTwanderer13_003" text="D'où je viens, la véritable maîtrise de l'épée est une forme d'art. Il ne s'agit pas simplement de tailler dans le vif comme vous le faites ici."/>
+        <string id="ROTwanderer13_004" text="Un duel n'est pas une épreuve de force mais une danse de l'eau."/>
+        <string id="ROTwanderer13_005" text="J'ai besoin d'épées, même si celle que vous utilisez est fine comme un crayon."/>
+        <string id="ROTwanderer13_006" text="Il n'y a pas de place pour danser lorsque l'on est encerclé ou acculé."/>
+        <string id="ROTwanderer13_007" text="La première épée de Braavos a fait face à de pires difficultés, et pourtant elle vit."/>
+
+        <string id="ROTwanderer15_001" text="Tu oses t'approcher d'un Sang-coureur dothraki ?"/>
+        <string id="ROTwanderer15_002" text="Que veux-tu, ifak ? A moins que tu ne me paies pour mon temps, je ne suis pas intéressé. "/>
+        <string id="ROTwanderer15_003" text="Mon nom est Rago. J'étais un Sang-coureur d'un Khal à l'est. J'ai protégé ses arrières, je l'ai conseillé, j'ai même partagé sa Khaleesi. La vie était belle. "/>
+        <string id="ROTwanderer15_004" text="Après un certain temps, mon Khal s'est cru beaucou plus fort qu'il ne l'était. Le chiftik pensait pouvoir défier le grand Khal Drogo. Il suffit de le dire, les cheveux de Drogo n'ont jamais été coupés. J'avais prévenu mon Khal à nombreuses reprises qu'il ne pourrait pas gagner. Il a refusé d'écouter. Ensuite, j'ai amené sa Khaleesi à Vaes Dothrak. "/>
+        <string id="ROTwanderer15_005" text="Alors que faites-vous ici à bouder et à boire ?"/>
+        <string id="ROTwanderer15_006" text="Au moins, vous lui avez fait cet honneur."/>
+        <string id="ROTwanderer15_007" text="Aujourd'hui, je parcours le monde pour pouvoir un jour venger mon khal déchu et rejoindre les Contrées nocturnes avec honneur."/>
+
+        <string id="ROTwanderer14_001" text="Hodor !"/>
+        <string id="ROTwanderer14_002" text="Hodor."/>
+        <string id="ROTwanderer14_003" text="Hodor ?"/>
+        <string id="ROTwanderer14_004" text="Hodor ??"/>
+        <string id="ROTwanderer14_005" text="Quel imbécile."/>
+        <string id="ROTwanderer14_006" text="Merde, vous devez avoir le sang d'un géant."/>
+        <string id="ROTwanderer14_007" text="Hodor !!"/>
+
         <string id="ROTstags" text="Cerfs" />
         <string id="ROTstags1" text="Cerfs" />
 
