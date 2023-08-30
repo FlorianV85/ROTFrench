@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>        
+        <string id="ROTFirstMenCaravanMaster" text="{.M}{.S}Maître de caravane des Premiers hommes" />
+        <string id="ROTFirstMenArmedTrader" text="{.M}{.S}Marchand armé des Premiers hommes" />
+        <string id="ROTFirstMenCaravanGuard" text="{.M}{.S}Garde de caravane des Premiers hommes" />
+        <string id="ROTFirstMenVeteranCaravanGuard" text="{.M}{.S}Garde de caravane vétéran des Premiers hommes" />
+
+        <string id="ROTAndalCaravanMaster" text="{.M}{.S}Maître de caravane des Andals" />
+        <string id="ROTAndalArmedTrader" text="{.M}{.S}Marchand armé des Andals" />
+        <string id="ROTAndalCaravanGuard" text="{.M}{.S}Garde de caravane des Andals" />
+        <string id="ROTAndalVeteranCaravanGuard" text="{.M}{.S}Garde de caravane vétéran des Andals" />
+
+        <string id="ROTRhoynarCaravanMaster" text="{.M}{.S}Maître de caravane Rhoynar" />
+        <string id="ROTRhoynarArmedTrader" text="{.M}{.S}Marchand armé Rhoynar" />
+        <string id="ROTRhoynarCaravanGuard" text="{.M}{.S}Garde de caravane Rhoynar" />
+        <string id="ROTRhoynarVeteranCaravanGuard" text="{.M}{.S}Garde de caravane vétéran Rhoynar" />
+
+        <string id="ROTGrassSeaCaravanMaster" text="{.M}{.S}Maître de caravane de la Mer herbeuse" />
+        <string id="ROTGrassSeaArmedTrader" text="{.M}{.S}Marchand armé de la Mer herbeuse" />
+        <string id="ROTGrassSeaCaravanGuard" text="{.M}{.S}Garde de caravane de la Mer herbeuse" />
+        <string id="ROTGrassSeaVeteranCaravanGuard" text="{.M}{.S}Garde de caravane vétéran de la Mer herbeuse" />
+
+        <string id="ROTEssosiCaravanMaster" text="{.M}{.S}Maître de caravane d'Essos" />
+        <string id="ROTEssosiArmedTrader" text="{.M}{.S}Marchand armé d'Essos" />
+        <string id="ROTEssosiCaravanGuard" text="{.M}{.S}Garde de caravane d'Essos" />
+        <string id="ROTEssosiVeteranCaravanGuard" text="{.M}{.S}Garde de caravane vétéran d'Essos" />
+
+        <string id="ROTIronbornCaravanMaster" text="{.M}{.S}Maître de caravane fer-né" />
+        <string id="ROTIronbornArmedTrader" text="{.M}{.S}Marchand armé fer-né" />
+        <string id="ROTIronbornCaravanGuard" text="{.M}{.S}Garde de caravane fer-né" />
+        <string id="ROTIronbornVeteranCaravanGuard" text="{.M}{.S}Garde de caravane vétéran fer-né" />
+    </strings>
+</base>

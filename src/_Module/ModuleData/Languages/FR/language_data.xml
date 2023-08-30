@@ -17,4 +17,5 @@
     <LanguageFile xml_path="FR/ROT_lords_fr.xml" />
     <LanguageFile xml_path="FR/ROT_town_traders_fr.xml" />
     <LanguageFile xml_path="FR/ROTassets_fr.xml" />
+    <LanguageFile xml_path="FR/spnpccharacters_fr.xml" />
 </LanguageData>
