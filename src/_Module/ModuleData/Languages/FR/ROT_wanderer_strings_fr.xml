@@ -220,5 +220,22 @@
         <string id="ROTwandererstr188" text="C'est un plaisir de parler avec vous."/>
         <string id="ROTwandererstr189" text="Je ne cherche pas à être le héros, c'est votre histoire. "/>
 
+
+
+        <string id="ROTBronnOfTheBlackwater" text="Bronn de la Néra" />
+        <string id="ROTBrienneOfTarth" text="Brienne de Torth" />
+        <string id="ROTRagoTheBloodrider" text="Rago le Sang-coureur" />
+        <string id="ROTKinvaraTheRedPriestess" text="Kinvara la prêtresse rouge" />
+        <string id="ROTShaggaSonOfDolf" text="Shagga fils de Dolf" />
+        <string id="ROTMaesterCressen" text="Mestre Cressen" />
+        <string id="ROTJacelynBywater" text="Jacelyn Prédeaux" />
+        <string id="ROTDickCrabb" text="Dick Crabbe" />
+        <string id="ROTBenfryTheLucky" text="Ser Benfry le Chanceux" />
+        <string id="ROTGarlanTheGallant" text="Ser Garlan le Preux" />
+        <string id="ROTSandraTheGreat" text="Sandra la Grande" />
+        <string id="ROTFelixReverdinTheHammer" text="Felix Reverdin le Marteau" />
+        <string id="ROTCletusYronwood" text="Cletus Ferboys" />
+        <string id="ROTDaemonBlackfyre" text="Daemon Feunoyr" />
+        <string id="ROTSlavanisTheBowMaiden" text="Slavanis l'Archère" />
     </strings>
 </base>
