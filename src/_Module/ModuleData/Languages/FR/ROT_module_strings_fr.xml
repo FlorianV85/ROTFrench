@@ -428,6 +428,30 @@
         <string id="ROTtyroshi15" text="{.M}{.S}Tyroshi" />
         <string id="ROTlyseni15" text="{.M}{.S}Lysien" />
 
+        <string id="ROTwanderer1_001" text="Je suis surpris que vous n'ayez pas reconnu l'infâme Régicide. Je suis Ser Jaime de la maison Lannister."/>
+        <string id="ROTwanderer1_002" text="Oh, pourquoi pas. Bien sûr."/>
+        <string id="ROTwanderer1_003" text="J'ai planté mon épée dans le dos du Roi que j'avais juré de protéger, ce qui m'a valu ce surnom."/>
+        <string id="ROTwanderer1_004" text="Bien que je sois un parjure et un meurtrier, sans parler de mes autres atrocités, poignarder le Roi Fou fut probablement l'acte le plus charitable que j'aie jamais commis. Il aurait mis le feu à tout le royaume."/>
+        <string id="ROTwanderer1_004" text="Je ne vous juge pas. Nous avons tous un passé."/>
+        <string id="ROTwanderer1_005" text="Le Lion des Lannister. Ô comment les puissants sont tombés."/>
+        <string id="ROTwanderer1_006" text="Mon père ne s'intéresse qu'à son héritage et ma soeur est en train de décimer toute la garde royale. J'en ai assez des jeux auxquels ils se livrent à Port-Réal. A partir de ce jour, je serai simplement Jaime."/>
+
+        <string id="ROTwanderer2_001" text="Oh, vous ne savez donc pas qui je suis ? Moi, je sais qui vous êtes. Mes petits oiseaux me disent tout."/>
+        <string id="ROTwanderer2_002" text="Je ne suis que le Maître des chuchoteurs, mon cher. Rien de ce qui se passe dans le royaume ne m'échappe."/>
+        <string id="ROTwanderer2_003" text="Même une compagnie de vaillants héros comme vous et vos camarades pourrait voir une utilité dans mes informations. Elles pourraient bien arrêter une flèche venant de derrière, ou même venant de l'intérieur."/>
+        <string id="ROTwanderer2_004" text="Bien que je ne sois pourvu d'aucune compétence physique, mes compétences sont d'un tout autre ordre."/>
+        <string id="ROTwanderer2_005" text="Pourtant, les araignées mordent et leur venin peut abattre même le plus fort des hommes."/>
+        <string id="ROTwanderer2_006" text="Tu pourrais t'avérer utile, même pour mon groupe de guerriers."/>
+        <string id="ROTwanderer2_007" text="Allez tisser votre toile ailleurs. Vos jeux de mots n'ont que peu d'importance lorsque des flèches atteignent votre tête."/>
+
+        <string id="ROTwanderer3_001" text="Il y a intérêt à ce que ce soit bon, ou votre poulet sera le mien. Sandor Clegane, c'est ça."/>
+        <string id="ROTwanderer3_002" text="Je suis un tueur comme tous les hommes ici."/>
+        <string id="ROTwanderer3_003" text="Et ne faîtes pas semblant de ne pas l'apprécier."/>
+        <string id="ROTwanderer3_004" text="Il n'y a rien de plus satisfaisant que de voir un con expirer sa dernière bouffée d'air."/>
+        <string id="ROTwanderer3_005" text="Un homme de votre taille et de votre aptitude qui est encore en vie doit être une sacrée bête sur le champs de bataille."/>
+        <string id="ROTwanderer3_006" text="Putain de merde. Il est où votre problème ?"/>
+        <string id="ROTwanderer3_007" text="Je trancherai un homme de la gorge à la hanche sans perdre une seule seconde de sommeil. Mais ne vous mettez pas en travers de mon chemin quand je retrouverai mon cher frère."/>
+
         <string id="ROTstags" text="Cerfs" />
         <string id="ROTstags1" text="Cerfs" />
 
