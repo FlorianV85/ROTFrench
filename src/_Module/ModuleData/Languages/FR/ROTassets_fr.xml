@@ -11,10 +11,10 @@
         <string id="ROT00005" text="Armure de milicien nordien" />
         <string id="ROT00006" text="Bottes de milicien nordien" />
         <string id="ROT00008" text="Casque Stark" />
-        <!-- <string id="ROT00009" text="Armure d'Immaculé élite" /> -->
-        <!-- <string id="ROT00009" text="Armure des Immaculés" /> -->
-        <!-- <string id="ROT00010" text="Casque des Immaculés" /> -->
-        <!-- <string id="ROT00010" text="Casque de piquier Immaculé" /> -->
+        <string id="ROT00009" text="Armure d'Immaculé élite" />
+        <string id="ROTUnsulliedArmor" text="Armure des Immaculés" />
+        <string id="ROT00010" text="Casque des Immaculés" />
+        <string id="ROTUnsulliedPikemanHelmet" text="Casque de piquier Immaculé" />
         <string id="ROT00011" text="Bottes des Immaculés" />
         <string id="ROT00012" text="Brassards ouestiens" />
         <string id="ROT00013" text="Bouclier Stark" />
@@ -65,8 +65,8 @@
         <string id="ROTkggloves" text="Gantelets de Garde Royal" />
         <string id="ROTkgbracers" text="Brassards de Garde Royal" />
         <string id="ROTkgbracergloves" text="Brassards avec gants de Garde Royal" />
-        <!-- <string id="ROTkgpauldrons" text="Épaulières de Garde Royal" /> -->
-        <!-- <string id="ROTkgpauldrons" text="Épaulières avec cape de Garde Royal" /> -->
+        <string id="ROTkgpauldrons" text="Épaulières de Garde Royal" />
+        <string id="ROTkgcloakpauldrons" text="Épaulières avec cape de Garde Royal" />
         <string id="slvkin1" text="Bottes de Garde Royal 2" /> 
         <string id="slvkin2" text="Armure de Garde Royal 2" /> 
         <string id="slvkin3" text="Casque de Garde Royal 2" /> 
@@ -74,8 +74,8 @@
         <string id="slvkin5" text="Brassards Garde Royal 2" /> 
         <string id="slvkin6" text="Épaulières de Garde Royal 2" /> 
 
-        <!-- <string id="ROT00078" text="Casque de Manteau d'or" /> -->
-        <!-- <string id="ROT00078" text="Cotte de mailles de Manteau d'or" /> -->
+        <string id="ROT00077" text="Casque de Manteau d'or" />
+        <string id="ROT00078" text="Cotte de mailles de Manteau d'or" />
 
         <string id="ROT00079" text="Casque orageois" /> 
         <string id="ROT00081" text="Cotte de mailles orageoise" /> 
@@ -156,28 +156,28 @@
         <string id="ROT03031" text="Bottes Thenn" />
         <string id="ROT03032" text="Épaulières en bronze Thenn" />
 
-        <!-- <string id="ROT03012" text="Armure sarnore" /> -->
-        <!-- <string id="ROT03012" text="Armure de bélier" /> -->
-        <string id="ROT03014" text="Casque à cornes" />
-        <!-- <string id="ROT03031" text="Bottes de bélier" /> -->
-        <!-- <string id="ROT03031" text="Sandales sarnores" /> -->
+        <string id="ROTSarnoriArmor" text="Armure sarnore" />
+        <string id="ROTRamArmor" text="Armure de bélier" />
+        <string id="ROTHornedHelmet" text="Casque à cornes" />
+        <string id="ROTRamBoots" text="Bottes de bélier" />
+        <string id="ROTSarnorSandals" text="Sandales sarnores" />
 
         <string id="ROT03012" text="Armure du Limier" />
-        <string id="ROT03031" text="Bottes du Limier" />
+        <string id="ROTHoundBoots" text="Bottes du Limier" />
 
         <string id="ROT00031" text="Robe de Mélisandre" />
 
         <string id="ROT03034" text="Habit de géant" />
-        <string id="ROT03031" text="Bottes de géant" />
+        <string id="ROTGiantBoots" text="Bottes de géant" />
         <string id="ROT01871" text="Massue de géant" />
 
         <string id="ROTvaleknight" text="Armures de plates 2" />
-        <!-- <string id="ROTvaleknighthelmet" text="Barbute du Val" /> -->
+        <string id="ROTvaleknighthelmet" text="Barbute du Val" />
         <string id="ROTvalepauldrons" text="Épaulières de plates 2" />
 
         <string id="ROTreachsoldierarmor" text="Armure de soldat du Bief" />
         <string id="ROTreachpauldrons" text="Épaulières du Bief" />
-        <!-- <string id="ROTvaleknighthelmet" text="Casque du Bief 2" /> -->
+        <string id="ROTreachhelmet2" text="Casque du Bief 2" />
 
         <string id="ROTcerseicrown" text="Couronne de Cersei" />
         <string id="ROTcerseidress" text="Robe de Cersei" />
@@ -278,7 +278,7 @@
         <string id="ROTdawn" text="Aube" />
         <string id="ROTnobledefault" text="Défaut noble" /> <!-- ? -->
         <string id="ROTcasterlyhelmet" text="Casque de Castral Roc" />
-        <!-- <string id="ROTcasterlyhelmet" text="Casque de Castral Roc 2" /> -->
+        <string id="ROTcasterlyhelmet2" text="Casque de Castral Roc 2" />
         <string id="ROTlightbringer" text="Illumination" />
         <string id="ROTmormonthelm" text="Casque Mormont" />
         <string id="ROTdorneplate" text="Armure de plates dornienne" />
@@ -288,37 +288,38 @@
         <string id="ROTdornehelmet" text="Casque de plates dornien" />
         <string id="ROTdornebracers" text="Brassards dorniens" />
         <string id="ROTdorneshoulders" text="Épaulières dorniennes" />
-        <!-- <string id="ROTdorneshoulders" text="Épaulières dorniennes 2" /> -->
+        <string id="ROTdorneshoulders2" text="Épaulières dorniennes 2" />
         <string id="ROTmartellsword" text="Épée de la Maison Martell" />
 
         <string id="ROTyronwoodsword" text="Épée de la Maison Ferboys" />
         <string id="ROTkopeshsword" text="Khopesh" />
 
         <string id="ROTriverlandsgambeson" text="Armure d'archer ouestien" />
-        <!-- <string id="ROTarchergorget" text="Gorgerin d'archer Lannister" /> -->
-        <!-- <string id="ROTarchergorget" text="Casque d'archer ouestien" /> -->
+        <string id="ROTarchergorget" text="Gorgerin d'archer Lannister" />
+        <string id="ROTarcherhelmet" text="Casque d'archer ouestien" />
 
         <string id="ROTarcherboots" text="Bottes d'archer" />
         <string id="ROTarchgorget" text="Gorgerin d'archer" />
 
-        <!-- <string id="ROT00003" text="Casque ouvert Lannister" /> -->
-        <string id="ROT00003" text="Casque léger Lannister" />
+        <string id="ROTLannisterHelmetOpen" text="Casque ouvert Lannister" />
+        <string id="ROTLannisterLightHelmet" text="Casque léger Lannister" />
         <string id="ROT00092" text="Gants Lannister" />
-        <!-- <string id="ROTarchgorget" text="Épaulières noble Lannister" /> -->
-        <!-- <string id="ROT00979" text="Armure de noble Lannister" /> -->
-        <string id="ROT00979" text="Armure de soldat Lannister" />
-        <!-- <string id="ROT00979" text="Armure d'éclaireur Lannister" /> -->
-        <!-- <string id="ROT00979" text="Armure légère Lannister" /> -->
-        <!-- <string id="ROT00979" text="Armure d'officier Lannister" /> -->
-        <!-- <string id="ROTarchgorget" text="Épaulières d'officier Lannister" /> -->
-        <string id="ROTarchgorget" text="Épaulières Lannister" />
-        <!-- <string id="ROTarchgorget" text="Épaulières de Maison Lannister" /> -->
-        <!-- <string id="ROTarchgorget" text="Gorgerin Lannister" /> -->
-        <!-- <string id="ROTarchgorget" text="Épaulières lourdes ouestiennes" /> -->
-        <string id="ROT00092" text="Gants en plates Lannister" />
-        <!-- <string id="ROTdornebracers" text="Brassards Lannister" /> -->
-        <!-- <string id="ROT00003" text="Casque léger Castral" /> -->
-        <!-- <string id="ROT00003" text="Casque léger Castral 2" /> -->
+        <string id="ROTLannisterNoblePauldrons" text="Épaulières noble Lannister" />
+        <string id="ROTLannisterNobleArmor" text="Armure de noble Lannister" />
+        <string id="ROTLannisterSoldierArmor" text="Armure de soldat Lannister" />
+        <string id="ROTLannisterScoutArmor" text="Armure d'éclaireur Lannister" />
+        <string id="ROTLannisterLightArmor" text="Armure légère Lannister" />
+        <string id="ROTLannisterOfficerArmor" text="Armure d'officier Lannister" />
+        <string id="ROTLannisterOfficerPauldrons" text="Épaulières d'officier Lannister" />
+        <string id="ROTLannisterPauldrons" text="Épaulières Lannister" />
+        <string id="ROTLannisterHeavyPauldrons" text="Épaulières lourdes Lannister" />
+        <string id="ROTLannisterHousePauldrons" text="Épaulières de Maison Lannister" />
+        <string id="ROTLannistergorget" text="Gorgerin Lannister" />
+        <string id="ROTWesterlandHeavyPauldrons" text="Épaulières lourdes ouestiennes" />
+        <string id="ROTLannisterPlateGloves" text="Gants en plates Lannister" />
+        <string id="ROTlannisterbracers" text="Brassards Lannister" />
+        <string id="ROTLightCasterlyHelmet" text="Casque léger Castral" />
+        <string id="ROTLightCasterlyHelmet2" text="Casque léger Castral 2" />
 
         <string id="ROTboltonshield" text="Bouclier Bolton" />
         <string id="ROTkarstarkgorget" text="Gorgerin Karstark" />
@@ -327,7 +328,7 @@
         <string id="ROTtarggauntlets" text="Gants en plates valyrien" />
         <string id="ROTtarglordpauldrons" text="Épaulières de seigneur valyrien" />
         <string id="ROTtarglordhelm" text="Casque de seigneur valyrien" />
-        <string id="ROTarcherboots" text="Bottes en plates valyrien" />
+        <string id="ROTtargplateboots" text="Bottes en plates valyrien" />
 
         <string id="ROTspikedsallet" text="Salade de piquier" /> <!-- ? -->
         <string id="ROTmormontshield" text="Bouclier Mormont" /> 
@@ -372,12 +373,12 @@
 
         <string id="ROTvalsurcoat" text="Surcot valyrien" /> 
         <string id="ROTvalpaul" text="Épaulières valyriennes" /> 
-        <string id="ROTarcherboots" text="Bottes en plates valyriennes 2" /> 
+        <string id="ROTtargplateboots2" text="Bottes en plates valyriennes 2" /> 
         <string id="ROTtargplate" text="Armure en plates targaryenne" /> 
 
         <string id="ROTbraavcur" text="Cuirasse braavienne" /> 
 
-        <string id="ROTbraavcur" text="Armure lourde volantain" /> 
+        <string id="ROTvolarmor" text="Armure lourde volantain" /> 
         <string id="ROTvolpaul" text="Épaulières volantain" /> 
         <string id="ROTvolhelm" text="Casque volantain" /> 
         <string id="ROTvollighthelm" text="Casque léger volantain" /> 
