@@ -13,7 +13,7 @@ namespace ROTFrench
         {
             base.OnSubModuleLoad();
             AccessTools.Field(typeof(Module), "_splashScreenPlayed").SetValue(Module.CurrentModule, true);
-            Traverse.Create(Module.CurrentModule).Field<List<InitialStateOption>>("_initialStateOptions").Value.RemoveAll((InitialStateOption i) => i.Name.Contains("Campaign") || i.Name.Contains("SandBox") || i.Name.Contains("Custom Battle"));
+            Traverse.Create(Module.CurrentModule).Field<List<InitialStateOption>>("_initialStateOptions").Value.RemoveAll((InitialStateOption i) => i.Name.Contains("Campaign") || i.Name.Contains("SandBox") || i.Name.Contains("Custom Battle") || i.Name.Contains("Into the Realm"));
             Module.CurrentModule.AddInitialStateOption(new InitialStateOption("Into the Realm", new TextObject("{=ROTMENUINTOTHEREALM}Into the Realm"), 3, delegate
             {
                 MBGameManager.StartNewGame(new RealmOfThronesGameModeManager());
