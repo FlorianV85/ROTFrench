@@ -428,265 +428,265 @@
         <string id="ROTtyroshi15" text="{.M}{.S}Tyroshi" />
         <string id="ROTlyseni15" text="{.M}{.S}Lysien" />
 
-        <string id="ROTwanderer1_001" text="Je suis surpris que vous n'ayez pas reconnu l'infâme Régicide. Je suis Ser Jaime de la maison Lannister."/>
-        <string id="ROTwanderer1_002" text="Oh, pourquoi pas. Bien sûr."/>
-        <string id="ROTwanderer1_003" text="J'ai planté mon épée dans le dos du Roi que j'avais juré de protéger, ce qui m'a valu ce surnom."/>
-        <string id="ROTwanderer1_004" text="Bien que je sois un parjure et un meurtrier, sans parler de mes autres atrocités, poignarder le Roi Fou fut probablement l'acte le plus charitable que j'aie jamais commis. Il aurait mis le feu à tout le royaume."/>
-        <string id="ROTwanderer1_004" text="Je ne vous juge pas. Nous avons tous un passé."/>
-        <string id="ROTwanderer1_005" text="Le Lion des Lannister. Ô comment les puissants sont tombés."/>
-        <string id="ROTwanderer1_006" text="Mon père ne s'intéresse qu'à son héritage et ma soeur est en train de décimer toute la garde royale. J'en ai assez des jeux auxquels ils se livrent à Port-Réal. A partir de ce jour, je serai simplement Jaime."/>
+        <string id="ROTwanderer1001" text="Je suis surpris que vous n'ayez pas reconnu l'infâme Régicide. Je suis Ser Jaime de la maison Lannister."/>
+        <string id="ROTwanderer1002" text="Oh, pourquoi pas. Bien sûr."/>
+        <string id="ROTwanderer1003" text="J'ai planté mon épée dans le dos du Roi que j'avais juré de protéger, ce qui m'a valu ce surnom."/>
+        <string id="ROTwanderer1004" text="Bien que je sois un parjure et un meurtrier, sans parler de mes autres atrocités, poignarder le Roi Fou fut probablement l'acte le plus charitable que j'aie jamais commis. Il aurait mis le feu à tout le royaume."/>
+        <string id="ROTwanderer1004" text="Je ne vous juge pas. Nous avons tous un passé."/>
+        <string id="ROTwanderer1005" text="Le Lion des Lannister. Ô comment les puissants sont tombés."/>
+        <string id="ROTwanderer1006" text="Mon père ne s'intéresse qu'à son héritage et ma soeur est en train de décimer toute la garde royale. J'en ai assez des jeux auxquels ils se livrent à Port-Réal. A partir de ce jour, je serai simplement Jaime."/>
 
-        <string id="ROTwanderer2_001" text="Oh, vous ne savez donc pas qui je suis ? Moi, je sais qui vous êtes. Mes petits oiseaux me disent tout."/>
-        <string id="ROTwanderer2_002" text="Je ne suis que le Maître des chuchoteurs, mon cher. Rien de ce qui se passe dans le royaume ne m'échappe."/>
-        <string id="ROTwanderer2_003" text="Même une compagnie de vaillants héros comme vous et vos camarades pourrait voir une utilité dans mes informations. Elles pourraient bien arrêter une flèche venant de derrière, ou même venant de l'intérieur."/>
-        <string id="ROTwanderer2_004" text="Bien que je ne sois pourvu d'aucune compétence physique, mes compétences sont d'un tout autre ordre."/>
-        <string id="ROTwanderer2_005" text="Pourtant, les araignées mordent et leur venin peut abattre même le plus fort des hommes."/>
-        <string id="ROTwanderer2_006" text="Tu pourrais t'avérer utile, même pour mon groupe de guerriers."/>
-        <string id="ROTwanderer2_007" text="Allez tisser votre toile ailleurs. Vos jeux de mots n'ont que peu d'importance lorsque des flèches atteignent votre tête."/>
+        <string id="ROTwanderer2001" text="Oh, vous ne savez donc pas qui je suis ? Moi, je sais qui vous êtes. Mes petits oiseaux me disent tout."/>
+        <string id="ROTwanderer2002" text="Je ne suis que le Maître des chuchoteurs, mon cher. Rien de ce qui se passe dans le royaume ne m'échappe."/>
+        <string id="ROTwanderer2003" text="Même une compagnie de vaillants héros comme vous et vos camarades pourrait voir une utilité dans mes informations. Elles pourraient bien arrêter une flèche venant de derrière, ou même venant de l'intérieur."/>
+        <string id="ROTwanderer2004" text="Bien que je ne sois pourvu d'aucune compétence physique, mes compétences sont d'un tout autre ordre."/>
+        <string id="ROTwanderer2005" text="Pourtant, les araignées mordent et leur venin peut abattre même le plus fort des hommes."/>
+        <string id="ROTwanderer2006" text="Tu pourrais t'avérer utile, même pour mon groupe de guerriers."/>
+        <string id="ROTwanderer2007" text="Allez tisser votre toile ailleurs. Vos jeux de mots n'ont que peu d'importance lorsque des flèches atteignent votre tête."/>
 
-        <string id="ROTwanderer3_001" text="Il y a intérêt à ce que ce soit bon, ou votre poulet sera le mien. Sandor Clegane, c'est ça."/>
-        <string id="ROTwanderer3_002" text="Je suis un tueur comme tous les hommes ici."/>
-        <string id="ROTwanderer3_003" text="Et ne faîtes pas semblant de ne pas l'apprécier."/>
-        <string id="ROTwanderer3_004" text="Il n'y a rien de plus satisfaisant que de voir un con expirer sa dernière bouffée d'air."/>
-        <string id="ROTwanderer3_005" text="Un homme de votre taille et de votre aptitude qui est encore en vie doit être une sacrée bête sur le champs de bataille."/>
-        <string id="ROTwanderer3_006" text="Putain de merde. Il est où votre problème ?"/>
-        <string id="ROTwanderer3_007" text="Je trancherai un homme de la gorge à la hanche sans perdre une seule seconde de sommeil. Mais ne vous mettez pas en travers de mon chemin quand je retrouverai mon cher frère."/>
+        <string id="ROTwanderer3001" text="Il y a intérêt à ce que ce soit bon, ou votre poulet sera le mien. Sandor Clegane, c'est ça."/>
+        <string id="ROTwanderer3002" text="Je suis un tueur comme tous les hommes ici."/>
+        <string id="ROTwanderer3003" text="Et ne faîtes pas semblant de ne pas l'apprécier."/>
+        <string id="ROTwanderer3004" text="Il n'y a rien de plus satisfaisant que de voir un con expirer sa dernière bouffée d'air."/>
+        <string id="ROTwanderer3005" text="Un homme de votre taille et de votre aptitude qui est encore en vie doit être une sacrée bête sur le champs de bataille."/>
+        <string id="ROTwanderer3006" text="Putain de merde. Il est où votre problème ?"/>
+        <string id="ROTwanderer3007" text="Je trancherai un homme de la gorge à la hanche sans perdre une seule seconde de sommeil. Mais ne vous mettez pas en travers de mon chemin quand je retrouverai mon cher frère."/>
 
-        <string id="ROTwanderer4_001" text="Uniquement si vous avez une bourse bien remplie."/>
-        <string id="ROTwanderer4_002" text="Je vends mon épée, mon seul talent à part celui de mettre mon nez à deux centimètres de profondeur dans celui-là."/>
-        <string id="ROTwanderer4_003" text="Je m'appelle Bronn, et bien que je sois maintenant chevalier, je peux encore être votre homme si vous y mettez le prix."/>
-        <string id="ROTwanderer4_004" text="Si vous le voulez bien, je vais aller respirer le parfum des roses."/>
-        <string id="ROTwanderer4_005" text="Je comprends, qui recommandez-vous ?"/>
-        <string id="ROTwanderer4_006" text="Allez mon gars, je croyais que tu voulais parler affaires."/>
-        <string id="ROTwanderer4_007" text="Engagez-moi, le travail sera fait sans poser de questions, sauf une : combien ?"/>
+        <string id="ROTwanderer4001" text="Uniquement si vous avez une bourse bien remplie."/>
+        <string id="ROTwanderer4002" text="Je vends mon épée, mon seul talent à part celui de mettre mon nez à deux centimètres de profondeur dans celui-là."/>
+        <string id="ROTwanderer4003" text="Je m'appelle Bronn, et bien que je sois maintenant chevalier, je peux encore être votre homme si vous y mettez le prix."/>
+        <string id="ROTwanderer4004" text="Si vous le voulez bien, je vais aller respirer le parfum des roses."/>
+        <string id="ROTwanderer4005" text="Je comprends, qui recommandez-vous ?"/>
+        <string id="ROTwanderer4006" text="Allez mon gars, je croyais que tu voulais parler affaires."/>
+        <string id="ROTwanderer4007" text="Engagez-moi, le travail sera fait sans poser de questions, sauf une : combien ?"/>
 
-        <string id="ROTwanderer5_001" text="Bonjour monsieur, ne vous occupez pas de moi. Je ne fais que passer en me rendant à Châteaunoir."/>
-        <string id="ROTwanderer5_002" text="J'étais autrefois l'héritier de la maison Tarly, mais mon père m'a chassé et m'en a jugé indigne."/>
-        <string id="ROTwanderer5_003" text="Peut-être a t-il raison. Je le mérite peut-être. Je n'ai jamais été le courageux guerrier qu'il voulait que je sois."/>
-        <string id="ROTwanderer5_004" text="Je ne suis qu'un lâche grassouillet, le nez plongé dans les livres au lieu d'accomplir ce qu'un jeune seigneur devrait faire."/>
-        <string id="ROTwanderer5_005" text="Ne sois pas si dure avec toi-même. Un père comme celui-là n'est pas un vrai père."/>
-        <string id="ROTwanderer5_006" text="Dans ce dangereux pays, les lâches sont des proies faciles."/>
-        <string id="ROTwanderer5_007" text="Puis-je me joindre à votre caravane ? Les livres que j'ai lus m'ont appris quelques notions sur lutte contre les infections. "/>
+        <string id="ROTwanderer5001" text="Bonjour monsieur, ne vous occupez pas de moi. Je ne fais que passer en me rendant à Châteaunoir."/>
+        <string id="ROTwanderer5002" text="J'étais autrefois l'héritier de la maison Tarly, mais mon père m'a chassé et m'en a jugé indigne."/>
+        <string id="ROTwanderer5003" text="Peut-être a t-il raison. Je le mérite peut-être. Je n'ai jamais été le courageux guerrier qu'il voulait que je sois."/>
+        <string id="ROTwanderer5004" text="Je ne suis qu'un lâche grassouillet, le nez plongé dans les livres au lieu d'accomplir ce qu'un jeune seigneur devrait faire."/>
+        <string id="ROTwanderer5005" text="Ne sois pas si dure avec toi-même. Un père comme celui-là n'est pas un vrai père."/>
+        <string id="ROTwanderer5006" text="Dans ce dangereux pays, les lâches sont des proies faciles."/>
+        <string id="ROTwanderer5007" text="Puis-je me joindre à votre caravane ? Les livres que j'ai lus m'ont appris quelques notions sur lutte contre les infections. "/>
 
-        <string id="ROTwanderer6_001" text="Je suis Podrick Payne."/>
-        <string id="ROTwanderer6_002" text="Ne jugez pas ma maison. Mon cousin, le bourreau du roi, me fait aussi peur."/>
-        <string id="ROTwanderer6_003" text="Je ne suis pas encore un grand guerrier, mais j'ai tué un Garde Royal sur le champs de bataille."/>
-        <string id="ROTwanderer6_004" text="Je peux cuisiner, faire le ménage et vous aider avec votre armure."/>
-        <string id="ROTwanderer6_005" text="J'ai déjà une femme." />
-        <string id="ROTwanderer6_006" text="Vous voullez regretter de m'avoir à tes côtés. Je m'en assurerai."/>
-        <string id="ROTwanderer6_007" text="Il faut bien commencer quelque part."/>
+        <string id="ROTwanderer6001" text="Je suis Podrick Payne."/>
+        <string id="ROTwanderer6002" text="Ne jugez pas ma maison. Mon cousin, le bourreau du roi, me fait aussi peur."/>
+        <string id="ROTwanderer6003" text="Je ne suis pas encore un grand guerrier, mais j'ai tué un Garde Royal sur le champs de bataille."/>
+        <string id="ROTwanderer6004" text="Je peux cuisiner, faire le ménage et vous aider avec votre armure."/>
+        <string id="ROTwanderer6005" text="J'ai déjà une femme." />
+        <string id="ROTwanderer6006" text="Vous voullez regretter de m'avoir à tes côtés. Je m'en assurerai."/>
+        <string id="ROTwanderer6007" text="Il faut bien commencer quelque part."/>
 
-        <string id="ROTwanderer7_001" text="Juste un apprenti forgeron de Culpucier."/>
-        <string id="ROTwanderer7_002" text="Je m'appelle Gendry. Je ne sais pas si je suis un Hill, un Rivers ou un Storm, mais sans aucun doute un bâtard."/>
-        <string id="ROTwanderer7_004" text="Chaque groupe de guerriers a besoin de quelqu'un pour déboseler et aiguiser les épées. Si mon marteau de forgeron peut vous être utile."/>
-        <string id="ROTwanderer7_005" text="N'importe qui voudrait sortir de ce trou à rats et dirait n'importe quoi pour le faire."/>
-        <string id="ROTwanderer7_006" text="Il ne fait aucun doute que vous pourriez pulvériser quelque chose."/>
-        <string id="backstory_c.ROTwanderer7" text="J'ai acquis la force et l'endurance d'un boeuf en martelant de l'acier de l'aube au crépuscule."/>
-        <string id="ROTwanderer7_008" text="Je n'ai jamais mis les pieds sur les champs de bataille, mais mettez-moi un marteau de guerre dans les mains et vous verrez ce qu'il se passera."/>
+        <string id="ROTwanderer7001" text="Juste un apprenti forgeron de Culpucier."/>
+        <string id="ROTwanderer7002" text="Je m'appelle Gendry. Je ne sais pas si je suis un Hill, un Rivers ou un Storm, mais sans aucun doute un bâtard."/>
+        <string id="ROTwanderer7004" text="Chaque groupe de guerriers a besoin de quelqu'un pour déboseler et aiguiser les épées. Si mon marteau de forgeron peut vous être utile."/>
+        <string id="ROTwanderer7005" text="N'importe qui voudrait sortir de ce trou à rats et dirait n'importe quoi pour le faire."/>
+        <string id="ROTwanderer7006" text="Il ne fait aucun doute que vous pourriez pulvériser quelque chose."/>
+        <string id="backstoryc.ROTwanderer7" text="J'ai acquis la force et l'endurance d'un boeuf en martelant de l'acier de l'aube au crépuscule."/>
+        <string id="ROTwanderer7008" text="Je n'ai jamais mis les pieds sur les champs de bataille, mais mettez-moi un marteau de guerre dans les mains et vous verrez ce qu'il se passera."/>
 
-        <string id="ROTwanderer8_001" text="Pourquoi ces gros yeux ? N'avez-vous jamais vu de nain ?"/>
-        <string id="ROTwanderer8_002" text="Je suis Tyrion de la maison Lannister."/>
-        <string id="ROTwanderer7_003" text="J'ai sauvé tout Port-Réal lors de la bataille de la Néra et qu'ais-je reçu comme remerciement ? Une rétrogradation et un trou à la place du nez."/>
-        <string id="ROTwanderer8_004" text="Je bois et j'en sais plus que jamais aujourd'hui. Slurp !"/>
-        <string id="ROTwanderer8_005" text="J'ai besoin d'une nouvelle armure. Vous pouvez me chier quelques dragons d'or."/>
-        <string id="ROTwanderer8_006" text="Je n'ai pas besoin d'un lutin qui va avaler toute ma bière."/>
-        <string id="ROTwanderer8_007" text="Vous semblez être un homme intelligent, vous trouverez une solution. Maintenant, si vous voulez bien m'excuser."/>
+        <string id="ROTwanderer8001" text="Pourquoi ces gros yeux ? N'avez-vous jamais vu de nain ?"/>
+        <string id="ROTwanderer8002" text="Je suis Tyrion de la maison Lannister."/>
+        <string id="ROTwanderer7003" text="J'ai sauvé tout Port-Réal lors de la bataille de la Néra et qu'ais-je reçu comme remerciement ? Une rétrogradation et un trou à la place du nez."/>
+        <string id="ROTwanderer8004" text="Je bois et j'en sais plus que jamais aujourd'hui. Slurp !"/>
+        <string id="ROTwanderer8005" text="J'ai besoin d'une nouvelle armure. Vous pouvez me chier quelques dragons d'or."/>
+        <string id="ROTwanderer8006" text="Je n'ai pas besoin d'un lutin qui va avaler toute ma bière."/>
+        <string id="ROTwanderer8007" text="Vous semblez être un homme intelligent, vous trouverez une solution. Maintenant, si vous voulez bien m'excuser."/>
 
-        <string id="ROTwanderer9_001" text="Mon père est Selwyn de La Vesprée"/>
-        <string id="ROTwanderer9_002" text="Je suis Brienne de la maison Torth."/>
-        <string id="ROTwanderer9_003" text="L'honneur, le devoir et la loyauté sont des valeurs essentielles pour un chevalier. "/>
-        <string id="ROTwanderer9_004" text="Bien que je ne sois pas chevalier, je vis selon ces principes."/>
-        <string id="ROTwanderer9_005" text="Quelle bête de femme vous êtes !"/>
-        <string id="ROTwanderer9_006" text="Les gens comme vous sont difficiles à trouver, je vous félicite."/>
-        <string id="ROTwanderer9_007" text="Si vous voulez de moi, mon épée est à vous jusqu'à mon dernier souffle."/>
+        <string id="ROTwanderer9001" text="Mon père est Selwyn de La Vesprée"/>
+        <string id="ROTwanderer9002" text="Je suis Brienne de la maison Torth."/>
+        <string id="ROTwanderer9003" text="L'honneur, le devoir et la loyauté sont des valeurs essentielles pour un chevalier. "/>
+        <string id="ROTwanderer9004" text="Bien que je ne sois pas chevalier, je vis selon ces principes."/>
+        <string id="ROTwanderer9005" text="Quelle bête de femme vous êtes !"/>
+        <string id="ROTwanderer9006" text="Les gens comme vous sont difficiles à trouver, je vous félicite."/>
+        <string id="ROTwanderer9007" text="Si vous voulez de moi, mon épée est à vous jusqu'à mon dernier souffle."/>
 
-        <string id="ROTwanderer10_001" text="Cet homme n'a pas de nom."/>
-        <string id="ROTwanderer10_002" text="Pour vos besoins, vous pouvez m'appeler Jaquin Hagar. "/>
-        <string id="ROTwanderer10_003" text="Cet homme n'est pas ici par hasard. Cette rencontre est voulue par le dieu Multiface."/>
-        <string id="ROTwanderer10_004" text="Au service du dieu Multiface."/>
-        <string id="ROTwanderer10_005" text="Pour être à la fois visible et invisible, cet homme doit agir."/>
-        <string id="ROTwanderer10_006" text="Mystérieux. J'ai besoin d'en savoir plus."/>
-        <string id="ROTwanderer10_007" text="YVous êtes un drôle de personnage."/>
+        <string id="ROTwanderer10001" text="Cet homme n'a pas de nom."/>
+        <string id="ROTwanderer10002" text="Pour vos besoins, vous pouvez m'appeler Jaquin Hagar. "/>
+        <string id="ROTwanderer10003" text="Cet homme n'est pas ici par hasard. Cette rencontre est voulue par le dieu Multiface."/>
+        <string id="ROTwanderer10004" text="Au service du dieu Multiface."/>
+        <string id="ROTwanderer10005" text="Pour être à la fois visible et invisible, cet homme doit agir."/>
+        <string id="ROTwanderer10006" text="Mystérieux. J'ai besoin d'en savoir plus."/>
+        <string id="ROTwanderer10007" text="YVous êtes un drôle de personnage."/>
 
-        <string id="ROTwanderer11_001" text="Je m'appelle Mya Stone."/>
-        <string id="ROTwanderer11_002" text="Je suis une fille simple."/>
-        <string id="ROTwanderer11_003" text="J'ai déjà conduit des voyageurs vers et depuis les Eyrié."/>
-        <string id="ROTwanderer11_004" text="À travers les montagnes les plus hautes et les plus escarpées de tout Westeros, avec rien d'autre que mon âne."/>
-        <string id="ROTwanderer11_005" text="Une fille avec de bonnes capacités de repérage devrait être utile."/>
-        <string id="ROTwanderer11_006" text="Je pourrais être votre éclaireur ou peut-être diriger une caravane. J'aimerais beaucoup parcourir le monde avec vous."/>
-        <string id="ROTwanderer11_007" text="Une fille comme toi se ferait avaler toute crue dans ce monde."/>
+        <string id="ROTwanderer11001" text="Je m'appelle Mya Stone."/>
+        <string id="ROTwanderer11002" text="Je suis une fille simple."/>
+        <string id="ROTwanderer11003" text="J'ai déjà conduit des voyageurs vers et depuis les Eyrié."/>
+        <string id="ROTwanderer11004" text="À travers les montagnes les plus hautes et les plus escarpées de tout Westeros, avec rien d'autre que mon âne."/>
+        <string id="ROTwanderer11005" text="Une fille avec de bonnes capacités de repérage devrait être utile."/>
+        <string id="ROTwanderer11006" text="Je pourrais être votre éclaireur ou peut-être diriger une caravane. J'aimerais beaucoup parcourir le monde avec vous."/>
+        <string id="ROTwanderer11007" text="Une fille comme toi se ferait avaler toute crue dans ce monde."/>
 
-        <string id="ROTwanderer12_001" text="Je suis Qyburn."/>
-        <string id="ROTwanderer12_002" text="Je suis formé aux arts de la médecine."/>
-        <string id="ROTwanderer12_003" text="Mais j'ai perdu ma chaîne, car ma curiosité m'a amené à faire des recherches médicales, disons, peu orthodoxe."/>
-        <string id="ROTwanderer12_004" text="Mes compétences demeures. La capacité de guérir les maladies, de prolonger la vie et, bien sûr, d'autres choses que vous pourriez trouver utiles."/>
-        <string id="ROTwanderer12_005" text="Empêchez mes soldats de mourir et vous serez un de mes amis."/>
-        <string id="ROTwanderer12_006" text="Je frémis en pensant aux atrocités que vous avez dû commettre."/>
-        <string id="ROTwanderer12_007" text="Garder vos hommes en vie et exploiter tout leur potentiel, par tous les moyens nécessaires, est mon objectif le plus strict, cher monsieur."/>
+        <string id="ROTwanderer12001" text="Je suis Qyburn."/>
+        <string id="ROTwanderer12002" text="Je suis formé aux arts de la médecine."/>
+        <string id="ROTwanderer12003" text="Mais j'ai perdu ma chaîne, car ma curiosité m'a amené à faire des recherches médicales, disons, peu orthodoxe."/>
+        <string id="ROTwanderer12004" text="Mes compétences demeures. La capacité de guérir les maladies, de prolonger la vie et, bien sûr, d'autres choses que vous pourriez trouver utiles."/>
+        <string id="ROTwanderer12005" text="Empêchez mes soldats de mourir et vous serez un de mes amis."/>
+        <string id="ROTwanderer12006" text="Je frémis en pensant aux atrocités que vous avez dû commettre."/>
+        <string id="ROTwanderer12007" text="Garder vos hommes en vie et exploiter tout leur potentiel, par tous les moyens nécessaires, est mon objectif le plus strict, cher monsieur."/>
 
-        <string id="ROTwanderer13_001" text="Je suis Syrio Forel."/>
-        <string id="ROTwanderer13_002" text="J'ai été la première épée de Braavos."/>
-        <string id="ROTwanderer13_003" text="D'où je viens, la véritable maîtrise de l'épée est une forme d'art. Il ne s'agit pas simplement de tailler dans le vif comme vous le faites ici."/>
-        <string id="ROTwanderer13_004" text="Un duel n'est pas une épreuve de force mais une danse de l'eau."/>
-        <string id="ROTwanderer13_005" text="J'ai besoin d'épées, même si celle que vous utilisez est fine comme un crayon."/>
-        <string id="ROTwanderer13_006" text="Il n'y a pas de place pour danser lorsque l'on est encerclé ou acculé."/>
-        <string id="ROTwanderer13_007" text="La première épée de Braavos a fait face à de pires difficultés, et pourtant elle vit."/>
+        <string id="ROTwanderer13001" text="Je suis Syrio Forel."/>
+        <string id="ROTwanderer13002" text="J'ai été la première épée de Braavos."/>
+        <string id="ROTwanderer13003" text="D'où je viens, la véritable maîtrise de l'épée est une forme d'art. Il ne s'agit pas simplement de tailler dans le vif comme vous le faites ici."/>
+        <string id="ROTwanderer13004" text="Un duel n'est pas une épreuve de force mais une danse de l'eau."/>
+        <string id="ROTwanderer13005" text="J'ai besoin d'épées, même si celle que vous utilisez est fine comme un crayon."/>
+        <string id="ROTwanderer13006" text="Il n'y a pas de place pour danser lorsque l'on est encerclé ou acculé."/>
+        <string id="ROTwanderer13007" text="La première épée de Braavos a fait face à de pires difficultés, et pourtant elle vit."/>
 
-        <string id="ROTwanderer14_001" text="Hodor !"/>
-        <string id="ROTwanderer14_002" text="Hodor."/>
-        <string id="ROTwanderer14_003" text="Hodor ?"/>
-        <string id="ROTwanderer14_004" text="Hodor ??"/>
-        <string id="ROTwanderer14_005" text="Quel imbécile."/>
-        <string id="ROTwanderer14_006" text="Merde, vous devez avoir le sang d'un géant."/>
-        <string id="ROTwanderer14_007" text="Hodor !!"/>
+        <string id="ROTwanderer14001" text="Hodor !"/>
+        <string id="ROTwanderer14002" text="Hodor."/>
+        <string id="ROTwanderer14003" text="Hodor ?"/>
+        <string id="ROTwanderer14004" text="Hodor ??"/>
+        <string id="ROTwanderer14005" text="Quel imbécile."/>
+        <string id="ROTwanderer14006" text="Merde, vous devez avoir le sang d'un géant."/>
+        <string id="ROTwanderer14007" text="Hodor !!"/>
 
-        <string id="ROTwanderer15_001" text="Tu oses t'approcher d'un Sang-coureur dothraki ?"/>
-        <string id="ROTwanderer15_002" text="Que veux-tu, ifak ? A moins que tu ne me paies pour mon temps, je ne suis pas intéressé. "/>
-        <string id="ROTwanderer15_003" text="Mon nom est Rago. J'étais un Sang-coureur d'un Khal à l'est. J'ai protégé ses arrières, je l'ai conseillé, j'ai même partagé sa Khaleesi. La vie était belle. "/>
-        <string id="ROTwanderer15_004" text="Après un certain temps, mon Khal s'est cru beaucou plus fort qu'il ne l'était. Le chiftik pensait pouvoir défier le grand Khal Drogo. Il suffit de le dire, les cheveux de Drogo n'ont jamais été coupés. J'avais prévenu mon Khal à nombreuses reprises qu'il ne pourrait pas gagner. Il a refusé d'écouter. Ensuite, j'ai amené sa Khaleesi à Vaes Dothrak. "/>
-        <string id="ROTwanderer15_005" text="Alors que faites-vous ici à bouder et à boire ?"/>
-        <string id="ROTwanderer15_006" text="Au moins, vous lui avez fait cet honneur."/>
-        <string id="ROTwanderer15_007" text="Aujourd'hui, je parcours le monde pour pouvoir un jour venger mon khal déchu et rejoindre les Contrées nocturnes avec honneur."/>
+        <string id="ROTwanderer15001" text="Tu oses t'approcher d'un Sang-coureur dothraki ?"/>
+        <string id="ROTwanderer15002" text="Que veux-tu, ifak ? A moins que tu ne me paies pour mon temps, je ne suis pas intéressé. "/>
+        <string id="ROTwanderer15003" text="Mon nom est Rago. J'étais un Sang-coureur d'un Khal à l'est. J'ai protégé ses arrières, je l'ai conseillé, j'ai même partagé sa Khaleesi. La vie était belle. "/>
+        <string id="ROTwanderer15004" text="Après un certain temps, mon Khal s'est cru beaucou plus fort qu'il ne l'était. Le chiftik pensait pouvoir défier le grand Khal Drogo. Il suffit de le dire, les cheveux de Drogo n'ont jamais été coupés. J'avais prévenu mon Khal à nombreuses reprises qu'il ne pourrait pas gagner. Il a refusé d'écouter. Ensuite, j'ai amené sa Khaleesi à Vaes Dothrak. "/>
+        <string id="ROTwanderer15005" text="Alors que faites-vous ici à bouder et à boire ?"/>
+        <string id="ROTwanderer15006" text="Au moins, vous lui avez fait cet honneur."/>
+        <string id="ROTwanderer15007" text="Aujourd'hui, je parcours le monde pour pouvoir un jour venger mon khal déchu et rejoindre les Contrées nocturnes avec honneur."/>
 
-        <string id="ROTwanderer16_001" text="Je suis Xaro Xhoan Daxos"/>
-        <string id="ROTwanderer16_002" text="J'étais autrefois l'un des hommes les plus riches de Qarth."/>
-        <string id="ROTwanderer16_003" text="La mère des dragons a refusé mes conseils et a détruit la puissante économie marchande de notre ville."/>
-        <string id="ROTwanderer16_004" text="JU'ai laissé un gant taché de sang sur son oreiller et maintenant je rentre à la maison."/>
-        <string id="ROTwanderer16_005" text="Vous êtes fou ! Vous avez déclenché une guerre avec la mère des dragons ?"/>
-        <string id="ROTwanderer16_006" text="L'homme le plus riche de Quarth, votre avenir est peut-être encore brillant."/>
-        <string id="ROTwanderer16_007" text="LPermettez-moi de vous demander si vous pensez que le chemin qui mène de la pauvreté à la richesse est toujours pur et honorable ? Non ? Dans ce cas, vous et moi pourrions tracer notre propre chemin ensemble."/>
+        <string id="ROTwanderer16001" text="Je suis Xaro Xhoan Daxos"/>
+        <string id="ROTwanderer16002" text="J'étais autrefois l'un des hommes les plus riches de Qarth."/>
+        <string id="ROTwanderer16003" text="La mère des dragons a refusé mes conseils et a détruit la puissante économie marchande de notre ville."/>
+        <string id="ROTwanderer16004" text="JU'ai laissé un gant taché de sang sur son oreiller et maintenant je rentre à la maison."/>
+        <string id="ROTwanderer16005" text="Vous êtes fou ! Vous avez déclenché une guerre avec la mère des dragons ?"/>
+        <string id="ROTwanderer16006" text="L'homme le plus riche de Quarth, votre avenir est peut-être encore brillant."/>
+        <string id="ROTwanderer16007" text="LPermettez-moi de vous demander si vous pensez que le chemin qui mène de la pauvreté à la richesse est toujours pur et honorable ? Non ? Dans ce cas, vous et moi pourrions tracer notre propre chemin ensemble."/>
 
-        <string id="ROTwanderer17_001" text="Je suis kinvara, prêtresse du Maître de la Lumière."/>
-        <string id="ROTwanderer17_002" text="Chacun est ce qu'il est où il est pour une raison. Les événements tragiques aussi ont une raison."/>
-        <string id="ROTwanderer17_003" text="Daenerys Typhon-Née est celle qui a été promise. Du feu, elle est née pour refaire le monde... Elle a libéré les esclaves de leurs chaînes et crucifié les maîtres pour leurs péchés..."/>
-        <string id="ROTwanderer17_004" text="Ses dragons sont du feu fait chair, un don du Maître de la Lumière... Daenerys a été envoyée pour mener le peuple contre les ténèbres, dans cette guerre et dans la grande guerre à venir."/>
-        <string id="ROTwanderer17_005" text="Tu n'es pas différente des autres prêtresses. Folle et suivant un rêve."/>
-        <string id="ROTwanderer17_006" text="J'ai entendu parler des voies glorieuses des prêtres de la lumière."/>
-        <string id="ROTwanderer17_007" text="Je répandrai la parole du Maître de la Lumière, quelles que soient vos croyances."/>
+        <string id="ROTwanderer17001" text="Je suis kinvara, prêtresse du Maître de la Lumière."/>
+        <string id="ROTwanderer17002" text="Chacun est ce qu'il est où il est pour une raison. Les événements tragiques aussi ont une raison."/>
+        <string id="ROTwanderer17003" text="Daenerys Typhon-Née est celle qui a été promise. Du feu, elle est née pour refaire le monde... Elle a libéré les esclaves de leurs chaînes et crucifié les maîtres pour leurs péchés..."/>
+        <string id="ROTwanderer17004" text="Ses dragons sont du feu fait chair, un don du Maître de la Lumière... Daenerys a été envoyée pour mener le peuple contre les ténèbres, dans cette guerre et dans la grande guerre à venir."/>
+        <string id="ROTwanderer17005" text="Tu n'es pas différente des autres prêtresses. Folle et suivant un rêve."/>
+        <string id="ROTwanderer17006" text="J'ai entendu parler des voies glorieuses des prêtres de la lumière."/>
+        <string id="ROTwanderer17007" text="Je répandrai la parole du Maître de la Lumière, quelles que soient vos croyances."/>
 
-        <string id="ROTwanderer18_001" text="Je suis Osha du Peuple libre."/>
-        <string id="ROTwanderer18_002" text="Je suis une piqueuse. Une femme combattante de l'A-delà du Mur."/>
-        <string id="ROTwanderer18_003" text="Après m'être libérée de l'esclavage au Nord, j'ai cherché ma place dans ce monde."/>
-        <string id="ROTwanderer18_004" text="L'hiver vient et nous devons préparer chacun d'entre nous."/>
-        <string id="ROTwanderer18_005" text="Vous êtes une sauvageonne ? Nous ne ferons jamais confiance aux gens de votre espèce."/>
-        <string id="ROTwanderer18_006" text="Rejoignez-nous, Piqueuse ! Préparons-les ensemble !"/>
-        <string id="ROTwanderer18_007" text="La vraie liberté, il n'y a que nous, les sauvageons, qui la connaissons."/>
+        <string id="ROTwanderer18001" text="Je suis Osha du Peuple libre."/>
+        <string id="ROTwanderer18002" text="Je suis une piqueuse. Une femme combattante de l'A-delà du Mur."/>
+        <string id="ROTwanderer18003" text="Après m'être libérée de l'esclavage au Nord, j'ai cherché ma place dans ce monde."/>
+        <string id="ROTwanderer18004" text="L'hiver vient et nous devons préparer chacun d'entre nous."/>
+        <string id="ROTwanderer18005" text="Vous êtes une sauvageonne ? Nous ne ferons jamais confiance aux gens de votre espèce."/>
+        <string id="ROTwanderer18006" text="Rejoignez-nous, Piqueuse ! Préparons-les ensemble !"/>
+        <string id="ROTwanderer18007" text="La vraie liberté, il n'y a que nous, les sauvageons, qui la connaissons."/>
 
-        <string id="ROTwanderer19_001" text="Je suis Shagga, des Feux !"/>
-        <string id="ROTwanderer19_002" text="Les haches freux sont toujours tranchantes. Les haches de Shagga le sont encore plus !"/>
-        <string id="ROTwanderer19_003" text="Une fois, Shagga a coupé la tête d'un homme si vite qu'il ne s'en est rendu compte que lorsqu'il s'est brossé les cheveux !"/>
-        <string id="ROTwanderer19_004" text="Shagga travaille pour n'importe qui, à condition d'y mettre le prix."/>
-        <string id="ROTwanderer19_005" text="Shagga est un monstre qui devrait être abattu."/>
-        <string id="ROTwanderer19_006" text=" Ah ! Shagga, j'ai entendu parler de ton peuple. Rejoins-moi et nous ferons couler beaucoup de sang ensemble !"/>
-        <string id="ROTwanderer19_007" text="Attention, ou Shagga t'enlève ta masculinité et la donne à manger aux chèvres !"/>
+        <string id="ROTwanderer19001" text="Je suis Shagga, des Feux !"/>
+        <string id="ROTwanderer19002" text="Les haches freux sont toujours tranchantes. Les haches de Shagga le sont encore plus !"/>
+        <string id="ROTwanderer19003" text="Une fois, Shagga a coupé la tête d'un homme si vite qu'il ne s'en est rendu compte que lorsqu'il s'est brossé les cheveux !"/>
+        <string id="ROTwanderer19004" text="Shagga travaille pour n'importe qui, à condition d'y mettre le prix."/>
+        <string id="ROTwanderer19005" text="Shagga est un monstre qui devrait être abattu."/>
+        <string id="ROTwanderer19006" text=" Ah ! Shagga, j'ai entendu parler de ton peuple. Rejoins-moi et nous ferons couler beaucoup de sang ensemble !"/>
+        <string id="ROTwanderer19007" text="Attention, ou Shagga t'enlève ta masculinité et la donne à manger aux chèvres !"/>
 
-        <string id="ROTwanderer20_001" text="Theon Greyjoy est mon nom."/>
-        <string id="ROTwanderer20_002" text="Permettez-moi de vous demander si vous savez ce que c'est que de s'entendre dire que l'on a de la chance d'être le prisonnier de quelqu'un ?"/>
-        <string id="ROTwanderer20_003" text="J'ai longtemps été prisonnier des Stark. Après la mort d'Eddard, je suis partie tracer mon propre chemin."/>
-        <string id="ROTwanderer20_004" text="Maintenant, je veux me montrer que je peux me débrouiller seul. Sans les Stark, sans mon père."/>
-        <string id="ROTwanderer20_005" text="Vous n'êtes rien de plus qu'un vulgaire pirate, avec encore moins d'honneur."/>
-        <string id="ROTwanderer20_006" text="Suivez-moi dans mes batailles, et on se souviendra de votre nom."/>
-        <string id="ROTwanderer20_007" text="Mon épée est vôtre. Dans la victoire comme dans la défaite, de ce jour jusqu'à mon dernier."/>
+        <string id="ROTwanderer20001" text="Theon Greyjoy est mon nom."/>
+        <string id="ROTwanderer20002" text="Permettez-moi de vous demander si vous savez ce que c'est que de s'entendre dire que l'on a de la chance d'être le prisonnier de quelqu'un ?"/>
+        <string id="ROTwanderer20003" text="J'ai longtemps été prisonnier des Stark. Après la mort d'Eddard, je suis partie tracer mon propre chemin."/>
+        <string id="ROTwanderer20004" text="Maintenant, je veux me montrer que je peux me débrouiller seul. Sans les Stark, sans mon père."/>
+        <string id="ROTwanderer20005" text="Vous n'êtes rien de plus qu'un vulgaire pirate, avec encore moins d'honneur."/>
+        <string id="ROTwanderer20006" text="Suivez-moi dans mes batailles, et on se souviendra de votre nom."/>
+        <string id="ROTwanderer20007" text="Mon épée est vôtre. Dans la victoire comme dans la défaite, de ce jour jusqu'à mon dernier."/>
 
-        <string id="ROTwanderer21_001" text="Myranda, de Fort-Terreur."/>
-        <string id="ROTwanderer21_002" text="J'ai de nombreuses compétences, que ce soit pour m'occuper des chiens ou pour réchauffer votre lit."/>
-        <string id="ROTwanderer21_003" text="Après que mon amant ait montré qu'il était davantage intéressé par les autres, j'ai tracé mon propre chemin."/>
-        <string id="ROTwanderer21_004" text="Mon père était le maître de chenil de Fort-Terreur. Hmm... Avez-vous déjà vu un corps après que les chiens s'en soient occupés ? Pas très joli."/>
-        <string id="ROTwanderer21_005" text="Je ne peux pas imaginer t'avoir à mes côtés."/>
-        <string id="ROTwanderer21_006" text="Venez, même si vous ne réchauffez pas mon lit, il y a plein d'autres personnes dans mon groupe qui en ont besoin."/>
-        <string id="ROTwanderer21_007" text="*Elle glousse* Cela va être très amusant !"/>
+        <string id="ROTwanderer21001" text="Myranda, de Fort-Terreur."/>
+        <string id="ROTwanderer21002" text="J'ai de nombreuses compétences, que ce soit pour m'occuper des chiens ou pour réchauffer votre lit."/>
+        <string id="ROTwanderer21003" text="Après que mon amant ait montré qu'il était davantage intéressé par les autres, j'ai tracé mon propre chemin."/>
+        <string id="ROTwanderer21004" text="Mon père était le maître de chenil de Fort-Terreur. Hmm... Avez-vous déjà vu un corps après que les chiens s'en soient occupés ? Pas très joli."/>
+        <string id="ROTwanderer21005" text="Je ne peux pas imaginer t'avoir à mes côtés."/>
+        <string id="ROTwanderer21006" text="Venez, même si vous ne réchauffez pas mon lit, il y a plein d'autres personnes dans mon groupe qui en ont besoin."/>
+        <string id="ROTwanderer21007" text="*Elle glousse* Cela va être très amusant !"/>
 
-        <string id="ROTwanderer22_001" text="Hizdahr zo Loraq"/>
-        <string id="ROTwanderer22_002" text="Après la crucifixion de mon père à Meereen, je me suis mis à la recherche d'alliés pour m'aider à redonner à la cité sa gloire passée."/>
-        <string id="ROTwanderer22_003" text="Ce qui est fait est fait. Je suis un serviteur de Meereen, un serviteur qui ne souhaite pas voir ses traditions éradiquées."/>
-        <string id="ROTwanderer22_004" text="Peut-être pourriez-vous aider à restaurer ma grande cité ?"/>
-        <string id="ROTwanderer22_005" text="L'esclavage n'est pas quelque chose que je soutiendrais dans ma vision du monde."/>
-        <string id="ROTwanderer22_006" text="Peut-être pourriez-vous m'aider à apprendre les coutumes de Meereen ?"/>
-        <string id="ROTwanderer22_007" text="Alors construisons-la ensemble."/>
+        <string id="ROTwanderer22001" text="Hizdahr zo Loraq"/>
+        <string id="ROTwanderer22002" text="Après la crucifixion de mon père à Meereen, je me suis mis à la recherche d'alliés pour m'aider à redonner à la cité sa gloire passée."/>
+        <string id="ROTwanderer22003" text="Ce qui est fait est fait. Je suis un serviteur de Meereen, un serviteur qui ne souhaite pas voir ses traditions éradiquées."/>
+        <string id="ROTwanderer22004" text="Peut-être pourriez-vous aider à restaurer ma grande cité ?"/>
+        <string id="ROTwanderer22005" text="L'esclavage n'est pas quelque chose que je soutiendrais dans ma vision du monde."/>
+        <string id="ROTwanderer22006" text="Peut-être pourriez-vous m'aider à apprendre les coutumes de Meereen ?"/>
+        <string id="ROTwanderer22007" text="Alors construisons-la ensemble."/>
 
-        <string id="ROTwanderer23_001" text="On m'appelle Locke."/>
-        <string id="ROTwanderer23_002" text="Tous ces seigneurs et ces dames pensent encore que la seule chose qui compte, c'est l'or. "/>
-        <string id="ROTwanderer23_003" text="Vous pouvez imaginer la tête qu'à fait Jaime Lannister quand je lui ai coupé la main."/>
-        <string id="ROTwanderer23_004" text="Que son or ne pouvait pas le sauver. Que son noble nom ne pouvait pas le sauver."/>
-        <string id="ROTwanderer23_005" text="Je suis l'un des meilleurs chasseurs du Nord. J'ai servi les Bolton, et pour une bonne raison, je pourrais vous servir."/>
-        <string id="ROTwanderer23_006" text="Je n'ai que faire d'une personne aussi tranchée que vous."/>
-        <string id="ROTwanderer23_007" text="Vous et moi pourrions assister à la montée d'un nouvel empire, dans lequel tous les nobles de Westeros devraient plier le genou devant les hommes du peuple."/>
-        <string id="ROTwanderer23_008" text="On dirait un rêve pour lequel je signerais."/>
+        <string id="ROTwanderer23001" text="On m'appelle Locke."/>
+        <string id="ROTwanderer23002" text="Tous ces seigneurs et ces dames pensent encore que la seule chose qui compte, c'est l'or. "/>
+        <string id="ROTwanderer23003" text="Vous pouvez imaginer la tête qu'à fait Jaime Lannister quand je lui ai coupé la main."/>
+        <string id="ROTwanderer23004" text="Que son or ne pouvait pas le sauver. Que son noble nom ne pouvait pas le sauver."/>
+        <string id="ROTwanderer23005" text="Je suis l'un des meilleurs chasseurs du Nord. J'ai servi les Bolton, et pour une bonne raison, je pourrais vous servir."/>
+        <string id="ROTwanderer23006" text="Je n'ai que faire d'une personne aussi tranchée que vous."/>
+        <string id="ROTwanderer23007" text="Vous et moi pourrions assister à la montée d'un nouvel empire, dans lequel tous les nobles de Westeros devraient plier le genou devant les hommes du peuple."/>
+        <string id="ROTwanderer23008" text="On dirait un rêve pour lequel je signerais."/>
 
-        <string id="ROTwanderer24_001" text="Je suis mestre Cressen."/>
-        <string id="ROTwanderer24_002" text="J'ai servi Stannis Baratheon pendant de nombreuses années, en le conseillant dans les domaines de la science et de la médecine."/>
-        <string id="ROTwanderer24_003" text="Il s'est détourné de la lumière des Sept. Il a écouté les conseils de la sorcière rouge."/>
-        <string id="ROTwanderer24_004" text="Aujourd'hui, je me retrouve ailleurs, là où l'on attend de moi des conseils."/>
-        <string id="ROTwanderer24_005" text="En quoi peut m'être utile un vieillard ?"/>
-        <string id="ROTwanderer24_006" text="Médecine et sciences. Qui n'aurait pas besoin d'un conseiller de votre envergure ?"/>
-        <string id="ROTwanderer24_007" text="Recevez toute ma gratitude pour avoir su apprécier ma sagesse, mon seigneur."/>
+        <string id="ROTwanderer24001" text="Je suis mestre Cressen."/>
+        <string id="ROTwanderer24002" text="J'ai servi Stannis Baratheon pendant de nombreuses années, en le conseillant dans les domaines de la science et de la médecine."/>
+        <string id="ROTwanderer24003" text="Il s'est détourné de la lumière des Sept. Il a écouté les conseils de la sorcière rouge."/>
+        <string id="ROTwanderer24004" text="Aujourd'hui, je me retrouve ailleurs, là où l'on attend de moi des conseils."/>
+        <string id="ROTwanderer24005" text="En quoi peut m'être utile un vieillard ?"/>
+        <string id="ROTwanderer24006" text="Médecine et sciences. Qui n'aurait pas besoin d'un conseiller de votre envergure ?"/>
+        <string id="ROTwanderer24007" text="Recevez toute ma gratitude pour avoir su apprécier ma sagesse, mon seigneur."/>
 
-        <string id="ROTwanderer25_001" text="Ils m'appellent Jacelyn Prédeaux."/>
-        <string id="ROTwanderer25_002" text="J'ai été fait chevalier par feu Robert Baratheon pour ma bravoure lors du siège de Pyke."/>
-        <string id="ROTwanderer25_003" text="J'ai protégé des reines, des rois et toutes sortes de nobles personnes."/>
-        <string id="ROTwanderer25_004" text="Aujourd'hui, je suis assis là, à attendre, en buvant de cette bière."/>
-        <string id="ROTwanderer25_005" text="Je n'ai pas besoin d'un infirme."/>
-        <string id="ROTwanderer25_006" text="Un chevalier ne devrait pas dépérir dans cette taverne minable. Pouvez-vous encore vous battre ?"/>
-        <string id="ROTwanderer25_007" text="Je te protégerais à tout prix. L'honneur est primordial pour un homme de ma stature."/>
+        <string id="ROTwanderer25001" text="Ils m'appellent Jacelyn Prédeaux."/>
+        <string id="ROTwanderer25002" text="J'ai été fait chevalier par feu Robert Baratheon pour ma bravoure lors du siège de Pyke."/>
+        <string id="ROTwanderer25003" text="J'ai protégé des reines, des rois et toutes sortes de nobles personnes."/>
+        <string id="ROTwanderer25004" text="Aujourd'hui, je suis assis là, à attendre, en buvant de cette bière."/>
+        <string id="ROTwanderer25005" text="Je n'ai pas besoin d'un infirme."/>
+        <string id="ROTwanderer25006" text="Un chevalier ne devrait pas dépérir dans cette taverne minable. Pouvez-vous encore vous battre ?"/>
+        <string id="ROTwanderer25007" text="Je te protégerais à tout prix. L'honneur est primordial pour un homme de ma stature."/>
 
-        <string id="ROTwanderer26_001" text="Je suis Quentyn Martell"/>
-        <string id="ROTwanderer26_002" text="J'ai passé ma jeunesse dans les pattes des Ferboys pour régler une dette de sang."/>
-        <string id="ROTwanderer26_003" text="On m'avait promis le trône de Dorne, mais le destin a changé les plans. Je dois maintenant obtenir la gloire."/>
-        <string id="ROTwanderer26_004" text="Le héros part avec ses amis et ses compagnons, affronte des dangers et revient triomphant. Seuls certains de ses compagnons ne reviennent pas du tout. Mais le héros ne meurt jamais. Je dois être le héros."/>
-        <string id="ROTwanderer26_005" text="Ce héros n'a pas besoin d'un Martell."/>
-        <string id="ROTwanderer26_006" text="Rejoignez-nous. Vous y trouverez la gloire."/>
-        <string id="ROTwanderer26_007" text="Ce sera ma grande aventure !"/>
+        <string id="ROTwanderer26001" text="Je suis Quentyn Martell"/>
+        <string id="ROTwanderer26002" text="J'ai passé ma jeunesse dans les pattes des Ferboys pour régler une dette de sang."/>
+        <string id="ROTwanderer26003" text="On m'avait promis le trône de Dorne, mais le destin a changé les plans. Je dois maintenant obtenir la gloire."/>
+        <string id="ROTwanderer26004" text="Le héros part avec ses amis et ses compagnons, affronte des dangers et revient triomphant. Seuls certains de ses compagnons ne reviennent pas du tout. Mais le héros ne meurt jamais. Je dois être le héros."/>
+        <string id="ROTwanderer26005" text="Ce héros n'a pas besoin d'un Martell."/>
+        <string id="ROTwanderer26006" text="Rejoignez-nous. Vous y trouverez la gloire."/>
+        <string id="ROTwanderer26007" text="Ce sera ma grande aventure !"/>
 
-        <string id="ROTwanderer27_001" text="On m'appelle Little Finger."/>
-        <string id="ROTwanderer27_002" text="Le chaos n'est pas une tombe. Le chaos est une échelle. Beaucoup de ceux qui essaient d'y grimper échouent et ne peuvent jamais réessayer."/>
-        <string id="ROTwanderer27_003" text="La chute les brise. Certains se voient offrir une chance de remonter, mais refusent. Ils s'accrochent au royaume, aux dieux, à l'amour... aux illusions."/>
-        <string id="ROTwanderer27_004" text="Seule l'échelle est réelle. L'ascension est tout ce qu'il y a."/>
-        <string id="ROTwanderer27_005" text="Remontez dans votre tombe et laissez-moi tranquille."/>
-        <string id="ROTwanderer27_006" text="Peut-être allons-nous gravir cette échelle ensemble, Little Finger ? Richesse et noblesse font partie de mon destin."/>
-        <string id="ROTwanderer27_007" text="Puis nous monterons vers le soleil."/>
+        <string id="ROTwanderer27001" text="On m'appelle Little Finger."/>
+        <string id="ROTwanderer27002" text="Le chaos n'est pas une tombe. Le chaos est une échelle. Beaucoup de ceux qui essaient d'y grimper échouent et ne peuvent jamais réessayer."/>
+        <string id="ROTwanderer27003" text="La chute les brise. Certains se voient offrir une chance de remonter, mais refusent. Ils s'accrochent au royaume, aux dieux, à l'amour... aux illusions."/>
+        <string id="ROTwanderer27004" text="Seule l'échelle est réelle. L'ascension est tout ce qu'il y a."/>
+        <string id="ROTwanderer27005" text="Remontez dans votre tombe et laissez-moi tranquille."/>
+        <string id="ROTwanderer27006" text="Peut-être allons-nous gravir cette échelle ensemble, Little Finger ? Richesse et noblesse font partie de mon destin."/>
+        <string id="ROTwanderer27007" text="Puis nous monterons vers le soleil."/>
 
-        <string id="ROTwanderer28_001" text="Je suis Yoren, un corbeau errant."/>
-        <string id="ROTwanderer28_002" text="Un jour, Willem est revenu à cheval en ville. J'ai enfoncé une hache si profondément dans le crâne de Willem qu'ils ont dû l'enterrer avec. Le cheval de Willem m'a conduit au Mur et depuis, j'ai revêtu l'habit noir."/>
-        <string id="ROTwanderer28_003" text="Je cherche à recruter davantage d'hommes pour la garde de nuit.  "/>
-        <string id="ROTwanderer28_004" text="Vous souhaitez peut-être faire honneur à votre nom ? Revêtir l'habit noir ?"/>
-        <string id="ROTwanderer28_005" text=" Qu'est-ce qui vous fait croire que je revêtirai l'habit noir ?"/>
-        <string id="ROTwanderer28_006" text="Rejoignez ma cause, et je me ferai un devoir de vous fournir des hommes frais pour défendre le Mur."/>
-        <string id="ROTwanderer28_007" text="Tant que je peux essayer d'obtenir plus d'hommes pour défendre le Mur, et un ventre plein, je protégerai vos arrières."/>
+        <string id="ROTwanderer28001" text="Je suis Yoren, un corbeau errant."/>
+        <string id="ROTwanderer28002" text="Un jour, Willem est revenu à cheval en ville. J'ai enfoncé une hache si profondément dans le crâne de Willem qu'ils ont dû l'enterrer avec. Le cheval de Willem m'a conduit au Mur et depuis, j'ai revêtu l'habit noir."/>
+        <string id="ROTwanderer28003" text="Je cherche à recruter davantage d'hommes pour la garde de nuit.  "/>
+        <string id="ROTwanderer28004" text="Vous souhaitez peut-être faire honneur à votre nom ? Revêtir l'habit noir ?"/>
+        <string id="ROTwanderer28005" text=" Qu'est-ce qui vous fait croire que je revêtirai l'habit noir ?"/>
+        <string id="ROTwanderer28006" text="Rejoignez ma cause, et je me ferai un devoir de vous fournir des hommes frais pour défendre le Mur."/>
+        <string id="ROTwanderer28007" text="Tant que je peux essayer d'obtenir plus d'hommes pour défendre le Mur, et un ventre plein, je protégerai vos arrières."/>
 
-        <string id="ROTwanderer29_001" text="Un mot ? Je connais beaucoup de mots. Dîtes-moi lequel votre Altesse veut entendre, et Dick Main-leste le dira... "/>
-        <string id="ROTwanderer29_002" text="J'aime voir un roi danser, hey-nonny hey-nonny hey-nonny oh... Vous avez déjà entendu parler de Ser Clarence Crabbe ?"/>
-        <string id="ROTwanderer29_003" text=" Ser Clarence Crabbe, ai-je bien dit. J'ai son sang dans mes veines. Il mesurait deux mètres de haut et était si fort qu'il pouvait déraciner des pins et les projeter à plus d'un kilomètre. Aucun cheval ne pouvait supporter son poids, alors il montait un auroch. Sa femme était une sorcière des bois."/>
-        <string id="ROTwanderer29_004" text="Quand Ser Clarence tuait un homme, il ramenait sa tête à la maison et sa femme l'embrassait sur les lèvres pour la ramener à la vie. C'étaient des seigneurs, des sorciers, des chevaliers célèbres et des pirates. L'un d'eux était le roi de Sombreval. Ils donnaient de bons conseils au vieux Crabbe. Comms ce n'étaient que des têtes, ils ne pouvaient pas parler très fort, mais ils ne taisaient jamais non plus. Quand on est une tête, parler est tout ce qu'on a pour passer la journée. C'était ainsi que le groupe de Crabbe fut appelé les Murmures." />
-        <string id="ROTwanderer29_005" text="Vous êtes un vrai cinglé."/>
-        <string id="ROTwanderer29_006" text=" Vous savez quoi ? Tu es le genre de Dick que je pourrais emmener à ma fête ! Allons-y ! "/>
-        <string id="ROTwanderer29_007" text="Le vieux Dick est un homme inoffensif. Galant comme un chevalier, et honnête comme le jour est long. "/>
+        <string id="ROTwanderer29001" text="Un mot ? Je connais beaucoup de mots. Dîtes-moi lequel votre Altesse veut entendre, et Dick Main-leste le dira... "/>
+        <string id="ROTwanderer29002" text="J'aime voir un roi danser, hey-nonny hey-nonny hey-nonny oh... Vous avez déjà entendu parler de Ser Clarence Crabbe ?"/>
+        <string id="ROTwanderer29003" text=" Ser Clarence Crabbe, ai-je bien dit. J'ai son sang dans mes veines. Il mesurait deux mètres de haut et était si fort qu'il pouvait déraciner des pins et les projeter à plus d'un kilomètre. Aucun cheval ne pouvait supporter son poids, alors il montait un auroch. Sa femme était une sorcière des bois."/>
+        <string id="ROTwanderer29004" text="Quand Ser Clarence tuait un homme, il ramenait sa tête à la maison et sa femme l'embrassait sur les lèvres pour la ramener à la vie. C'étaient des seigneurs, des sorciers, des chevaliers célèbres et des pirates. L'un d'eux était le roi de Sombreval. Ils donnaient de bons conseils au vieux Crabbe. Comms ce n'étaient que des têtes, ils ne pouvaient pas parler très fort, mais ils ne taisaient jamais non plus. Quand on est une tête, parler est tout ce qu'on a pour passer la journée. C'était ainsi que le groupe de Crabbe fut appelé les Murmures." />
+        <string id="ROTwanderer29005" text="Vous êtes un vrai cinglé."/>
+        <string id="ROTwanderer29006" text=" Vous savez quoi ? Tu es le genre de Dick que je pourrais emmener à ma fête ! Allons-y ! "/>
+        <string id="ROTwanderer29007" text="Le vieux Dick est un homme inoffensif. Galant comme un chevalier, et honnête comme le jour est long. "/>
 
-        <string id="ROTwanderer30_001" text="Je m'appelle Willem Lannister"/>
-        <string id="ROTwanderer30_002" text="Je me bats généralement pour la maison Lannister"/>
-        <string id="ROTwanderer30_003" text="Mais j'ai peut-être perdu mon or en jouant."/>
-        <string id="ROTwanderer30_004" text="Je peux vous être votre épée contre de l'or."/>
-        <string id="ROTwanderer30_005" text="J'ai besoin de quelqu'un comme vous dans mes rangs"/>
-        <string id="ROTwanderer30_006" text="Comment puis-je faire confiance à un Lannister ?"/>
-        <string id="ROTwanderer30_007" text="Un Lannister paie toujours ses dettes. "/>
+        <string id="ROTwanderer30001" text="Je m'appelle Willem Lannister"/>
+        <string id="ROTwanderer30002" text="Je me bats généralement pour la maison Lannister"/>
+        <string id="ROTwanderer30003" text="Mais j'ai peut-être perdu mon or en jouant."/>
+        <string id="ROTwanderer30004" text="Je peux vous être votre épée contre de l'or."/>
+        <string id="ROTwanderer30005" text="J'ai besoin de quelqu'un comme vous dans mes rangs"/>
+        <string id="ROTwanderer30006" text="Comment puis-je faire confiance à un Lannister ?"/>
+        <string id="ROTwanderer30007" text="Un Lannister paie toujours ses dettes. "/>
 
         <string id="ROTwandererstrSandraTheGreat" text="Mon nom est Sandra la Grande" />
         <string id="ROTwandererstrFelixReverdin" text="Mon nom est Feix Reverdin" />
 
-        <string id="ROTwanderer37_001" text="Vous avez l'air de quelqu'un qui aurait besoin d'un bouclier solide à vos côtés !"/>
-        <string id="ROTwanderer37_002" text="Mon nom est Cregan Whytcross. Je suis un mercenaire à louer."/>
-        <string id="ROTwanderer37_003" text="Pour une somme modique, je vous protégerai, vous et votre famille, comme l'ont fait mes ancêtres lors des rébellions des Skaggs."/>
-        <string id="ROTwanderer37_004" text="Le premier Whytcross de l'histoire est mort en défendant le jeune seigneur de Winterfell.  "/>
-        <string id="ROTwanderer37_005" text="Merci pour cette leçon d'histoire, il doit être bon de savoir que l'on a des racines solides dont on peut être fier."/>
-        <string id="ROTwanderer37_006" text="D'accord, j'ai juste besoin de ton bouclier à mes côtés. J'espère que tu es aussi bon que tu le dis."/>
-        <string id="ROTwanderer37_007" text="Oui, j'espère rendre mes ancêtres fiers."/>
+        <string id="ROTwanderer37001" text="Vous avez l'air de quelqu'un qui aurait besoin d'un bouclier solide à vos côtés !"/>
+        <string id="ROTwanderer37002" text="Mon nom est Cregan Whytcross. Je suis un mercenaire à louer."/>
+        <string id="ROTwanderer37003" text="Pour une somme modique, je vous protégerai, vous et votre famille, comme l'ont fait mes ancêtres lors des rébellions des Skaggs."/>
+        <string id="ROTwanderer37004" text="Le premier Whytcross de l'histoire est mort en défendant le jeune seigneur de Winterfell.  "/>
+        <string id="ROTwanderer37005" text="Merci pour cette leçon d'histoire, il doit être bon de savoir que l'on a des racines solides dont on peut être fier."/>
+        <string id="ROTwanderer37006" text="D'accord, j'ai juste besoin de ton bouclier à mes côtés. J'espère que tu es aussi bon que tu le dis."/>
+        <string id="ROTwanderer37007" text="Oui, j'espère rendre mes ancêtres fiers."/>
 
-        <string id="ROTwanderer38_001" text="Je m'appelle Benjen Stark. Je suis un frère juré de la Garde de Nuit."/>
-        <string id="ROTwanderer38_002" text="Si vous voyagez Au-delà du Mur, vous aurez besoin d'un guide."/>
-        <string id="ROTwanderer38_003" text="Vous aurez de la chance si vous ne rencontrez que des araignées de glace, des lynx-de-fumée ou des loups géants. "/>
-        <string id="ROTwanderer38_004" text="Les Autres, c'est une autre affaire."/>
-        <string id="ROTwanderer38_005" text="Bienvenue, vous semblez être l'homme de la situation."/>
-        <string id="ROTwanderer38_006" text="Les araignées de glace ? Oui, c'est ça."/>
-        <string id="ROTwanderer38_007" text="Mettons-nous en route aux premières lueurs du jour."/>
+        <string id="ROTwanderer38001" text="Je m'appelle Benjen Stark. Je suis un frère juré de la Garde de Nuit."/>
+        <string id="ROTwanderer38002" text="Si vous voyagez Au-delà du Mur, vous aurez besoin d'un guide."/>
+        <string id="ROTwanderer38003" text="Vous aurez de la chance si vous ne rencontrez que des araignées de glace, des lynx-de-fumée ou des loups géants. "/>
+        <string id="ROTwanderer38004" text="Les Autres, c'est une autre affaire."/>
+        <string id="ROTwanderer38005" text="Bienvenue, vous semblez être l'homme de la situation."/>
+        <string id="ROTwanderer38006" text="Les araignées de glace ? Oui, c'est ça."/>
+        <string id="ROTwanderer38007" text="Mettons-nous en route aux premières lueurs du jour."/>
 
         <string id="ROTwandererstrAuraneWaters" text="{=ROTwandererstrAuraneWaters}Mon nom est Aurane Waters."/>
         <string id="ROTwandererstrCletusYronwood" text="Mon nom est Cletus Ferboys." />

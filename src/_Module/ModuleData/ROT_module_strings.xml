@@ -540,248 +540,248 @@
 	  <string id="str_adjective_for_culture.tyroshi" text="{=ROTtyroshi15}Tyroshi" />
 	  <string id="str_adjective_for_culture.lyseni" text="{=ROTlyseni15}Lyseni" />
 
-	  <string id="backstory_a.ROTwanderer1" text="{=ROTwanderer1_001}I'm surprised you don't recognized the infamous Kingslayer. I'm Ser Jaime of House Lannister."/>
-	  <string id="prebackstory.ROTwanderer1" text="{=ROTwanderer1_002}Oh, why, of course."/>
-	  <string id="backstory_b.ROTwanderer1" text="{=ROTwanderer1_003}I put my sword in the back of the king I was sworn to protect, thus earning the title."/>
-	  <string id="backstory_c.ROTwanderer1" text="{=ROTwanderer1_004}Although I am an oath breaker and murderer, not to mention my other atrocities, stabbing the Mad King was probably the most selfless act I ever committed. He would have set ablaze the entire realm."/>
-	  <string id="response_1.ROTwanderer1" text="{=ROTwanderer1_004}I'm not judging you, we all have a past."/>
-	  <string id="response_2.ROTwanderer1" text="{=ROTwanderer1_005}The Lion of Lannister, oh how the mighty have fallen."/>
-	  <string id="backstory_d.ROTwanderer1" text="{=ROTwanderer1_006}My father only cares about his legacy and my sister is screwing the whole kingsguard. I've had enough the games they play in King's Landing. From this day forth, I'm just Jaime."/>
+	  <string id="backstory_a.ROTwanderer1" text="{=ROTwanderer1001}I'm surprised you don't recognized the infamous Kingslayer. I'm Ser Jaime of House Lannister."/>
+	  <string id="prebackstory.ROTwanderer1" text="{=ROTwanderer1002}Oh, why, of course."/>
+	  <string id="backstory_b.ROTwanderer1" text="{=ROTwanderer1003}I put my sword in the back of the king I was sworn to protect, thus earning the title."/>
+	  <string id="backstory_c.ROTwanderer1" text="{=ROTwanderer1004}Although I am an oath breaker and murderer, not to mention my other atrocities, stabbing the Mad King was probably the most selfless act I ever committed. He would have set ablaze the entire realm."/>
+	  <string id="response_1.ROTwanderer1" text="{=ROTwanderer1004}I'm not judging you, we all have a past."/>
+	  <string id="response_2.ROTwanderer1" text="{=ROTwanderer1005}The Lion of Lannister, oh how the mighty have fallen."/>
+	  <string id="backstory_d.ROTwanderer1" text="{=ROTwanderer1006}My father only cares about his legacy and my sister is screwing the whole kingsguard. I've had enough the games they play in King's Landing. From this day forth, I'm just Jaime."/>
 	  
-	  <string id="prebackstory.ROTwanderer2" text="{=ROTwanderer2_001}Oh, so you don't know who I am? I knew who you were. My little birds tell me everything."/>
-	  <string id="backstory_a.ROTwanderer2" text="{=ROTwanderer2_002}I am none other than the Master of Whisperers my dear sir, nothing escapes my ears that happens in the realm."/>
-	  <string id="backstory_d.ROTwanderer2" text="{=ROTwanderer2_003}Even a company of valiant heroes such as yourself and your comrades could use what I provide. It may just halt the arrow coming from the rear, or even from within."/>
-	  <string id="backstory_b.ROTwanderer2" text="{=ROTwanderer2_004}Although I lack physical prowess, my skills are of a different sort."/>
-	  <string id="backstory_c.ROTwanderer2" text="{=ROTwanderer2_005}But yet spiders do bite and their venom can take down even a beast of a man."/>
-	  <string id="response_1.ROTwanderer2" text="{=ROTwanderer2_006}Even for my band of warriors, you may still prove useful."/>
-	  <string id="response_2.ROTwanderer2" text="{=ROTwanderer2_007}Spin your web elsewhere, word games matter little with arrows flying at your head."/>
+	  <string id="prebackstory.ROTwanderer2" text="{=ROTwanderer2001}Oh, so you don't know who I am? I knew who you were. My little birds tell me everything."/>
+	  <string id="backstory_a.ROTwanderer2" text="{=ROTwanderer2002}I am none other than the Master of Whisperers my dear sir, nothing escapes my ears that happens in the realm."/>
+	  <string id="backstory_d.ROTwanderer2" text="{=ROTwanderer2003}Even a company of valiant heroes such as yourself and your comrades could use what I provide. It may just halt the arrow coming from the rear, or even from within."/>
+	  <string id="backstory_b.ROTwanderer2" text="{=ROTwanderer2004}Although I lack physical prowess, my skills are of a different sort."/>
+	  <string id="backstory_c.ROTwanderer2" text="{=ROTwanderer2005}But yet spiders do bite and their venom can take down even a beast of a man."/>
+	  <string id="response_1.ROTwanderer2" text="{=ROTwanderer2006}Even for my band of warriors, you may still prove useful."/>
+	  <string id="response_2.ROTwanderer2" text="{=ROTwanderer2007}Spin your web elsewhere, word games matter little with arrows flying at your head."/>
 	  
-	  <string id="prebackstory.ROTwanderer3" text="{=ROTwanderer3_001}This better be good, or your chicken is mine. Sandor Clegane it is."/>
-	  <string id="backstory_a.ROTwanderer3" text="{=ROTwanderer3_002}I a killer just like all the men you see here."/>
-	  <string id="backstory_b.ROTwanderer3" text="{=ROTwanderer3_003}And don't pretend you don't enjoy it."/>
-	  <string id="backstory_c.ROTwanderer3" text="{=ROTwanderer3_004}There nothing sweeter than seeing a prick gasp for his last breath of air."/>
-	  <string id="response_1.ROTwanderer3" text="{=ROTwanderer3_005}A fellow with your size and attitude that is still alive must be a beast on the battlefield."/>
-	  <string id="response_2.ROTwanderer3" text="{=ROTwanderer3_006}What the hell is your problem?"/>
-	  <string id="backstory_d.ROTwanderer3" text="{=ROTwanderer3_007}I will slice a man from nave to chop and not loose a wink of sleep. Just don't get in my way when I find my dear brother."/>
+	  <string id="prebackstory.ROTwanderer3" text="{=ROTwanderer3001}This better be good, or your chicken is mine. Sandor Clegane it is."/>
+	  <string id="backstory_a.ROTwanderer3" text="{=ROTwanderer3002}I a killer just like all the men you see here."/>
+	  <string id="backstory_b.ROTwanderer3" text="{=ROTwanderer3003}And don't pretend you don't enjoy it."/>
+	  <string id="backstory_c.ROTwanderer3" text="{=ROTwanderer3004}There nothing sweeter than seeing a prick gasp for his last breath of air."/>
+	  <string id="response_1.ROTwanderer3" text="{=ROTwanderer3005}A fellow with your size and attitude that is still alive must be a beast on the battlefield."/>
+	  <string id="response_2.ROTwanderer3" text="{=ROTwanderer3006}What the hell is your problem?"/>
+	  <string id="backstory_d.ROTwanderer3" text="{=ROTwanderer3007}I will slice a man from nave to chop and not loose a wink of sleep. Just don't get in my way when I find my dear brother."/>
 	  
-	  <string id="prebackstory.ROTwanderer4" text="{=ROTwanderer4_001}Only if you have a full coin purse."/>
-	  <string id="backstory_b.ROTwanderer4" text="{=ROTwanderer4_002}I sell my sword, really my only talent other than sticking my nose two inches deep in that one over there."/>
-	  <string id="backstory_a.ROTwanderer4" text="{=ROTwanderer4_003}The name's Bronn, although now I am an annointed knight, I may still be your man if the price is right."/>
-	  <string id="backstory_c.ROTwanderer4" text="{=ROTwanderer4_004}So if you don't mind, I'm about to go smell the roses."/>
-	  <string id="response_1.ROTwanderer4" text="{=ROTwanderer4_005}I feel you, who do you recommend?"/>
-	  <string id="response_2.ROTwanderer4" text="{=ROTwanderer4_006}Come on man, I thought you wanted to talk business."/>
-	  <string id="backstory_d.ROTwanderer4" text="{=ROTwanderer4_007}Hire me, job done, no questions asked, except one, how much?"/>
+	  <string id="prebackstory.ROTwanderer4" text="{=ROTwanderer4001}Only if you have a full coin purse."/>
+	  <string id="backstory_b.ROTwanderer4" text="{=ROTwanderer4002}I sell my sword, really my only talent other than sticking my nose two inches deep in that one over there."/>
+	  <string id="backstory_a.ROTwanderer4" text="{=ROTwanderer4003}The name's Bronn, although now I am an annointed knight, I may still be your man if the price is right."/>
+	  <string id="backstory_c.ROTwanderer4" text="{=ROTwanderer4004}So if you don't mind, I'm about to go smell the roses."/>
+	  <string id="response_1.ROTwanderer4" text="{=ROTwanderer4005}I feel you, who do you recommend?"/>
+	  <string id="response_2.ROTwanderer4" text="{=ROTwanderer4006}Come on man, I thought you wanted to talk business."/>
+	  <string id="backstory_d.ROTwanderer4" text="{=ROTwanderer4007}Hire me, job done, no questions asked, except one, how much?"/>
 	  
-	  <string id="prebackstory.ROTwanderer5" text="{=ROTwanderer5_001}Hello sir, don't mind me, just passing through on my way to Castle Black."/>
-	  <string id="backstory_a.ROTwanderer5" text="{=ROTwanderer5_002}I was once the heir of House Tarly, but my father banished me and deemed me unworthy."/>
-	  <string id="backstory_b.ROTwanderer5" text="{=ROTwanderer5_003}Perhaps he's right, maybe I deserve it. I was never the valiant warrior he wanted me to be."/>
-	  <string id="backstory_c.ROTwanderer5" text="{=ROTwanderer5_004}I'm just a pudgy, coward of a man, with my nose stuck in books instead of what a true lordly youth should do."/>
-	  <string id="response_1.ROTwanderer5" text="{=ROTwanderer5_005}Don't be so hard on yourself. A father like that is no father at all."/>
-	  <string id="response_2.ROTwanderer5" text="{=ROTwanderer5_006}In this grim land, cowards are easy prey."/>
-	  <string id="backstory_d.ROTwanderer5" text="{=ROTwanderer5_007}Can I follow your caravan? You won't even know I'm there.I've learned a few things about stymying infection from all the books Ive read. "/>
+	  <string id="prebackstory.ROTwanderer5" text="{=ROTwanderer5001}Hello sir, don't mind me, just passing through on my way to Castle Black."/>
+	  <string id="backstory_a.ROTwanderer5" text="{=ROTwanderer5002}I was once the heir of House Tarly, but my father banished me and deemed me unworthy."/>
+	  <string id="backstory_b.ROTwanderer5" text="{=ROTwanderer5003}Perhaps he's right, maybe I deserve it. I was never the valiant warrior he wanted me to be."/>
+	  <string id="backstory_c.ROTwanderer5" text="{=ROTwanderer5004}I'm just a pudgy, coward of a man, with my nose stuck in books instead of what a true lordly youth should do."/>
+	  <string id="response_1.ROTwanderer5" text="{=ROTwanderer5005}Don't be so hard on yourself. A father like that is no father at all."/>
+	  <string id="response_2.ROTwanderer5" text="{=ROTwanderer5006}In this grim land, cowards are easy prey."/>
+	  <string id="backstory_d.ROTwanderer5" text="{=ROTwanderer5007}Can I follow your caravan? You won't even know I'm there.I've learned a few things about stymying infection from all the books Ive read. "/>
 	  
-	  <string id="prebackstory.ROTwanderer6" text="{=ROTwanderer6_001}I'm Podrick Payne."/>
-	  <string id="backstory_a.ROTwanderer6" text="{=ROTwanderer6_002}Don't judge be by my house. My cousin, the King's Justice scares me too."/>
-	  <string id="backstory_b.ROTwanderer6" text="{=ROTwanderer6_003}I'm not much of a warrior yet, but I did slay a Kingsguard on the battlefield."/>
-	  <string id="backstory_c.ROTwanderer6" text="{=ROTwanderer6_004}I can cook, clean and help you with your armor."/>
-	  <string id="response_2.ROTwanderer6" text="{=ROTwanderer6_005}I already got a wife."/>
-	  <string id="backstory_d.ROTwanderer6" text="{=ROTwanderer6_006}You want regret having me around. I'll make sure of that."/>
-	  <string id="response_1.ROTwanderer6" text="{=ROTwanderer6_007}You got to start somewhere."/>
+	  <string id="prebackstory.ROTwanderer6" text="{=ROTwanderer6001}I'm Podrick Payne."/>
+	  <string id="backstory_a.ROTwanderer6" text="{=ROTwanderer6002}Don't judge be by my house. My cousin, the King's Justice scares me too."/>
+	  <string id="backstory_b.ROTwanderer6" text="{=ROTwanderer6003}I'm not much of a warrior yet, but I did slay a Kingsguard on the battlefield."/>
+	  <string id="backstory_c.ROTwanderer6" text="{=ROTwanderer6004}I can cook, clean and help you with your armor."/>
+	  <string id="response_2.ROTwanderer6" text="{=ROTwanderer6005}I already got a wife."/>
+	  <string id="backstory_d.ROTwanderer6" text="{=ROTwanderer6006}You want regret having me around. I'll make sure of that."/>
+	  <string id="response_1.ROTwanderer6" text="{=ROTwanderer6007}You got to start somewhere."/>
 	 
-	  <string id="prebackstory.ROTwanderer7" text="{=ROTwanderer7_001}Just a smith's apprentice from Flea Bottom."/>
-	  <string id="backstory_a.ROTwanderer7" text="{=ROTwanderer7_002}The name's Gendry. Don't know if I'm a Hill, Rivers or Storm, but a bastard without a doubt."/>
-	  <string id="backstory_d.ROTwanderer7" text="{=ROTwanderer7_004}Every warband needs someone to knock out dents and sharpen swords if my smith's hammer is more of use to ya."/>
-	  <string id="response_2.ROTwanderer7" text="{=ROTwanderer7_005}Anybody would want to get out this shit hole and say whatever to do it."/>
-	  <string id="response_1.ROTwanderer7" text="{=ROTwanderer7_006}No doubt you would pulverize something."/>
-	  <string id="backstory_c.ROTwanderer7" text="{=ROTwanderer7_007}I got the strength and endurance of an ox from pounding steel from dawn til dusk."/>
-	  <string id="backstory_b.ROTwanderer7" text="{=ROTwanderer7_008}I haven't ever touched a battlefield, but put a war hammer in my hands and see what happens."/>
+	  <string id="prebackstory.ROTwanderer7" text="{=ROTwanderer7001}Just a smith's apprentice from Flea Bottom."/>
+	  <string id="backstory_a.ROTwanderer7" text="{=ROTwanderer7002}The name's Gendry. Don't know if I'm a Hill, Rivers or Storm, but a bastard without a doubt."/>
+	  <string id="backstory_d.ROTwanderer7" text="{=ROTwanderer7004}Every warband needs someone to knock out dents and sharpen swords if my smith's hammer is more of use to ya."/>
+	  <string id="response_2.ROTwanderer7" text="{=ROTwanderer7005}Anybody would want to get out this shit hole and say whatever to do it."/>
+	  <string id="response_1.ROTwanderer7" text="{=ROTwanderer7006}No doubt you would pulverize something."/>
+	  <string id="backstory_c.ROTwanderer7" text="{=ROTwanderer7007}I got the strength and endurance of an ox from pounding steel from dawn til dusk."/>
+	  <string id="backstory_b.ROTwanderer7" text="{=ROTwanderer7008}I haven't ever touched a battlefield, but put a war hammer in my hands and see what happens."/>
 	 
-	  <string id="prebackstory.ROTwanderer8" text="{=ROTwanderer8_001}Why the googly eyes? You never saw a dwarve before."/>
-	  <string id="backstory_a.ROTwanderer8" text="{=ROTwanderer8_002}'m Tyrion of House Lannister."/>
-	  <string id="backstory_b.ROTwanderer8" text="{=ROTwanderer7_003}I saved all of King's Landing at the Battle of the Blackwater and what thanks did I get, a demotion and a hole where my nose used to be."/>
-	  <string id="backstory_c.ROTwanderer8" text="{=ROTwanderer8_004}I drink and know more than ever these days. Slurp!."/>
-	  <string id="response_1.ROTwanderer8" text="{=ROTwanderer8_005}I do need some new armor, can you shit me out a few golden dragons."/>
-	  <string id="response_2.ROTwanderer8" text="{=ROTwanderer8_006}What need do I have for an imp to guzzle all my ale."/>
-	  <string id="backstory_d.ROTwanderer8" text="{=ROTwanderer8_007}You seem to be a clever guy, you'll figure it out.Now if you would excuse me."/>
+	  <string id="prebackstory.ROTwanderer8" text="{=ROTwanderer8001}Why the googly eyes? You never saw a dwarve before."/>
+	  <string id="backstory_a.ROTwanderer8" text="{=ROTwanderer8002}'m Tyrion of House Lannister."/>
+	  <string id="backstory_b.ROTwanderer8" text="{=ROTwanderer7003}I saved all of King's Landing at the Battle of the Blackwater and what thanks did I get, a demotion and a hole where my nose used to be."/>
+	  <string id="backstory_c.ROTwanderer8" text="{=ROTwanderer8004}I drink and know more than ever these days. Slurp!."/>
+	  <string id="response_1.ROTwanderer8" text="{=ROTwanderer8005}I do need some new armor, can you shit me out a few golden dragons."/>
+	  <string id="response_2.ROTwanderer8" text="{=ROTwanderer8006}What need do I have for an imp to guzzle all my ale."/>
+	  <string id="backstory_d.ROTwanderer8" text="{=ROTwanderer8007}You seem to be a clever guy, you'll figure it out.Now if you would excuse me."/>
 	 
-	  <string id="backstory_a.ROTwanderer9" text="{=ROTwanderer9_001}My father is Selwyn if Evenfall Hall."/>
-	  <string id="prebackstory.ROTwanderer9" text="{=ROTwanderer9_002}I'm Brienne of House Tarth."/>
-	  <string id="backstory_b.ROTwanderer9" text="{=ROTwanderer9_003}Honor, duty and loyalty are of upmost importance of knighthood. "/>
-	  <string id="backstory_c.ROTwanderer9" text="{=ROTwanderer9_004}Although I'm not a knight, I live by this creed regardless."/>
-	  <string id="response_2.ROTwanderer9" text="{=ROTwanderer9_005}What a beast of a woman you are!"/>
-	  <string id="response_1.ROTwanderer9" text="{=ROTwanderer9_006}People like you are hard to find, I applaud you."/>
-	  <string id="backstory_d.ROTwanderer9" text="{=ROTwanderer9_007}If you will have me, my sword is yours till my dying breathe."/>
+	  <string id="backstory_a.ROTwanderer9" text="{=ROTwanderer9001}My father is Selwyn if Evenfall Hall."/>
+	  <string id="prebackstory.ROTwanderer9" text="{=ROTwanderer9002}I'm Brienne of House Tarth."/>
+	  <string id="backstory_b.ROTwanderer9" text="{=ROTwanderer9003}Honor, duty and loyalty are of upmost importance of knighthood. "/>
+	  <string id="backstory_c.ROTwanderer9" text="{=ROTwanderer9004}Although I'm not a knight, I live by this creed regardless."/>
+	  <string id="response_2.ROTwanderer9" text="{=ROTwanderer9005}What a beast of a woman you are!"/>
+	  <string id="response_1.ROTwanderer9" text="{=ROTwanderer9006}People like you are hard to find, I applaud you."/>
+	  <string id="backstory_d.ROTwanderer9" text="{=ROTwanderer9007}If you will have me, my sword is yours till my dying breathe."/>
 	 
-	  <string id="prebackstory.ROTwanderer10" text="{=ROTwanderer10_001}A man has no name."/>
-	  <string id="backstory_a.ROTwanderer10" text="{=ROTwanderer10_002}For your purposes, you may call me Jaquin Hagar. "/>
-	  <string id="backstory_d.ROTwanderer10" text="{=ROTwanderer10_003}A man's path was not random, this encounter guided by the Many-faced god."/>
-	  <string id="backstory_c.ROTwanderer10" text="{=ROTwanderer10_004}In service to the Many-faced god."/>
-	  <string id="backstory_b.ROTwanderer10" text="{=ROTwanderer10_005}To be be unseen but yet seen a man must do."/>
-	  <string id="response_1.ROTwanderer10" text="{=ROTwanderer10_006}Mysterious, I need to here more."/>
-	  <string id="response_2.ROTwanderer10" text="{=ROTwanderer10_007}You're a wierd fellow."/>
+	  <string id="prebackstory.ROTwanderer10" text="{=ROTwanderer10001}A man has no name."/>
+	  <string id="backstory_a.ROTwanderer10" text="{=ROTwanderer10002}For your purposes, you may call me Jaquin Hagar. "/>
+	  <string id="backstory_d.ROTwanderer10" text="{=ROTwanderer10003}A man's path was not random, this encounter guided by the Many-faced god."/>
+	  <string id="backstory_c.ROTwanderer10" text="{=ROTwanderer10004}In service to the Many-faced god."/>
+	  <string id="backstory_b.ROTwanderer10" text="{=ROTwanderer10005}To be be unseen but yet seen a man must do."/>
+	  <string id="response_1.ROTwanderer10" text="{=ROTwanderer10006}Mysterious, I need to here more."/>
+	  <string id="response_2.ROTwanderer10" text="{=ROTwanderer10007}You're a wierd fellow."/>
 	 
-	  <string id="prebackstory.ROTwanderer11" text="{=ROTwanderer11_001}My name is Mya Stone."/>
-	  <string id="backstory_a.ROTwanderer11" text="{=ROTwanderer11_002}I'm a simple girl."/>
-	  <string id="backstory_b.ROTwanderer11" text="{=ROTwanderer11_003}I once led travelers to and from the Eyrie."/>
-	  <string id="backstory_c.ROTwanderer11" text="{=ROTwanderer11_004}Through the highest and most trecherous mountains in all of Westeros with nothing but my donkey."/>
-	  <string id="response_1.ROTwanderer11" text="{=ROTwanderer11_005}A girl with good pathfinding skills should be helpful."/>
-	  <string id="backstory_d.ROTwanderer11" text="{=ROTwanderer11_006}I could be your scout or perhaps lead a caravan. I would love see the world with you."/>
-	  <string id="response_2.ROTwanderer11" text="{=ROTwanderer11_007}This world will swallow a country girl like you alive."/>
+	  <string id="prebackstory.ROTwanderer11" text="{=ROTwanderer11001}My name is Mya Stone."/>
+	  <string id="backstory_a.ROTwanderer11" text="{=ROTwanderer11002}I'm a simple girl."/>
+	  <string id="backstory_b.ROTwanderer11" text="{=ROTwanderer11003}I once led travelers to and from the Eyrie."/>
+	  <string id="backstory_c.ROTwanderer11" text="{=ROTwanderer11004}Through the highest and most trecherous mountains in all of Westeros with nothing but my donkey."/>
+	  <string id="response_1.ROTwanderer11" text="{=ROTwanderer11005}A girl with good pathfinding skills should be helpful."/>
+	  <string id="backstory_d.ROTwanderer11" text="{=ROTwanderer11006}I could be your scout or perhaps lead a caravan. I would love see the world with you."/>
+	  <string id="response_2.ROTwanderer11" text="{=ROTwanderer11007}This world will swallow a country girl like you alive."/>
 	 
-	  <string id="prebackstory.ROTwanderer12" text="{=ROTwanderer12_001}I am Qyburn."/>
-	  <string id="backstory_a.ROTwanderer12" text="{=ROTwanderer12_002}I'm trained in the arts of medicine."/>
-	  <string id="backstory_b.ROTwanderer12" text="{=ROTwanderer12_003}But lost my chains for exploring my medical curiosity in a, shall I say, unorthodox way."/>
-	  <string id="backstory_c.ROTwanderer12" text="{=ROTwanderer12_004}My skills still remain though. The ability to cure diseases, prolong life and of course, other things you may find useful."/>
-	  <string id="response_1.ROTwanderer12" text="{=ROTwanderer12_005}Keep my soldiers from dying and you are a friend of mine."/>
-	  <string id="response_2.ROTwanderer12" text="{=ROTwanderer12_006}I shudder to think of atrocities you must have committed."/>
-	  <string id="backstory_d.ROTwanderer12" text="{=ROTwanderer12_007}Keeping your men alive and untapping their complete potential, by whatever means necessary, is my utmost goal, dear sir."/>
+	  <string id="prebackstory.ROTwanderer12" text="{=ROTwanderer12001}I am Qyburn."/>
+	  <string id="backstory_a.ROTwanderer12" text="{=ROTwanderer12002}I'm trained in the arts of medicine."/>
+	  <string id="backstory_b.ROTwanderer12" text="{=ROTwanderer12003}But lost my chains for exploring my medical curiosity in a, shall I say, unorthodox way."/>
+	  <string id="backstory_c.ROTwanderer12" text="{=ROTwanderer12004}My skills still remain though. The ability to cure diseases, prolong life and of course, other things you may find useful."/>
+	  <string id="response_1.ROTwanderer12" text="{=ROTwanderer12005}Keep my soldiers from dying and you are a friend of mine."/>
+	  <string id="response_2.ROTwanderer12" text="{=ROTwanderer12006}I shudder to think of atrocities you must have committed."/>
+	  <string id="backstory_d.ROTwanderer12" text="{=ROTwanderer12007}Keeping your men alive and untapping their complete potential, by whatever means necessary, is my utmost goal, dear sir."/>
 	 
-	  <string id="prebackstory.ROTwanderer13" text="{=ROTwanderer13_001}I am Syrio Forel."/>
-	  <string id="backstory_a.ROTwanderer13" text="{=ROTwanderer13_002}I was once the First Sword of Bravos."/>
-	  <string id="backstory_b.ROTwanderer13" text="{=ROTwanderer13_003}From where I'm from, true swordsmanship is an art form. Not just hacking away as you do here."/>
-	  <string id="backstory_c.ROTwanderer13" text="{=ROTwanderer13_004}A duel is not a test of wills but a water dance."/>
-	  <string id="response_1.ROTwanderer13" text="{=ROTwanderer13_005}I need swords, no matter if the one you use is pencil thin."/>
-	  <string id="response_2.ROTwanderer13" text="{=ROTwanderer13_006}There is no where to dance when you're surrounded or backed into a corner."/>
-	  <string id="backstory_d.ROTwanderer13" text="{=ROTwanderer13_007}The First Sword of Bravos faced worse odds and yet he lives."/>
+	  <string id="prebackstory.ROTwanderer13" text="{=ROTwanderer13001}I am Syrio Forel."/>
+	  <string id="backstory_a.ROTwanderer13" text="{=ROTwanderer13002}I was once the First Sword of Bravos."/>
+	  <string id="backstory_b.ROTwanderer13" text="{=ROTwanderer13003}From where I'm from, true swordsmanship is an art form. Not just hacking away as you do here."/>
+	  <string id="backstory_c.ROTwanderer13" text="{=ROTwanderer13004}A duel is not a test of wills but a water dance."/>
+	  <string id="response_1.ROTwanderer13" text="{=ROTwanderer13005}I need swords, no matter if the one you use is pencil thin."/>
+	  <string id="response_2.ROTwanderer13" text="{=ROTwanderer13006}There is no where to dance when you're surrounded or backed into a corner."/>
+	  <string id="backstory_d.ROTwanderer13" text="{=ROTwanderer13007}The First Sword of Bravos faced worse odds and yet he lives."/>
 	 
-	  <string id="backstory_a.ROTwanderer14" text="{=ROTwanderer14_001}Hodor!"/>
-	  <string id="prebackstory.ROTwanderer14" text="{=ROTwanderer14_002}Hodor."/>
-	  <string id="backstory_b.ROTwanderer14" text="{=ROTwanderer14_003}Hodor?"/>
-	  <string id="backstory_c.ROTwanderer14" text="{=ROTwanderer14_004}Hodor??"/>
-	  <string id="response_2.ROTwanderer14" text="{=ROTwanderer14_005}Freaken dimwit."/>
-	  <string id="response_1.ROTwanderer14" text="{=ROTwanderer14_006}Damn, you got to have giant's blood."/>
-	  <string id="backstory_d.ROTwanderer14" text="{=ROTwanderer14_007}Hodor!!"/>
+	  <string id="backstory_a.ROTwanderer14" text="{=ROTwanderer14001}Hodor!"/>
+	  <string id="prebackstory.ROTwanderer14" text="{=ROTwanderer14002}Hodor."/>
+	  <string id="backstory_b.ROTwanderer14" text="{=ROTwanderer14003}Hodor?"/>
+	  <string id="backstory_c.ROTwanderer14" text="{=ROTwanderer14004}Hodor??"/>
+	  <string id="response_2.ROTwanderer14" text="{=ROTwanderer14005}Freaken dimwit."/>
+	  <string id="response_1.ROTwanderer14" text="{=ROTwanderer14006}Damn, you got to have giant's blood."/>
+	  <string id="backstory_d.ROTwanderer14" text="{=ROTwanderer14007}Hodor!!"/>
 
-	  <string id="prebackstory.ROTwanderer15" text="{=ROTwanderer15_001}You dare approach a Dothraki Blood rider!"/>
-	  <string id="backstory_a.ROTwanderer15" text="{=ROTwanderer15_002}What do you want ifak? Unless your paying for my time, I won't be interested. "/>
-	  <string id="backstory_b.ROTwanderer15" text="{=ROTwanderer15_003}My name is Rago, I was a Bloodrider for a Khal from the east. Protected his back, gave him counsel, even shared his Khaleesi. Life was grand."/>
-	  <string id="backstory_c.ROTwanderer15" text="{=ROTwanderer15_004}After some time, my Khal thought he was much stonger than he was. The chiftik thought he could challenge the great Khal Drogo. Suffice to say, Drogo's hair has never been cut. I had warned my Khal many times he could not win. He refused to listen. Afterwards I brought his Khaleesi to Vaes Dothrak. "/>
-	  <string id="response_2.ROTwanderer15" text="{=ROTwanderer15_005}Then what are you doing here sulking and drinking?"/>
-	  <string id="response_1.ROTwanderer15" text="{=ROTwanderer15_006}Atleast you gave him that honor."/>
-	  <string id="backstory_d.ROTwanderer15" text="{=ROTwanderer15_007}Now I travel the world, so that one day I may avenge my fallen Khal and go to the night lands with honor."/>
+	  <string id="prebackstory.ROTwanderer15" text="{=ROTwanderer15001}You dare approach a Dothraki Blood rider!"/>
+	  <string id="backstory_a.ROTwanderer15" text="{=ROTwanderer15002}What do you want ifak? Unless your paying for my time, I won't be interested. "/>
+	  <string id="backstory_b.ROTwanderer15" text="{=ROTwanderer15003}My name is Rago, I was a Bloodrider for a Khal from the east. Protected his back, gave him counsel, even shared his Khaleesi. Life was grand."/>
+	  <string id="backstory_c.ROTwanderer15" text="{=ROTwanderer15004}After some time, my Khal thought he was much stonger than he was. The chiftik thought he could challenge the great Khal Drogo. Suffice to say, Drogo's hair has never been cut. I had warned my Khal many times he could not win. He refused to listen. Afterwards I brought his Khaleesi to Vaes Dothrak. "/>
+	  <string id="response_2.ROTwanderer15" text="{=ROTwanderer15005}Then what are you doing here sulking and drinking?"/>
+	  <string id="response_1.ROTwanderer15" text="{=ROTwanderer15006}Atleast you gave him that honor."/>
+	  <string id="backstory_d.ROTwanderer15" text="{=ROTwanderer15007}Now I travel the world, so that one day I may avenge my fallen Khal and go to the night lands with honor."/>
 
-	  <string id="prebackstory.ROTwanderer16" text="{=ROTwanderer16_001}I am Xaro Xhoan Daxos"/>
-	  <string id="backstory_a.ROTwanderer16" text="{=ROTwanderer16_002}I was once one of the richest men in Qarth."/>
-	  <string id="backstory_b.ROTwanderer16" text="{=ROTwanderer16_003}The mother of dragons refused my advice, destroyed our city's great trading economy"/>
-	  <string id="backstory_c.ROTwanderer16" text="{=ROTwanderer16_004}I left a blood stained glove on her pillow and now sail for home."/>
-	  <string id="response_2.ROTwanderer16" text="{=ROTwanderer16_005}Are you mad!? You started a war with the mother of dragons?"/>
-	  <string id="response_1.ROTwanderer16" text="{=ROTwanderer16_006}The richest man in Quarth, perhaps your future is still bright."/>
-	  <string id="backstory_d.ROTwanderer16" text="{=ROTwanderer16_007}Let me ask do you think the path from poverty to wealth is always pure and honorable? No? Then you and I could forge our own path together."/>
+	  <string id="prebackstory.ROTwanderer16" text="{=ROTwanderer16001}I am Xaro Xhoan Daxos"/>
+	  <string id="backstory_a.ROTwanderer16" text="{=ROTwanderer16002}I was once one of the richest men in Qarth."/>
+	  <string id="backstory_b.ROTwanderer16" text="{=ROTwanderer16003}The mother of dragons refused my advice, destroyed our city's great trading economy"/>
+	  <string id="backstory_c.ROTwanderer16" text="{=ROTwanderer16004}I left a blood stained glove on her pillow and now sail for home."/>
+	  <string id="response_2.ROTwanderer16" text="{=ROTwanderer16005}Are you mad!? You started a war with the mother of dragons?"/>
+	  <string id="response_1.ROTwanderer16" text="{=ROTwanderer16006}The richest man in Quarth, perhaps your future is still bright."/>
+	  <string id="backstory_d.ROTwanderer16" text="{=ROTwanderer16007}Let me ask do you think the path from poverty to wealth is always pure and honorable? No? Then you and I could forge our own path together."/>
 
-	  <string id="prebackstory.ROTwanderer17" text="{=ROTwanderer17_001}I am Kinvara, a priestess of the lord of light"/>
-	  <string id="backstory_a.ROTwanderer17" text="{=ROTwanderer17_002}Everyone is what they are and where they are for a reason. Terrible things happen for a reason."/>
-	  <string id="backstory_b.ROTwanderer17" text="{=ROTwanderer17_003}Daenerys Stormborn is the one who was promised. From the fire she was reborn to remake the world... She has freed the slaves from their chains and crucified the Masters for their sins..."/>
-	  <string id="backstory_c.ROTwanderer17" text="{=ROTwanderer17_004}Her dragons are fire made flesh, a gift from the Lord of Light.... Daenerys has been sent to lead the people against the darkness in this war and in the great war still to come"/>
-	  <string id="response_2.ROTwanderer17" text="{=ROTwanderer17_005}You're no different than any other priestess. Insane, and following a dream."/>
-	  <string id="response_1.ROTwanderer17" text="{=ROTwanderer17_006}I have heard of the prestigous ways of the priests of light."/>
-	  <string id="backstory_d.ROTwanderer17" text="{=ROTwanderer17_007}I will spread the word of the lord of light, no matter what you believe."/>
+	  <string id="prebackstory.ROTwanderer17" text="{=ROTwanderer17001}I am Kinvara, a priestess of the lord of light"/>
+	  <string id="backstory_a.ROTwanderer17" text="{=ROTwanderer17002}Everyone is what they are and where they are for a reason. Terrible things happen for a reason."/>
+	  <string id="backstory_b.ROTwanderer17" text="{=ROTwanderer17003}Daenerys Stormborn is the one who was promised. From the fire she was reborn to remake the world... She has freed the slaves from their chains and crucified the Masters for their sins..."/>
+	  <string id="backstory_c.ROTwanderer17" text="{=ROTwanderer17004}Her dragons are fire made flesh, a gift from the Lord of Light.... Daenerys has been sent to lead the people against the darkness in this war and in the great war still to come"/>
+	  <string id="response_2.ROTwanderer17" text="{=ROTwanderer17005}You're no different than any other priestess. Insane, and following a dream."/>
+	  <string id="response_1.ROTwanderer17" text="{=ROTwanderer17006}I have heard of the prestigous ways of the priests of light."/>
+	  <string id="backstory_d.ROTwanderer17" text="{=ROTwanderer17007}I will spread the word of the lord of light, no matter what you believe."/>
 
-	  <string id="prebackstory.ROTwanderer18" text="{=ROTwanderer18_001}I am Osha of the Freefolk"/>
-	  <string id="backstory_a.ROTwanderer18" text="{=ROTwanderer18_002}I am a spearwife. A woman warrior from the beyond the wall."/>
-	  <string id="backstory_b.ROTwanderer18" text="{=ROTwanderer18_003}After being freed from my bonds of slavery to the north. I have been searching for my place in the world"/>
-	  <string id="backstory_c.ROTwanderer18" text="{=ROTwanderer18_004}Winter is coming, and we must prepare all that we can."/>
-	  <string id="response_2.ROTwanderer18" text="{=ROTwanderer18_005}You're a wildling? We would never trust the likes of you."/>
-	  <string id="response_1.ROTwanderer18" text="{=ROTwanderer18_006}Come Spearwife! Let's prepare them together!"/>
-	  <string id="backstory_d.ROTwanderer18" text="{=ROTwanderer18_007}True freedom, is only know to us wildlings."/>
+	  <string id="prebackstory.ROTwanderer18" text="{=ROTwanderer18001}I am Osha of the Freefolk"/>
+	  <string id="backstory_a.ROTwanderer18" text="{=ROTwanderer18002}I am a spearwife. A woman warrior from the beyond the wall."/>
+	  <string id="backstory_b.ROTwanderer18" text="{=ROTwanderer18003}After being freed from my bonds of slavery to the north. I have been searching for my place in the world"/>
+	  <string id="backstory_c.ROTwanderer18" text="{=ROTwanderer18004}Winter is coming, and we must prepare all that we can."/>
+	  <string id="response_2.ROTwanderer18" text="{=ROTwanderer18005}You're a wildling? We would never trust the likes of you."/>
+	  <string id="response_1.ROTwanderer18" text="{=ROTwanderer18006}Come Spearwife! Let's prepare them together!"/>
+	  <string id="backstory_d.ROTwanderer18" text="{=ROTwanderer18007}True freedom, is only know to us wildlings."/>
 
-	  <string id="prebackstory.ROTwanderer19" text="{=ROTwanderer19_001}I am Shagga of the Stone crows!"/>
-	  <string id="backstory_a.ROTwanderer19" text="{=ROTwanderer19_002}A stone crows axe is always sharp. Shagga's axes are sharpest of all! "/>
-	  <string id="backstory_b.ROTwanderer19" text="{=ROTwanderer19_003}Shagga once cut a mans head off so fast, he didn't even know til he went to brush his hair!"/>
-	  <string id="backstory_c.ROTwanderer19" text="{=ROTwanderer19_004}Shagga works for anyone for the right price."/>
-	  <string id="response_2.ROTwanderer19" text="{=ROTwanderer19_005}Shagga is a monster, who should be put down"/>
-	  <string id="response_1.ROTwanderer19" text="{=ROTwanderer19_006} Ah! Shagga I have heard of your people, join me and we will spill lots of blood together!"/>
-	  <string id="backstory_d.ROTwanderer19" text="{=ROTwanderer19_007}Careful, or Shagga remove your manhood and feed it to the goats!"/>
+	  <string id="prebackstory.ROTwanderer19" text="{=ROTwanderer19001}I am Shagga of the Stone crows!"/>
+	  <string id="backstory_a.ROTwanderer19" text="{=ROTwanderer19002}A stone crows axe is always sharp. Shagga's axes are sharpest of all! "/>
+	  <string id="backstory_b.ROTwanderer19" text="{=ROTwanderer19003}Shagga once cut a mans head off so fast, he didn't even know til he went to brush his hair!"/>
+	  <string id="backstory_c.ROTwanderer19" text="{=ROTwanderer19004}Shagga works for anyone for the right price."/>
+	  <string id="response_2.ROTwanderer19" text="{=ROTwanderer19005}Shagga is a monster, who should be put down"/>
+	  <string id="response_1.ROTwanderer19" text="{=ROTwanderer19006} Ah! Shagga I have heard of your people, join me and we will spill lots of blood together!"/>
+	  <string id="backstory_d.ROTwanderer19" text="{=ROTwanderer19007}Careful, or Shagga remove your manhood and feed it to the goats!"/>
 
-	  <string id="prebackstory.ROTwanderer20" text="{=ROTwanderer20_001}Theon Greyjoy is the name."/>
-	  <string id="backstory_a.ROTwanderer20" text="{=ROTwanderer20_002}Let me ask you do You Know What It's Like To Be Told How Lucky You Are To Be Someone's Prisoner?"/>
-	  <string id="backstory_b.ROTwanderer20" text="{=ROTwanderer20_003}I was a prisoner of the starks for a long time. After Eddards death, I left to make my own way."/>
-	  <string id="backstory_c.ROTwanderer20" text="{=ROTwanderer20_004}Now I wish to prove myself worthy to stand on my own, without the Starks, without my father."/>
-	  <string id="response_2.ROTwanderer20" text="{=ROTwanderer20_005}You're nothing more than a common pirate, with even less honor."/>
-	  <string id="response_1.ROTwanderer20" text="{=ROTwanderer20_006}Follow me into battle, and your name will be remembered."/>
-	  <string id="backstory_d.ROTwanderer20" text="{=ROTwanderer20_007}My Sword Is Yours, In Victory And Defeat, From This Day Until My Last Day."/>
+	  <string id="prebackstory.ROTwanderer20" text="{=ROTwanderer20001}Theon Greyjoy is the name."/>
+	  <string id="backstory_a.ROTwanderer20" text="{=ROTwanderer20002}Let me ask you do You Know What It's Like To Be Told How Lucky You Are To Be Someone's Prisoner?"/>
+	  <string id="backstory_b.ROTwanderer20" text="{=ROTwanderer20003}I was a prisoner of the starks for a long time. After Eddards death, I left to make my own way."/>
+	  <string id="backstory_c.ROTwanderer20" text="{=ROTwanderer20004}Now I wish to prove myself worthy to stand on my own, without the Starks, without my father."/>
+	  <string id="response_2.ROTwanderer20" text="{=ROTwanderer20005}You're nothing more than a common pirate, with even less honor."/>
+	  <string id="response_1.ROTwanderer20" text="{=ROTwanderer20006}Follow me into battle, and your name will be remembered."/>
+	  <string id="backstory_d.ROTwanderer20" text="{=ROTwanderer20007}My Sword Is Yours, In Victory And Defeat, From This Day Until My Last Day."/>
 
-	  <string id="prebackstory.ROTwanderer21" text="{=ROTwanderer21_001}Myranda, from the Dreadfort."/>
-	  <string id="backstory_a.ROTwanderer21" text="{=ROTwanderer21_002}I have a great set of skills, from tending dogs, to warming your bed."/>
-	  <string id="backstory_b.ROTwanderer21" text="{=ROTwanderer21_003}After my lover showed he was more interested in others, I split my own way."/>
-	  <string id="backstory_c.ROTwanderer21" text="{=ROTwanderer21_004}My Father was a kennelmaster at the dreadfort. Mmm. Have you ever seen a body after the dogs have been at it? Not so pretty."/>
-	  <string id="response_2.ROTwanderer21" text="{=ROTwanderer21_005}I can't imagine having you by my side."/>
-	  <string id="response_1.ROTwanderer21" text="{=ROTwanderer21_006}Come, even if you don't warm my bed, there is plenty of others in my party who need that."/>
-	  <string id="backstory_d.ROTwanderer21" text="{=ROTwanderer21_007}*She chuckles* This is going to be so much fun!"/>
+	  <string id="prebackstory.ROTwanderer21" text="{=ROTwanderer21001}Myranda, from the Dreadfort."/>
+	  <string id="backstory_a.ROTwanderer21" text="{=ROTwanderer21002}I have a great set of skills, from tending dogs, to warming your bed."/>
+	  <string id="backstory_b.ROTwanderer21" text="{=ROTwanderer21003}After my lover showed he was more interested in others, I split my own way."/>
+	  <string id="backstory_c.ROTwanderer21" text="{=ROTwanderer21004}My Father was a kennelmaster at the dreadfort. Mmm. Have you ever seen a body after the dogs have been at it? Not so pretty."/>
+	  <string id="response_2.ROTwanderer21" text="{=ROTwanderer21005}I can't imagine having you by my side."/>
+	  <string id="response_1.ROTwanderer21" text="{=ROTwanderer21006}Come, even if you don't warm my bed, there is plenty of others in my party who need that."/>
+	  <string id="backstory_d.ROTwanderer21" text="{=ROTwanderer21007}*She chuckles* This is going to be so much fun!"/>
 
-	  <string id="prebackstory.ROTwanderer22" text="{=ROTwanderer22_001}Hizdahr zo Loraq"/>
-	  <string id="backstory_a.ROTwanderer22" text="{=ROTwanderer22_002}After my fathers crucification in Mareen, I set out to find allies to help restore the city to it's past glory"/>
-	  <string id="backstory_b.ROTwanderer22" text="{=ROTwanderer22_003}What is done is done. I am a servant of Meereen; a servant who does not wish to see its traditions eradicated."/>
-	  <string id="backstory_c.ROTwanderer22" text="{=ROTwanderer22_004}Perhaps you would help restore my great city?"/>
-	  <string id="response_2.ROTwanderer22" text="{=ROTwanderer22_005}Slavery is not something I would support in my vision of the world."/>
-	  <string id="response_1.ROTwanderer22" text="{=ROTwanderer22_006}Maybe you could help guide my hand to learn the customs of Mareen?"/>
-	  <string id="backstory_d.ROTwanderer22" text="{=ROTwanderer22_007}Then let us build it together."/>
-
-
-	  <string id="backstory_a.ROTwanderer23" text="{=ROTwanderer23_001}They call me Locke."/>
-	  <string id="prebackstory.ROTwanderer23" text="{=ROTwanderer23_002}All those lords and ladies, still think that the only thing that matters is gold. "/>
-	  <string id="backstory_a.ROTwanderer23" text="{=ROTwanderer23_003}You can imagine Jaime's Lannisters amazement when I chopped off his hand."/>
-	  <string id="backstory_b.ROTwanderer23" text="{=ROTwanderer23_004}That his gold couldn't save him. His noble name couldn't save him."/>
-	  <string id="backstory_c.ROTwanderer23" text="{=ROTwanderer23_005}I am one of the best hunters of the north. I have served the Boltons, and for the right reason I may serve you."/>
-	  <string id="response_2.ROTwanderer23" text="{=ROTwanderer23_006}I have no use for a cut throat like yourself."/>
-	  <string id="response_1.ROTwanderer23" text="{=ROTwanderer23_007}You and I could see the rise of a new empire, where all the nobles of westeros must bend the knee to common men."/>
-	  <string id="backstory_d.ROTwanderer23" text="{=ROTwanderer23_008}Sounds like a dream I would sign up for."/>
-
-	  <string id="prebackstory.ROTwanderer24" text="{=ROTwanderer24_001}I am Maester Cressen."/>
-	  <string id="backstory_a.ROTwanderer24" text="{=ROTwanderer24_002}I served Stannis Baratheon for many years, advising in science and medicine."/>
-	  <string id="backstory_b.ROTwanderer24" text="{=ROTwanderer24_003}He turned away from the light of the seven. Listening to the guidance of a red witch."/>
-	  <string id="backstory_c.ROTwanderer24" text="{=ROTwanderer24_004}Now I look to find myself in a new station, where my advice is wanted."/>
-	  <string id="response_2.ROTwanderer24" text="{=ROTwanderer24_005}What use do I have for an old man?"/>
-	  <string id="response_1.ROTwanderer24" text="{=ROTwanderer24_006}Medicine and Science, who couldn't use an advisor of your stature?"/>
-	  <string id="backstory_d.ROTwanderer24" text="{=ROTwanderer24_007}My Gratitude for appreciating my wisdom my lord."/>
-
-	  <string id="prebackstory.ROTwanderer25" text="{=ROTwanderer25_001}They call me Jacelyn Ironhand."/>
-	  <string id="backstory_a.ROTwanderer25" text="{=ROTwanderer25_002}I was knighted by the late Robert Baratheon for my valor at the siege of Pyke"/>
-	  <string id="backstory_b.ROTwanderer25" text="{=ROTwanderer25_003}I've protected queens, kings, and all sorts of noble men."/>
-	  <string id="backstory_c.ROTwanderer25" text="{=ROTwanderer25_004}Now, I sit here wasting, drinking this ale."/>
-	  <string id="response_2.ROTwanderer25" text="{=ROTwanderer25_005}I don't need a cripple."/>
-	  <string id="response_1.ROTwanderer25" text="{=ROTwanderer25_006}A knight shouldn't be wasting away in this crappy tavern. Can you still fight?"/>
-	  <string id="backstory_d.ROTwanderer25" text="{=ROTwanderer25_007}I would protect you at all costs, honor means all to a man of my stature."/>
-
-	  <string id="prebackstory.ROTwanderer26" text="{=ROTwanderer26_001}I am Quentyn Martell"/>
-	  <string id="backstory_a.ROTwanderer26" text="{=ROTwanderer26_002}I spent my younger days fostered by the Yronwoods to settle a blood debt."/>
-	  <string id="backstory_b.ROTwanderer26" text="{=ROTwanderer26_003}I was once promised the throne of Dorne, fate changed the plans though. Now I must obtain glory."/>
-	  <string id="backstory_c.ROTwanderer26" text="{=ROTwanderer26_004}The hero sets out with his friends and companions, faces dangers, comes home triumphant. Only some of his companions don't return at all. The hero never dies, though. I must be the hero"/>
-	  <string id="response_2.ROTwanderer26" text="{=ROTwanderer26_005}This hero has no need for a Martell."/>
-	  <string id="response_1.ROTwanderer26" text="{=ROTwanderer26_006}Come join us then, there will be plenty of glory to be had."/>
-	  <string id="backstory_d.ROTwanderer26" text="{=ROTwanderer26_007}This will be my grand adventure!"/>
-
-	  <string id="prebackstory.ROTwanderer27" text="{=ROTwanderer27_001}They call me Little Finger."/>
-	  <string id="backstory_a.ROTwanderer27" text="{=ROTwanderer27_002}Chaos isn’t a pit. Chaos is a ladder. Many who try to climb it fail, and never get to try again."/>
-	  <string id="backstory_b.ROTwanderer27" text="{=ROTwanderer27_003}The fall breaks them. And some are given a chance to climb, but refuse. They cling to the realm, or the gods, or love... illusions."/>
-	  <string id="backstory_c.ROTwanderer27" text="{=ROTwanderer27_004}Only the ladder is real. The climb is all there is"/>
-	  <string id="response_2.ROTwanderer27" text="{=ROTwanderer27_005}Climb your way back to the gutter and leave me be."/>
-	  <string id="response_1.ROTwanderer27" text="{=ROTwanderer27_006}Perhaps we will climb that ladder together Little Finger? Riches and nobility all lie in my destiny."/>
-	  <string id="backstory_d.ROTwanderer27" text="{=ROTwanderer27_007}Then we shall climb to the sun."/>
+	  <string id="prebackstory.ROTwanderer22" text="{=ROTwanderer22001}Hizdahr zo Loraq"/>
+	  <string id="backstory_a.ROTwanderer22" text="{=ROTwanderer22002}After my fathers crucification in Mareen, I set out to find allies to help restore the city to it's past glory"/>
+	  <string id="backstory_b.ROTwanderer22" text="{=ROTwanderer22003}What is done is done. I am a servant of Meereen; a servant who does not wish to see its traditions eradicated."/>
+	  <string id="backstory_c.ROTwanderer22" text="{=ROTwanderer22004}Perhaps you would help restore my great city?"/>
+	  <string id="response_2.ROTwanderer22" text="{=ROTwanderer22005}Slavery is not something I would support in my vision of the world."/>
+	  <string id="response_1.ROTwanderer22" text="{=ROTwanderer22006}Maybe you could help guide my hand to learn the customs of Mareen?"/>
+	  <string id="backstory_d.ROTwanderer22" text="{=ROTwanderer22007}Then let us build it together."/>
 
 
-	  <string id="prebackstory.ROTwanderer28" text="{=ROTwanderer28_001}I am Yoren a wandering crow."/>
-	  <string id="backstory_a.ROTwanderer28" text="{=ROTwanderer28_002}one day, Willem came riding back into town. And I buried an axe so deep into Willem’s skull they had to bury him with it. Willem’s horse got me to the Wall and I’ve been wearing black ever since."/>
-	  <string id="backstory_b.ROTwanderer28" text="{=ROTwanderer28_003}I am on a quest to recruit more men to the night's watch.  "/>
-	  <string id="backstory_c.ROTwanderer28" text="{=ROTwanderer28_004}Maybe you wish to bring honor to your name? Take the black?"/>
-	  <string id="response_2.ROTwanderer28" text="{=ROTwanderer28_005} What in the gods makes you think I would take the black?"/>
-	  <string id="response_1.ROTwanderer28" text="{=ROTwanderer28_006}Join my cause, and I will make it my mission to provide you with fresh men to defend the wall."/>
-	  <string id="backstory_d.ROTwanderer28" text="{=ROTwanderer28_007}As long as I can try to acquire more men to defend the wall, and a belly full of food. I'll protect your back."/>
+	  <string id="backstory_a.ROTwanderer23" text="{=ROTwanderer23001}They call me Locke."/>
+	  <string id="prebackstory.ROTwanderer23" text="{=ROTwanderer23002}All those lords and ladies, still think that the only thing that matters is gold. "/>
+	  <string id="backstory_a.ROTwanderer23" text="{=ROTwanderer23003}You can imagine Jaime's Lannisters amazement when I chopped off his hand."/>
+	  <string id="backstory_b.ROTwanderer23" text="{=ROTwanderer23004}That his gold couldn't save him. His noble name couldn't save him."/>
+	  <string id="backstory_c.ROTwanderer23" text="{=ROTwanderer23005}I am one of the best hunters of the north. I have served the Boltons, and for the right reason I may serve you."/>
+	  <string id="response_2.ROTwanderer23" text="{=ROTwanderer23006}I have no use for a cut throat like yourself."/>
+	  <string id="response_1.ROTwanderer23" text="{=ROTwanderer23007}You and I could see the rise of a new empire, where all the nobles of westeros must bend the knee to common men."/>
+	  <string id="backstory_d.ROTwanderer23" text="{=ROTwanderer23008}Sounds like a dream I would sign up for."/>
 
-	  <string id="prebackstory.ROTwanderer29" text="{=ROTwanderer29_001}A word? I know lots of words. Tell me which your highness wants to hear, and Nimble Dick will say it.."/>
-	  <string id="backstory_a.ROTwanderer29" text="{=ROTwanderer29_002}I like to see a king dance, hey-nonny hey-nonny hey-nonny ho..You ever hear of Ser Clarence Crabb?"/>
-	  <string id="backstory_b.ROTwanderer29" text="{=ROTwanderer29_003} Ser Clarence Crabb, I said. I got his blood in me. He was eight feet tall and so strong he could uproot pine trees and chuck them half a mile. No horse could bear his weight so he rode an aurochs. His wife was a woods witch. "/>
-	  <string id="backstory_c.ROTwanderer29" text="{=ROTwanderer29_004}Whenever Ser Clarence killed a man, he'd fetch his head back home and his wife would kiss it on the lips and bring it back t' life. Lords, they were, and wizards and famous knights and pirates. One was king o' Duskendale. They gave old Crabb good counsel. Being they was just heads, they couldn't talk real loud, but they never shut up neither. When you're a head, talking's all you got to pass the day. So Crabb's keep got named the Whispers."/>
-	  <string id="response_2.ROTwanderer29" text="{=ROTwanderer29_005}You're an absolute nutter."/>
-	  <string id="response_1.ROTwanderer29" text="{=ROTwanderer29_006} You know what! You're the kind of Dick I could use in my party! Let's go! "/>
-	  <string id="backstory_d.ROTwanderer29" text="{=ROTwanderer29_007}Old Dick's a harmless fellow. Chivalrous as a knight, and honest as the day is long. "/>
+	  <string id="prebackstory.ROTwanderer24" text="{=ROTwanderer24001}I am Maester Cressen."/>
+	  <string id="backstory_a.ROTwanderer24" text="{=ROTwanderer24002}I served Stannis Baratheon for many years, advising in science and medicine."/>
+	  <string id="backstory_b.ROTwanderer24" text="{=ROTwanderer24003}He turned away from the light of the seven. Listening to the guidance of a red witch."/>
+	  <string id="backstory_c.ROTwanderer24" text="{=ROTwanderer24004}Now I look to find myself in a new station, where my advice is wanted."/>
+	  <string id="response_2.ROTwanderer24" text="{=ROTwanderer24005}What use do I have for an old man?"/>
+	  <string id="response_1.ROTwanderer24" text="{=ROTwanderer24006}Medicine and Science, who couldn't use an advisor of your stature?"/>
+	  <string id="backstory_d.ROTwanderer24" text="{=ROTwanderer24007}My Gratitude for appreciating my wisdom my lord."/>
 
-	  <string id="prebackstory.ROTwanderer30" text="{=ROTwanderer30_001}My name is Willem Lannister"/>
-	  <string id="backstory_a.ROTwanderer30" text="{=ROTwanderer30_002}I usually fight for House Lannister"/>
-	  <string id="backstory_b.ROTwanderer30" text="{=ROTwanderer30_003}But I may have gambled my gold away."/>
-	  <string id="backstory_c.ROTwanderer30" text="{=ROTwanderer30_004}I can pledge my sword to you for a price."/>
-	  <string id="response_2.ROTwanderer30" text="{=ROTwanderer30_005}I could use someone like you in my ranks"/>
-	  <string id="response_1.ROTwanderer30" text="{=ROTwanderer30_006}How can I trust a Lannister."/>
-	  <string id="backstory_d.ROTwanderer30" text="{=ROTwanderer30_007}A Lannister always pays their debts. "/>
+	  <string id="prebackstory.ROTwanderer25" text="{=ROTwanderer25001}They call me Jacelyn Ironhand."/>
+	  <string id="backstory_a.ROTwanderer25" text="{=ROTwanderer25002}I was knighted by the late Robert Baratheon for my valor at the siege of Pyke"/>
+	  <string id="backstory_b.ROTwanderer25" text="{=ROTwanderer25003}I've protected queens, kings, and all sorts of noble men."/>
+	  <string id="backstory_c.ROTwanderer25" text="{=ROTwanderer25004}Now, I sit here wasting, drinking this ale."/>
+	  <string id="response_2.ROTwanderer25" text="{=ROTwanderer25005}I don't need a cripple."/>
+	  <string id="response_1.ROTwanderer25" text="{=ROTwanderer25006}A knight shouldn't be wasting away in this crappy tavern. Can you still fight?"/>
+	  <string id="backstory_d.ROTwanderer25" text="{=ROTwanderer25007}I would protect you at all costs, honor means all to a man of my stature."/>
+
+	  <string id="prebackstory.ROTwanderer26" text="{=ROTwanderer26001}I am Quentyn Martell"/>
+	  <string id="backstory_a.ROTwanderer26" text="{=ROTwanderer26002}I spent my younger days fostered by the Yronwoods to settle a blood debt."/>
+	  <string id="backstory_b.ROTwanderer26" text="{=ROTwanderer26003}I was once promised the throne of Dorne, fate changed the plans though. Now I must obtain glory."/>
+	  <string id="backstory_c.ROTwanderer26" text="{=ROTwanderer26004}The hero sets out with his friends and companions, faces dangers, comes home triumphant. Only some of his companions don't return at all. The hero never dies, though. I must be the hero"/>
+	  <string id="response_2.ROTwanderer26" text="{=ROTwanderer26005}This hero has no need for a Martell."/>
+	  <string id="response_1.ROTwanderer26" text="{=ROTwanderer26006}Come join us then, there will be plenty of glory to be had."/>
+	  <string id="backstory_d.ROTwanderer26" text="{=ROTwanderer26007}This will be my grand adventure!"/>
+
+	  <string id="prebackstory.ROTwanderer27" text="{=ROTwanderer27001}They call me Little Finger."/>
+	  <string id="backstory_a.ROTwanderer27" text="{=ROTwanderer27002}Chaos isn’t a pit. Chaos is a ladder. Many who try to climb it fail, and never get to try again."/>
+	  <string id="backstory_b.ROTwanderer27" text="{=ROTwanderer27003}The fall breaks them. And some are given a chance to climb, but refuse. They cling to the realm, or the gods, or love... illusions."/>
+	  <string id="backstory_c.ROTwanderer27" text="{=ROTwanderer27004}Only the ladder is real. The climb is all there is"/>
+	  <string id="response_2.ROTwanderer27" text="{=ROTwanderer27005}Climb your way back to the gutter and leave me be."/>
+	  <string id="response_1.ROTwanderer27" text="{=ROTwanderer27006}Perhaps we will climb that ladder together Little Finger? Riches and nobility all lie in my destiny."/>
+	  <string id="backstory_d.ROTwanderer27" text="{=ROTwanderer27007}Then we shall climb to the sun."/>
+
+
+	  <string id="prebackstory.ROTwanderer28" text="{=ROTwanderer28001}I am Yoren a wandering crow."/>
+	  <string id="backstory_a.ROTwanderer28" text="{=ROTwanderer28002}one day, Willem came riding back into town. And I buried an axe so deep into Willem’s skull they had to bury him with it. Willem’s horse got me to the Wall and I’ve been wearing black ever since."/>
+	  <string id="backstory_b.ROTwanderer28" text="{=ROTwanderer28003}I am on a quest to recruit more men to the night's watch.  "/>
+	  <string id="backstory_c.ROTwanderer28" text="{=ROTwanderer28004}Maybe you wish to bring honor to your name? Take the black?"/>
+	  <string id="response_2.ROTwanderer28" text="{=ROTwanderer28005} What in the gods makes you think I would take the black?"/>
+	  <string id="response_1.ROTwanderer28" text="{=ROTwanderer28006}Join my cause, and I will make it my mission to provide you with fresh men to defend the wall."/>
+	  <string id="backstory_d.ROTwanderer28" text="{=ROTwanderer28007}As long as I can try to acquire more men to defend the wall, and a belly full of food. I'll protect your back."/>
+
+	  <string id="prebackstory.ROTwanderer29" text="{=ROTwanderer29001}A word? I know lots of words. Tell me which your highness wants to hear, and Nimble Dick will say it.."/>
+	  <string id="backstory_a.ROTwanderer29" text="{=ROTwanderer29002}I like to see a king dance, hey-nonny hey-nonny hey-nonny ho..You ever hear of Ser Clarence Crabb?"/>
+	  <string id="backstory_b.ROTwanderer29" text="{=ROTwanderer29003} Ser Clarence Crabb, I said. I got his blood in me. He was eight feet tall and so strong he could uproot pine trees and chuck them half a mile. No horse could bear his weight so he rode an aurochs. His wife was a woods witch. "/>
+	  <string id="backstory_c.ROTwanderer29" text="{=ROTwanderer29004}Whenever Ser Clarence killed a man, he'd fetch his head back home and his wife would kiss it on the lips and bring it back t' life. Lords, they were, and wizards and famous knights and pirates. One was king o' Duskendale. They gave old Crabb good counsel. Being they was just heads, they couldn't talk real loud, but they never shut up neither. When you're a head, talking's all you got to pass the day. So Crabb's keep got named the Whispers."/>
+	  <string id="response_2.ROTwanderer29" text="{=ROTwanderer29005}You're an absolute nutter."/>
+	  <string id="response_1.ROTwanderer29" text="{=ROTwanderer29006} You know what! You're the kind of Dick I could use in my party! Let's go! "/>
+	  <string id="backstory_d.ROTwanderer29" text="{=ROTwanderer29007}Old Dick's a harmless fellow. Chivalrous as a knight, and honest as the day is long. "/>
+
+	  <string id="prebackstory.ROTwanderer30" text="{=ROTwanderer30001}My name is Willem Lannister"/>
+	  <string id="backstory_a.ROTwanderer30" text="{=ROTwanderer30002}I usually fight for House Lannister"/>
+	  <string id="backstory_b.ROTwanderer30" text="{=ROTwanderer30003}But I may have gambled my gold away."/>
+	  <string id="backstory_c.ROTwanderer30" text="{=ROTwanderer30004}I can pledge my sword to you for a price."/>
+	  <string id="response_2.ROTwanderer30" text="{=ROTwanderer30005}I could use someone like you in my ranks"/>
+	  <string id="response_1.ROTwanderer30" text="{=ROTwanderer30006}How can I trust a Lannister."/>
+	  <string id="backstory_d.ROTwanderer30" text="{=ROTwanderer30007}A Lannister always pays their debts. "/>
 
 	  <string id="prebackstory.ROTwanderer31" text="{=ROTwandererstr001}My name don't matter"/>
 	  <string id="backstory_a.ROTwanderer31" text="{=ROTwandererstr002}You got the money, I'll do the job"/>
@@ -831,22 +831,22 @@
 	  <string id="response_1.ROTwanderer36" text="{=ROTwandererstr006}Aren't you a pleasure to talk to."/>
 	  <string id="backstory_d.ROTwanderer36" text="{=ROTwandererstr007}Not trying to be the hero, that's your story. "/>
 
-	  <string id="prebackstory.ROTwanderer37" text="{=ROTwanderer37_001}You look like someone who could use a sturdy shield at your side!"/>
-	  <string id="backstory_a.ROTwanderer37" text="{=ROTwanderer37_002}My name is Cregan Whytcross, I'm a sellsword for hire."/>
-	  <string id="backstory_b.ROTwanderer37" text="{=ROTwanderer37_003}For a small sum of coin, I'd keep you or your family safe just like my ancestors did back during the Skagosi Rebellions."/>
-	  <string id="backstory_c.ROTwanderer37" text="{=ROTwanderer37_004}The first ever Whytcross died defending the young Lord of Winterfell.  "/>
-	  <string id="response_1.ROTwanderer37" text="{=ROTwanderer37_005}Thanks for the history lesson, it must be good to know you have strong roots that you can be proud of."/>
-	  <string id="response_2.ROTwanderer37" text="{=ROTwanderer37_006}Alright, I just need your shield at my side. I hope you're as good as you say."/>
-	  <string id="backstory_d.ROTwanderer37" text="{=ROTwanderer37_007}Aye, I hope to make my ancestors proud."/>
+	  <string id="prebackstory.ROTwanderer37" text="{=ROTwanderer37001}You look like someone who could use a sturdy shield at your side!"/>
+	  <string id="backstory_a.ROTwanderer37" text="{=ROTwanderer37002}My name is Cregan Whytcross, I'm a sellsword for hire."/>
+	  <string id="backstory_b.ROTwanderer37" text="{=ROTwanderer37003}For a small sum of coin, I'd keep you or your family safe just like my ancestors did back during the Skagosi Rebellions."/>
+	  <string id="backstory_c.ROTwanderer37" text="{=ROTwanderer37004}The first ever Whytcross died defending the young Lord of Winterfell.  "/>
+	  <string id="response_1.ROTwanderer37" text="{=ROTwanderer37005}Thanks for the history lesson, it must be good to know you have strong roots that you can be proud of."/>
+	  <string id="response_2.ROTwanderer37" text="{=ROTwanderer37006}Alright, I just need your shield at my side. I hope you're as good as you say."/>
+	  <string id="backstory_d.ROTwanderer37" text="{=ROTwanderer37007}Aye, I hope to make my ancestors proud."/>
 
 
-	  <string id="prebackstory.ROTwanderer38" text="{=ROTwanderer38_001}My name is Benjen Stark, a sworn bother of the Night's Watch."/>
-	  <string id="backstory_a.ROTwanderer38" text="{=ROTwanderer38_002}If you're traveling beyond the wall, you'll be needing a guide."/>
-	  <string id="backstory_b.ROTwanderer38" text="{=ROTwanderer38_003}You're lucky if you only run into ice spiders, shadow cats and direwolves."/>
-	  <string id="backstory_c.ROTwanderer38" text="{=ROTwanderer38_004}The Others, a different story."/>
-	  <string id="response_2.ROTwanderer38" text="{=ROTwanderer38_005}Welcome, you seem like the man for the job."/>
-	  <string id="response_1.ROTwanderer38" text="{=ROTwanderer38_006}Ice spiders, yeah right."/>
-	  <string id="backstory_d.ROTwanderer38" text="{=ROTwanderer38_007}We get going at first light."/>
+	  <string id="prebackstory.ROTwanderer38" text="{=ROTwanderer38001}My name is Benjen Stark, a sworn bother of the Night's Watch."/>
+	  <string id="backstory_a.ROTwanderer38" text="{=ROTwanderer38002}If you're traveling beyond the wall, you'll be needing a guide."/>
+	  <string id="backstory_b.ROTwanderer38" text="{=ROTwanderer38003}You're lucky if you only run into ice spiders, shadow cats and direwolves."/>
+	  <string id="backstory_c.ROTwanderer38" text="{=ROTwanderer38004}The Others, a different story."/>
+	  <string id="response_2.ROTwanderer38" text="{=ROTwanderer38005}Welcome, you seem like the man for the job."/>
+	  <string id="response_1.ROTwanderer38" text="{=ROTwanderer38006}Ice spiders, yeah right."/>
+	  <string id="backstory_d.ROTwanderer38" text="{=ROTwanderer38007}We get going at first light."/>
 
 	  <string id="prebackstory.ROTwanderer39" text="{=ROTwandererstrAuraneWaters}My name is Aurane Waters"/>
 	  <string id="backstory_a.ROTwanderer39" text="{=ROTwandererstr002}You got the money, I'll do the job"/>
