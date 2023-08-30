@@ -2,7 +2,7 @@
 
     <!--Module Version-->
     <PropertyGroup>
-        <Version>0.5.0</Version>
+        <Version>0.6.0</Version>
         <GameVersion>1.1.5</GameVersion>
     </PropertyGroup>
 

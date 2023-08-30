@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.6.0
+Game Versions: v1.1.5
+* Patch FR pour ROT 4.1.2 et +
+* Ajout de la traduction des noms des compagnons de ROT
+* Ajout de la traduction des dialogues des compagnons de ROT lors des recrutements
+* Ajout de la traduction de troupes des caravanes
+---------------------------------------------------------------------------------------------------
 Version: 0.5.0
 Game Versions: v1.1.5
 Patch FR pour ROT 4.1.2 et +
