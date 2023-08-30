@@ -596,13 +596,13 @@
 	  <string id="backstory_c.ROTwanderer7" text="{=ROTwanderer7_007}I got the strength and endurance of an ox from pounding steel from dawn til dusk."/>
 	  <string id="backstory_b.ROTwanderer7" text="{=ROTwanderer7_008}I haven't ever touched a battlefield, but put a war hammer in my hands and see what happens."/>
 	 
-	  <string id="prebackstory.ROTwanderer8" text="{=ROTwanderer7_001}Why the googly eyes? You never saw a dwarve before."/>
-	  <string id="backstory_a.ROTwanderer8" text="{=ROTwanderer7_002}'m Tyrion of House Lannister."/>
+	  <string id="prebackstory.ROTwanderer8" text="{=ROTwanderer8_001}Why the googly eyes? You never saw a dwarve before."/>
+	  <string id="backstory_a.ROTwanderer8" text="{=ROTwanderer8_002}'m Tyrion of House Lannister."/>
 	  <string id="backstory_b.ROTwanderer8" text="{=ROTwanderer7_003}I saved all of King's Landing at the Battle of the Blackwater and what thanks did I get, a demotion and a hole where my nose used to be."/>
-	  <string id="backstory_c.ROTwanderer8" text="{=ROTwanderer7_004}I drink and know more than ever these days. Slurp!."/>
-	  <string id="response_1.ROTwanderer8" text="{=ROTwanderer7_005}I do need some new armor, can you shit me out a few golden dragons."/>
-	  <string id="response_2.ROTwanderer8" text="{=ROTwanderer7_006}What need do I have for an imp to guzzle all my ale."/>
-	  <string id="backstory_d.ROTwanderer8" text="{=ROTwanderer7_007}You seem to be a clever guy, you'll figure it out.Now if you would excuse me."/>
+	  <string id="backstory_c.ROTwanderer8" text="{=ROTwanderer8_004}I drink and know more than ever these days. Slurp!."/>
+	  <string id="response_1.ROTwanderer8" text="{=ROTwanderer8_005}I do need some new armor, can you shit me out a few golden dragons."/>
+	  <string id="response_2.ROTwanderer8" text="{=ROTwanderer8_006}What need do I have for an imp to guzzle all my ale."/>
+	  <string id="backstory_d.ROTwanderer8" text="{=ROTwanderer8_007}You seem to be a clever guy, you'll figure it out.Now if you would excuse me."/>
 	 
 	  <string id="backstory_a.ROTwanderer9" text="{=ROTwanderer9_001}My father is Selwyn if Evenfall Hall."/>
 	  <string id="prebackstory.ROTwanderer9" text="{=ROTwanderer9_002}I'm Brienne of House Tarth."/>
