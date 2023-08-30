@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.5.0
 Game Versions: v1.1.5
-* Patch FR pour ROT 4.1.2 et +
+Patch FR pour ROT 4.1.2 et +
 * Correction du doublon "Bac à sable" dans le menu.
 * Tous les objets de ROT sont désormais traduits. N'hésitez pas à signaler tout problème/traduction manquante.
 ---------------------------------------------------------------------------------------------------
