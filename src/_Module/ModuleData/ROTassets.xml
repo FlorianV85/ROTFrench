@@ -431,7 +431,7 @@
 	</Item>
 	
 	<Item id="karstark_lord_armor"
-		  name="{=ROT00028}Karstark Lord Armor"
+		  name="{=ROTKarstarkLordArmor}Karstark Lord Armor"
 		  mesh="Karstark_Lord_Gambeson"
 		  culture="Culture.bolton"
 		  subtype="body_armor"
@@ -865,7 +865,7 @@
 	</Item>
 	
 	<Item id="unsullied_pikeman_shield"
-        name="{=ROT00051}Unsullied Pikeman Shield"
+        name="{=ROTUnsulliedPikemanShield}Unsullied Pikeman Shield"
         using_tableau="true"
         body_name="bo_cap_aserai_shields_d"
         shield_body_name="bo_aserai_shields_c"
@@ -2987,7 +2987,7 @@
 	</Item>
 	
 <Item id="melisandre_dress"
-		  name="{=ROT00031}Melisandre Dress"
+		  name="{=ROTmelisandredress}Melisandre Dress"
 		  mesh="melisandre_dress"
 		  culture="Culture.dragonstone"
 		  subtype="body_armor"
@@ -6717,7 +6717,7 @@
 	</CraftedItem>
 
 	<Item id="tigercloak_helmet"
-        name="{=ROTvolhelm}Tigercloak Helmet"
+        name="{=ROTtigercloakhelmet}Tigercloak Helmet"
         mesh="tigercloak_helmet"
         culture="Culture.volantine"
         weight="3"
@@ -6735,7 +6735,7 @@
 	</Item>
 
 	<Item id="tigercloak_helmet2"
-        name="{=ROTvolhelm}Tigercloak Helmet 2"
+        name="{=ROTtigercloakhelmet2}Tigercloak Helmet 2"
         mesh="tigercloak_helmet2"
         culture="Culture.volantine"
         weight="3"
@@ -6803,7 +6803,7 @@
 	</Item>
 
 	<Item id="mormont_pauldrons"
-			name="{=ROTvolpaul}Mormont Pauldrons"
+			name="{=ROTmorpauldrons}Mormont Pauldrons"
 			mesh="mormont_pauldrons"
 			culture="Culture.battania"
 			weight="4"
@@ -6915,7 +6915,7 @@
 	
 
 	<Item id="zombie_body1"
-		  name="{=ROT00040}Zombie Body 1"
+		  name="{=ROTZombieBody1}Zombie Body 1"
 		  mesh="zombie_1_body"
 		  culture="Culture.looters"
 		  subtype="body_armor"
@@ -6938,7 +6938,7 @@
 	</Item>
 
 	<Item id="zombie_head1"
-        name="{=ROTwhead1}Zombie Head 1"
+        name="{=ROTZombieHead1}Zombie Head 1"
         mesh="zombie_head_1"
         culture="Culture.looters"
 		  is_merchandise="false"
@@ -6958,7 +6958,7 @@
 	</Item>
 
 	<Item id="zombie_feet1"
-		  name="{=ROTmorboots}Zombie Feet 1"
+		  name="{=ROTZombieFeet1}Zombie Feet 1"
 		  mesh="zombie_1_feet"
 		  culture="Culture.looters"
 		  weight="0.8"
@@ -7046,7 +7046,7 @@
 	</Item>
 
 	<Item id="zombie_hands1"
-			name="{=ROTkargloves}Zombie Hands 1"
+			name="{=ROTZombieHands1}Zombie Hands 1"
 			mesh="zombie_1_hands"
 			culture="Culture.looters"
 			weight="1.0"
@@ -7222,7 +7222,7 @@
 	</Item>
 	
 <Item id="volantis_armor2"
-		  name="{=ROTvollightarmor}Volantene Armor 2"
+		  name="{=ROTvolarmor2}Volantene Armor 2"
 		  mesh="volantis_armor2"
 		  culture="Culture.volantine"
 		  subtype="body_armor"
@@ -7285,7 +7285,7 @@
 	</Item>
 	
 <Item id="ironborn_leather_armor"
-		  name="{=ROTironheavyarmor}Ironborn Leather Armor"
+		  name="{=ROTironleatherarmor}Ironborn Leather Armor"
 		  mesh="ironborn_leather_armor"
 		  culture="Culture.sturgia"
 		  subtype="body_armor"
@@ -8095,7 +8095,7 @@
 	</Item>
 	
 <Item id="arryn_armor2"
-		  name="{=arrynarmor}Arryn Armor 2"
+		  name="{=arrynarmor2}Arryn Armor 2"
 		  mesh="knight_armor2"
 		  culture="Culture.vale"
 		  subtype="body_armor"
@@ -8116,7 +8116,7 @@
 	</Item>
 	
 <Item id="arryn_plate_boots"
-		  name="{=arrynboots}Arryn Plate Boots"
+		  name="{=arrynplateboots}Arryn Plate Boots"
 		  mesh="knight_boots"
 		  culture="Culture.vale"
 		  weight="3.5"
@@ -8166,7 +8166,7 @@
 	</Item>
 	
 <Item id="armet2"
-			name="{=armet}Armet 2"
+			name="{=armet2}Armet 2"
 			mesh="armet2"
 			culture="Culture.vale"
 			weight="3"
@@ -8286,7 +8286,7 @@
 	</CraftedItem>
 
 	<CraftedItem id="val_steel_sword_blue"
-               name="{=ROTvalsteel2}Valyrian Steel Sword Blue"
+               name="{=ROTvalsteelswordblue}Valyrian Steel Sword Blue"
                crafting_template="OneHandedSword"
                is_merchandise="true"
 			   value="100000"
@@ -8310,7 +8310,7 @@
 	</CraftedItem>
 
 	<CraftedItem id="val_steel_sword_red"
-               name="{=ROTvalsteel2}Valyrian Steel Sword Red"
+               name="{=ROTvalsteelswordred}Valyrian Steel Sword Red"
                crafting_template="OneHandedSword"
                is_merchandise="true"
 			   value="100000"
@@ -8392,7 +8392,7 @@
 	</Item>
 
 	<Item id="lyanna_shoulders"
-			name="{=roycepauldrons}Lyanna Mormont Shoulders"
+			name="{=lyannamormontshoulders}Lyanna Mormont Shoulders"
 			mesh="lyanna_shoulders"
 			culture="Culture.battania"
 			weight="4"
@@ -8408,7 +8408,7 @@
 	</Item>
 
 	<CraftedItem id="skull_sword"
-               name="{=ROTvalsteel2}Skull Sword"
+               name="{=ROTskullsword}Skull Sword"
                crafting_template="OneHandedSword"
                is_merchandise="true"
 			   value="80000"
@@ -9135,7 +9135,7 @@
 	</Item>
 
 	<Item id="crude_nasal"
-        name="{=commonspangen}Crude Nasalhelm"
+        name="{=ROTcrudeNasalhelm}Crude Nasalhelm"
         mesh="crude_nasal"
         culture="Culture.pentoshi"
         weight="1.4"
@@ -9473,7 +9473,7 @@
 	</Item>
 	
 	<Item id="qohorik_salet"
-        name="{=qohclosed}Qohorik Salet"
+        name="{=qohsalet}Qohorik Salet"
         mesh="noble_salet"
         culture="Culture.qohorik"
         weight="3"
@@ -9509,7 +9509,7 @@
 	</Item>
 	
 	<Item id="qohorik_visor_helmet"
-        name="{=qohclosed}Qohorik Visored Helmet"
+        name="{=qohvisoredhelmet}Qohorik Visored Helmet"
         mesh="noble_visor"
         culture="Culture.qohorik"
         weight="3"
@@ -9565,7 +9565,7 @@
 	</Item>
 
 	<Item id="vale_knight_boots2"
-		  name="{=qohboots}Vale Knight Boots"
+		  name="{=valknightboots}Vale Knight Boots"
 		  mesh="vale_knight_boots2"
 		  culture="Culture.vale"
 		  weight="2.2"
@@ -9581,7 +9581,7 @@
 	</Item>
 
 	<Item id="vale_knight_gloves2"
-			name="{=qohgloves}Vale Plate Gloves"
+			name="{=valplategloves}Vale Plate Gloves"
 			mesh="vale_knight_glove2"
 			culture="Culture.vale"
 			weight="2.2"
@@ -9764,7 +9764,7 @@
 	</Item>
 
 	<Item id="casterly_boots_light2"
-		  name="{=ROTcasterlybootslt}Casterly Rock Boots Light 2"
+		  name="{=ROTcasterlybootslt2}Casterly Rock Boots Light 2"
 		  mesh="casterly_boots_light2"
 		  culture="Culture.vlandia"
 		  weight="1.5"
@@ -10096,7 +10096,7 @@
 	</Item>
 	
 <Item id="samurai_shoulders2"
-			name="{=yitishould}Yi Ti Shoulders 2"
+			name="{=yitishould2}Yi Ti Shoulders 2"
 			mesh="sam_shldr_21"
 			culture="Culture.ghiscari"
 			weight="3"
@@ -10237,7 +10237,7 @@
 	</Item>
 
 	<Item id="bone_tunic"
-		  name="{=thennplate}Freefolk Bone Armor"
+		  name="{=ROTfreefolkbonearmor}Freefolk Bone Armor"
 		  mesh="bone_tunic"
 		  culture="Culture.freefolk"
 		  subtype="body_armor"
@@ -10387,87 +10387,87 @@
 		<Flags />
 	</Item>
 
-	<Item id="stark_knight_armor" name="Stark Knight Armor" mesh="stark_knight_armour" using_tableau="true" subtype="body_armor" culture="Culture.battania" is_merchandise="true" weight="25" difficulty="0" appearance="1" Type="BodyArmor">
+	<Item id="stark_knight_armor" name="{=ROTStarkKnightArmor}Stark Knight Armor" mesh="stark_knight_armour" using_tableau="true" subtype="body_armor" culture="Culture.battania" is_merchandise="true" weight="25" difficulty="0" appearance="1" Type="BodyArmor">
 		<ItemComponent>
 			<Armor body_armor="50" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
 		</ItemComponent>
 		<Flags Civilian="true"/>
 	</Item>
-	<Item id="stark_knight_armor_2" name="Stark Knight Armor with Mail" mesh="stark_knight_armour_2" using_tableau="true" subtype="body_armor" culture="Culture.battania" is_merchandise="true" weight="27" difficulty="0" appearance="1" Type="BodyArmor">
+	<Item id="stark_knight_armor_2" name="{=ROTStarkKnightArmorWithMail}Stark Knight Armor with Mail" mesh="stark_knight_armour_2" using_tableau="true" subtype="body_armor" culture="Culture.battania" is_merchandise="true" weight="27" difficulty="0" appearance="1" Type="BodyArmor">
 		<ItemComponent>
 			<Armor body_armor="55" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="plate" material_type="Plate" />
 		</ItemComponent>
 		<Flags Civilian="true"/>
 	</Item>
-	<Item id="northern_knight_armor" name="Northern Knight Armor" mesh="northern_knight_armour" using_tableau="true" subtype="body_armor" culture="Culture.battania" is_merchandise="true" weight="25" difficulty="0" appearance="1" Type="BodyArmor">
+	<Item id="northern_knight_armor" name="{=ROTNorthernKnightArmor}Northern Knight Armor" mesh="northern_knight_armour" using_tableau="true" subtype="body_armor" culture="Culture.battania" is_merchandise="true" weight="25" difficulty="0" appearance="1" Type="BodyArmor">
 		<ItemComponent>
 			<Armor body_armor="50" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
 		</ItemComponent>
 		<Flags Civilian="true"/>
 	</Item>
-	<Item id="northern_knight_armor_2" name="Northern Knight Armor with Mail" mesh="northern_knight_armour_2" using_tableau="true" subtype="body_armor" culture="Culture.battania" is_merchandise="true" weight="27" difficulty="0" appearance="1" Type="BodyArmor">
+	<Item id="northern_knight_armor_2" name="{=ROTNorthernKnightArmorWithMail}Northern Knight Armor with Mail" mesh="northern_knight_armour_2" using_tableau="true" subtype="body_armor" culture="Culture.battania" is_merchandise="true" weight="27" difficulty="0" appearance="1" Type="BodyArmor">
 		<ItemComponent>
 			<Armor body_armor="55" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="plate" material_type="Plate" />
 		</ItemComponent>
 		<Flags Civilian="true"/>
 	</Item>
-	<Item id="stark_knight_greaves" name="Stark Knight Greaves" mesh="stark_knight_greaves" culture="Culture.battania" weight="3.4" appearance="3" Type="LegArmor">
+	<Item id="stark_knight_greaves" name="{=ROTStarkKnightGreaves}Stark Knight Greaves" mesh="stark_knight_greaves" culture="Culture.battania" weight="3.4" appearance="3" Type="LegArmor">
 		<ItemComponent>
 			<Armor leg_armor="26" covers_legs="true" modifier_group="plate" material_type="Plate"></Armor>
 		</ItemComponent>
 		<Flags Civilian="true"></Flags>
 	</Item>
-	<Item id="stark_knight_gauntlets" name="Stark Knight Gauntlets" mesh="stark_knight_gauntlets" is_merchandise="true" subtype="body_armor" value="35000" culture="Culture.battania" weight="2.4" difficulty="0" appearance="1" Type="HandArmor">
+	<Item id="stark_knight_gauntlets" name="{=ROTStarkKnightGauntlets}Stark Knight Gauntlets" mesh="stark_knight_gauntlets" is_merchandise="true" subtype="body_armor" value="35000" culture="Culture.battania" weight="2.4" difficulty="0" appearance="1" Type="HandArmor">
 		<ItemComponent>
 			<Armor arm_armor="26" covers_hands="true" modifier_group="Plate" material_type="Plate" />
 		</ItemComponent>
 		<Flags Civilian="true"></Flags>
 	</Item>
-	<Item id="stark_knight_helm" name="Stark Knight Helmet" mesh="stark_knight_helm" culture="Culture.battania" weight="2.2" appearance="3" Type="HeadArmor">
+	<Item id="stark_knight_helm" name="{=ROTStarkKnightHelmet}Stark Knight Helmet" mesh="stark_knight_helm" culture="Culture.battania" weight="2.2" appearance="3" Type="HeadArmor">
 		<ItemComponent>
 			<Armor head_armor="40" has_gender_variations="true" hair_cover_type="all" beard_cover_type="all" covers_body="false" modifier_group="plate" material_type="Plate"></Armor>
 		</ItemComponent>
 		<Flags Civilian="true"></Flags>
 	</Item>
-	<Item id="stark_knight_helm_2" name="Stark Knight Helmet with Plume" mesh="stark_knight_helm_plume" culture="Culture.battania" weight="2.2" appearance="3" Type="HeadArmor">
+	<Item id="stark_knight_helm_2" name="{=ROTStarkKnightHelmetWithPlume}Stark Knight Helmet with Plume" mesh="stark_knight_helm_plume" culture="Culture.battania" weight="2.2" appearance="3" Type="HeadArmor">
 		<ItemComponent>
 			<Armor head_armor="40" has_gender_variations="true" hair_cover_type="all" beard_cover_type="all" covers_body="false" modifier_group="plate" material_type="Plate"></Armor>
 		</ItemComponent>
 		<Flags Civilian="true"></Flags>
 	</Item>
-	<Item id="stark_knight_bevor" name="Stark Knight Bevor" mesh="stark_knight_bevor" culture="Culture.battania" weight="3.5" appearance="4" Type="Cape">
+	<Item id="stark_knight_bevor" name="{=ROTStarkKnightBevor}Stark Knight Bevor" mesh="stark_knight_bevor" culture="Culture.battania" weight="3.5" appearance="4" Type="Cape">
 		<ItemComponent>
 			<Armor body_armor="15" head_armor="15" modifier_group="plate" material_type="Plate"></Armor>
 		</ItemComponent>
 		<Flags Civilian="true"></Flags>
 	</Item>
 	
-<Item id="dreadguard_armor" name="Dreadguard Armor" mesh="dreadguard_armour" using_tableau="true" subtype="body_armor" culture="Culture.bolton" is_merchandise="true" weight="28" difficulty="0" appearance="1" Type="BodyArmor">
+<Item id="dreadguard_armor" name="{=ROTDreadguardArmor}Dreadguard Armor" mesh="dreadguard_armour" using_tableau="true" subtype="body_armor" culture="Culture.bolton" is_merchandise="true" weight="28" difficulty="0" appearance="1" Type="BodyArmor">
 		<ItemComponent>
 			<Armor body_armor="50" leg_armor="20" arm_armor="10" covers_body="true" modifier_group="plate" material_type="Plate" />
 		</ItemComponent>
 		<Flags Civilian="true"/>
 	</Item>
-	<Item id="dreadguard_helmet" name="Dreadguard Helmet" mesh="dreadguard_helmet" culture="Culture.bolton" weight="2.3" appearance="3" Type="HeadArmor">
+	<Item id="dreadguard_helmet" name="{=ROTDreadguardHelmet}Dreadguard Helmet" mesh="dreadguard_helmet" culture="Culture.bolton" weight="2.3" appearance="3" Type="HeadArmor">
 		<ItemComponent>
 			<Armor head_armor="40" has_gender_variations="true" hair_cover_type="all" beard_cover_type="none" covers_body="false" modifier_group="plate" material_type="Plate"></Armor>
 		</ItemComponent>
 		<Flags Civilian="true"></Flags>
 	</Item>
-	<Item id="dreadguard_bracers" name="Dreadguard Bracers" mesh="dreadguard_gauntlets" is_merchandise="true" subtype="body_armor" value="35000" culture="Culture.bolton" weight="2.3" difficulty="0" appearance="1" Type="HandArmor">
+	<Item id="dreadguard_bracers" name="{=ROTDreadguardBracers}Dreadguard Bracers" mesh="dreadguard_gauntlets" is_merchandise="true" subtype="body_armor" value="35000" culture="Culture.bolton" weight="2.3" difficulty="0" appearance="1" Type="HandArmor">
 		<ItemComponent>
 			<Armor arm_armor="24" covers_hands="false" modifier_group="Plate" material_type="Plate" />
 		</ItemComponent>
 		<Flags Civilian="true"></Flags>
 	</Item>
-	<Item id="dreadguard_pauldrons" name="Dreadguard Pauldroms" mesh="dreadguard_pauldrons" culture="Culture.bolton" weight="4" appearance="4" Type="Cape">
+	<Item id="dreadguard_pauldrons" name="{=ROTDreadguardPauldroms}Dreadguard Pauldroms" mesh="dreadguard_pauldrons" culture="Culture.bolton" weight="4" appearance="4" Type="Cape">
 		<ItemComponent>
 			<Armor body_armor="15" arm_armor="7" modifier_group="plate" material_type="Plate"></Armor>
 		</ItemComponent>
 		<Flags Civilian="true"></Flags>
 	</Item>
 
-	<Item id="dreadguard_boots" name="Dreadguard Boots" mesh="dreadguard_boots" culture="Culture.bolton" weight="3.5" appearance="3" Type="LegArmor">
+	<Item id="dreadguard_boots" name="{=ROTDreadguardBoots}Dreadguard Boots" mesh="dreadguard_boots" culture="Culture.bolton" weight="3.5" appearance="3" Type="LegArmor">
 		<ItemComponent>
 			<Armor leg_armor="26" covers_legs="true" modifier_group="plate" material_type="Plate"></Armor>
 		</ItemComponent>

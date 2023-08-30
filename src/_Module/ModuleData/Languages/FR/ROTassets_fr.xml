@@ -25,7 +25,7 @@
         <string id="ROT00024" text="Casque lourd nordien" />
         <string id="ROT00027" text="Armure Bolton" />
         <string id="ROT00028" text="Armure Karstark" />
-        <string id="ROT00028" text="Armure de seigneur Karstark" />
+        <string id="ROTKarstarkLordArmor" text="Armure de seigneur Karstark" />
         <string id="ROT00029" text="Casque Bolton" />
         <string id="ROT00030" text="Chevelure de Danaerys" />
         <string id="ROT00031" text="Robe de Danaerys" />
@@ -44,8 +44,8 @@
         <string id="ROT00049" text="Épée Lannister" />
         <string id="ROT00050" text="Lance des Immaculés" />
         <string id="ROT00051" text="Bouclier des Immaculés" />
-        <string id="ROT00051" text="Bouclier de piquier Immaculé" />
-        <string id="ROT00051" text="Cape Lannister" />
+        <string id="ROTUnsulliedPikemanShield" text="Bouclier de piquier Immaculé" />
+        <string id="ROT00052" text="Cape Lannister" />
         <string id="ROT00053" text="Manteau de la Garde de Nuit" />
         <string id="ROT00054" text="Gorgerin nordien" />
         <string id="ROT00056" text="Grand-Griffe" />
@@ -165,7 +165,7 @@
         <string id="ROT03012" text="Armure du Limier" />
         <string id="ROTHoundBoots" text="Bottes du Limier" />
 
-        <string id="ROT00031" text="Robe de Mélisandre" />
+        <string id="ROTmelisandredress" text="Robe de Mélisandre" />
 
         <string id="ROT03034" text="Habit de géant" />
         <string id="ROTGiantBoots" text="Bottes de géant" />
@@ -391,5 +391,254 @@
         <string id="ROThughesgloves" text="Gants de la Maison Hughes" />
         <string id="ROTtarggloves" text="Gants avec brassards valyrien" />
         <string id="spikemace" text="Masse à pointes" />
+        <string id="ROTthennsword" text="Noire Soeur" />
+
+        <string id="ROTtigercloakhelmet" text="Casque des Tigres" />
+        <string id="ROTtigercloakhelmet2" text="Casque des Tigres 2" />
+        <string id="ROTtigercloak" text="Cape des Tigres" />
+
+        <string id="ROTmorbracers" text="Brassards Mormont" />
+        <string id="ROTmorboots" text="Bottes Mormont" />
+        <string id="ROTmorpauldrons" text="Épaulières Mormont" />
+        <string id="ROTmorlord" text="Casque de seigneur Mormont" />
+        <string id="ROTmorarmor" text="Armure Mormont" />
+        <string id="ROTbolsallet" text="Casque salade Mormont" />
+
+        <string id="ROTspikeshield" text="Casque de piquier" />
+
+        <string id="ROTZombieBody1" text="Corps de Zombie 1" />
+        <string id="ROTZombieHead1" text="Tête de Zombie 1" />
+        <string id="ROTZombieFeet1" text="Pieds de Zombie 1" />
+
+        <string id="ROTkarcoif" text="Coiffe Karstark" />
+        <string id="ROTkarcoifdown" text="Coiffe abaissée Karstark" /> <!-- ? -->
+        <string id="ROTkarboots" text="Bottes Karstark" />
+        <string id="ROTkargloves" text="Gants nordien" />
+
+        <string id="ROTZombieHands1" text="Mains de Zombie 1" />
+        <string id="ROTbolspear" text="Lance Bolton" />
+        <string id="ROTironhelm" text="Casque lourd fer-né" />
+        <string id="ROTreachhelm" text="Casque lourd du Bief" />
+        <string id="ROTirongauntlets" text="Gantelets fer-nés" />
+        <string id="ROTreachgauntlets" text="Gantelets du Bief" />
+        <string id="ROTironplateboots" text="Bottes de plates fer-né" />
+        <string id="ROTreachplateboots" text="Bottes de plates du Bief" />
+        <string id="ROTironheavypaul" text="Épaulières lourdes fer-né" />
+        <string id="ROTreachheavypaul" text="Épaulières lourdes du Bief" />
+        <string id="ROTvolarmor2" text="Armure volantain 2" />
+        <string id="ROTironheavyarmor" text="Armure lourde fer-né" />
+        <string id="ROTreachheavyarmor" text="Armure lourde du Bief" />
+        <string id="ROTironleatherarmor" text="Armure en cuir fer-né" />
+        <string id="ROTraincloak" text="Cape de la Garde Arc-en-Ciel" />
+        <string id="ROTmanderlylightarmor" text="Armure légère de la maison Manderly" />
+
+        <string id="ROTghissword" text="Épée ghiscari" />
+        <string id="ROTghisarmor" text="Armure ghiscari" />
+        <string id="ROTghisshoulders" text="Épaulières ghiscari" />
+        <string id="ROTghisarchhelm" text="Casque d'archer ghiscari" />
+        <string id="ROTghishelm" text="Casque ghiscari" />
+
+        <string id="ROTlanbracegloves" text="Brassards avec gants Lannister" />
+        <string id="ROTlordgloves" text="Gants de seigneur" />
+
+        <string id="ROTghisbracers" text="Brassards ghiscari" />
+        <string id="ROTghisboots" text="Bottes ghiscari" />
+
+        <string id="ROTbriennearmor" text="Armure de Brienne" />
+        <string id="royceboots" text="Bottes Royce" />
+
+        <string id="sarnorihelmet" text="Bottes sarnores" />
+        <string id="sarnorioffhelmet" text="Casque d'officier sarnore" />
+        <string id="sarnorshield" text="Bouclier sarnore" />
+        <string id="sarnorbracers" text="Brassards sarnores" />
+        <string id="sarnorshoulders" text="Épaulières sarnores" />
+        <string id="sarnortunic" text="Tunique sarnore" />
+
+        <string id="braavosshield" text="Bouclier braavien" />
+        <string id="barshield" text="Bouclier Baratheon" />
+        <string id="arrynshield" text="Bouclier Arryn" />
+        <string id="barshield2" text="Bouclier Baratheon 2" />
+        <string id="dstoneshield" text="Bouclier de Peyredragon" />
+        <string id="lankiteshield" text="Bouclier cerf-volant Lannister" />
+
+        <string id="redbolton" text="Armure de chevalier Bolton" />
+        <string id="bolpauldrons" text="Épaulières de chevalier Bolton" />
+        <string id="bolpaulcloak" text="Épaulières avec vape de chevalier Bolton" />
+        <string id="bolphelmet" text="Casque de chevalier Bolton" />
+        <string id="bolpboots" text="Bottes de plates Bolton" />
+        <string id="bolgauntlets" text="Gantelets Bolton" />
+
+        <string id="tullycape" text="Cape Tully" />
+        <string id="tullyhelmet" text="Casque Tully" />
+        <string id="tullyshoes" text="Chaussures Tully" />
+        <string id="tullyscale" text="Armure d'écailles Tully" />
+
+        <string id="arrynarmor" text="Armure Arryn" />
+        <string id="arrynarmor2" text="Armure Arryn 2" />
+        <string id="arrynplateboots" text="Bottes de plates Arryn" />
+        <string id="arrynboots2" text="Bottes de plates Arryn 2" />
+        <string id="armet" text="{.F}{.S}Armet" />
+        <string id="armet2" text="{.F}{.S}Armet 2" />
+
+        <string id="houndskull" text="Heaume à tête de chien" />
+        <string id="royce_armor" text="Armure Royce" />
+        <string id="roycepauldrons" text="Épaulières Royce" />
+        <string id="blackfyre" text="Feunoyr" />
+        <string id="ROTserpentsword" text="Serpent khopesh" />
+
+        <string id="ROTvalsteelswordblue" text="Épée en acier valyrien bleu" />
+        <string id="ROTvalsteelswordred" text="Épée en acier valyrien rouge" />
+
+        <string id="weirbow" text="Arc des barrals" />
+        <string id="lyannaarmor" text="Armure de Lyanna" />
+        <string id="lyannamormontshoulders" text="Épaulières de Lyanna Mormont" />
+        <string id="ROTskullsword" text="Épée crânienne" /> <!-- ? -->
+        <string id="dragbow" text="Arc de Peyredragon" />
+        <string id="bararcherhelmet" text="Casque d'archer Baratheon" />
+        <string id="crabpincer" text="Pince de crabe" />
+        <string id="velaryonaxe" text="Hache Velaryon" />
+        <string id="velcutlass" text="Couteau Velaryon" />
+
+        <string id="highpaul" text="Épaulières Hightower" />
+        <string id="higharmor" text="Armure Hightower" />
+        <string id="highhelm" text="Grand casque Hightower" />
+        <string id="highbarbute" text="Barbute Hightower" />
+        <string id="highbracers" text="Brassards Hightower" />
+        <string id="highlordarmor" text="Armure de seigneur Hightower" />
+
+        <string id="knightarmor" text="Armure de plates" />
+        <string id="knighthelm1" text="Casque de chevalier 1" />
+        <string id="knighthelm2" text="Casque de chevalier 2" />
+        <string id="knightcap" text="Cape de chevalier" />
+        <string id="knightkettle" text="Chapel de chevalier" />
+        <string id="knightspangen" text="Spangen de chevalier" />
+        <string id="knightpaul" text="Épaulières de chevalier" />
+        <string id="knightboots" text="Bottes de plates de chevalier" />
+
+        <string id="roycebarbute" text="Barbute Royce" />
+        <string id="arrynarch" text="Armure d'archer Arryn" />
+        <string id="arrynarchhelm" text="Casque d'archer Arryn" />
+        <string id="arrynboots" text="Bottes Arryn" />
+        <string id="commonboots" text="Bottes de plates communes" />
+        <string id="commonpaul" text="Épaulières communes" />
+        <string id="commonbarbute" text="Barbute commun" />
+        <string id="commonspangen" text="Spangen commun" />
+        <string id="commonkettle" text="Chapel commun" />
+        <string id="commonbracers" text="Brassards communs" />
+        <string id="commongloves" text="Gants communs" />
+
+        <string id="crudearmor" text="Armure brute" />
+        <string id="crudepaul" text="Épaulières brute" />
+        <string id="crudeboots" text="Bottes brutes" />
+        <string id="crudebarbute" text="Barbute brute" />
+        <string id="crudespangen" text="Spangen brute" />
+        <string id="crudebascinet" text="Bassinet brute" />
+        <string id="crudehelm" text="Casque brute" />
+        <string id="ROTcrudeNasalhelm" text="Casque à nasal brute" />
+
+        <string id="lorarmor" text="Armure lorathi" />
+        <string id="lorboots" text="Bottes lorathi" />
+        <string id="lorpaul" text="Épaulières lorathi" />
+        <string id="lorgloves" text="Gants lorathi" />
+        <string id="lorbascinet" text="Bassinet lorathi" />
+        <string id="lorclosed" text="Casque fermé lorathi" />
+        <string id="lorhelm" text="Casque lorathi" />
+        <string id="lorburg" text="Bourguignotte lorathi" />
+        
+        <string id="rangerarmor" text="Armure de patrouilleur" />
+        <string id="rangeshould" text="Épaulières de patrouilleur" />
+        <string id="rangerboots" text="Bottes de patrouilleur" />
+        <string id="rangerhood" text="Capuche de patrouilleur" />
+
+        <string id="qoharmor" text="Armure qohorienne" />
+        <string id="qohbar" text="Barbute qohorienne" />
+        <string id="qohboots" text="Bottes qohoriennes" />
+        <string id="qohclosed" text="Casque fermé qohorien" />
+        <string id="qohgloves" text="Gants qohoriens" />
+        <string id="qohpaul" text="Épaulières qohoriennes" />
+        <string id="qohsalet" text="Casque salade qohorien" />
+        <string id="qohhelm" text="Casque qohorien" />
+        <string id="qohvisoredhelmet" text="Casque avec visière qohorien" />
+
+        <string id="valknightarmor" text="Armure de chevalier du Val" />
+        <string id="valknightcape" text="Cape de chevalier du Val" />
+        <string id="valknightboots" text="Bottes de chevalier du Val" />
+        <string id="valplategloves" text="Gants de plates du Val" />
+        <string id="valelight" text="Armure légère de chevalier du Val" />
+        <string id="valehelm2" text="Casque de chevalier du Val" />
+
+        <string id="royce_armorf" text="Armure de femme Royce" />
+        <string id="roycepauldronsf" text="Épaulières de femme Royce" />
+
+        <string id="ROTcasterlyarmorlt" text="Armure légère de Castral Roc" />
+        <string id="ROTcastpauldlt" text="Épaulières légères de Castral Roc" />
+        <string id="ROTcastpauldlt2" text="Épaulières légères de Castral Roc 2" />
+        <string id="ROTcasterlybracglov" text="Brassards avec gants de Castral Roc" />
+        <string id="ROTcasterlybootslt" text="Bottes légères de Castral Roc" />
+        <string id="ROTcasterlybootslt2" text="Bottes légères de Castral Roc 2" />
+        <string id="castarchhelm" text="Casque d'archer Castral" />
+
+        <string id="dayneglove" text="Gants Dayne" />
+        <string id="tarlyarmor" text="Armure Tarly" />
+        <string id="poppy" text="Lait de pavot" />
+        <string id="viperspear" text="Lance de vipère rouge" />
+        <string id="nedclothes" text="Habits de Ned Stark" />
+        <string id="barkingclths" text="Habits royaux Baratheon" />
+        <string id="unssword" text="Épée courte des Immaculés" />
+        <string id="mandpaul" text="Épaulières Manderly" />
+        <string id="lanroyarmor" text="Armure royale Lannister" />
+        <string id="lanroyboot" text="Bottes royales Lannister" />
+        <string id="whytsword" text="Épée de la maison Whytcross" /> <!-- ? -->
+
+        <string id="katana" text="Katana Yi Ti" />
+        <string id="yitiarmor" text="Armure Yi Ti" />
+        <string id="yitishould" text="Épaulières Yi Ti" />
+        <string id="yitishould2" text="Épaulières Yi Ti 2" />
+        <string id="yitishoes" text="Chaussures Yi Ti" />
+        <string id="yitihelm" text="Casque Yi Ti" />
+        <string id="yitihelm2" text="Casque Yi Ti 2" />
+        <string id="yitihelm3" text="Casque Yi Ti 3" />
+        <string id="yitigloves" text="Gants Yi Ti" />
+
+        <string id="targsash" text="Ceinture Targaryen" />
+        <string id="thennplate" text="Armure de plates en bronze Thenn" />
+        <string id="ROTfreefolkbonearmor" text="Armure en os du Peuple libre" />
+        <string id="thennhelm1" text="Casque en bronze Thenn" />
+        <string id="thennhelm2" text="Cape en bronze Thenn" />
+        <string id="thennhelm3" text="Casque de chef Thenn" /> <!-- ? -->
+        <string id="thennhelm4" text="Casque tribal Thenn" />
+
+        <string id="jaimeclths" text="Habits noble" />
+        <string id="ROTcasterlycavalryhelmet2" text="Casque de cavalier Castral" />
+        <string id="ROTcasterlyhelmet3" text="Casque lourd Castral" />
+
+        <string id="ROTStarkKnightArmor" text="Armure de chevalier Stark" />
+        <string id="ROTStarkKnightArmorWithMail" text="Armure avec mailles de chevalier Stark" />
+        <string id="ROTNorthernKnightArmor" text="Armure de chevalier nordien" />
+        <string id="ROTNorthernKnightArmorWithMail" text="Armure avec mailles de chevalier nordien" />
+        <string id="ROTStarkKnightGreaves" text="{.M}{.P}Cnémides de chevalier Stark" />
+        <string id="ROTStarkKnightGauntlets" text="Gantelets de chevalier Stark" />
+        <string id="ROTStarkKnightHelmet" text="Casque de chevalier Stark" />
+        <string id="ROTStarkKnightHelmetWithPlume" text="Casque à plume de chevalier Stark" />
+        <string id="ROTStarkKnightBevor" text="Bavière de chevalier Stark" />
+        <string id="ROTDreadguardArmor" text="Armure de garde de Fort-Terreur" />
+        <string id="ROTDreadguardHelmet" text="Casque de garde de Fort-Terreur" />
+        <string id="ROTDreadguardBracers" text="Brassards de garde de Fort-Terreur" />
+        <string id="ROTDreadguardPauldroms" text="Épaulières de garde de Fort-Terreur" />
+        <string id="ROTDreadguardBoots" text="Bottes de garde de Fort-Terreur" />
+
+        <string id="heartsbane" text="Corvenin" />
+        <string id="valgauntlets" text="Gantelets valyriens" />
+        <string id="nighthood" text="Capuche de la Garde de Nuit" />
+        <string id="fancyclths" text="Vêtements de luxe" />
+        <string id="vigilance" text="Vigilance" />
+        <string id="bartspear" text="Lance de chasse Baratheon" />
+        <string id="ranseur" text="{.M}{.S}Ranseur" />
+        <string id="thennaxe" text="Hache en bronze Thenn" />
+        <string id="bronzeshield" text="Bouclier en bronze Thenn" />
+        <string id="bronzswd" text="Épée en bronze Thenn" />
+        <string id="rapier" text="Rapière braavienne" />
+        <string id="noraxe" text="Hache nordienne" />
+        <string id="tarlyhelm" text="Casque Tarly" />
     </strings>
 </base>

@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.5.0
+Game Versions: v1.1.5
+* Patch FR pour ROT 4.1.2 et +
+* Tous les objets de ROT sont désormais traduits. N'hésitez pas à signaler tout problème/traduction manquante.
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Game Versions: v1.1.5
 * Patch FR pour ROT 4.1.2 et +
