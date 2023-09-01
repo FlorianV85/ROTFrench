@@ -482,15 +482,15 @@
         <string id="ROTcwspear" text="Lancier du Guet de Port-Réal" />
         <string id="ROTcwvetspear" text="Lancier vétéran du Guet de Port-Réal" />
 
-        <string id="ROTkingthief" text="Voleur du Bois-du-Roi" />
-        <string id="ROTkingbandit" text="Bandit du Bois-du-Roi" />
-        <string id="ROTkingbrig" text="Brigand du Bois-du-Roi" />
-        <string id="ROTkingboss" text="Chef du Bois-du-Roi" />
+        <string id="ROTkingthief" text="{.M}{.S}Voleur du Bois-du-Roi" />
+        <string id="ROTkingbandit" text="{.M}{.S}Bandit du Bois-du-Roi" />
+        <string id="ROTkingbrig" text="{.M}{.S}Brigand du Bois-du-Roi" />
+        <string id="ROTkingboss" text="{.M}{.S}Boss du Bois-du-Roi" />
 
         <string id="ROTskagclansman" text="Homme de clan skaggs" />
-        <string id="ROTskagraider" text="Bandit skaggs" />
+        <string id="ROTskagraider" text="{.M}{.S}Bandit skaggs" />
         <string id="ROTskagplunderer" text="Pillard skaggs" />
-        <string id="ROTskagchief" text="Chef skaggs" />
+        <string id="ROTskagchief" text="{.M}{.S}Boss skaggs" />
 
         <string id="unsullied" text="Immaculé" />
 
@@ -499,7 +499,7 @@
         <string id="yitiexnob" text="Noble exilé de Yi Ti" />
         <string id="yitiroyal" text="Royauté exilée de Yi Ti" />
 
-        <string id="ROTNightKing" text="Roi de la Nuit" />
+        <string id="ROTNightKing" text="{.M}Roi de la Nuit" />
         <string id="ROTWightTroop" text="Spectre" />
         <string id="ROTFearsomeWight" text="Spectre redoutable" />
         <string id="ROTFerociousWight" text="Spectre féroce" />

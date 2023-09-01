@@ -19,4 +19,5 @@
     <LanguageFile xml_path="FR/ROTassets_fr.xml" />
     <LanguageFile xml_path="FR/spnpccharacters_fr.xml" />
     <LanguageFile xml_path="FR/spspecialcharacters_fr.xml" />
+    <LanguageFile xml_path="FR/bandits_fr.xml" />
 </LanguageData>

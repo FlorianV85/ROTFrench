@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>     
+        <string id="ROTBanditRavager" text="Ravageur" />
+        <string id="ROTBanditReaver" text="Pillard" />
+        <string id="ROTBanditBrokenMan" text="Homme en rupture de ban" />
+        <string id="ROTBanditRogueDothraki" text="Voyou dothraki" />
+        <string id="ROTBanditDothrakiPillager" text="Pillard dothraki" />
+        <string id="ROTBanditDothrakiAmbusher" text="Embusqué dothraki" />
+    </strings>
+</base>
