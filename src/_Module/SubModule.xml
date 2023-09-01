@@ -120,6 +120,16 @@
 		</XmlNode>
 
 		<XmlNode>
+			<XmlName id="Factions" path="ROT_spclans"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>
 			<XmlName id="GameText" path="comment_strings"/>
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>

@@ -41,6 +41,7 @@
         <string id="ROT01590" text="{.F}{.S}Fraternité sans bannières" />
         <string id="ROT01594" text="{.F}{.S}Fraternité sans bannières" />
         <string id="ROT03035" text="Un groupe de hors-la-loi qui défendent les gens du peuple des ravages causés par la guerre des seigneurs." />
+        <string id="ROT01587" text="{.F}{.S}Compagnie Dorée" />
         <string id="ROT01592" text="{.F}{.S}Compagnie Dorée" />
         <string id="ROT03036" text="L'une des plus habiles compagnies de mercenaires de tout l'Essos. Elle a la réputation de ne jamais briser ses contrats." />
         <string id="ROT01588" text="{.M}{.P}Braves Compaings" />
@@ -50,12 +51,16 @@
         <string id="ROT03038" text="Tribu des montagnes de la Lune qui réside dans la région aujourd'hui connue sous le nom de Val d'Arryn." />
         <string id="ROT03039" text="{.M}{.P}Freux" />
         <string id="ROT03040" text="Tribu des montagnes de la Lune qui réside dans la région aujourd'hui connue sous le nom de Val d'Arryn." />
+        <string id="ROT03041" text="{.F}{.P}Longues Lances" />
+        <string id="ROT03042" text="{.F}{.P}Longues Lances" />
+        <string id="ROT03043" text="Une compagnie de mercenaires d'Essos qui compterait plus de 800 mercenaires." />
         <string id="ROT03044" text="{.M}{.S}Erre-au-Vent" />
         <string id="ROT03045" text="Une compagnie de mercenaires originaires d'Essos qui compterait 1 000 cavaliers et fantassins." />
         <string id="ROT03046" text="{.M}{.P}Bouquins sauvages" />
         <string id="ROT03047" text="Une bande de jeunes guerriers qui parcourent le pays en chantant des chansons chevaleresques." />
         <string id="ROT03048" text="{.F}{.P}Vives Bannières" />
         <string id="ROT03049" text="Une compagnie de merenaires qui opère principalement dans les cités libres d'Essos." />
+        <string id="ROT03206" text="{.M}{.P}Fils de la harpie" />
         <string id="ROT03207" text="{.M}{.P}Fils de la harpie" />
         <string id="ROT03208" text="Groupe secret d'insurgés composé de membres de classe esclavagiste." />
 
@@ -77,5 +82,7 @@
         <string id="ROTmerlyn" text="{.F}{.S}Maison Merlyn de Pebbleton" />
         <string id="ROTfarwynd" text="{.F}{.S}Maison Vendeloyn" />
         <string id="ROTsunderly" text="{.F}{.S}Maison Valleuse de Salfalaise" />
+
+        <string id="ROTClanForrester" text="Forestier" />
     </strings>
 </base>
