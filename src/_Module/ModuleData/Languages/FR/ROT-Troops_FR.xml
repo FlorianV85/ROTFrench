@@ -16,8 +16,8 @@
         <string id="ROT00824" text="Tirailleur du Peuple libre" />
         <string id="ROT00825" text="Archer du Peuple libre" />
         <string id="ROT00826" text="Tireur d'élite du Peuple libre" />
-        <!-- <string id="ROT00827" text="Oeil-de-faucon du Peuple libre" /> -->
-        <!-- <string id="ROT00827" text="Fils de Thenn du Peuple libre" /> -->
+        <string id="ROT00827" text="Oeil-de-faucon du Peuple libre" />
+        <string id="ROTTroopsSonOfThenn" text="Fils de Thenn du Peuple libre" />
         <string id="ROT00828" text="Thenn du Peuple libre" />
         <string id="ROT00829" text="Guerrier Thenn du Peuple libre" />
         <string id="ROT00830" text="Cannibale Thenn du Peuple libre" />
@@ -136,8 +136,8 @@
         <string id="ROT00913" text="Homme d'armes du Bief" />
         <string id="ROT01006" text="Garde de maison du Bief" />
         <string id="ROT01007" text="Homme à hache du Bief" />
-        <!-- <string id="ROT00914" text="Coureur du Bief" /> -->
-        <!-- <string id="ROT00914" text="Chevalier du Bief" /> -->
+        <string id="ROT00914" text="Coureur du Bief" />
+        <string id="ROTTroopsReachKnight" text="Chevalier du Bief" />
         <string id="ROT00915" text="Tirailleur du Bief" />
         <string id="ROT00916" text="Archer du Bief" />
         <string id="ROT00917" text="Archer d'élite du Bief" />
@@ -355,12 +355,12 @@
         <string id="ROTvalcaptain" text="Capitaine valyrien" />
         <string id="ROTvalsquire" text="Écuyer valyrien" />
         <string id="ROTvalknight" text="Chevalier valyrien" />
-        <!-- <string id="ROTvaldragknight" text="Chevalier-Dragon valyrien" /> -->
-        <!--<string id="ROTvaldragknight" text="Sire-Dragon protecteur valyrien" /> -->
+        <string id="ROTvaldragknight" text="Chevalier-Dragon valyrien" />
+        <string id="ROTvaldragknightprotect" text="Sire-Dragon protecteur valyrien" />
         <string id="ROTtargsquire" text="Écuyer de la maison Targaryen" />
         <string id="ROTtargknight" text="Chevalier de la maison Targaryen" />
         <string id="ROTqueensguard" text="Garde de la Reine de la maison Targaryen" />
-        <string id="ROTvaldragknight" text="Capitaine de la Garde de la Reine" />
+        <string id="ROTvalqueenguard" text="Capitaine de la Garde de la Reine" />
 
         <string id="ROTvolantinerecruit" text="Recrue volontaine" />
         <string id="ROTvolantinenoble" text="Jeune noble volantain" />
@@ -387,14 +387,14 @@
         <string id="qohspear" text="Lancier qohorien" />
         <string id="qohspear2" text="Lancier élite qohorien" />
         <string id="qohsword" text="Épéiste qohorien" />
-        <!-- <string id="qohspear2" text="Falxman qohorien" /> -->
+        <string id="qohfalxman" text="Falxman qohorien" />
         <string id="qohelarch" text="Archer élite qohorien" />
         <string id="qohorse" text="Cavalier qohorien" />
         <string id="qohlan" text="Lanceur qohorien" />
         <string id="w6YwFaG7" text="Initié Chèvre Noire" />
         <string id="goatwar" text="Guerrier Chèvre Noire" />
-        <!-- <string id="goatwar" text="Dévoué Chèvre Noire" /> -->
-        <!-- <string id="goatwar" text="Sacrificateur Chèvre Noire" /> -->
+        <string id="goatwardevout" text="Dévoué Chèvre Noire" />
+        <string id="goatsacrificer" text="Sacrificateur Chèvre Noire" />
 
         <string id="ROTloarthirecruit" text="Recrue lorathi" />
         <string id="ROTlorathinoble" text="Jeune noble lorathi" />
@@ -409,8 +409,8 @@
         <string id="lorlan" text="Cavalier entraîné lorathi" />
         <string id="lorsqui" text="Écuyer lorathi" />
         <string id="lorknight" text="Chevalier lorathi" />
-        <!-- <string id="lorpike" text="Maître piquier lorathi" /> -->
-        <!-- <string id="lorpike" text="Chevalier du Dédale lorathi" /> -->
+        <string id="lorpike" text="Maître piquier lorathi" />
+        <string id="lormazeknight" text="Chevalier du Dédale lorathi" />
 
         <string id="ROTpentrecruit" text="Recrue pentoshi" />
         <string id="ROTpentnoble" text="Jeune noble pentoshi" />
@@ -441,7 +441,7 @@
         <string id="myrlan" text="Cavalier entraîné myrien" />
         <string id="myrcross" text="Arbalétrier myrien" />
         <string id="myrecross" text="Arbalétrier élite myrien" />
-        <!-- <string id="myrmcross" text="Maître arbalétrier myrien" /> -->
+        <string id="myrmcrossmaster" text="Maître arbalétrier myrien" />
         <string id="myrart" text="Artisan de guerre myrien" />
 
         <string id="ROTtyrrecruit" text="Recrue tyroshi" />
@@ -457,7 +457,7 @@
         <string id="tyrlan" text="Cavalier entraîné tyroshi" />
         <string id="tyrboats" text="Bosco tyroshi" />
         <string id="tyrquart" text="Quartier-maître tyroshi" />
-        <!-- <string id="myrmcross" text="Premier officier tyroshi" /> -->
+        <string id="tyrfirstmate" text="Premier officier tyroshi" />
         <string id="magguard" text="Corsaire tyroshi" />
 
         <string id="ROTlysrecruit" text="Recrue lysienne" />
@@ -499,7 +499,7 @@
         <string id="yitiexnob" text="Noble exilé de Yi Ti" />
         <string id="yitiroyal" text="Royauté exilée de Yi Ti" />
 
-        <string id="ROTNightKing" text="{.M}Roi de la Nuit" />
+        <string id="ROTNightKing" text="{.M}{.S}Roi de la Nuit" />
         <string id="ROTWightTroop" text="Spectre" />
         <string id="ROTFearsomeWight" text="Spectre redoutable" />
         <string id="ROTFerociousWight" text="Spectre féroce" />

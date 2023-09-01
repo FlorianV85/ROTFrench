@@ -19,7 +19,7 @@
 	</xsl:template>
 
     <xsl:template match="NPCCharacter[@id='looter']/@name">
-        <xsl:attribute name="name">{=ROTBanditMarauder}Broken Man</xsl:attribute>
+        <xsl:attribute name="name">{=ROTBanditBrokenMan}Broken Man</xsl:attribute>
 	</xsl:template>
 
     <xsl:template match="NPCCharacter[@id='steppe_bandits_bandit']/@name">

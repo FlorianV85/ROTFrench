@@ -670,7 +670,7 @@
 	<NPCCharacter id="freefolk_thenn_son"
                 default_group="Infantry"
                 level="11"
-                name="{=ROT00827}Freefolk Son of Thenn"
+                name="{=ROTTroopsSonOfThenn}Freefolk Son of Thenn"
                 occupation="Soldier"
                 is_basic_troop="true"
                 culture="Culture.freefolk">
@@ -6859,7 +6859,7 @@
 	<NPCCharacter id="reach_knight"
           default_group="Cavalry"
           level="26"
-          name="{=ROT00914}Reach Knight"
+          name="{=ROTTroopsReachKnight}Reach Knight"
           occupation="Soldier"
 	  is_basic_troop="false"
 		  upgrade_requires="ItemCategory.war_horse"
@@ -17985,7 +17985,7 @@
 	<NPCCharacter id="valyrian_dragonlord_protector"
 			  default_group="Cavalry"
 			  level="31"
-			  name="{=ROTvaldragknight}Valyrian Dragonlord Protector"
+			  name="{=ROTvaldragknightprotect}Valyrian Dragonlord Protector"
 			  occupation="Soldier"
 			  is_basic_troop="false"
 			
@@ -18222,7 +18222,7 @@
 	<NPCCharacter id="queensguard_captain"
 			  default_group="Cavalry"
 			  level="31"
-			  name="{=ROTvaldragknight}Captain of the Queen's Guard"
+			  name="{=ROTvalqueenguard}Captain of the Queen's Guard"
 			  occupation="Soldier"
 			  is_basic_troop="false"
 			
@@ -19716,7 +19716,7 @@
 	<NPCCharacter id="qohorik_falxman"
 				  default_group="Infantry"
 				  level="26"
-				  name="{=qohspear2}Qohorik Falxman"
+				  name="{=qohfalxman}Qohorik Falxman"
 				  occupation="Soldier"
 				  culture="Culture.qohorik">
 		<face>
@@ -20057,7 +20057,7 @@
 	<NPCCharacter id="qohorik_goat_devout"
 					  default_group="Infantry"
 					  level="26"
-					  name="{=goatwar}Black Goat Devout"
+					  name="{=goatwardevout}Black Goat Devout"
 					  occupation="Soldier"
 					  culture="Culture.qohorik">
 		<face>
@@ -20117,7 +20117,7 @@
 	<NPCCharacter id="qohorik_goat_sacrificer"
 					  default_group="Cavalry"
 					  level="31"
-					  name="{=goatwar}Black Goat Sacrificer"
+					  name="{=goatsacrificer}Black Goat Sacrificer"
 					  occupation="Soldier"
 			          upgrade_requires="ItemCategory.war_horse"
 					  culture="Culture.qohorik">
@@ -20990,7 +20990,7 @@
 	<NPCCharacter id="lorathi_mazeknight"
 				  default_group="Infantry"
 				  level="31"
-				  name="{=lorpike}Lorathi Mazeknight"
+				  name="{=lormazeknight}Lorathi Mazeknight"
 				  occupation="Soldier"
 				  culture="Culture.lorathi">
 		<face>
@@ -22595,7 +22595,7 @@
 	<NPCCharacter id="myrish_master_crossbowman"
 				  default_group="Ranged"
 				  level="26"
-				  name="{=myrmcross}Myrish Master Crossbowman"
+				  name="{=myrmcrossmaster}Myrish Master Crossbowman"
 				  occupation="Soldier"
 				  
 				  culture="Culture.myrish">
@@ -23422,7 +23422,7 @@
 	<NPCCharacter id="tyroshi_firstmate"
 				  default_group="Infantry"
 				  level="26"
-				  name="{=myrmcross}Tyroshi Firstmate"
+				  name="{=tyrfirstmate}Tyroshi Firstmate"
 				  occupation="Soldier"
 				  
 				  culture="Culture.tyroshi">
