@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Français" />
+    </tags>
+    <strings>        
+        <string id="ROTWandererOfSaath" text="{FIRSTNAME} de Saath" />
+        <string id="ROTWandererOfTyrosh" text="{FIRSTNAME} de Tyrosh" />
+        <string id="ROTWandererOfLys" text="{FIRSTNAME} de Lys" />
+        <string id="ROTWandererOfVolantis" text="{FIRSTNAME} de Volantis" />
+        <string id="ROTWandererOfPentos" text="{FIRSTNAME} de Pentos" />
+        <string id="ROTWandererOfMeereen" text="{FIRSTNAME} de Meereen" />
+        <string id="ROTWandererOfAstapor" text="{FIRSTNAME} d'Astapor" />
+        <string id="ROTWandererOfBraavos" text="{FIRSTNAME} de Braavos" />
+        <string id="ROTWandererOfHardhome" text="{FIRSTNAME} de Durlieu" />
+        <string id="ROTWandererOfThenn" text="{FIRSTNAME} de Thenn" />
+        <string id="ROTWandererOfNightWatch" text="{FIRSTNAME} de la Garde de Nuit" />
+        <string id="ROTWandererOfBarrowton" text="{FIRSTNAME} de Tertre-bourg" />
+        <string id="ROTWandererOfTheRills" text="{FIRSTNAME} des Rus" />
+        <string id="ROTWandererOfGreyCliffs" text="{FIRSTNAME} des Falaises grises" />
+        <string id="ROTWandererOfHillTribes" text="{FIRSTNAME} des Clans des montagnes" />
+        <string id="ROTWandererOfHull" text="{FIRSTNAME} de Carène" />
+        <string id="ROTWandererOfSweetportSound" text="{FIRSTNAME} de Sweetport Sound" />
+        <string id="ROTWandererOfFleabottom" text="{FIRSTNAME} de Culpucier" />
+        <string id="ROTWandererOfDuskendale" text="{FIRSTNAME} de Sombreval" />
+        <string id="ROTWandererOfTheKingswood" text="{FIRSTNAME} du Bois-du-Roi" />
+        <string id="ROTWandererOfMyr" text="{FIRSTNAME} de Myr" />
+        <string id="ROTWandererOfQohor" text="{FIRSTNAME} de Qohor" />
+        <string id="ROTWandererOfMantarys" text="{FIRSTNAME} de Mantarys" />
+        <string id="ROTWandererOfElyria" text="{FIRSTNAME} d'Elyria" />
+        <string id="ROTWandererOfVaesDothrak" text="{FIRSTNAME} de Vaes Dothrak" />
+        <string id="ROTWandererOfVaesDiaf" text="{FIRSTNAME} de Vaes Diaf" />
+        <string id="ROTWandererOfGreatGrassSea" text="{FIRSTNAME} de la Grande Mer Herbeuse" />
+        <string id="ROTWandererOfLorath" text="{FIRSTNAME} de Lorath" />
+        <string id="ROTWandererOfNorvos" text="{FIRSTNAME} de Norvos" />
+        <string id="ROTWandererOfDraconys" text="{FIRSTNAME} de Draconys" />
+    </strings>
+</base>    

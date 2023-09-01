@@ -18,4 +18,5 @@
     <LanguageFile xml_path="FR/ROT_town_traders_fr.xml" />
     <LanguageFile xml_path="FR/ROTassets_fr.xml" />
     <LanguageFile xml_path="FR/spnpccharacters_fr.xml" />
+    <LanguageFile xml_path="FR/spspecialcharacters_fr.xml" />
 </LanguageData>
