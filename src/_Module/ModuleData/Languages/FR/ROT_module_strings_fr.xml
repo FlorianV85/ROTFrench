@@ -48,7 +48,7 @@
         <string id="ROT01905" text="Les habitants de la deuxième plus grande région des Sept Royaumes après le Nord. C'est aussi la plus fertile de Westeros." />
         <string id="ROT01906" text="Ce peuple descend de l'ancien Empire de Ghis, détruit par les Valyriens lors des guerres ghiscaris. Les cités de la Baie des Serfs pratiquent encore beaucoup les anciennes coûtumes ghiscari." />
         <string id="ROT01907" text="Peuple des terres contestées entre les hommes du Conflans et les orageois. Depuis Aegon le Conquérant, ces terres ont gouvernées par le Roi en personne à Port-Réal." />
-        <string id="ROTsarnor" text="Connus aussi sous le nom de « Hommes Grands », ils sont originaires du fleuve de la Sarne en Essos. Les hordes de dothrakis les ont presque anéantis." />
+        <string id="ROTsarnordescription" text="Connus aussi sous le nom de « Hommes Grands », ils sont originaires du fleuve de la Sarne en Essos. Les hordes de dothrakis les ont presque anéantis." />
         <string id="ROTnorvosdescription" text="La cité libre de Norvos est une théocratie dirigée par les Prêtres à Barbe. La vie quotidienne des habitants est rythmée par le son des trois cloches." />
         <string id="ROTvalyriandescription" text="Descendants de ceux qui quittèrent Valyria avant qu'un cataclysme ne détruise la ville." />
         <string id="ROTvolantinedescription" text="Peuple originaire de la première des cités libres d'Essos fondée par les Valyriens." />
