@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.6.5
+Game Versions: v1.1.5
+* Patch FR pour ROT 4.1.2 et +
+* Ajout de la traduction des noms de compagnons génériques
+* Ajout de la traduction de certains bandits manquants et divers corrections
+* Correction de certains clans
+* Correction des troupes qui n'étaient pas traduits ou en double
+* Correction de certains bogues au niveau des noms de royaumes/cultures qui affichaient leur description plutôt que leur nom
+---------------------------------------------------------------------------------------------------
 Version: 0.6.0
 Game Versions: v1.1.5
 * Patch FR pour ROT 4.1.2 et +
