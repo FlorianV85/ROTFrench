@@ -503,5 +503,11 @@
         <string id="ROTWightTroop" text="Spectre" />
         <string id="ROTFearsomeWight" text="Spectre redoutable" />
         <string id="ROTFerociousWight" text="Spectre féroce" />
+
+        <string id="ssoutrider" text="Éclaireur de la Flèche d'argent" />
+        <string id="ssvoulgier" text="Vougier de la Flèche d'argent" />
+        <string id="ssoutrider" text="Cavalier de la Flèche d'argent" />
+        <string id="ssmvoulge" text="Maître vougier de la Flèche d'argent" />
+        <string id="sseoutrider" text="Cavalier élite de la Flèche d'argent" />
     </strings>
 </base>
