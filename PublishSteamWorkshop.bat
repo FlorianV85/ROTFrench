@@ -1,0 +1,1 @@
+"%BANNERLORD_GAME_DIR%\bin\Win64_Shipping_Client\TaleWorlds.MountAndBlade.SteamWorkshop.exe" "E:\DEV\MODDING\BANNERLORD\ROTFrench\WorkshopUpdate.xml"
