@@ -90,3 +90,16 @@ jobs:
       secrets:
         NEXUSMODS_APIKEY: ${{ secrets.NEXUSMODS_APIKEY }}
         NEXUSMODS_COOKIES: ${{ secrets.NEXUSMODS_COOKIES }}      
+
+  publish-on-steam:
+      needs: ["build"]
+      uses: BUTR/workflows/.github/workflows/release-steam.yml@master
+      with:
+        workshop_id: 3031655339
+        mod_id: ROTFrench
+        mod_description: ${{ needs.build.outputs.mod_description }}
+        artifact_name: ROTFrench
+      secrets:
+        STEAM_LOGIN: ${{ secrets.STEAM_WORKSHOP_LOGIN }}
+        STEAM_PASSWORD: ${{ secrets.STEAM_WORKSHOP_PASSWORD }}
+        STEAM_AUTH_CODE: ${{ secrets.STEAM_WORKSHOP_AUTH_CODE }}      
