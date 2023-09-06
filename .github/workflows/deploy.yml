@@ -89,4 +89,4 @@ jobs:
         artifact_name: ROTFrench
       secrets:
         NEXUSMODS_APIKEY: ${{ secrets.NEXUSMODS_APIKEY }}
-        NEXUSMODS_COOKIES: ${{ secrets.NEXUSMODS_COOKIES }}      
+        NEXUSMODS_COOKIES: ${{ secrets.NEXUSMODS_COOKIES }}
