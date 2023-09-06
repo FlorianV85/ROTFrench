@@ -41,7 +41,7 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-        <GameFolder>E:\JEUX\Mount &amp; Blade II Bannerlord</GameFolder>
+        <GameFolder>C:\JEUX\Steam\steamapps\common\Mount &amp; Blade II Bannerlord</GameFolder>
     </PropertyGroup>
 
     <!--CI Builds-->
