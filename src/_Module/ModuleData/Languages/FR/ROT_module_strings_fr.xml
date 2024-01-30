@@ -58,6 +58,9 @@
         <string id="ROTmyrishdescription" text="Les habitants de la plus avancée des cités libres située sur la Mer de Myrth." />
         <string id="ROTtyroshidescription" text="Les habitants de cette cité libre se trouvent dans les Degrés de Pierre." />
         <string id="ROTlyseni" text="Les habitants de la cité libre située sur une île de la Mer d'Été." />
+        <string id="ROTskagosi" text="Clans originaires d'une île escarpée située au débouchée de la baie des Phoques. En raison de l'absence de contacts, ils croient qu'ils se gouvernent eux-mêmes." />
+        <string id="ROTyiti" text="Les habitants de l'Empire Doré de Yi Ti, situé à l'extrême est." />
+        <string id="ROTsummer" text="Les habitants des Îles d'Été, situées à l'extrême sud dans la Mer d'Été." />
 
         <string id="ROTCultureRichNameWesterlands" text="Ouestien" />
         <string id="ROTCultureRichNameNorth" text="Nordien" />
@@ -85,6 +88,9 @@
         <string id="ROTmyrish1" text="Myrien" />
         <string id="ROTtyroshi1" text="Tyroshi" />
         <string id="ROTlyseni1" text="Lysien" />
+        <string id="ROTskagosi1" text="Skaggs" />
+        <string id="ROTyiti1" text="Yitien" />
+        <string id="ROTsummer1" text="Estivien" />
 
         <string id="ROTFactionOfficialBraavos" text="un lord" />
         <string id="ROTFactionOfficialFBraavos" text="une lady" />
@@ -145,6 +151,11 @@
         <string id="ROTlyseni2" text="{?RULER.GENDER}Magistrat{?}Magistrat{\?} {RULER.NAME}" />
         <string id="ROTlyseni3" text="{?RULER.GENDER}Lady{?}Lord{\?} {RULER.NAME}" />
 
+        <string id="ROTskagosi2" text="{?RULER.GENDER}Reine{?}Roi{\?} {RULER.NAME}" />
+        <string id="ROTyiti2" text="{=ROTyiti2}{?RULER.GENDER}Impératrice{?}Empereur{\?} {RULER.NAME}" />
+        <string id="ROTsummer2" text="{?RULER.GENDER}Cheftaine{?}Cheftain{\?} {RULER.NAME}" />
+        <string id="ROTsummer3" text="{?RULER.GENDER}Femme de tribu{?}Homme de tribu{\?} {RULER.NAME}" />
+
         <string id="ROTFactionRulerTermInSpeechWesterlands" text="{?RULER.GENDER}Reine{?}Roi{\?} {RULER.NAME}" />
         <string id="ROTFactionOfficialDorne" text="Lord" />
         <string id="ROTFactionOfficialFDorne" text="Lady" />
@@ -204,6 +215,10 @@
         <string id="ROTtyroshi5" text="archonte" />
         <string id="ROTlyseni4" text="magistrat" />
         <string id="ROTlyseni5" text="magistrat" />
+        <string id="ROTskagosi4" text="roi" />
+        <string id="ROTskagosi5" text="reine" />
+        <string id="ROTyiti4" text="empereur" />
+        <string id="ROTyiti5" text="impératrice" /> 
 
         <string id="ROT01955" text="un lord" />
         <string id="ROT01956" text="une lady" />
@@ -245,6 +260,12 @@
         <string id="ROTtyroshi7" text="une lady" />
         <string id="ROTlyseni6" text="un lord" />
         <string id="ROTlyseni7" text="une lady" />
+        <string id="ROTskagosi6" text="un lord" />
+        <string id="ROTskagosi7" text="une lady" />
+        <string id="ROTyiti6" text="un lord" />
+        <string id="ROTyiti7" text="une lady" />
+        <string id="ROTsummer6" text="un homme de tribu" />
+        <string id="ROTsummer7" text="une femme de tribu" />
 
         <string id="ROT01975" text="{?RULER.GENDER}Princesse{?}Prince{\?} {RULER.NAME}" />
         <string id="ROT01976" text="{?RULER.GENDER}Reine{?}Roi d'au-delà du Mur{\?} {RULER.NAME}" />
@@ -267,6 +288,9 @@
         <string id="ROTmyrish8" text="{?RULER.GENDER}Magistrat{?} Magistrat{\?} {RULER.NAME}" />
         <string id="ROTtyroshi8" text="{?RULER.GENDER}Archonte{?} Archonte{\?} {RULER.NAME}" />
         <string id="ROTlyseni8" text="{?RULER.GENDER}Magistrat{?} Magistrat{\?} {RULER.NAME}" />
+        <string id="ROTskagosi8" text="{?RULER.GENDER}Reine{?} Roi{\?} {RULER.NAME}" />
+        <string id="ROTyiti8" text="{?RULER.GENDER}Impératrice{?} Empereur{\?} {RULER.NAME}" />
+        <string id="ROTsummer8" text="{?RULER.GENDER}Cheftaine{?} Chieftain{\?} {RULER.NAME}" />
 
         <string id="ROTAdjectiveFactionDothraki" text="{.M}{.S}Khalasar Dothraki" />
         <string id="ROTAdjectiveFactionDorne" text="{.M}{.S}Dorne" />
@@ -294,6 +318,9 @@
         <string id="ROTmyrish10" text="{.M}{.S}Myr" />
         <string id="ROTtyroshi10" text="{.M}{.S}Tyrosh" />
         <string id="ROTlyseni10" text="{.M}{.S}Lys" />
+        <string id="ROTskagosi10" text="{.M}{.S}Skagos" />
+        <string id="ROTyiti10" text="{.M}{.S}Yi Ti" />
+        <string id="ROTsummer10" text="{.F}{.P}Îles d'Été" />
 
         <string id="ROTShortTermFactionDothraki" text="{.M}{.S}Dothraki" />
         <string id="ROTShortTermFactionDorne" text="{.M}{.S}Dorne" />
@@ -321,6 +348,9 @@
         <string id="ROTmyrish11" text="{.M}{.S}Myr" />
         <string id="ROTtyroshi11" text="{.M}{.S}Tyrosh" />
         <string id="ROTlyseni11" text="{.M}{.S}Lys" />
+        <string id="ROTskagosi11" text="{.M}{.S}Skagos" />
+        <string id="ROTyiti11" text="{.M}{.S}Yi Ti" />
+        <string id="ROTsummer11" text="{.M}{.P}Îles d'Été" />
 
         <string id="ROTFormalNameCultureWesterlands" text="{.F}{.P}Terres de l'Ouest" />
         <string id="ROTFormalNameCultureNorth" text="{.M}{.S}Nord" />
@@ -348,6 +378,9 @@
         <string id="ROTmyrish12" text="{.M}{.S}Myr" />
         <string id="ROTtyroshi12" text="{.M}{.S}Tyrosh" />
         <string id="ROTlyseni12" text="{.M}{.S}Lys" />
+        <string id="ROTskagosi12" text="{.M}{.S}Skagos" />
+        <string id="ROTyiti12" text="{.M}{.S}Yi Ti" />
+        <string id="ROTsummer12" text="{.F}{.P}Îles d'Été" />
 
         <string id="ROTNeutralTermCultureDothraki" text="{.M}{.S}Dothraki" />
         <string id="ROTNeutralTermCultureDorne" text="{.M}{.S}Dorne" />
@@ -374,6 +407,9 @@
         <string id="ROTmyrish13" text="{.M}{.S}Myr" />
         <string id="ROTtyroshi13" text="{.M}{.S}Tyrosh" />
         <string id="ROTlyseni13" text="{.M}{.S}Lys" />
+        <string id="ROTskagosi13" text="{.M}{.S}Skagos" />
+        <string id="ROTyiti13" text="{.M}{.S}Yi Ti" />
+        <string id="ROTsummer13" text="{.F}{.P}Îles d'Été" />
 
         <string id="dorne10" text="{.M}{.S}Dorne" />
         <string id="north10" text="{.M}{.S}Nord" />
@@ -401,6 +437,9 @@
         <string id="ROTmyrish14" text="{.M}{.S}Myr" />
         <string id="ROTtyroshi14" text="{.M}{.S}Tyrosh" />
         <string id="ROTlyseni14" text="{.M}{.S}Lys" />
+        <string id="ROTskagosi14" text="{.M}{.S}Skagos" />
+        <string id="ROTyiti14" text="{.M}{.S}Yi Ti" />
+        <string id="ROTsummer14" text="{.F}{.P}Îles d'Été" />
 
         <string id="north11" text="{.M}{.S}Nord" />
         <string id="dorne11" text="{.M}{.S}Dorne" />
@@ -428,6 +467,9 @@
         <string id="ROTmyrish15" text="{.M}{.S}Myrien" />
         <string id="ROTtyroshi15" text="{.M}{.S}Tyroshi" />
         <string id="ROTlyseni15" text="{.M}{.S}Lysien" />
+        <string id="ROTskagosi15" text="{.M}{.S}Skagg" />
+        <string id="ROTyiti15" text="{.M}{.S}Yitien" />
+        <string id="ROTsummer15" text="{.M}{.S}Estivien" />
 
         <string id="ROTwanderer1001" text="Je suis surpris que vous n'ayez pas reconnu l'infâme Régicide. Je suis Ser Jaime de la maison Lannister."/>
         <string id="ROTwanderer1002" text="Oh, pourquoi pas. Bien sûr."/>
@@ -693,14 +735,56 @@
         <string id="ROTwandererstrCletusYronwood" text="Mon nom est Cletus Ferboys." />
         <string id="ROTwandererstrDaemonBlackfyre" text="Mon nom est Daemon Feunoyr." />
         <string id="ROTwandererstrDaemonSand" text="Mon nom est Daemon Sand." />
+        <string id="ROTwandererstrGeraltCole" text="Mon nom est Geralt Cole." />
+        <string id="ROTwandererstrVerina" text="Mon nom est Verina." />
 
-        <string id="ROTstags" text="Cerfs" />
-        <string id="ROTstags1" text="Cerfs" />
+        <string id="ROTwandererstrTalisa" text="Mon nom est Talisa." />
+        <string id="ROTwandererstrTalisa01" text="Je fais simplement ce que je peux pour aider pendant ces guerres interminables." />
+        <string id="ROTwandererstrTalisa02" text="Ces soldats font simplement ce qu'on leur dit, quel que soit l'étendard sous lequel ils combattent." />
+        <string id="ROTwandererstrTalisa03" text="Ils recevront tous des soins et de la compassion de ma part." />
+        <string id="ROTwandererstrTalisa04" text="Je peux certainement avoir besoin d'une guérisseuse, ma dame." />
+        <string id="ROTwandererstrTalisa05" text="Pourquoi aider l'ennemi ? Si vous voulez que les guerres cessent, ils doivent être vaincus." />
+        <string id="ROTwandererstrTalisa06" text="L'aide que je fournirai, ce sera pour vos troupes et vos prisonniers." />
 
-        <string id="danyconvo" text="Je suis la souveraine légitime de Westeros et je reprendrai le trône que mes ancêtres ont érigé." />
+        <string id="ROTwandererstrOrysGalmaren" text="Mon nom est Orys Galmaren." />
+        <string id="ROTwandererstrNicklasMontred" text="Mon nom est Ser Nicklas Montred." />
+        <string id="ROTwandererstrBelissaWhitewyn" text="Mon nom est Belissa Whitewyn." />
+        <string id="ROTwandererstrJadeLordSunTanabe" text="Mon nom est Seigneur de Jade Sun Tanabe." />
+        <string id="ROTwandererstrGudmundHund" text="Mon nom est Gudmund Hund." />
 
-        <string id="robb1" text="Il n'y aura pas de paix tant que je n'aurai pas vengé mon père !" />
-        <string id="robb2" text="Les armées de Tywin tomberont une à une." />
-        <string id="robb3" text="Je mettrai la tête de Joffrey au bout d'une pique et je massacrerai tous les Lannister que je croiserai d'ici à Port-Réal." />
+        <string id="stags" text="Cerfs" />
+        <string id="stags1" text="Cerfs" />
+
+        <string id="dany1" text="Je suis la souveraine légitime de Westeros et je reprendrai le trône que mes ancêtres ont érigé." />
+        <string id="dany2" text="Le fils de l'ursurpateur pliera le genou en premier, puis ses frères." />
+        <string id="dany3" text="Le loup et la vipère seront également domptés, et je ferai ce que je suis destinée à faire, régner." />
+
+        <string id="robb1" text="Il n'y aura jamais de paix tant que je n'aurai pas venger mon père !" />
+        <string id="robb2" text="Les armées de Tywin tomberont une par une." />
+        <string id="robb3" text="Je mettrai la tête de Joffrey au bout d'une pique et massacrerai chaque Lannister que je croiserai d'ici à Port-Réal." />
+
+        <string id="tywin1" text="Je suis l'homme le plus riche de Westeros, mon petit-fils siège sur le Trône de Fer. Toute conversation de nature politique tourne autour de la Maison Lannister." />
+        <string id="tywin2" text="Le jeune loup est courageux, je lui accorde bien cela." />
+        <string id="tywin3" text="Mais il est en terre étrangère et les nordiens ne survivent pas longtemps au sud." />
+
+        <string id="yohn1" text="Je suis lié par serment à la Maison Arryn." />
+        <string id="yohn2" text="Mais la Maison Royce ne l'a pas toujours été. Nous avons le sang des Premiers Hommes et étions présents avant les maisons des Andals." />
+        <string id="yohn3" text="Nous étions les Rois de Bronze des montagnes et gouvernions jadis l'ensemble de la Vallée." />
+
+        <string id="mace1" text="La Maison Tyrell est l'une des rares maisons à rivaliser avec la richesse et le prestige des Lannister." />
+        <string id="mace2" text="Nous contrôlons le Mander, c'est-à-dire la plupart des terres agricoles, et nous pouvons mobiliser une flotte qui peut rivaliser avec celle de la Flotte Royale à Port Réal." />
+        <string id="mace3" text="Mais en dépit de tout cela, nous resterons fidèles au véritable et légitime Roi des Sept Couronnes." />
+
+        <string id="balon1" text="Nous sommes des Fer-nés. Nous ne sommes ni des sujets ni des esclaves." />
+        <string id="balon2" text="Nous ne labourons pas les champs ni ne travaillons dans les mines." />
+        <string id="balon3" text="Nous prenons ce qui nous revient." />
+
+        <string id="doran1" text="La Maison Nymeros Martell est la fière souveraine de Dorne." />
+        <string id="doran2" text="Nous avons uni notre maison à la reine Nymeria des Rhoynars, donc nous faisons les choses différemment qu'à Port-Réal ." />
+        <string id="doran3" text="Nous profiterons de la paix et de la prospérité ici pour le moment, notre isolement nous a rendus forts." />
+
+        <string id="pono1" text="Je tuerai les hommes en armure de fer et détruirai leurs maisons de pierre !" />
+        <string id="pono2" text="Je violerai leurs femmes, je prendrai leurs enfants comme esclaves et je ramènerai leurs dieux brisés à Vaes Dothrak !" />
+        <string id="pono3" text="Je le jure, je le jure devant la Mère des Montagnes, sous le regard des étoiles !" />
     </strings>
 </base>
