@@ -318,8 +318,8 @@
         <string id="ROTmyrish10" text="{.M}{.S}Myr" />
         <string id="ROTtyroshi10" text="{.M}{.S}Tyrosh" />
         <string id="ROTlyseni10" text="{.M}{.S}Lys" />
-        <string id="ROTskagosi10" text="{.M}{.S}Skagos" />
-        <string id="ROTyiti10" text="{.M}{.S}Yi Ti" />
+        <string id="ROTskagosi10" text="{.M}Skagos" />
+        <string id="ROTyiti10" text="{.M}Yi Ti" />
         <string id="ROTsummer10" text="{.F}{.P}Îles d'Été" />
 
         <string id="ROTShortTermFactionDothraki" text="{.M}{.S}Dothraki" />
@@ -348,9 +348,9 @@
         <string id="ROTmyrish11" text="{.M}{.S}Myr" />
         <string id="ROTtyroshi11" text="{.M}{.S}Tyrosh" />
         <string id="ROTlyseni11" text="{.M}{.S}Lys" />
-        <string id="ROTskagosi11" text="{.M}{.S}Skagos" />
-        <string id="ROTyiti11" text="{.M}{.S}Yi Ti" />
-        <string id="ROTsummer11" text="{.M}{.P}Îles d'Été" />
+        <string id="ROTskagosi11" text="{.M}Skagos" />
+        <string id="ROTyiti11" text="{.M}Yi Ti" />
+        <string id="ROTsummer11" text="{.F}{.P}Îles d'Été" />
 
         <string id="ROTFormalNameCultureWesterlands" text="{.F}{.P}Terres de l'Ouest" />
         <string id="ROTFormalNameCultureNorth" text="{.M}{.S}Nord" />
@@ -378,8 +378,8 @@
         <string id="ROTmyrish12" text="{.M}{.S}Myr" />
         <string id="ROTtyroshi12" text="{.M}{.S}Tyrosh" />
         <string id="ROTlyseni12" text="{.M}{.S}Lys" />
-        <string id="ROTskagosi12" text="{.M}{.S}Skagos" />
-        <string id="ROTyiti12" text="{.M}{.S}Yi Ti" />
+        <string id="ROTskagosi12" text="{.M}Skagos" />
+        <string id="ROTyiti12" text="{.M}Yi Ti" />
         <string id="ROTsummer12" text="{.F}{.P}Îles d'Été" />
 
         <string id="ROTNeutralTermCultureDothraki" text="{.M}{.S}Dothraki" />
@@ -407,8 +407,8 @@
         <string id="ROTmyrish13" text="{.M}{.S}Myr" />
         <string id="ROTtyroshi13" text="{.M}{.S}Tyrosh" />
         <string id="ROTlyseni13" text="{.M}{.S}Lys" />
-        <string id="ROTskagosi13" text="{.M}{.S}Skagos" />
-        <string id="ROTyiti13" text="{.M}{.S}Yi Ti" />
+        <string id="ROTskagosi13" text="{.M}Skagos" />
+        <string id="ROTyiti13" text="{.M}Yi Ti" />
         <string id="ROTsummer13" text="{.F}{.P}Îles d'Été" />
 
         <string id="dorne10" text="{.M}{.S}Dorne" />
@@ -437,8 +437,8 @@
         <string id="ROTmyrish14" text="{.M}{.S}Myr" />
         <string id="ROTtyroshi14" text="{.M}{.S}Tyrosh" />
         <string id="ROTlyseni14" text="{.M}{.S}Lys" />
-        <string id="ROTskagosi14" text="{.M}{.S}Skagos" />
-        <string id="ROTyiti14" text="{.M}{.S}Yi Ti" />
+        <string id="ROTskagosi14" text="{.M}Skagos" />
+        <string id="ROTyiti14" text="{.M}Yi Ti" />
         <string id="ROTsummer14" text="{.F}{.P}Îles d'Été" />
 
         <string id="north11" text="{.M}{.S}Nord" />
