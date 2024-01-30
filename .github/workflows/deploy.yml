@@ -83,7 +83,7 @@ jobs:
       with:
         nexusmods_game_id: mountandblade2bannerlord
         nexusmods_mod_id: 5848
-        mod_filename: Realm of Thrones - Patch FR
+        mod_filename: Realm of Thrones - Patch FR - ROT v5.0 (BÉTA)
         mod_version: ${{ needs.build.outputs.mod_version }}
         mod_description: ${{ needs.build.outputs.mod_description }}
         artifact_name: ROTFrench
