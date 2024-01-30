@@ -10,12 +10,15 @@ jobs:
       mod_description: ${{ steps.changelog.outputs.mod_description }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       
       - name: Setup .NET Core
-        uses: actions/setup-dotnet@v3
+        uses: actions/setup-dotnet@master
         with:
           dotnet-version: 6.0.x
+        env:
+          DOTNET_NOLOGO: 1
+          DOTNET_CLI_TELEMETRY_OPTOUT: 1
 
       - name: Build Module
         run: |
