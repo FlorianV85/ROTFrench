@@ -231,11 +231,9 @@
         <string id="ROTJacelynBywater" text="Jacelyn Prédeaux" />
         <string id="ROTDickCrabb" text="Dick Crabbe" />
         <string id="ROTBenfryTheLucky" text="Ser Benfry le Chanceux" />
-        <string id="ROTGarlanTheGallant" text="Ser Garlan le Preux" />
-        <string id="ROTSandraTheGreat" text="Sandra la Grande" />
-        <string id="ROTFelixReverdinTheHammer" text="Felix Reverdin le Marteau" />
         <string id="ROTCletusYronwood" text="Cletus Ferboys" />
         <string id="ROTDaemonBlackfyre" text="Daemon Feunoyr" />
-        <string id="ROTSlavanisTheBowMaiden" text="Slavanis l'Archère" />
+        <string id="ROTVaeronTheImmortal" text="Vaeron l'Immortel" />
+        <string id="ROTJadeLordSunTanabe" text="Seigneur de Jade Sun Tanabe" />
     </strings>
 </base>
