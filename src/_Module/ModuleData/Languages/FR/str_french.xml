@@ -76,9 +76,9 @@
 		<string id="ROTcyLAwyN7V" text="Guerres statiques" />
 		<string id="ROTK8m7If1To" text="Guerres forcées entre certains royaumes" />
 		<string id="ROT9Y8C5ijAI" text="Activer ou désactiver cette guerre" />
-		<string id="ROTGugpjBejh" text="Activer ou désactiver cette guerre ; commence le jour 25" />
+		<string id="ROTGugpjBejh" text="Activer ou désactiver cette guerre ; commence le jour 135" />
 		<string id="ROTc6zqDfzFv" text="Activer ou désactiver cette guerre ; commence le jour 50" />
-		<string id="ROTon8kMVfJs" text="Activer ou désactiver cette guerre ; commence le jour 60" />
+		<string id="ROTon8kMVfJs" text="Activer ou désactiver cette guerre" />
 		<string id="ROTxVT29TWDD" text="Terres de l'Orage contre le Bief" />
 		<string id="ROToYKxpQc3j" text="Terres de l'Orage contre les Terres de l'Ouest" />
 		<string id="ROTByL0jXt1D" text="Les Îles de Fer contre le Bief" />
@@ -92,7 +92,7 @@
 		<string id="ROTbPRjsaFOa" text="Le Bief contre le Conflans" />
 		<string id="ROTxp4C7g8wh" text="Le Bief contre le Nord" />
 		<string id="ROTat5gNZrhy" text="Le Bief contre les Boltons" />
-		<string id="ROT83wHz8jxt" text="Parties IA personnalisées" />
+		<string id="ROT83wHz8jxt" text="Groupe IA personnalisé" />
 		<string id="ROTrNe2igWhe" text="Personnalise l'IA pour l'adapter à l'univers de GOT" />
 		<string id="ROT9Y8C5ijAI" text="Activer ou désactiver l'IA personnalisée" />
 		<string id="ROThlAqDFa1o" text="Garde de Nuit" />
@@ -111,5 +111,36 @@
 
 		<string id="ROT51ixQtk6T" text="Santé des dragons" />
 		<string id="ROTI0dBoT6AN" text="Nombre maximum de points de vie des dragons. Si cette option est modifiée au cours d'un combat, elle prendra effet dès la prochaine bataille." />
+
+		<string id="ROTBTU48Mftyu" text="Événements de ROT" />
+		<string id="ROTBTU48Mhjk" text="Événements de ROT">
+		<string id="ROTkkUMBscv" text="Décochez pour désactiver tous les événements ajoutés par ROT. Ils ne peuvent être désactivés qu'une seule fois et de manière permanente avant le début d'une nouvelle campagne, et non en cours de partie" />
+
+		<string id="ROTBTU48Mfgh" text="Faibles milices pour les royaumes possédant qu'une seule colonie" />
+		<string id="ROTkkUMBzxc" text="Retire les milices de Driftwood Hall, Lotus Bay et Efequeveron pour faciliter vos chances d'obtenir une colonie par vos propres moyens." />
+		<string id="ROTBTU48Mcvb" text="Faibles milices pour les royaumes possédant qu'une seule colonie" />
+
+		<string id="ROTf6vJc7cwB" text="Compatibilité de mod" />
+
+		<string id="ROTlRkSn067t" text="Auitoriser les troupes personnalisées pour les clans" />
+		<string id="ROTM8nB3gTra" text="Permet à My Little Warband d'utiliser les troupes personnalisées de clans" />
+		<string id="ROTNrT5qSiq1" text="Autoriser les troupes personnalisées pour les groupes du Royaume" />
+		<string id="ROTsLDZlJeFp" text="Permet à My Little Warband d'utiliser les troupes personnalisés du royaume. N'affecte que les royaumes que vous gouvernez." />
+
+		<string id="ROTxp4C7g8wz" text="Bief contre les Terres de l'Ouest" />
+		<string id="ROTxp4C7g8wa" text="Maison Targaryen contre les Terres de l'Ouest" />
+		<string id="ROTxp4C7g8qw" text="Dorne contre les Terres de l'Ouest" />
+		<string id="ROTxp4C7g8qy" text="Val contre Dorne" />
+		<string id="ROTxp4C7g8qb" text="Val contre les Terres de l'Ouest" />
+		<string id="ROTxp4C7asd" text="Braavos contre Lorath" />
+		<string id="ROTxp4C7qqq" text="Pentos contre Myr" />
+		<string id="ROTxp4C7qqa" text="Tyrosh contre Lys" />
+		<string id="ROTxp4C7qqb" text="Norvos contre Qohor" />
+		<string id="ROTxp4C7qqc" text="Volantis contre la Maison Targaryen (Aegon)" />
+		<string id="ROTxp4C7qqd" text="Dothraki contre Maison Targaryen" />
+		<string id="ROTxp4C7qqy" text="Sarnor contre Maison Targaryen" />
+		<string id="ROTxp4C7g678" text="Bief contre Dorne" />
+		<string id="ROTxp4C74567" text="La Veangeance de Daenerys" />
+		
 	</strings>
 </base>
