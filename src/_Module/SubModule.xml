@@ -1,150 +1,33 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Module xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
-        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/SubModule.xsd" >
+		xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/SubModule.xsd" >
 	<Name value = "$displayname$"/>
 	<Id value = "$modulename$"/>
 	<Version value = "v$version$"/>
 	<ModuleType value="Community"/>
 	<Official value="false"/>
 	<DefaultModule value="false" />
-    <SingleplayerModule value="true" />
-    <MultiplayerModule value="false" />
+	<SingleplayerModule value="true" />
+	<MultiplayerModule value="false" />
 	<Url value="https://www.nexusmods.com/mountandblade2bannerlord/mods/5848" />
 	<DependedModules>
 		<DependedModule Id="Bannerlord.Harmony" />
 		<DependedModule Id="Native" DependentVersion="v1.1.0" Optional="false"/>
-    	<DependedModule Id="SandBoxCore" DependentVersion="v1.1.0" Optional="false"/>
-    	<DependedModule Id="Sandbox" DependentVersion="v1.1.0" Optional="false"/>
-		<DependedModule Id="ROT-Core" Optional="false" DependentVersion="v1.1.5.0"/>
-		<DependedModule Id="ROT-Content" Optional="false" DependentVersion="v1.1.5.0"/>
-		<DependedModule Id="ROT_Map" Optional="false" DependentVersion="v1.1.5.0"/>
+		<DependedModule Id="SandBoxCore" DependentVersion="v1.1.0" Optional="false"/>
+		<DependedModule Id="Sandbox" DependentVersion="v1.1.0" Optional="false"/>
+		<DependedModule Id="ROT-Core" Optional="false" DependentVersion="v1.2.8.0"/>
+		<DependedModule Id="ROT-Content" Optional="false" DependentVersion="v1.2.8.0"/>
+		<DependedModule Id="ROT_Map" Optional="false" DependentVersion="v1.2.8.0"/>
 	</DependedModules>
 	<SubModules>
-         <SubModule>
-             <Name value="ROTFrench"/>
-             <DLLName value="ROTFrench.dll"/>
-             <SubModuleClassType value="ROTFrench.SubModule"/>
-             <Tags>
-                 <Tag key="DedicatedServerType" value="none" />
-                 <Tag key="IsNoRenderModeElement" value="false" />
-             </Tags>
-         </SubModule>
+		 <SubModule>
+			 <Name value="ROTFrench"/>
+			 <DLLName value="ROTFrench.dll"/>
+			 <SubModuleClassType value="ROTFrench.SubModule"/>
+			 <Tags>
+				 <Tag key="DedicatedServerType" value="none" />
+				 <Tag key="IsNoRenderModeElement" value="false" />
+			 </Tags>
+		 </SubModule>
 	</SubModules>
-
-	<Xmls>
-		<XmlNode>                
-			<XmlName id="NPCCharacters" path="ROT-Troops"/>
-			<IncludedGameTypes>
-				<GameType value = "Campaign"/>
-				<GameType value = "CampaignStoryMode"/>
-				<GameType value = "CustomGame"/>
-				<GameType value = "EditorGame"/>
-			</IncludedGameTypes>
-		</XmlNode>  
-
-		<XmlNode>
-			<XmlName id="Items" path="ROTassets"/>
-			<IncludedGameTypes>
-				<GameType value = "Campaign"/>
-				<GameType value = "CampaignStoryMode"/>
-				<GameType value = "CustomGame"/>
-				<GameType value = "EditorGame"/>
-			</IncludedGameTypes>
-		</XmlNode>
-		
-		<XmlNode>
-			<XmlName id="GameText" path="comment_strings"/>
-		</XmlNode>
-
-
-		<XmlNode>
-			<XmlName id="GameText" path="module_strings"/>
-		</XmlNode>
-
-		<XmlNode>
-			<XmlName id="GameText" path="ROT_module_strings"/>
-		</XmlNode>
-
-		<XmlNode>
-			<XmlName id="NPCCharacters" path="spnpccharacters"/>
-			<IncludedGameTypes>
-				<GameType value = "Campaign"/>
-				<GameType value = "CampaignStoryMode"/>
-				<GameType value = "CustomGame"/>
-				<GameType value = "EditorGame"/>
-			</IncludedGameTypes>
-		</XmlNode>
-
-		<XmlNode>
-			<XmlName id="Kingdoms" path="spkingdoms"/>
-			<IncludedGameTypes>
-				<GameType value = "Campaign"/>
-				<GameType value = "CampaignStoryMode"/>
-				<GameType value = "CustomGame"/>
-				<GameType value = "EditorGame"/>
-			</IncludedGameTypes>
-		</XmlNode>
-
-		<XmlNode>
-			<XmlName id="NPCCharacters" path="spspecialcharacters"/>
-			<IncludedGameTypes>
-				<GameType value = "Campaign"/>
-				<GameType value = "CampaignStoryMode"/>
-				<GameType value = "CustomGame"/>
-				<GameType value = "EditorGame"/>
-			</IncludedGameTypes>
-		</XmlNode>
-
-		<XmlNode>
-			<XmlName id="NPCCharacters" path="spspecialcharacters_ROTcustomwanderers" />
-			<IncludedGameTypes>
-				<GameType value="Campaign" />
-				<GameType value="CampaignStoryMode" />
-			</IncludedGameTypes>
-		</XmlNode>
-
-		<XmlNode>
-			<XmlName id="GameText" path="wanderer_strings"/>
-			<IncludedGameTypes>
-				<GameType value = "Campaign"/>
-				<GameType value = "CampaignStoryMode"/>
-			</IncludedGameTypes>
-		</XmlNode>
-		
-		<XmlNode>
-			<XmlName id="GameText" path="ROT_wanderer_strings"/>
-			<IncludedGameTypes>
-				<GameType value = "Campaign"/>
-				<GameType value = "CampaignStoryMode"/>
-			</IncludedGameTypes>
-		</XmlNode>
-
-		<XmlNode>
-			<XmlName id="Factions" path="ROT_spclans"/>
-			<IncludedGameTypes>
-				<GameType value = "Campaign"/>
-				<GameType value = "CampaignStoryMode"/>
-				<GameType value = "CustomGame"/>
-				<GameType value = "EditorGame"/>
-			</IncludedGameTypes>
-		</XmlNode>
-
-		<XmlNode>
-			<XmlName id="NPCCharacters" path="bandits"/>
-			<IncludedGameTypes>
-				<GameType value = "Campaign"/>
-				<GameType value = "CampaignStoryMode"/>
-				<GameType value = "CustomGame"/>
-				<GameType value = "EditorGame"/>
-			</IncludedGameTypes>
-		</XmlNode>
-
-		<XmlNode>
-			<XmlName id="GameText" path="comment_strings"/>
-			<IncludedGameTypes>
-				<GameType value = "Campaign"/>
-				<GameType value = "CampaignStoryMode"/>
-			</IncludedGameTypes>
-		</XmlNode>
-	</Xmls>
 </Module>

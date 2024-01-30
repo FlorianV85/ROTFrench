@@ -1,36 +1,36 @@
 <Project>
 
-    <!--Module Version-->
-    <PropertyGroup>
-        <Version>0.6.5</Version>
-        <GameVersion>1.1.5</GameVersion>
-    </PropertyGroup>
+	<!--Module Version-->
+	<PropertyGroup>
+		<Version>1.0.0</Version>
+		<GameVersion>1.2.8</GameVersion>
+	</PropertyGroup>
 
-    <PropertyGroup>
-        <TargetFramework>net472</TargetFramework>
-        <Platforms>x64</Platforms>
-        <LangVersion>9.0</LangVersion>
-        <Nullable>enable</Nullable>
-        <ModuleId>ROTFrench</ModuleId>
-        <ModuleName>$(ModuleId)</ModuleName>
-        <DisplayName>Realm of Thrones - Patch FR</DisplayName>
-        <RootNamespace>$(ModuleId)</RootNamespace>
-    </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net472</TargetFramework>
+		<Platforms>x64</Platforms>
+		<LangVersion>9.0</LangVersion>
+		<Nullable>enable</Nullable>
+		<ModuleId>ROTFrench</ModuleId>
+		<ModuleName>$(ModuleId)</ModuleName>
+		<DisplayName>Realm of Thrones - Patch FR</DisplayName>
+		<RootNamespace>$(ModuleId)</RootNamespace>
+	</PropertyGroup>
 
-    <PropertyGroup>
-        <Authors>Florian85V</Authors>
-        <Product>French Patch for Realm of Thrones</Product>
-        <Description>Patch français pour le mod Realm of Thrones </Description>
-    </PropertyGroup>
+	<PropertyGroup>
+		<Authors>Florian85V</Authors>
+		<Product>French Patch for Realm of Thrones</Product>
+		<Description>Patch français pour le mod Realm of Thrones </Description>
+	</PropertyGroup>
 
-    <PropertyGroup>
-        <IsMinimal>true</IsMinimal>
-        <IsMinimal Condition="$(Configuration.Contains('Minimal'))">true</IsMinimal>
-        <IsStable>false</IsStable>
-        <IsStable Condition="$(Configuration.Contains('Stable'))">true</IsStable>
-        <IsBeta>false</IsBeta>
-        <IsBeta Condition="$(Configuration.Contains('Beta'))">true</IsBeta>
-    </PropertyGroup>
+	<PropertyGroup>
+		<IsMinimal>true</IsMinimal>
+		<IsMinimal Condition="$(Configuration.Contains('Minimal'))">true</IsMinimal>
+		<IsStable>false</IsStable>
+		<IsStable Condition="$(Configuration.Contains('Stable'))">true</IsStable>
+		<IsBeta>false</IsBeta>
+		<IsBeta Condition="$(Configuration.Contains('Beta'))">true</IsBeta>
+	</PropertyGroup>
 
 	<!-- Game Folder(s) -->
 	<PropertyGroup>
@@ -41,15 +41,15 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-        <GameFolder>C:\JEUX\Steam\steamapps\common\Mount &amp; Blade II Bannerlord</GameFolder>
-    </PropertyGroup>
+		<GameFolder>C:\JEUX\Steam\steamapps\common\Mount &amp; Blade II Bannerlord</GameFolder>
+	</PropertyGroup>
 
-    <!--CI Builds-->
-    <ItemGroup>
-        <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3">
-            <PrivateAssets>all</PrivateAssets>
-            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-        </PackageReference>
-    </ItemGroup>
+	<!--CI Builds-->
+	<ItemGroup>
+		<PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+	</ItemGroup>
 
 </Project>
