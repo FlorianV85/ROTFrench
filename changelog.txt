@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Game Versions: 1.2.8
+Game Versions: v1.2.8
 * Patch FR pour ROT 5.0 et +
 * VERSION EN BÉTA : elle peut contenir de nombreux bogues et est incomplète. N'hésitez pas à contribuer sur le répertoire Github ou en signalant ici tous les problèmes (ne pas signaler qu'il manque des traductions de troupes ou d'objets, c'est normal).
 ---------------------------------------------------------------------------------------------------
