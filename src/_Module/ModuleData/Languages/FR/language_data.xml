@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData id="Français" name="Français" subtitle_extension="fr" supported_iso="fr,fra,fr-fr,fr-be,fr-ca,fr-ch" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.FrenchTextProcessor" under_development="false">
+<LanguageData 
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/ModuleLanguageData.xsd"
+    id="Français" 
+    name="Français" 
+    subtitle_extension="fr" 
+    supported_iso="fr,fra,fr-fr,fr-be,fr-ca,fr-ch" 
+    text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.FrenchTextProcessor" 
+    under_development="false"
+>
 	<LanguageFile xml_path="FR/ROT-Core_fr.xml" />
     <LanguageFile xml_path="FR/settlements_fr.xml" />
 	<LanguageFile xml_path="FR/str_french.xml" />
