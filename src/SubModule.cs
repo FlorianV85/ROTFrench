@@ -18,7 +18,6 @@ namespace ROTFrench
             {
                 MBGameManager.StartNewGame(new RealmOfThronesGameModeManager());
             }, () => new ValueTuple<bool, TextObject>(Module.CurrentModule.IsOnlyCoreContentEnabled, null), null));
-            AccessTools.Field(typeof(Module), "_splashScreenPlayed").SetValue(Module.CurrentModule, true);
         }
     }
 }
